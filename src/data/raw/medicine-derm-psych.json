@@ -1,0 +1,1367 @@
+[
+{
+"subject": "Medicine",
+"topic": "Cardiology - MI localization",
+"difficulty": "medium",
+"stem": "A 58-year-old man with crushing chest pain has ST elevation in leads II, III and aVF. His BP is 80/50 mmHg and JVP is raised with clear lung fields. Which is the next best step before giving nitrates?",
+"options": [
+"Administer IV nitroglycerin immediately",
+"Obtain right-sided ECG leads (V4R)",
+"Start IV beta-blocker",
+"Give high-dose diuretic"
+],
+"answer": 1,
+"explanation": "Inferior wall MI (II, III, aVF) with hypotension, raised JVP and clear lungs suggests right ventricular infarction, confirmed by ST elevation in V4R. RV infarcts are preload-dependent, so nitrates and diuretics are dangerous (cause profound hypotension); the patient needs fluids. Beta-blockers worsen the low-output state.",
+"highYield": "Inferior MI + hypotension + clear lungs = RV infarct; get V4R, give fluids, avoid nitrates.",
+"pyqNote": "V4R for RV infarct is a repeated NEET PG/AIIMS theme.",
+"tags": [
+"cardiology",
+"ECG",
+"MI"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - STEMI vessel",
+"difficulty": "medium",
+"stem": "ST elevation in leads V1 to V4 in an acute MI most likely indicates occlusion of which coronary artery?",
+"options": [
+"Right coronary artery",
+"Left circumflex artery",
+"Left anterior descending artery",
+"Posterior descending artery"
+],
+"answer": 2,
+"explanation": "V1 to V4 represent the anteroseptal wall supplied by the left anterior descending (LAD) artery. RCA occlusion causes inferior MI (II, III, aVF). Left circumflex causes lateral/posterior changes (I, aVL, V5 to V6). The PDA usually arises from the RCA.",
+"highYield": "Anteroseptal STEMI (V1 to V4) = LAD occlusion.",
+"pyqNote": "Lead-to-vessel mapping is a guaranteed repeat.",
+"tags": [
+"cardiology",
+"ECG",
+"STEMI"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Heart failure drugs",
+"difficulty": "hard",
+"stem": "A 62-year-old man with HFrEF (EF 30%) on ACE inhibitor, beta-blocker and spironolactone remains symptomatic. An SGLT2 inhibitor is added. What is the primary mechanism by which dapagliflozin benefits this non-diabetic patient?",
+"options": [
+"Increased myocardial contractility via calcium sensitization",
+"Natriuresis and osmotic diuresis with cardiac metabolic and remodeling benefits",
+"Direct beta-1 receptor blockade",
+"Inhibition of the funny current in the SA node"
+],
+"answer": 1,
+"explanation": "SGLT2 inhibitors reduce heart failure hospitalizations and CV death in HFrEF independent of diabetes status, via natriuresis/osmotic diuresis, reduced preload/afterload, improved cardiac energetics and favorable remodeling. They are not inotropes. Beta-blockade describes carvedilol; If-current inhibition describes ivabradine.",
+"highYield": "SGLT2 inhibitors are now guideline pillars of HFrEF therapy even in non-diabetics.",
+"pyqNote": "SGLT2i in heart failure is a newer high-yield addition.",
+"tags": [
+"cardiology",
+"heart failure",
+"SGLT2"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Atrial fibrillation",
+"difficulty": "easy",
+"stem": "An irregularly irregular pulse with absent 'a' waves in the JVP and no consistent relationship between heart sounds is most characteristic of which arrhythmia?",
+"options": [
+"Atrial flutter",
+"Atrial fibrillation",
+"Ventricular tachycardia",
+"Complete heart block"
+],
+"answer": 1,
+"explanation": "Atrial fibrillation produces an irregularly irregular pulse and absent 'a' waves because there is no coordinated atrial contraction. Atrial flutter is usually regular. VT shows cannon a waves intermittently; complete heart block shows intermittent cannon a waves with a regular slow pulse.",
+"highYield": "Absent 'a' waves + irregularly irregular pulse = atrial fibrillation.",
+"pyqNote": "Classic bedside sign question.",
+"tags": [
+"cardiology",
+"arrhythmia",
+"AF"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Anticoagulation",
+"difficulty": "easy",
+"stem": "A 70-year-old woman with non-valvular atrial fibrillation has hypertension and diabetes (CHA2DS2-VASc score 4). What is the most appropriate stroke-prevention therapy?",
+"options": [
+"Aspirin alone",
+"No antithrombotic therapy",
+"Oral anticoagulation (e.g. apixaban or warfarin)",
+"Clopidogrel alone"
+],
+"answer": 2,
+"explanation": "A CHA2DS2-VASc score of 2 or more in women (or 2 in men) warrants oral anticoagulation. DOACs like apixaban are preferred over warfarin in non-valvular AF. Antiplatelets are inferior to anticoagulants for stroke prevention in AF.",
+"highYield": "Non-valvular AF with high CHA2DS2-VASc = DOAC, not aspirin.",
+"pyqNote": "CHA2DS2-VASc threshold repeats often.",
+"tags": [
+"cardiology",
+"AF",
+"anticoagulation"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Infective endocarditis",
+"difficulty": "medium",
+"stem": "A young IV drug user has fever, a new tricuspid regurgitation murmur and multiple peripheral pulmonary emboli on imaging. Blood cultures grow Staphylococcus aureus. According to the modified Duke criteria, this presentation provides which combination?",
+"options": [
+"Two minor criteria only",
+"One major (positive blood culture) and one major (endocardial involvement)",
+"Two major criteria fulfilling possible endocarditis only",
+"No criteria, diagnosis excluded"
+],
+"answer": 1,
+"explanation": "Typical organism (S. aureus) in a sustained positive culture is one major criterion; echocardiographic vegetation/new regurgitation is a second major criterion. Two major criteria meet definite infective endocarditis. Right-sided endocarditis with septic pulmonary emboli is classic in IV drug users.",
+"highYield": "IVDU + tricuspid IE + septic pulmonary emboli = right-sided S. aureus endocarditis; two majors = definite.",
+"pyqNote": "Duke criteria scoring is repeatedly tested.",
+"tags": [
+"cardiology",
+"endocarditis",
+"Duke"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Rheumatology - Rheumatic fever",
+"difficulty": "medium",
+"stem": "A 10-year-old child has migratory polyarthritis, a new pansystolic apical murmur and subcutaneous nodules following a sore throat. Using the modified Jones criteria, how many major criteria are present?",
+"options": [
+"One major criterion",
+"Two major criteria",
+"Three major criteria",
+"No major criteria"
+],
+"answer": 2,
+"explanation": "The Jones major criteria are carditis, polyarthritis, chorea, erythema marginatum and subcutaneous nodules. This child has polyarthritis, carditis (new murmur) and subcutaneous nodules, giving three major criteria. With evidence of preceding streptococcal infection, this confirms acute rheumatic fever.",
+"highYield": "Jones majors: Joints, carditis (O = heart), Nodules, Erythema marginatum, Sydenham chorea (JONES).",
+"pyqNote": "Jones criteria counting is a perennial favorite.",
+"tags": [
+"rheumatology",
+"rheumatic fever",
+"Jones"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Hypertensive emergency",
+"difficulty": "hard",
+"stem": "A 45-year-old presents with BP 230/130 mmHg, headache, blurred vision and papilledema with normal renal function. What is the most appropriate immediate management goal?",
+"options": [
+"Reduce mean arterial pressure by no more than 25% in the first hour",
+"Normalize BP to 120/80 within 30 minutes",
+"Give sublingual nifedipine to drop BP rapidly",
+"Withhold all treatment until oral agents take effect"
+],
+"answer": 0,
+"explanation": "In hypertensive emergency with end-organ damage, MAP should be lowered by no more than about 25% in the first hour using titratable IV agents (e.g. labetalol, nicardipine). Overly rapid reduction risks cerebral, coronary or renal hypoperfusion. Sublingual nifedipine causes uncontrolled drops and is contraindicated.",
+"highYield": "Hypertensive emergency: lower MAP by 25% over the first hour, not to normal.",
+"pyqNote": "The 25% rule is high-yield.",
+"tags": [
+"cardiology",
+"hypertension",
+"emergency"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Endocrine - DKA vs HHS",
+"difficulty": "medium",
+"stem": "A 19-year-old with type 1 diabetes has glucose 480 mg/dL, pH 7.10, bicarbonate 10 mEq/L, positive serum ketones and Kussmaul breathing. What is the single most important first step in management?",
+"options": [
+"IV regular insulin bolus",
+"Rapid IV isotonic saline resuscitation",
+"IV sodium bicarbonate",
+"Subcutaneous long-acting insulin"
+],
+"answer": 1,
+"explanation": "DKA management begins with aggressive isotonic fluid resuscitation to restore intravascular volume before or alongside insulin. Insulin is started after fluids and only once potassium is known to be above 3.3 mEq/L. Bicarbonate is reserved for severe acidosis (pH below 6.9). Subcutaneous long-acting insulin is inappropriate acutely.",
+"highYield": "DKA: fluids first, then insulin, watch potassium.",
+"pyqNote": "First step in DKA is repeatedly asked.",
+"tags": [
+"endocrine",
+"DKA",
+"emergency"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Endocrine - Thyroid",
+"difficulty": "easy",
+"stem": "A 35-year-old woman has weight loss, palpitations, tremor, a diffuse goiter with a bruit and bilateral exophthalmos. Which is the most likely diagnosis?",
+"options": [
+"Hashimoto thyroiditis",
+"Graves disease",
+"Toxic multinodular goiter",
+"Subacute (de Quervain) thyroiditis"
+],
+"answer": 1,
+"explanation": "Diffuse goiter with a bruit plus exophthalmos and pretibial myxedema is pathognomonic of Graves disease, caused by TSH-receptor stimulating antibodies. Hashimoto causes hypothyroidism. Toxic multinodular goiter lacks eye signs. Subacute thyroiditis is painful and post-viral.",
+"highYield": "Exophthalmos + diffuse goiter with bruit = Graves disease.",
+"pyqNote": "Graves eye signs repeat frequently.",
+"tags": [
+"endocrine",
+"thyroid",
+"Graves"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Endocrine - Thyroid storm",
+"difficulty": "hard",
+"stem": "A patient with untreated hyperthyroidism develops fever 40 C, atrial fibrillation, agitation and vomiting after surgery. What is the correct order of drug administration for thyroid storm?",
+"options": [
+"Iodine first, then propylthiouracil",
+"Propylthiouracil first, then iodine at least 1 hour later",
+"Radioactive iodine immediately",
+"Levothyroxine and propranolol together"
+],
+"answer": 1,
+"explanation": "In thyroid storm, propylthiouracil (which also blocks peripheral T4-to-T3 conversion) is given first to block new hormone synthesis; iodine (Wolff-Chaikoff effect) is given at least 1 hour later, otherwise iodine fuels hormone synthesis. Beta-blockers and steroids are also used. Radioactive iodine is not acute therapy.",
+"highYield": "Thyroid storm: PTU before iodine (wait about 1 hour).",
+"pyqNote": "Sequence of PTU then iodine is a classic trap.",
+"tags": [
+"endocrine",
+"thyroid storm",
+"emergency"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious disease - TB regimen",
+"difficulty": "easy",
+"stem": "According to standard DOTS, what is the correct intensive-phase regimen for a new case of drug-sensitive pulmonary tuberculosis?",
+"options": [
+"2 months of isoniazid, rifampicin, pyrazinamide and ethambutol",
+"6 months of isoniazid and rifampicin only",
+"2 months of isoniazid and rifampicin",
+"9 months of four drugs"
+],
+"answer": 0,
+"explanation": "New drug-sensitive TB is treated with a 2-month intensive phase of HRZE (isoniazid, rifampicin, pyrazinamide, ethambutol) followed by a 4-month continuation phase of HR. The total duration is 6 months. The other options omit drugs or use wrong durations.",
+"highYield": "New TB: 2HRZE + 4HR.",
+"pyqNote": "RNTCP/NTEP regimen is guaranteed.",
+"tags": [
+"infectious disease",
+"TB",
+"DOTS"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious disease - TB drug toxicity",
+"difficulty": "easy",
+"stem": "A patient on antitubercular therapy develops painful loss of color vision and reduced central visual acuity with red-green color blindness. Which drug is most likely responsible?",
+"options": [
+"Isoniazid",
+"Rifampicin",
+"Ethambutol",
+"Pyrazinamide"
+],
+"answer": 2,
+"explanation": "Ethambutol causes dose-dependent retrobulbar (optic) neuritis with reduced visual acuity and red-green color blindness, which is usually reversible on stopping. Isoniazid causes peripheral neuropathy (prevented by pyridoxine). Rifampicin causes orange secretions and hepatitis. Pyrazinamide causes hyperuricemia and hepatotoxicity.",
+"highYield": "Ethambutol = optic neuritis (Eye = Ethambutol).",
+"pyqNote": "ATT toxicity matching is a perennial topic.",
+"tags": [
+"infectious disease",
+"TB",
+"ethambutol"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious disease - HIV",
+"difficulty": "easy",
+"stem": "At what CD4 count threshold is cotrimoxazole prophylaxis against Pneumocystis jirovecii pneumonia recommended in an HIV-positive adult?",
+"options": [
+"CD4 below 50 cells/microL",
+"CD4 below 200 cells/microL",
+"CD4 below 350 cells/microL",
+"CD4 below 500 cells/microL"
+],
+"answer": 1,
+"explanation": "PCP prophylaxis with cotrimoxazole is indicated when CD4 falls below 200 cells/microL (or with oropharyngeal candidiasis). MAC prophylaxis was historically considered below 50. ART is now started regardless of CD4 count. Cotrimoxazole also covers toxoplasmosis when CD4 is below 100.",
+"highYield": "CD4 below 200 = start PCP prophylaxis with cotrimoxazole.",
+"pyqNote": "CD4 prophylaxis thresholds repeat.",
+"tags": [
+"infectious disease",
+"HIV",
+"prophylaxis"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious disease - Malaria",
+"difficulty": "medium",
+"stem": "A patient returning from a forested area has high fever, jaundice, altered sensorium and a peripheral smear showing banana-shaped gametocytes and parasitized RBCs of all ages. What is the treatment of choice for this severe presentation?",
+"options": [
+"Oral chloroquine",
+"Intravenous artesunate",
+"Oral primaquine alone",
+"Intravenous quinine as first line"
+],
+"answer": 1,
+"explanation": "Banana (crescent)-shaped gametocytes and infection of RBCs of all ages indicate Plasmodium falciparum; cerebral involvement and jaundice signify severe malaria. IV artesunate is the treatment of choice for severe falciparum malaria, superior to quinine. Chloroquine is ineffective for resistant falciparum. Primaquine alone treats hypnozoites of vivax/ovale.",
+"highYield": "Severe falciparum malaria = IV artesunate.",
+"pyqNote": "Banana gametocytes and IV artesunate are repeated.",
+"tags": [
+"infectious disease",
+"malaria",
+"falciparum"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious disease - Dengue",
+"difficulty": "medium",
+"stem": "A patient with dengue fever shows a rising hematocrit, falling platelet count, and now has cold clammy extremities with a narrow pulse pressure. What does this clinical picture indicate?",
+"options": [
+"Dengue without warning signs",
+"Plasma leakage causing dengue shock syndrome",
+"Resolved infection",
+"Bacterial superinfection"
+],
+"answer": 1,
+"explanation": "Rising hematocrit with hemoconcentration, narrow pulse pressure and poor perfusion indicate plasma leakage progressing to dengue shock syndrome. The hallmark is increased vascular permeability; management is judicious isotonic fluid replacement. A falling platelet count alone does not define severity; plasma leakage does.",
+"highYield": "Rising hematocrit + narrow pulse pressure = dengue plasma leakage/shock.",
+"pyqNote": "WHO dengue warning signs are high-yield.",
+"tags": [
+"infectious disease",
+"dengue",
+"shock"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious disease - Enteric fever",
+"difficulty": "easy",
+"stem": "A patient with a week of stepladder fever, relative bradycardia, rose spots and hepatosplenomegaly is suspected of enteric fever. Which is the most appropriate confirmatory investigation in the first week?",
+"options": [
+"Widal test",
+"Blood culture",
+"Stool culture",
+"Urine culture"
+],
+"answer": 1,
+"explanation": "Blood culture is the gold standard and is most sensitive in the first week of enteric fever. The Widal test has poor specificity and rises later. Stool and urine cultures become positive in the second to third weeks. Bone marrow culture is the most sensitive overall but is invasive.",
+"highYield": "Enteric fever week 1: blood culture is the investigation of choice.",
+"pyqNote": "Timing of cultures in typhoid is classic.",
+"tags": [
+"infectious disease",
+"typhoid",
+"blood culture"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious disease - Leptospirosis",
+"difficulty": "medium",
+"stem": "A farmer presents after monsoon flooding with fever, severe myalgia (especially calf), conjunctival suffusion, jaundice and acute kidney injury. Which is the most likely diagnosis?",
+"options": [
+"Dengue hemorrhagic fever",
+"Weil disease (severe leptospirosis)",
+"Scrub typhus",
+"Hepatitis A"
+],
+"answer": 1,
+"explanation": "Conjunctival suffusion, calf myalgia, jaundice and AKI after water exposure point to severe leptospirosis (Weil disease). Diagnosis is by MAT or PCR; treatment is penicillin or doxycycline. Scrub typhus classically shows an eschar. Dengue lacks the conjunctival suffusion with jaundice/AKI triad.",
+"highYield": "Conjunctival suffusion + calf myalgia + jaundice + AKI = Weil disease.",
+"pyqNote": "Leptospirosis triad repeats post-monsoon.",
+"tags": [
+"infectious disease",
+"leptospirosis",
+"Weil"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Nephrology - AKI staging",
+"difficulty": "medium",
+"stem": "A patient's serum creatinine rises from 1.0 to 2.2 mg/dL over 48 hours with urine output of 0.4 mL/kg/hr for 8 hours. According to AKIN/KDIGO criteria, which stage of acute kidney injury is this?",
+"options": [
+"Stage 1",
+"Stage 2",
+"Stage 3",
+"Does not meet AKI criteria"
+],
+"answer": 1,
+"explanation": "A creatinine increase to 2 to 2.9 times baseline (here about 2.2-fold) defines AKIN/KDIGO stage 2. Stage 1 is 1.5 to 1.9-fold or a rise of 0.3 mg/dL. Stage 3 is 3-fold or more, creatinine above 4, or dialysis. The higher of the creatinine and urine-output criteria determines stage.",
+"highYield": "KDIGO stage 2 AKI = creatinine 2 to 2.9 times baseline.",
+"pyqNote": "AKIN/KDIGO staging numbers repeat.",
+"tags": [
+"nephrology",
+"AKI",
+"KDIGO"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Nephrology - CKD staging",
+"difficulty": "easy",
+"stem": "A patient has a sustained eGFR of 25 mL/min/1.73m2 for more than 3 months. Which stage of chronic kidney disease does this represent?",
+"options": [
+"Stage 2",
+"Stage 3a",
+"Stage 4",
+"Stage 5"
+],
+"answer": 2,
+"explanation": "CKD stage 4 corresponds to an eGFR of 15 to 29 mL/min/1.73m2. Stage 3a is 45 to 59, stage 3b is 30 to 44, and stage 5 (kidney failure) is below 15. Staging requires the abnormality to persist beyond 3 months.",
+"highYield": "CKD stage 4 = eGFR 15 to 29.",
+"pyqNote": "CKD GFR cutoffs are guaranteed.",
+"tags": [
+"nephrology",
+"CKD",
+"eGFR"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Nephrology - Nephrotic syndrome",
+"difficulty": "medium",
+"stem": "A 6-year-old with generalized edema has 4+ proteinuria, hypoalbuminemia and normal complement levels. Renal biopsy is typically deferred because the most likely diagnosis is which condition?",
+"options": [
+"Membranous nephropathy",
+"Minimal change disease",
+"Post-streptococcal glomerulonephritis",
+"Focal segmental glomerulosclerosis"
+],
+"answer": 1,
+"explanation": "Minimal change disease is the commonest cause of nephrotic syndrome in children, is steroid-responsive, and shows normal light microscopy with podocyte foot-process effacement on electron microscopy. Biopsy is reserved for atypical or steroid-resistant cases. Post-streptococcal GN is nephritic with low complement.",
+"highYield": "Childhood nephrotic syndrome = minimal change disease; start steroids without biopsy.",
+"pyqNote": "MCD in children is repeatedly tested.",
+"tags": [
+"nephrology",
+"nephrotic",
+"MCD"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Hepatology - Hepatitis serology",
+"difficulty": "hard",
+"stem": "A patient is HBsAg positive, HBeAg positive, anti-HBc IgM negative, anti-HBc IgG positive with a high HBV DNA level. Which phase of hepatitis B infection does this represent?",
+"options": [
+"Acute hepatitis B",
+"Window period",
+"Chronic hepatitis B, immune-active (high replication)",
+"Resolved infection with immunity"
+],
+"answer": 2,
+"explanation": "Persistent HBsAg with HBeAg positivity, high HBV DNA and IgG (not IgM) anti-HBc indicates chronic hepatitis B in the immune-active, highly infectious phase. Acute infection would show IgM anti-HBc. The window period shows only anti-HBc with negative HBsAg and anti-HBs. Resolved infection shows anti-HBs positivity.",
+"highYield": "HBeAg + high DNA + IgG anti-HBc + HBsAg = chronic, highly infectious HBV.",
+"pyqNote": "Hepatitis B serology interpretation is a heavy repeat.",
+"tags": [
+"hepatology",
+"hepatitis B",
+"serology"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Hepatology - Cirrhosis scoring",
+"difficulty": "easy",
+"stem": "Which of the following parameters is part of the Child-Pugh score but NOT part of the standard MELD score?",
+"options": [
+"Serum bilirubin",
+"Serum creatinine",
+"INR",
+"Ascites and encephalopathy"
+],
+"answer": 3,
+"explanation": "The Child-Pugh score uses bilirubin, albumin, INR, ascites and encephalopathy. The standard MELD uses bilirubin, creatinine and INR (plus sodium in MELD-Na). Ascites and encephalopathy are clinical (subjective) parameters unique to Child-Pugh; albumin is also unique to Child-Pugh.",
+"highYield": "Child-Pugh adds ascites, encephalopathy and albumin; MELD adds creatinine.",
+"pyqNote": "Child-Pugh vs MELD components repeat often.",
+"tags": [
+"hepatology",
+"cirrhosis",
+"Child-Pugh"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Rheumatology - SLE",
+"difficulty": "medium",
+"stem": "A young woman has malar rash, oral ulcers, arthritis and proteinuria. Which autoantibody is most specific for systemic lupus erythematosus?",
+"options": [
+"Antinuclear antibody (ANA)",
+"Anti-double-stranded DNA / anti-Smith",
+"Rheumatoid factor",
+"Anti-cyclic citrullinated peptide"
+],
+"answer": 1,
+"explanation": "Anti-dsDNA (correlates with disease activity and lupus nephritis) and anti-Smith are highly specific for SLE. ANA is sensitive but not specific (positive in many conditions). Rheumatoid factor and anti-CCP are markers of rheumatoid arthritis.",
+"highYield": "Anti-dsDNA and anti-Sm are specific for SLE; ANA is only a screen.",
+"pyqNote": "SLE-specific antibodies are guaranteed.",
+"tags": [
+"rheumatology",
+"SLE",
+"autoantibody"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Respiratory - CURB-65",
+"difficulty": "medium",
+"stem": "A 67-year-old with community-acquired pneumonia is confused, has a respiratory rate of 32/min, BP 85/55 mmHg and blood urea of 8 mmol/L. What is the CURB-65 score and recommended setting of care?",
+"options": [
+"Score 2; consider outpatient or short admission",
+"Score 4; admit, consider ICU",
+"Score 1; outpatient",
+"Score 0; outpatient"
+],
+"answer": 1,
+"explanation": "CURB-65 awards one point each for Confusion, Urea above 7 mmol/L, Respiratory rate 30 or more, BP below 90 systolic or 60 diastolic, and age 65 or more. This patient scores 4 (confusion, urea, RR, BP), indicating severe pneumonia warranting admission and ICU consideration. A score of 0 to 1 allows outpatient care.",
+"highYield": "CURB-65 of 3 or more = severe pneumonia, hospitalize and consider ICU.",
+"pyqNote": "CURB-65 scoring is frequently tested.",
+"tags": [
+"respiratory",
+"pneumonia",
+"CURB-65"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Respiratory - COPD",
+"difficulty": "medium",
+"stem": "A 60-year-old smoker has post-bronchodilator FEV1/FVC of 0.62 and FEV1 of 45% predicted. According to GOLD spirometric grading, which grade of airflow limitation is this?",
+"options": [
+"GOLD 1 (mild)",
+"GOLD 2 (moderate)",
+"GOLD 3 (severe)",
+"GOLD 4 (very severe)"
+],
+"answer": 2,
+"explanation": "A post-bronchodilator FEV1/FVC below 0.70 confirms COPD. FEV1 30 to 49% predicted is GOLD 3 (severe). GOLD 1 is 80% or more, GOLD 2 is 50 to 79%, and GOLD 4 is below 30%. Symptom/exacerbation grouping (A to E) guides therapy separately.",
+"highYield": "GOLD 3 = FEV1 30 to 49% predicted.",
+"pyqNote": "GOLD spirometry grades repeat.",
+"tags": [
+"respiratory",
+"COPD",
+"GOLD"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Respiratory - Asthma",
+"difficulty": "hard",
+"stem": "A patient in acute severe asthma initially has a low PaCO2. On reassessment, the PaCO2 has risen to normal (40 mmHg) despite ongoing distress. What does this normalization indicate?",
+"options": [
+"Clinical improvement, prepare for discharge",
+"Impending respiratory failure due to fatigue",
+"Adequate response to bronchodilators",
+"Metabolic compensation"
+],
+"answer": 1,
+"explanation": "In acute severe asthma, hyperventilation normally produces a low PaCO2. A rising or 'normalizing' PaCO2 in a still-distressed patient signals respiratory muscle fatigue and impending respiratory failure, mandating ICU care and possible ventilation. It is a danger sign, not improvement.",
+"highYield": "Normal/rising PaCO2 in acute severe asthma = impending respiratory failure.",
+"pyqNote": "This 'normal CO2 is dangerous' concept is a classic trap.",
+"tags": [
+"respiratory",
+"asthma",
+"ABG"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Hematology - Microcytic anemia",
+"difficulty": "medium",
+"stem": "A patient has microcytic hypochromic anemia with low serum ferritin, low serum iron, high total iron-binding capacity and low transferrin saturation. Which is the diagnosis?",
+"options": [
+"Anemia of chronic disease",
+"Iron deficiency anemia",
+"Sideroblastic anemia",
+"Thalassemia trait"
+],
+"answer": 1,
+"explanation": "Low ferritin with high TIBC and low transferrin saturation is diagnostic of iron deficiency anemia. Anemia of chronic disease shows low TIBC and normal/high ferritin. Sideroblastic anemia and thalassemia trait have normal or raised iron stores; thalassemia shows a normal/low RDW with raised RBC count.",
+"highYield": "Iron deficiency: low ferritin, high TIBC, low saturation.",
+"pyqNote": "Iron studies pattern matching is guaranteed.",
+"tags": [
+"hematology",
+"anemia",
+"iron"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Hematology - Megaloblastic anemia",
+"difficulty": "easy",
+"stem": "A patient with macrocytic anemia has a peripheral smear showing hypersegmented neutrophils and oval macrocytes. Which deficiency is most likely?",
+"options": [
+"Iron",
+"Vitamin B12 or folate",
+"Vitamin C",
+"Copper"
+],
+"answer": 1,
+"explanation": "Hypersegmented neutrophils (more than 5 lobes) and oval macrocytes are hallmarks of megaloblastic anemia from vitamin B12 or folate deficiency. Iron deficiency causes microcytosis. B12 deficiency additionally causes subacute combined degeneration; folate deficiency does not.",
+"highYield": "Hypersegmented neutrophils = B12/folate deficiency.",
+"pyqNote": "Smear findings of megaloblastic anemia repeat.",
+"tags": [
+"hematology",
+"anemia",
+"B12"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Hematology - Leukemia",
+"difficulty": "hard",
+"stem": "A patient with acute promyelocytic leukemia (APML, t(15;17)) develops bleeding from DIC. Besides supportive care, which agent is the targeted treatment of choice?",
+"options": [
+"Imatinib",
+"All-trans retinoic acid (ATRA)",
+"Rituximab",
+"Hydroxyurea"
+],
+"answer": 1,
+"explanation": "APML (M3, t(15;17), PML-RARA fusion) is treated with all-trans retinoic acid (ATRA), which induces differentiation of promyelocytes, often combined with arsenic trioxide. ATRA dramatically reduces the early DIC death rate. Imatinib targets BCR-ABL in CML; rituximab targets CD20 lymphomas.",
+"highYield": "APML t(15;17) = ATRA (plus arsenic trioxide).",
+"pyqNote": "ATRA for APML is a guaranteed repeat.",
+"tags": [
+"hematology",
+"leukemia",
+"APML"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Neurology - Stroke",
+"difficulty": "hard",
+"stem": "A 65-year-old presents with sudden right-sided weakness and aphasia. A non-contrast CT shows no hemorrhage. He arrived 2.5 hours after symptom onset. What is the most appropriate immediate management?",
+"options": [
+"Aspirin and discharge",
+"Intravenous thrombolysis with alteplase",
+"Wait 24 hours and repeat imaging",
+"Immediate decompressive craniectomy"
+],
+"answer": 1,
+"explanation": "For acute ischemic stroke within 4.5 hours, after excluding hemorrhage and contraindications, IV thrombolysis with alteplase is indicated. This patient is within the window. Aspirin is given after 24 hours if thrombolysed. Mechanical thrombectomy is added for large-vessel occlusion up to 24 hours in selected cases.",
+"highYield": "Ischemic stroke within 4.5 hours + no bleed = IV alteplase.",
+"pyqNote": "Thrombolysis window is repeatedly tested.",
+"tags": [
+"neurology",
+"stroke",
+"thrombolysis"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Neurology - Seizures",
+"difficulty": "medium",
+"stem": "A patient is in convulsive status epilepticus that has continued for 6 minutes. What is the first-line drug to terminate the seizure?",
+"options": [
+"Intravenous phenytoin",
+"Intravenous lorazepam (a benzodiazepine)",
+"Intravenous valproate",
+"Intravenous levetiracetam"
+],
+"answer": 1,
+"explanation": "First-line treatment of status epilepticus is a benzodiazepine, typically IV lorazepam (or IM midazolam if no IV access). If seizures persist, second-line agents (phenytoin/fosphenytoin, valproate or levetiracetam) are added. Benzodiazepines act fastest by enhancing GABA.",
+"highYield": "Status epilepticus: benzodiazepine first (lorazepam).",
+"pyqNote": "Status epilepticus stepwise drugs repeat.",
+"tags": [
+"neurology",
+"seizure",
+"status epilepticus"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Neurology - GBS",
+"difficulty": "medium",
+"stem": "A patient develops ascending symmetric weakness with areflexia 2 weeks after a diarrheal illness. CSF shows raised protein with normal cell count. Which is the most appropriate treatment?",
+"options": [
+"High-dose corticosteroids",
+"Intravenous immunoglobulin or plasmapheresis",
+"Acyclovir",
+"Pyridostigmine"
+],
+"answer": 1,
+"explanation": "Guillain-Barre syndrome presents with ascending weakness, areflexia and albuminocytologic dissociation (high CSF protein, normal cells), often post-Campylobacter. Treatment is IVIG or plasmapheresis; steroids are NOT effective. Respiratory monitoring is essential. Pyridostigmine is for myasthenia gravis.",
+"highYield": "GBS: albuminocytologic dissociation; treat with IVIG or plasmapheresis, not steroids.",
+"pyqNote": "GBS CSF finding and treatment repeat.",
+"tags": [
+"neurology",
+"GBS",
+"IVIG"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Neurology - Myasthenia gravis",
+"difficulty": "medium",
+"stem": "A woman has fatigable ptosis and diplopia worsening through the day. Antibodies against which receptor are most commonly responsible?",
+"options": [
+"Voltage-gated calcium channel",
+"Acetylcholine receptor (postsynaptic)",
+"NMDA receptor",
+"Voltage-gated potassium channel"
+],
+"answer": 1,
+"explanation": "Myasthenia gravis is caused by antibodies against postsynaptic acetylcholine receptors, producing fatigable weakness. Voltage-gated calcium channel antibodies cause Lambert-Eaton syndrome (improves with use, paraneoplastic with small-cell lung cancer). Treatment includes pyridostigmine and immunotherapy; check for thymoma.",
+"highYield": "MG = anti-AChR antibodies; LEMS = anti-VGCC.",
+"pyqNote": "MG vs LEMS antibody distinction repeats.",
+"tags": [
+"neurology",
+"myasthenia",
+"antibody"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Heart sounds",
+"difficulty": "easy",
+"stem": "A mid-diastolic rumbling murmur best heard at the apex with the patient in the left lateral position, with a loud S1 and an opening snap, is characteristic of which valvular lesion?",
+"options": [
+"Aortic stenosis",
+"Mitral stenosis",
+"Mitral regurgitation",
+"Aortic regurgitation"
+],
+"answer": 1,
+"explanation": "Mitral stenosis produces a low-pitched mid-diastolic rumble at the apex with a loud S1 and opening snap, best heard in the left lateral decubitus position. Aortic stenosis is an ejection systolic murmur. Mitral regurgitation is pansystolic; aortic regurgitation is early diastolic.",
+"highYield": "Mid-diastolic apical rumble + opening snap = mitral stenosis.",
+"pyqNote": "Murmur identification is guaranteed.",
+"tags": [
+"cardiology",
+"valve",
+"murmur"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - ECG hyperkalemia",
+"difficulty": "medium",
+"stem": "A dialysis patient presents with tall peaked T waves, widened QRS and flattened P waves. What is the most immediate, membrane-stabilizing treatment?",
+"options": [
+"Intravenous calcium gluconate",
+"Intravenous insulin with dextrose",
+"Nebulized salbutamol",
+"Oral sodium polystyrene sulfonate"
+],
+"answer": 0,
+"explanation": "These ECG changes indicate hyperkalemia. IV calcium gluconate is given first to stabilize the cardiac membrane (it does not lower potassium). Insulin-dextrose and salbutamol shift potassium intracellularly; resins and dialysis remove it. The sequence is stabilize, shift, then remove.",
+"highYield": "Hyperkalemia ECG changes: calcium gluconate first to protect the heart.",
+"pyqNote": "Hyperkalemia management order repeats.",
+"tags": [
+"cardiology",
+"hyperkalemia",
+"ECG"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious disease - Meningitis",
+"difficulty": "medium",
+"stem": "CSF analysis shows turbid fluid, very high neutrophils, very low glucose (CSF:serum ratio below 0.3) and high protein. Which type of meningitis does this suggest?",
+"options": [
+"Viral meningitis",
+"Bacterial (pyogenic) meningitis",
+"Tuberculous meningitis",
+"Fungal meningitis"
+],
+"answer": 1,
+"explanation": "Bacterial meningitis CSF shows neutrophilic pleocytosis, markedly low glucose and high protein with turbid fluid. Viral meningitis has lymphocytes with normal glucose. Tuberculous and fungal meningitis show lymphocytes with low glucose but a more chronic course and very high protein (with cobweb clot in TB).",
+"highYield": "Low CSF glucose + neutrophils + turbid = bacterial meningitis.",
+"pyqNote": "CSF pattern matching is guaranteed.",
+"tags": [
+"infectious disease",
+"meningitis",
+"CSF"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Pericarditis",
+"difficulty": "medium",
+"stem": "A patient with pleuritic chest pain relieved by sitting forward has a pericardial friction rub and ECG showing diffuse concave ST elevation with PR depression. What is the diagnosis?",
+"options": [
+"Acute STEMI",
+"Acute pericarditis",
+"Pulmonary embolism",
+"Aortic dissection"
+],
+"answer": 1,
+"explanation": "Diffuse (non-territorial) concave ST elevation with PR-segment depression, a friction rub and positional pleuritic pain relieved by leaning forward are classic for acute pericarditis. STEMI shows localized convex ST elevation with reciprocal changes. NSAIDs plus colchicine are first-line therapy.",
+"highYield": "Diffuse ST elevation + PR depression + rub = acute pericarditis.",
+"pyqNote": "Pericarditis ECG repeats.",
+"tags": [
+"cardiology",
+"pericarditis",
+"ECG"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Respiratory - PE",
+"difficulty": "hard",
+"stem": "A post-operative patient develops sudden dyspnea, pleuritic chest pain and tachycardia. ECG shows S1Q3T3 pattern. Which is the investigation of choice in a hemodynamically stable patient with normal renal function?",
+"options": [
+"D-dimer alone",
+"CT pulmonary angiography",
+"Ventilation-perfusion scan as first line",
+"Lower limb venous Doppler"
+],
+"answer": 1,
+"explanation": "In a hemodynamically stable patient with a high clinical probability of pulmonary embolism, CT pulmonary angiography is the investigation of choice. D-dimer is used only to rule out PE in low-probability cases. V/Q scanning is reserved for those who cannot have contrast. S1Q3T3 is a classic but insensitive ECG sign.",
+"highYield": "Suspected PE, stable: CT pulmonary angiography is the test of choice.",
+"pyqNote": "S1Q3T3 and CTPA repeat.",
+"tags": [
+"respiratory",
+"PE",
+"CTPA"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Endocrine - Diabetes drugs",
+"difficulty": "medium",
+"stem": "Which oral antidiabetic class carries the most established benefit in reducing diabetic kidney disease progression and is now recommended in type 2 diabetics with chronic kidney disease?",
+"options": [
+"Sulfonylureas",
+"SGLT2 inhibitors",
+"Metformin",
+"Dipeptidyl peptidase-4 inhibitors"
+],
+"answer": 1,
+"explanation": "SGLT2 inhibitors slow progression of diabetic kidney disease and reduce cardiovascular events, and are recommended in type 2 diabetics with CKD (down to specified eGFR thresholds). Metformin is first-line for glycemic control but is dose-adjusted in CKD. Sulfonylureas risk hypoglycemia; DPP-4 inhibitors are weight-neutral but lack the same renal protection.",
+"highYield": "SGLT2 inhibitors protect the diabetic kidney and heart.",
+"pyqNote": "SGLT2i renal/cardio benefits are newer high-yield.",
+"tags": [
+"endocrine",
+"diabetes",
+"SGLT2"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious disease - Tetanus",
+"difficulty": "easy",
+"stem": "A patient presents with trismus, risus sardonicus and opisthotonus after a contaminated wound. Which is the most important component of specific management along with wound care?",
+"options": [
+"Human tetanus immunoglobulin and metronidazole",
+"High-dose corticosteroids",
+"Aspirin",
+"Antihistamines"
+],
+"answer": 0,
+"explanation": "Tetanus management includes human tetanus immunoglobulin to neutralize unbound toxin, metronidazole (preferred antibiotic) to kill Clostridium tetani, wound debridement, muscle relaxation (benzodiazepines) and the tetanus toxoid vaccine. Steroids and antihistamines are not specific therapy.",
+"highYield": "Tetanus: immunoglobulin + metronidazole + toxoid + supportive care.",
+"pyqNote": "Tetanus triad of signs repeats.",
+"tags": [
+"infectious disease",
+"tetanus",
+"immunoglobulin"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Neurology - Parkinsonism",
+"difficulty": "medium",
+"stem": "An elderly patient has resting tremor, cogwheel rigidity, bradykinesia and a shuffling gait. Which is the most effective drug for symptomatic relief?",
+"options": [
+"Levodopa with carbidopa",
+"Propranolol",
+"Amantadine alone",
+"Donepezil"
+],
+"answer": 0,
+"explanation": "Parkinson disease results from dopaminergic neuron loss in the substantia nigra; levodopa combined with carbidopa (a peripheral decarboxylase inhibitor) is the most effective symptomatic therapy. Propranolol treats essential tremor. Donepezil is for Alzheimer dementia. Carbidopa reduces peripheral conversion and side effects.",
+"highYield": "Parkinson disease: levodopa-carbidopa is most effective.",
+"pyqNote": "Levodopa-carbidopa repeats.",
+"tags": [
+"neurology",
+"Parkinson",
+"levodopa"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Aortic dissection",
+"difficulty": "hard",
+"stem": "A hypertensive patient has sudden tearing chest pain radiating to the back with a blood pressure difference between both arms. A Stanford type A dissection is confirmed. What is the most appropriate management?",
+"options": [
+"Emergency surgical repair",
+"IV thrombolysis",
+"Oral anticoagulation alone",
+"Observation with antihypertensives only"
+],
+"answer": 0,
+"explanation": "Stanford type A aortic dissection (involving the ascending aorta) is a surgical emergency requiring urgent operative repair, alongside rapid BP and heart-rate control (beta-blockers first). Thrombolysis and anticoagulation are contraindicated as they worsen bleeding. Type B (descending only) dissections are often managed medically.",
+"highYield": "Type A aortic dissection = emergency surgery; control BP/HR with beta-blockers.",
+"pyqNote": "Stanford A vs B management repeats.",
+"tags": [
+"cardiology",
+"aortic dissection",
+"surgery"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious disease - Scrub typhus",
+"difficulty": "easy",
+"stem": "A patient from a rural area has acute febrile illness with a painless black eschar with a surrounding red margin and regional lymphadenopathy. Which is the drug of choice?",
+"options": [
+"Penicillin",
+"Doxycycline",
+"Ceftriaxone",
+"Metronidazole"
+],
+"answer": 1,
+"explanation": "Scrub typhus (Orientia tsutsugamushi) classically presents with an eschar, fever and lymphadenopathy; doxycycline is the drug of choice (azithromycin in pregnancy/children). Penicillin and metronidazole are ineffective against rickettsial organisms. The Weil-Felix test (OXK) supports diagnosis.",
+"highYield": "Eschar + acute fever = scrub typhus; treat with doxycycline.",
+"pyqNote": "Eschar and doxycycline repeat.",
+"tags": [
+"infectious disease",
+"scrub typhus",
+"doxycycline"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Statins",
+"difficulty": "easy",
+"stem": "A 55-year-old diabetic with LDL cholesterol of 150 mg/dL and no prior cardiovascular event needs primary prevention. Which is the most appropriate first-line lipid-lowering drug?",
+"options": [
+"Fibrate",
+"Statin",
+"Niacin",
+"Bile acid sequestrant"
+],
+"answer": 1,
+"explanation": "Statins (HMG-CoA reductase inhibitors) are first-line for primary and secondary prevention of atherosclerotic cardiovascular disease, especially in diabetics. They reduce LDL and cardiovascular events. Fibrates mainly lower triglycerides; niacin and sequestrants are adjuncts. Ezetimibe or PCSK9 inhibitors are added if LDL goals are unmet.",
+"highYield": "Diabetic dyslipidemia: statin is first-line.",
+"pyqNote": "Statins for diabetics repeat.",
+"tags": [
+"cardiology",
+"statin",
+"prevention"
+]
+},
+{
+"subject": "Dermatology",
+"topic": "Vesiculobullous - Pemphigus vulgaris",
+"difficulty": "medium",
+"stem": "A middle-aged patient has flaccid bullae and erosions over the trunk and oral mucosa. Pressure on normal-looking skin causes the epidermis to slide off. Direct immunofluorescence shows intercellular IgG in a 'fishnet' pattern. What is the diagnosis?",
+"options": [
+"Bullous pemphigoid",
+"Pemphigus vulgaris",
+"Dermatitis herpetiformis",
+"Pemphigus foliaceus"
+],
+"answer": 1,
+"explanation": "Pemphigus vulgaris shows flaccid intraepidermal bullae, prominent mucosal involvement, a positive Nikolsky sign, and intercellular ('fishnet') IgG against desmoglein-3 on DIF. Bullous pemphigoid has tense bullae with linear IgG/C3 along the basement membrane and a negative Nikolsky sign. Pemphigus foliaceus spares mucosa.",
+"highYield": "Pemphigus vulgaris: flaccid bullae, oral involvement, positive Nikolsky, fishnet IgG.",
+"pyqNote": "Pemphigus vs pemphigoid DIF repeats.",
+"tags": [
+"dermatology",
+"pemphigus",
+"Nikolsky"
+]
+},
+{
+"subject": "Dermatology",
+"topic": "Vesiculobullous - Bullous pemphigoid",
+"difficulty": "medium",
+"stem": "An elderly patient has tense, itchy bullae on an erythematous base over flexures with NO oral involvement and a negative Nikolsky sign. Direct immunofluorescence shows linear IgG and C3 along the basement membrane. What is the diagnosis?",
+"options": [
+"Pemphigus vulgaris",
+"Bullous pemphigoid",
+"Pemphigus foliaceus",
+"Epidermolysis bullosa simplex"
+],
+"answer": 1,
+"explanation": "Bullous pemphigoid is a subepidermal blistering disease of the elderly with tense, pruritic bullae, negative Nikolsky sign, and linear IgG/C3 along the basement membrane (against BP180/BP230 hemidesmosomal antigens). Pemphigus vulgaris shows flaccid bullae, positive Nikolsky and intercellular IgG. Mucosa is typically spared in BP.",
+"highYield": "Bullous pemphigoid: tense bullae, negative Nikolsky, linear basement-membrane IgG/C3.",
+"pyqNote": "BP vs PV distinction repeats every year.",
+"tags": [
+"dermatology",
+"pemphigoid",
+"immunofluorescence"
+]
+},
+{
+"subject": "Dermatology",
+"topic": "Dermatitis herpetiformis",
+"difficulty": "hard",
+"stem": "A patient has intensely itchy grouped vesicles on the extensor surfaces (elbows, knees, buttocks) associated with celiac disease. Direct immunofluorescence shows granular IgA deposits at the dermal papillae. Which is the most appropriate specific drug treatment?",
+"options": [
+"Dapsone",
+"Acyclovir",
+"Oral corticosteroids",
+"Penicillin"
+],
+"answer": 0,
+"explanation": "Dermatitis herpetiformis features intensely pruritic grouped vesicles on extensor surfaces with granular IgA at dermal papillae and is linked to gluten-sensitive enteropathy. Dapsone gives rapid symptomatic relief; a gluten-free diet is the long-term treatment. Acyclovir treats herpes; the name 'herpetiformis' is morphologic, not viral.",
+"highYield": "Dermatitis herpetiformis: granular IgA, celiac link, treat with dapsone + gluten-free diet.",
+"pyqNote": "DH and dapsone repeat.",
+"tags": [
+"dermatology",
+"dermatitis herpetiformis",
+"dapsone"
+]
+},
+{
+"subject": "Dermatology",
+"topic": "Psoriasis",
+"difficulty": "easy",
+"stem": "A patient has well-demarcated erythematous plaques with silvery scales over the extensor surfaces. Removing the scale produces pinpoint bleeding. What is this clinical sign called?",
+"options": [
+"Nikolsky sign",
+"Auspitz sign",
+"Koebner phenomenon",
+"Darier sign"
+],
+"answer": 1,
+"explanation": "The Auspitz sign (pinpoint bleeding on scale removal) is characteristic of psoriasis, due to thinning of the suprapapillary epidermis over dilated dermal capillaries. The Koebner phenomenon (lesions at sites of trauma) also occurs in psoriasis. Nikolsky sign is for pemphigus; Darier sign is for mastocytosis.",
+"highYield": "Auspitz sign (pinpoint bleeding) = psoriasis.",
+"pyqNote": "Psoriasis signs repeat.",
+"tags": [
+"dermatology",
+"psoriasis",
+"Auspitz"
+]
+},
+{
+"subject": "Dermatology",
+"topic": "Leprosy - Ridley-Jopling",
+"difficulty": "hard",
+"stem": "A patient has numerous symmetric poorly-defined hypopigmented macules, a heavily positive slit-skin smear for acid-fast bacilli, and a negative lepromin test. Which type of leprosy is this on the Ridley-Jopling spectrum?",
+"options": [
+"Tuberculoid (TT)",
+"Lepromatous (LL)",
+"Borderline tuberculoid (BT)",
+"Indeterminate"
+],
+"answer": 1,
+"explanation": "Lepromatous leprosy (LL) features numerous symmetric ill-defined lesions, a high bacillary load (multibacillary, smear strongly positive) and a negative lepromin test (poor cell-mediated immunity). Tuberculoid leprosy has few well-defined lesions, low bacillary load and a positive lepromin test. The lepromin test assesses host immunity, not diagnosis.",
+"highYield": "Lepromatous leprosy: many lesions, high bacilli, negative lepromin (low immunity).",
+"pyqNote": "Ridley-Jopling spectrum repeats.",
+"tags": [
+"dermatology",
+"leprosy",
+"Ridley-Jopling"
+]
+},
+{
+"subject": "Dermatology",
+"topic": "Leprosy - reactions",
+"difficulty": "medium",
+"stem": "A patient with lepromatous leprosy develops crops of tender erythematous nodules with fever and neuritis. This type 2 lepra reaction (erythema nodosum leprosum) is best treated with which drug?",
+"options": [
+"Thalidomide",
+"Rifampicin monotherapy",
+"Acyclovir",
+"Penicillin"
+],
+"answer": 0,
+"explanation": "Erythema nodosum leprosum (ENL, type 2 reaction) is an immune-complex-mediated reaction in multibacillary leprosy; thalidomide (or corticosteroids) is the treatment of choice for severe recurrent ENL. Type 1 (reversal) reactions are treated with steroids. Multidrug therapy is continued. Thalidomide is contraindicated in pregnancy.",
+"highYield": "ENL (type 2 lepra reaction) = thalidomide (or steroids).",
+"pyqNote": "Lepra reaction treatment repeats.",
+"tags": [
+"dermatology",
+"leprosy",
+"ENL"
+]
+},
+{
+"subject": "Dermatology",
+"topic": "STD - Syphilis",
+"difficulty": "easy",
+"stem": "A patient has a single painless indurated genital ulcer with a clean base and non-tender rubbery inguinal lymphadenopathy. Dark-field microscopy shows motile spirochetes. Which is the treatment of choice?",
+"options": [
+"Benzathine penicillin G",
+"Acyclovir",
+"Azithromycin single dose for chlamydia",
+"Ceftriaxone for gonorrhea"
+],
+"answer": 0,
+"explanation": "A painless, indurated, clean-based ulcer (chancre) with non-tender lymphadenopathy and spirochetes on dark-field microscopy is primary syphilis (Treponema pallidum). The treatment of choice is a single dose of intramuscular benzathine penicillin G. Acyclovir treats herpetic (painful) ulcers. Doxycycline is the penicillin-allergy alternative.",
+"highYield": "Painless indurated chancre = primary syphilis; treat with benzathine penicillin G.",
+"pyqNote": "Syphilis ulcer characteristics repeat.",
+"tags": [
+"dermatology",
+"STD",
+"syphilis"
+]
+},
+{
+"subject": "Dermatology",
+"topic": "STD - Chancroid",
+"difficulty": "medium",
+"stem": "A patient has multiple painful genital ulcers with ragged undermined edges and tender suppurative inguinal lymphadenopathy (bubo). A smear shows gram-negative coccobacilli in a 'school of fish' pattern. What is the most likely organism?",
+"options": [
+"Treponema pallidum",
+"Haemophilus ducreyi",
+"Herpes simplex virus",
+"Klebsiella granulomatis"
+],
+"answer": 1,
+"explanation": "Painful ulcers with undermined ragged edges and tender suppurative buboes, with gram-negative coccobacilli in a 'school of fish' arrangement, indicate chancroid caused by Haemophilus ducreyi. Treatment is azithromycin or ceftriaxone. Syphilis is painless and indurated; granuloma inguinale shows Donovan bodies.",
+"highYield": "Painful ragged ulcer + school of fish bacilli = chancroid (H. ducreyi).",
+"pyqNote": "Chancroid vs syphilis ulcer comparison repeats.",
+"tags": [
+"dermatology",
+"STD",
+"chancroid"
+]
+},
+{
+"subject": "Dermatology",
+"topic": "Pityriasis - lesion recognition",
+"difficulty": "medium",
+"stem": "A young adult develops a single large oval scaly patch on the trunk, followed a week later by multiple smaller oval lesions along the skin-cleavage lines in a 'Christmas tree' distribution. What is the diagnosis?",
+"options": [
+"Tinea corporis",
+"Pityriasis rosea",
+"Secondary syphilis",
+"Psoriasis"
+],
+"answer": 1,
+"explanation": "Pityriasis rosea begins with a 'herald patch' followed by smaller oval lesions along Langer cleavage lines producing a Christmas-tree pattern on the back, and is self-limiting. Tinea corporis has active scaly borders with central clearing and fungal hyphae. Secondary syphilis can mimic it but involves palms and soles.",
+"highYield": "Herald patch + Christmas-tree distribution = pityriasis rosea.",
+"pyqNote": "Herald patch is a classic recognition question.",
+"tags": [
+"dermatology",
+"pityriasis rosea",
+"herald patch"
+]
+},
+{
+"subject": "Dermatology",
+"topic": "Erythema multiforme / SJS",
+"difficulty": "hard",
+"stem": "A patient develops target lesions, painful mucosal erosions and skin detachment of about 8% of body surface area after starting a sulfonamide. A positive Nikolsky sign is present at the lesions. What is the most likely diagnosis?",
+"options": [
+"Stevens-Johnson syndrome",
+"Pemphigus vulgaris",
+"Bullous pemphigoid",
+"Staphylococcal scalded skin syndrome"
+],
+"answer": 0,
+"explanation": "Drug-induced (sulfonamide) target lesions with mucosal involvement and skin detachment under 10% body surface area indicate Stevens-Johnson syndrome (10 to 30% is overlap, above 30% is toxic epidermal necrolysis). The key step is immediate withdrawal of the offending drug plus supportive care. SSSS spares mucosa and affects young children.",
+"highYield": "Drug + target lesions + mucosa + detachment under 10% BSA = Stevens-Johnson syndrome.",
+"pyqNote": "SJS/TEN BSA cutoffs repeat.",
+"tags": [
+"dermatology",
+"SJS",
+"drug reaction"
+]
+},
+{
+"subject": "Psychiatry",
+"topic": "Schizophrenia - antipsychotic side effects",
+"difficulty": "medium",
+"stem": "A patient on haloperidol develops high fever, severe muscle rigidity, autonomic instability and a markedly raised creatine kinase. What is the diagnosis and most urgent step?",
+"options": [
+"Serotonin syndrome; give cyproheptadine",
+"Neuroleptic malignant syndrome; stop the antipsychotic and give supportive care plus dantrolene/bromocriptine",
+"Acute dystonia; give benztropine",
+"Tardive dyskinesia; reduce dose"
+],
+"answer": 1,
+"explanation": "Neuroleptic malignant syndrome (NMS) presents with hyperthermia, lead-pipe rigidity, autonomic instability, altered mental status and very high CK, typically with high-potency antipsychotics like haloperidol. Management is immediate cessation of the antipsychotic, supportive cooling/hydration, and dantrolene or bromocriptine. NMS evolves over days with rigidity; serotonin syndrome is faster with clonus and hyperreflexia.",
+"highYield": "NMS: rigidity, hyperthermia, high CK; stop antipsychotic, give dantrolene/bromocriptine.",
+"pyqNote": "NMS vs serotonin syndrome repeats.",
+"tags": [
+"psychiatry",
+"NMS",
+"antipsychotic"
+]
+},
+{
+"subject": "Psychiatry",
+"topic": "Antipsychotics - EPS",
+"difficulty": "medium",
+"stem": "Two hours after a dose of haloperidol, a young man develops a sustained painful upward deviation of both eyes and neck twisting. What is the diagnosis and immediate treatment?",
+"options": [
+"Acute dystonia; intramuscular anticholinergic (e.g. benztropine or promethazine)",
+"Akathisia; propranolol",
+"Tardive dyskinesia; valbenazine",
+"NMS; dantrolene"
+],
+"answer": 0,
+"explanation": "Acute dystonia (here oculogyric crisis and torticollis) occurs within hours to days of starting a high-potency antipsychotic and responds rapidly to parenteral anticholinergics (benztropine, promethazine) or diphenhydramine. Akathisia is motor restlessness. Tardive dyskinesia is late and persistent. NMS involves fever and rigidity.",
+"highYield": "Acute dystonia (oculogyric crisis): treat with IM anticholinergic.",
+"pyqNote": "Oculogyric crisis treatment repeats.",
+"tags": [
+"psychiatry",
+"dystonia",
+"EPS"
+]
+},
+{
+"subject": "Psychiatry",
+"topic": "Serotonin syndrome",
+"difficulty": "hard",
+"stem": "A patient on an SSRI is given tramadol and develops agitation, diaphoresis, hyperthermia, inducible clonus and hyperreflexia within hours. What is the diagnosis and specific antidote?",
+"options": [
+"NMS; bromocriptine",
+"Serotonin syndrome; cyproheptadine",
+"Malignant hyperthermia; dantrolene",
+"Anticholinergic toxicity; physostigmine"
+],
+"answer": 1,
+"explanation": "Serotonin syndrome presents with the triad of mental status change, autonomic instability and neuromuscular hyperactivity (clonus, hyperreflexia, especially lower limbs), developing rapidly after adding a serotonergic drug like tramadol to an SSRI. Treatment is stopping the agent, supportive cooling and cyproheptadine (a serotonin antagonist). NMS is slower with rigidity and hyporeflexia.",
+"highYield": "Serotonin syndrome: rapid onset, clonus/hyperreflexia; treat with cyproheptadine.",
+"pyqNote": "SSRI + tramadol trigger and cyproheptadine repeat.",
+"tags": [
+"psychiatry",
+"serotonin syndrome",
+"cyproheptadine"
+]
+},
+{
+"subject": "Psychiatry",
+"topic": "Mood disorders",
+"difficulty": "easy",
+"stem": "A patient has had two weeks of low mood, anhedonia, early-morning awakening, weight loss, hopelessness and poor concentration. What is the most appropriate first-line pharmacological treatment?",
+"options": [
+"Selective serotonin reuptake inhibitor (SSRI)",
+"Tricyclic antidepressant as first choice",
+"Lithium monotherapy",
+"Typical antipsychotic"
+],
+"answer": 0,
+"explanation": "This is a major depressive episode (depressed mood/anhedonia for 2 or more weeks with neurovegetative symptoms). SSRIs are first-line due to their efficacy and favorable side-effect profile. Tricyclics are effective but more toxic in overdose. Lithium is for bipolar disorder/augmentation; antipsychotics are not first-line for unipolar depression.",
+"highYield": "Major depression: SSRI is first-line.",
+"pyqNote": "MDD criteria and SSRI repeat.",
+"tags": [
+"psychiatry",
+"depression",
+"SSRI"
+]
+},
+{
+"subject": "Psychiatry",
+"topic": "Bipolar disorder",
+"difficulty": "easy",
+"stem": "A patient presents with elevated mood, decreased need for sleep, grandiosity, pressured speech and reckless spending lasting over a week. Which is the most appropriate mood-stabilizing drug, and what must be monitored?",
+"options": [
+"Lithium; monitor renal function, thyroid and serum levels",
+"Diazepam; monitor respiratory rate",
+"Sertraline; monitor for serotonin syndrome",
+"Haloperidol; monitor only blood pressure"
+],
+"answer": 0,
+"explanation": "This is a manic episode of bipolar disorder. Lithium is a first-line mood stabilizer; it has a narrow therapeutic index requiring monitoring of serum levels, renal function and thyroid function. Antidepressant monotherapy can precipitate mania and is avoided. Antipsychotics may be used acutely but lithium is the classic long-term mood stabilizer.",
+"highYield": "Mania: lithium; monitor levels, renal and thyroid function.",
+"pyqNote": "Lithium monitoring repeats.",
+"tags": [
+"psychiatry",
+"bipolar",
+"lithium"
+]
+},
+{
+"subject": "Psychiatry",
+"topic": "OCD",
+"difficulty": "easy",
+"stem": "A patient is distressed by intrusive thoughts of contamination and spends hours washing hands, recognizing the behavior as excessive. Which is the most effective first-line treatment combination?",
+"options": [
+"SSRI plus cognitive behavioral therapy (exposure and response prevention)",
+"Benzodiazepine alone",
+"Antipsychotic monotherapy",
+"Electroconvulsive therapy"
+],
+"answer": 0,
+"explanation": "Obsessive-compulsive disorder is treated first-line with SSRIs (often at higher doses than for depression) combined with cognitive behavioral therapy using exposure and response prevention. Benzodiazepines do not treat the core illness. Clomipramine is an effective alternative. Antipsychotics are used only for augmentation.",
+"highYield": "OCD: SSRI + exposure and response prevention.",
+"pyqNote": "OCD first-line treatment repeats.",
+"tags": [
+"psychiatry",
+"OCD",
+"SSRI"
+]
+},
+{
+"subject": "Psychiatry",
+"topic": "Alcohol withdrawal",
+"difficulty": "medium",
+"stem": "A chronic alcoholic, 48 hours after his last drink, becomes confused with visual hallucinations, tremor, tachycardia and a seizure. Which is the first-line treatment for this condition?",
+"options": [
+"Benzodiazepines (e.g. chlordiazepoxide or diazepam)",
+"Haloperidol as first line",
+"Naltrexone",
+"Beta-blockers alone"
+],
+"answer": 0,
+"explanation": "This is delirium tremens, a severe alcohol-withdrawal state peaking at 48 to 72 hours with confusion, hallucinations, autonomic hyperactivity and seizures. Benzodiazepines are first-line, with thiamine given before glucose to prevent Wernicke encephalopathy. Antipsychotics lower the seizure threshold; naltrexone is for relapse prevention, not acute withdrawal.",
+"highYield": "Delirium tremens: benzodiazepines first; give thiamine before glucose.",
+"pyqNote": "DT timing and benzodiazepines repeat.",
+"tags": [
+"psychiatry",
+"alcohol withdrawal",
+"benzodiazepine"
+]
+},
+{
+"subject": "Psychiatry",
+"topic": "Opioid withdrawal / overdose",
+"difficulty": "easy",
+"stem": "An unconscious patient has pinpoint pupils, a respiratory rate of 6/min and needle track marks. Which is the immediate antidote?",
+"options": [
+"Naloxone",
+"Flumazenil",
+"Atropine",
+"Activated charcoal only"
+],
+"answer": 0,
+"explanation": "Pinpoint pupils with respiratory depression and reduced consciousness indicate opioid overdose; naloxone, an opioid antagonist, is the immediate antidote and reverses respiratory depression. Flumazenil reverses benzodiazepines. Atropine treats organophosphate/cholinergic toxicity (which causes pinpoint pupils with secretions, not isolated respiratory depression).",
+"highYield": "Opioid overdose triad (pinpoint pupils, low RR, coma): give naloxone.",
+"pyqNote": "Opioid toxidrome and naloxone repeat.",
+"tags": [
+"psychiatry",
+"opioid",
+"naloxone"
+]
+},
+{
+"subject": "Psychiatry",
+"topic": "Anxiety disorders",
+"difficulty": "medium",
+"stem": "A patient has recurrent unexpected episodes of intense fear with palpitations, sweating, chest tightness and a fear of dying, peaking within minutes, followed by persistent worry about further attacks. What is the diagnosis and first-line long-term treatment?",
+"options": [
+"Panic disorder; SSRI",
+"Generalized anxiety disorder; long-term benzodiazepine",
+"Specific phobia; antipsychotic",
+"Post-traumatic stress disorder; lithium"
+],
+"answer": 0,
+"explanation": "Recurrent unexpected panic attacks peaking within minutes plus anticipatory worry define panic disorder. SSRIs (with CBT) are first-line long-term therapy; benzodiazepines provide short-term relief but risk dependence. Generalized anxiety disorder features persistent free-floating worry rather than discrete attacks.",
+"highYield": "Panic disorder: SSRI is first-line long-term; benzodiazepines only short-term.",
+"pyqNote": "Panic disorder treatment repeats.",
+"tags": [
+"psychiatry",
+"panic disorder",
+"SSRI"
+]
+},
+{
+"subject": "Psychiatry",
+"topic": "Psychiatric emergency - lithium toxicity",
+"difficulty": "hard",
+"stem": "A patient on long-term lithium who recently started a thiazide diuretic presents with coarse tremor, ataxia, slurred speech, vomiting and confusion. What is the most appropriate definitive management for severe toxicity?",
+"options": [
+"Continue lithium and observe",
+"Hemodialysis",
+"Increase the lithium dose",
+"Give activated charcoal as the definitive treatment"
+],
+"answer": 1,
+"explanation": "Thiazides reduce renal lithium clearance and precipitate toxicity, presenting with coarse tremor, ataxia, dysarthria, GI and neurological symptoms. Lithium must be stopped, the patient hydrated, and hemodialysis used for severe toxicity (high levels, renal failure or severe neurological signs). Activated charcoal does not bind lithium effectively.",
+"highYield": "Severe lithium toxicity (often thiazide-precipitated): stop lithium, hydrate, hemodialysis.",
+"pyqNote": "Thiazide-lithium interaction and dialysis repeat.",
+"tags": [
+"psychiatry",
+"lithium toxicity",
+"hemodialysis"
+]
+}
+]

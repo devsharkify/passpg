@@ -1,0 +1,1323 @@
+[
+{
+"subject": "Surgery",
+"topic": "Appendicitis - Alvarado score",
+"difficulty": "easy",
+"stem": "A 22-year-old man presents with periumbilical pain that has migrated to the right iliac fossa, anorexia, nausea, and a temperature of 38.1 C. Examination shows right iliac fossa tenderness with rebound and a leukocyte count of 13,000/mm3. Which component of the Alvarado score carries 2 points (rather than 1)?",
+"options": [
+"Migration of pain",
+"Anorexia",
+"Tenderness in the right iliac fossa",
+"Rebound tenderness"
+],
+"answer": 2,
+"explanation": "In the Alvarado (MANTRELS) score, two features each carry 2 points: Tenderness in the right iliac fossa and Leukocytosis. The remaining six features (migration, anorexia, nausea, rebound, elevated temperature, and shift to left/neutrophilia) each carry 1 point, totalling 10. A score of 7 or more strongly suggests appendicitis.",
+"highYield": "Alvarado: only RIF tenderness and leukocytosis score 2; max total is 10.",
+"pyqNote": "Alvarado scoring components are repeatedly asked; remember MANTRELS mnemonic.",
+"tags": [
+"appendicitis",
+"alvarado"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Appendicitis signs",
+"difficulty": "easy",
+"stem": "During examination of a patient with suspected appendicitis, the examiner flexes the right hip and internally rotates it, eliciting pain. This sign indicates a pelvic inflamed appendix lying against which muscle?",
+"options": [
+"Psoas major",
+"Obturator internus",
+"Iliacus",
+"Piriformis"
+],
+"answer": 1,
+"explanation": "The obturator sign (pain on internal rotation of the flexed hip) indicates an inflamed appendix in contact with the obturator internus muscle, typical of a pelvic appendix. The psoas sign (pain on hip extension) suggests a retrocaecal appendix against psoas major. The other muscles are not classically associated with these signs.",
+"highYield": "Obturator sign = pelvic appendix; Psoas sign = retrocaecal appendix.",
+"pyqNote": "Clinical signs of appendicitis are a recurring single-best-answer theme.",
+"tags": [
+"appendicitis",
+"clinical-signs"
+]
+},
+{
+"subject": "Surgery",
+"topic": "ATLS - airway",
+"difficulty": "medium",
+"stem": "A 30-year-old man involved in a road traffic accident has a GCS of 7, gurgling respirations, and an expanding neck haematoma. According to ATLS principles, what is the most appropriate next step in airway management?",
+"options": [
+"Insert an oropharyngeal airway and observe",
+"Perform bag-mask ventilation only",
+"Definitive airway with a cuffed endotracheal tube (rapid sequence intubation)",
+"Apply high-flow oxygen by non-rebreather mask"
+],
+"answer": 2,
+"explanation": "A GCS of 8 or less mandates a definitive (cuffed, secured) airway because the patient cannot protect their own airway. An expanding neck haematoma threatens airway patency, so early intubation is critical before it becomes impossible. Oropharyngeal airways and oxygen masks are temporizing measures, not definitive airways.",
+"highYield": "GCS 8 or less = intubate; secure the airway early before a neck haematoma obstructs it.",
+"pyqNote": "GCS 8 or less intubate is among the most repeated ATLS facts.",
+"tags": [
+"trauma",
+"ATLS",
+"airway"
+]
+},
+{
+"subject": "Surgery",
+"topic": "GCS scoring",
+"difficulty": "medium",
+"stem": "A trauma patient opens his eyes to painful stimulus, makes incomprehensible sounds, and shows abnormal flexion (decorticate posturing) to pain. What is his Glasgow Coma Scale score?",
+"options": [
+"6",
+"7",
+"8",
+"9"
+],
+"answer": 1,
+"explanation": "Eye opening to pain scores 2, incomprehensible sounds score 2, and abnormal flexion (decorticate) scores 3, giving a total of 7. Abnormal flexion (3) must be distinguished from extension/decerebrate (2) and withdrawal (4). A GCS of 7 indicates severe head injury requiring airway protection.",
+"highYield": "Best motor: localizes 5, withdraws 4, abnormal flexion 3, extension 2.",
+"pyqNote": "GCS calculation vignettes appear almost every year.",
+"tags": [
+"trauma",
+"GCS",
+"head-injury"
+]
+},
+{
+"subject": "Surgery",
+"topic": "FAST scan",
+"difficulty": "medium",
+"stem": "A hypotensive blunt abdominal trauma patient undergoes a FAST examination. Which of the following is the most dependent area in the supine patient where free intraperitoneal fluid first accumulates?",
+"options": [
+"Hepatorenal recess (Morrison's pouch)",
+"Splenorenal recess",
+"Rectovesical/rectouterine pouch (pouch of Douglas)",
+"Pericardial sac"
+],
+"answer": 2,
+"explanation": "In the supine patient, the pelvis (rectovesical pouch in males, rectouterine pouch of Douglas in females) is the most dependent area where free fluid pools. Morrison's pouch is the most sensitive single view in the right upper quadrant and is most commonly positive overall, but the pelvis is the most dependent location. FAST examines four windows: pericardial, RUQ, LUQ, and pelvic.",
+"highYield": "Most dependent = pelvis; most sensitive single FAST view = Morrison's pouch (RUQ).",
+"pyqNote": "FAST windows and Morrison's pouch are favourite trauma questions.",
+"tags": [
+"trauma",
+"FAST",
+"ultrasound"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Damage control surgery",
+"difficulty": "hard",
+"stem": "A multiply-injured patient develops the 'lethal triad' that drives the decision for damage control surgery rather than definitive repair. Which combination constitutes this triad?",
+"options": [
+"Hypotension, tachycardia, oliguria",
+"Hypothermia, acidosis, coagulopathy",
+"Hypoxia, hypercarbia, acidosis",
+"Hyperkalaemia, hypocalcaemia, hypothermia"
+],
+"answer": 1,
+"explanation": "The lethal triad (vicious cycle) of trauma is hypothermia, acidosis, and coagulopathy. Damage control surgery aims to control haemorrhage and contamination quickly, then resuscitate in ICU to correct the triad before definitive repair. The other combinations describe shock or metabolic derangements but not the classic triad.",
+"highYield": "Lethal triad = hypothermia + acidosis + coagulopathy drives damage control.",
+"pyqNote": "Lethal triad is a high-yield trauma concept.",
+"tags": [
+"trauma",
+"damage-control",
+"coagulopathy"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hemorrhagic shock classes",
+"difficulty": "medium",
+"stem": "A 70-kg trauma patient has lost an estimated 1800 mL of blood. He is tachycardic with a heart rate of 130, narrowed pulse pressure, a respiratory rate of 32, and is confused and anxious. According to ATLS, which class of haemorrhagic shock is this?",
+"options": [
+"Class I",
+"Class II",
+"Class III",
+"Class IV"
+],
+"answer": 2,
+"explanation": "1800 mL in a 70-kg adult (about 5 L blood volume) is roughly 30-40% loss, which is Class III shock. Class III features tachycardia greater than 120, decreased blood pressure, RR 30-40, decreased urine output, and altered mental status; it is the threshold at which blood transfusion is usually required. Class IV (greater than 40%) is immediately life-threatening with negligible urine output.",
+"highYield": "Class III = 30-40% loss (1500-2000 mL), confusion + hypotension, needs blood.",
+"pyqNote": "ATLS shock classes with blood-volume percentages are commonly tested.",
+"tags": [
+"trauma",
+"shock",
+"hemorrhage"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Bowel obstruction imaging",
+"difficulty": "medium",
+"stem": "An elderly patient presents with massive abdominal distension, absolute constipation, and an abdominal radiograph showing a 'coffee bean' or 'inverted U' shaped dilated loop arising from the pelvis. What is the most likely diagnosis?",
+"options": [
+"Caecal volvulus",
+"Sigmoid volvulus",
+"Intussusception",
+"Gallstone ileus"
+],
+"answer": 1,
+"explanation": "The 'coffee bean' or 'inverted U' sign pointing toward the right upper quadrant from the pelvis is classic for sigmoid volvulus, the commonest colonic volvulus in the elderly. Caecal volvulus typically gives a comma-shaped loop in the left upper quadrant. Initial management of sigmoid volvulus is endoscopic detorsion (flexible sigmoidoscopy) with a flatus tube if there is no peritonitis.",
+"highYield": "Coffee-bean/inverted-U from pelvis = sigmoid volvulus; decompress sigmoidoscopically first.",
+"pyqNote": "Coffee bean sign and sigmoid volvulus management appear frequently.",
+"tags": [
+"bowel-obstruction",
+"volvulus",
+"radiology"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Perforation imaging",
+"difficulty": "easy",
+"stem": "A patient with a long history of NSAID use develops sudden severe epigastric pain that becomes generalized. An erect chest radiograph is most likely to show which finding indicating a perforated peptic ulcer?",
+"options": [
+"Air-fluid levels in the small bowel",
+"Free gas under the diaphragm (pneumoperitoneum)",
+"Ground-glass opacity",
+"Sentinel loop sign"
+],
+"answer": 1,
+"explanation": "Free gas under the diaphragm (pneumoperitoneum) on an erect chest or abdominal radiograph indicates a perforated hollow viscus, most commonly a perforated peptic (duodenal) ulcer. Erect films can detect as little as 1-2 mL of free air. Air-fluid levels suggest obstruction, and a sentinel loop suggests localized ileus from pancreatitis.",
+"highYield": "Erect CXR showing gas under the diaphragm = perforated viscus until proven otherwise.",
+"pyqNote": "Pneumoperitoneum on erect film is a guaranteed easy mark.",
+"tags": [
+"perforation",
+"peptic-ulcer",
+"radiology"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Breast cancer staging",
+"difficulty": "medium",
+"stem": "A 50-year-old woman has a 3 cm invasive ductal carcinoma of the breast with a single mobile ipsilateral axillary lymph node and no distant metastases. What is the TNM stage grouping?",
+"options": [
+"Stage I",
+"Stage IIA",
+"Stage IIB",
+"Stage IIIA"
+],
+"answer": 2,
+"explanation": "A tumour 2-5 cm is T2; a mobile ipsilateral level I/II axillary node is N1; no metastasis is M0. T2N1M0 corresponds to Stage IIB. T2N0M0 would be Stage IIA, and T2 with fixed/matted nodes (N2) would upstage it. Accurate TN grouping is essential for treatment planning.",
+"highYield": "T2 (2-5 cm) N1 M0 = Stage IIB breast cancer.",
+"pyqNote": "Breast TNM stage grouping, especially IIA versus IIB, is repeatedly tested.",
+"tags": [
+"breast-cancer",
+"TNM",
+"staging"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Breast - sentinel node",
+"difficulty": "medium",
+"stem": "A woman with early breast cancer and a clinically node-negative axilla is planned for surgery. What is the recommended approach to the axilla to assess nodal status while minimizing morbidity?",
+"options": [
+"Routine axillary lymph node dissection (levels I-III)",
+"Sentinel lymph node biopsy",
+"No axillary surgery and observe",
+"Axillary radiotherapy alone"
+],
+"answer": 1,
+"explanation": "In a clinically node-negative early breast cancer, sentinel lymph node biopsy (using blue dye and/or radioisotope) is the standard of care; it accurately stages the axilla while avoiding the lymphoedema and morbidity of a full dissection. Axillary dissection is reserved for proven nodal disease not meeting de-escalation criteria. Observation alone understages the disease.",
+"highYield": "Clinically node-negative early breast cancer = sentinel lymph node biopsy, not routine ALND.",
+"pyqNote": "Sentinel node biopsy indication is a high-frequency MCQ.",
+"tags": [
+"breast-cancer",
+"sentinel-node",
+"axilla"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Breast - Paget disease",
+"difficulty": "medium",
+"stem": "A 55-year-old woman presents with a unilateral eczematous, eroded, weeping lesion of the nipple-areolar complex that has not responded to topical steroids. What is the most appropriate next investigation?",
+"options": [
+"Reassurance and stronger topical steroid",
+"Full-thickness nipple (wedge) biopsy",
+"Antifungal cream",
+"Simple swab for culture"
+],
+"answer": 1,
+"explanation": "A persistent unilateral eczematous nipple lesion is Paget's disease of the nipple until proven otherwise and warrants a full-thickness nipple biopsy, as it is associated with underlying ductal carcinoma in situ or invasive cancer in most cases. Eczema typically is bilateral and spares the nipple, often involving the areola first. Delaying with topical agents risks missing malignancy.",
+"highYield": "Unilateral non-healing nipple eczema = biopsy for Paget's disease (underlying carcinoma).",
+"pyqNote": "Paget disease of nipple versus eczema is a classic discriminator.",
+"tags": [
+"breast-cancer",
+"Paget-disease",
+"nipple"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Thyroid nodule evaluation",
+"difficulty": "medium",
+"stem": "A 40-year-old woman has a solitary thyroid nodule with normal thyroid function tests. What is the single most useful investigation to determine whether the nodule is benign or malignant?",
+"options": [
+"Radioiodine scan",
+"Fine needle aspiration cytology (FNAC)",
+"Serum thyroglobulin",
+"CT neck with contrast"
+],
+"answer": 1,
+"explanation": "In a euthyroid patient with a solitary thyroid nodule, FNAC (ideally ultrasound-guided) is the investigation of choice to distinguish benign from malignant lesions and is reported using the Bethesda system. A radioiodine scan is reserved for nodules with suppressed TSH (to identify a toxic/hot nodule). Thyroglobulin is used for follow-up of differentiated cancer, not initial diagnosis.",
+"highYield": "Euthyroid solitary thyroid nodule: FNAC is the investigation of choice (Bethesda).",
+"pyqNote": "FNAC as investigation of choice for thyroid nodule is heavily repeated.",
+"tags": [
+"thyroid",
+"FNAC",
+"nodule"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Thyroid - follicular neoplasm",
+"difficulty": "hard",
+"stem": "FNAC of a thyroid nodule reports 'follicular neoplasm' (Bethesda IV). Why can cytology alone not confirm whether this is a follicular carcinoma?",
+"options": [
+"Follicular cells are too small to assess",
+"The diagnosis of malignancy requires demonstration of capsular or vascular invasion, which cytology cannot show",
+"Follicular carcinoma never sheds cells",
+"FNAC cannot sample follicular cells"
+],
+"answer": 1,
+"explanation": "Follicular carcinoma is distinguished from follicular adenoma only by capsular and/or vascular invasion, which requires examination of the entire capsule on histology, something FNAC (which assesses cell morphology, not architecture) cannot demonstrate. Hence a Bethesda IV result mandates diagnostic hemithyroidectomy (lobectomy). In contrast, papillary carcinoma can be diagnosed on cytology by its nuclear features.",
+"highYield": "Follicular carcinoma = capsular/vascular invasion on histology; FNAC cannot diagnose it, so lobectomy is needed.",
+"pyqNote": "Why FNAC fails for follicular carcinoma is a recurring concept question.",
+"tags": [
+"thyroid",
+"follicular-carcinoma",
+"histology"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Inguinal hernia anatomy",
+"difficulty": "easy",
+"stem": "During open inguinal hernia repair, the surgeon identifies a hernia sac whose neck lies lateral to the inferior epigastric vessels. What type of hernia is this?",
+"options": [
+"Direct inguinal hernia",
+"Indirect inguinal hernia",
+"Femoral hernia",
+"Obturator hernia"
+],
+"answer": 1,
+"explanation": "An indirect inguinal hernia passes through the deep inguinal ring, which lies lateral to the inferior epigastric vessels, and follows the spermatic cord. A direct hernia bulges through Hesselbach's triangle, medial to the inferior epigastric vessels. A femoral hernia lies below and lateral to the pubic tubercle (below the inguinal ligament).",
+"highYield": "Indirect = lateral to inferior epigastric vessels; direct = medial.",
+"pyqNote": "Relationship of hernia to inferior epigastric vessels is a perennial anatomy MCQ.",
+"tags": [
+"hernia",
+"inguinal",
+"anatomy"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Inguinal hernia - Hesselbach triangle",
+"difficulty": "easy",
+"stem": "Which structure forms the medial boundary of Hesselbach's (inguinal) triangle, the site through which a direct inguinal hernia protrudes?",
+"options": [
+"Inferior epigastric vessels",
+"Inguinal ligament",
+"Lateral border of rectus abdominis",
+"Conjoint tendon"
+],
+"answer": 2,
+"explanation": "Hesselbach's triangle is bounded laterally by the inferior epigastric vessels, inferiorly by the inguinal ligament, and medially by the lateral border of the rectus abdominis (rectus sheath). A direct hernia pushes through the floor (transversalis fascia) within this triangle. The conjoint tendon reinforces part of the posterior wall but is not a defined boundary.",
+"highYield": "Hesselbach triangle: lateral = inferior epigastric vessels, medial = rectus, inferior = inguinal ligament.",
+"pyqNote": "Boundaries of Hesselbach's triangle are commonly asked.",
+"tags": [
+"hernia",
+"anatomy",
+"Hesselbach"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Burns - Parkland formula",
+"difficulty": "medium",
+"stem": "A 70-kg man sustains 40% total body surface area burns. Using the Parkland formula, what is the total volume of Ringer's lactate to be given in the first 24 hours, and how is it distributed?",
+"options": [
+"5600 mL, half in first 8 hours",
+"11,200 mL, half in first 8 hours",
+"11,200 mL, evenly over 24 hours",
+"2800 mL, half in first 8 hours"
+],
+"answer": 1,
+"explanation": "Parkland formula = 4 mL x body weight (kg) x %TBSA burned = 4 x 70 x 40 = 11,200 mL of Ringer's lactate in the first 24 hours. Half (5600 mL) is given in the first 8 hours from the time of injury, and the remaining half over the next 16 hours. Urine output (0.5-1 mL/kg/hr) guides titration.",
+"highYield": "Parkland = 4 x kg x %TBSA; give half in first 8 hours from time of burn.",
+"pyqNote": "Parkland calculation with the 'half in 8 hours' rule is asked nearly every year.",
+"tags": [
+"burns",
+"Parkland",
+"fluid-resuscitation"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Burns - escharotomy",
+"difficulty": "hard",
+"stem": "A patient with circumferential full-thickness burns of the forearm develops increasing pain, a tense, hard limb, and absent distal pulses within hours. What is the immediate management?",
+"options": [
+"Elevate the limb and observe",
+"Urgent escharotomy",
+"Fasciotomy of all compartments",
+"Amputation"
+],
+"answer": 1,
+"explanation": "Circumferential full-thickness (eschar) burns act as a tourniquet, causing distal ischaemia; the immediate treatment is escharotomy, an incision through the inelastic eschar to relieve constriction and restore perfusion. Fasciotomy is reserved for established deep compartment syndrome (for example with electrical or crush injury), not the initial eschar-related compromise. Elevation alone is inadequate when pulses are lost.",
+"highYield": "Circumferential burn + distal ischaemia = urgent escharotomy.",
+"pyqNote": "Escharotomy versus fasciotomy distinction is a recurring trap.",
+"tags": [
+"burns",
+"escharotomy",
+"ischemia"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Peptic ulcer - posterior duodenal",
+"difficulty": "hard",
+"stem": "A patient with a chronic posterior duodenal ulcer develops sudden massive upper gastrointestinal haemorrhage. Erosion of which artery is most likely responsible?",
+"options": [
+"Left gastric artery",
+"Gastroduodenal artery",
+"Splenic artery",
+"Superior mesenteric artery"
+],
+"answer": 1,
+"explanation": "A posterior duodenal ulcer can erode into the gastroduodenal artery, which lies immediately behind the first part of the duodenum, causing torrential haemorrhage. In contrast, an anterior duodenal ulcer tends to perforate into the peritoneal cavity. The left gastric artery is more relevant to bleeding lesser-curve gastric ulcers.",
+"highYield": "Posterior duodenal ulcer bleeds (gastroduodenal artery); anterior duodenal ulcer perforates.",
+"pyqNote": "Gastroduodenal artery erosion is a classic surgery favourite.",
+"tags": [
+"peptic-ulcer",
+"GI-bleed",
+"gastroduodenal-artery"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Colorectal cancer screening",
+"difficulty": "medium",
+"stem": "A patient has multiple (more than 100) adenomatous polyps throughout the colon on colonoscopy, with a family history of early colorectal cancer. Mutation of which gene underlies the most likely diagnosis?",
+"options": [
+"APC gene",
+"RET gene",
+"BRCA1 gene",
+"VHL gene"
+],
+"answer": 0,
+"explanation": "More than 100 colonic adenomatous polyps with a strong family history indicates familial adenomatous polyposis (FAP), caused by germline mutation of the APC tumour-suppressor gene on chromosome 5q21. Untreated, the lifetime risk of colorectal cancer approaches 100%, so prophylactic total colectomy is recommended. RET is associated with MEN 2/medullary thyroid cancer, and VHL with von Hippel-Lindau disease.",
+"highYield": "FAP = APC gene mutation; near-100% cancer risk; prophylactic colectomy.",
+"pyqNote": "FAP and the APC gene are repeatedly tested together.",
+"tags": [
+"colorectal-cancer",
+"FAP",
+"APC"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Colorectal cancer - tumour marker",
+"difficulty": "easy",
+"stem": "Which serum tumour marker is most useful for monitoring recurrence and prognosis after curative resection of colorectal carcinoma?",
+"options": [
+"CA 19-9",
+"CEA (carcinoembryonic antigen)",
+"CA 125",
+"Alpha-fetoprotein"
+],
+"answer": 1,
+"explanation": "CEA is the tumour marker used to monitor colorectal cancer; a rising level after curative resection suggests recurrence, and a high preoperative level carries a worse prognosis. CEA is not specific enough for screening. CA 19-9 is associated with pancreatic cancer, CA 125 with ovarian cancer, and AFP with hepatocellular and germ-cell tumours.",
+"highYield": "CEA = colorectal cancer follow-up marker (not for screening).",
+"pyqNote": "Tumour marker matching (CEA-colorectal) is a frequent easy item.",
+"tags": [
+"colorectal-cancer",
+"CEA",
+"tumour-marker"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Pancreatitis - severity scoring",
+"difficulty": "medium",
+"stem": "In acute pancreatitis, which of the following is NOT a component of Ranson's criteria at admission?",
+"options": [
+"Age over 55 years",
+"White cell count over 16,000/mm3",
+"Serum amylase level",
+"Serum LDH over 350 IU/L"
+],
+"answer": 2,
+"explanation": "Serum amylase is used for diagnosis of pancreatitis, not for severity scoring; it is not part of Ranson's criteria. Admission Ranson criteria include age over 55, WCC over 16,000, glucose over 200 mg/dL, AST over 250, and LDH over 350. The remaining criteria are assessed at 48 hours. The degree of amylase elevation does not correlate with severity.",
+"highYield": "Amylase diagnoses pancreatitis but is NOT a Ranson severity criterion.",
+"pyqNote": "Ranson criteria and the amylase trap are classic exam material.",
+"tags": [
+"pancreatitis",
+"Ranson",
+"severity"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Surgical infections - necrotizing fasciitis",
+"difficulty": "hard",
+"stem": "A diabetic patient presents with rapidly spreading erythema, pain out of proportion to physical findings, skin crepitus, and systemic toxicity. The most appropriate management after resuscitation and broad-spectrum antibiotics is:",
+"options": [
+"Conservative management with limb elevation",
+"Immediate radical surgical debridement",
+"Wait for blood culture results before any intervention",
+"Hyperbaric oxygen alone"
+],
+"answer": 1,
+"explanation": "This is necrotizing fasciitis, a surgical emergency. After fluid resuscitation and broad-spectrum antibiotics, immediate radical surgical debridement of all necrotic tissue is the cornerstone of treatment; delay dramatically increases mortality. Antibiotics and hyperbaric oxygen are adjuncts, not substitutes for debridement. Pain out of proportion and crepitus are red flags.",
+"highYield": "Necrotizing fasciitis = urgent radical debridement; antibiotics alone do not suffice.",
+"pyqNote": "Necrotizing fasciitis management is a high-yield emergency question.",
+"tags": [
+"surgical-infection",
+"necrotizing-fasciitis",
+"debridement"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Tetanus prophylaxis",
+"difficulty": "medium",
+"stem": "A patient with a deep contaminated wound has an uncertain immunization history (fewer than 3 doses of tetanus toxoid). What is the correct prophylaxis?",
+"options": [
+"Tetanus toxoid only",
+"Human tetanus immunoglobulin only",
+"Both tetanus toxoid and human tetanus immunoglobulin",
+"No prophylaxis needed if wound is cleaned"
+],
+"answer": 2,
+"explanation": "For a tetanus-prone (deep, contaminated) wound in a patient who is unimmunized or has fewer than three doses or uncertain status, both active immunization (tetanus toxoid) and passive immunization (human tetanus immunoglobulin) are required, given at different sites. A fully immunized patient with a booster in the last 5 years needs nothing further. Wound toilet/debridement is also essential.",
+"highYield": "Tetanus-prone wound + uncertain/incomplete immunization = toxoid PLUS immunoglobulin.",
+"pyqNote": "Tetanus prophylaxis decision tables are commonly tested.",
+"tags": [
+"surgical-infection",
+"tetanus",
+"prophylaxis"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Acute cholecystitis - Murphy sign",
+"difficulty": "easy",
+"stem": "During palpation of the right upper quadrant on deep inspiration, the patient catches their breath and stops inspiring due to pain. This positive sign suggests:",
+"options": [
+"Acute appendicitis",
+"Acute cholecystitis",
+"Acute pancreatitis",
+"Perforated peptic ulcer"
+],
+"answer": 1,
+"explanation": "Murphy's sign (inspiratory arrest on palpation of the right upper quadrant) is characteristic of acute cholecystitis, caused by the inflamed gallbladder descending against the examining hand. Ultrasound is the first-line investigation. The sign is typically absent in acalculous or chronic cholecystitis.",
+"highYield": "Murphy's sign positive = acute cholecystitis; USG is first-line investigation.",
+"pyqNote": "Murphy's sign is a dependable easy mark.",
+"tags": [
+"cholecystitis",
+"Murphy-sign",
+"gallbladder"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Cholangitis - Charcot triad",
+"difficulty": "easy",
+"stem": "A patient presents with fever with rigors, right upper quadrant pain, and jaundice. This triad indicates which condition, and what is the underlying problem?",
+"options": [
+"Acute cholecystitis from cystic duct obstruction",
+"Ascending cholangitis from common bile duct obstruction",
+"Acute pancreatitis from ductal stone",
+"Hepatic abscess from portal pyaemia"
+],
+"answer": 1,
+"explanation": "Charcot's triad (fever/rigors, right upper quadrant pain, jaundice) indicates ascending cholangitis, caused by infection behind an obstructed common bile duct (usually a stone). If hypotension and confusion are added, it becomes Reynolds' pentad, signalling severe suppurative cholangitis needing urgent biliary drainage (ERCP). Cholecystitis classically does not cause jaundice.",
+"highYield": "Charcot triad (fever + RUQ pain + jaundice) = ascending cholangitis; pentad adds shock + confusion.",
+"pyqNote": "Charcot triad and Reynolds pentad are frequently paired in MCQs.",
+"tags": [
+"cholangitis",
+"Charcot-triad",
+"biliary"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Acute abdomen - mesenteric ischemia",
+"difficulty": "hard",
+"stem": "An elderly patient with atrial fibrillation presents with sudden severe central abdominal pain that is strikingly out of proportion to the unremarkable abdominal examination, along with metabolic acidosis. What is the most likely diagnosis?",
+"options": [
+"Acute pancreatitis",
+"Acute mesenteric ischaemia",
+"Perforated peptic ulcer",
+"Diverticulitis"
+],
+"answer": 1,
+"explanation": "Severe pain out of proportion to physical findings in a patient with atrial fibrillation (embolic source) plus metabolic acidosis is the classic presentation of acute mesenteric ischaemia, usually from a superior mesenteric artery embolus. Early CT angiography is the investigation of choice. Delay leads to bowel infarction and high mortality.",
+"highYield": "Pain out of proportion + AF + acidosis = acute mesenteric ischaemia (SMA embolus); CT angiography.",
+"pyqNote": "Mesenteric ischaemia in an AF patient is a recurring vignette.",
+"tags": [
+"acute-abdomen",
+"mesenteric-ischemia",
+"SMA"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Intussusception",
+"difficulty": "medium",
+"stem": "A 9-month-old infant presents with intermittent colicky abdominal pain, drawing up of the legs, and 'red-currant jelly' stools. Ultrasound shows a 'target/doughnut' sign. After resuscitation and in the absence of peritonitis or perforation, what is the first-line treatment?",
+"options": [
+"Immediate laparotomy and resection",
+"Pneumatic (air) or hydrostatic reduction under imaging guidance",
+"Observation and intravenous fluids only",
+"Endoscopic decompression"
+],
+"answer": 1,
+"explanation": "In a stable infant with intussusception and no peritonitis or perforation, non-operative reduction by pneumatic (air) or hydrostatic (saline/contrast) enema under ultrasound or fluoroscopic guidance is first-line and successful in most cases. Surgery is reserved for failed reduction, peritonitis, perforation, or a pathological lead point. The 'target sign' on ultrasound is diagnostic.",
+"highYield": "Stable infant intussusception = air/hydrostatic enema reduction first; surgery if it fails or peritonitis.",
+"pyqNote": "Intussusception reduction (enema first) is a high-yield paediatric surgery item.",
+"tags": [
+"intussusception",
+"pediatric-surgery",
+"reduction"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Diverticulitis - Hinchey",
+"difficulty": "hard",
+"stem": "A patient with acute sigmoid diverticulitis is found on CT to have generalized purulent peritonitis without faecal contamination. Which Hinchey stage is this, and what is the typical management?",
+"options": [
+"Hinchey I, antibiotics alone",
+"Hinchey II, percutaneous drainage",
+"Hinchey III, surgery (often Hartmann's procedure)",
+"Hinchey IV, antibiotics alone"
+],
+"answer": 2,
+"explanation": "Generalized purulent peritonitis corresponds to Hinchey stage III and usually requires surgery, classically a Hartmann's procedure (resection with end colostomy) in the unstable patient, though laparoscopic lavage or primary anastomosis may be considered selectively. Hinchey I (pericolic abscess) and II (pelvic abscess) are often managed with antibiotics with or without percutaneous drainage. Hinchey IV is faeculent peritonitis.",
+"highYield": "Hinchey III (purulent) and IV (faeculent) peritonitis = surgery; I and II often non-operative.",
+"pyqNote": "Hinchey classification staging is a recurring colorectal question.",
+"tags": [
+"diverticulitis",
+"Hinchey",
+"peritonitis"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Trauma - tension pneumothorax",
+"difficulty": "medium",
+"stem": "A chest trauma patient is in respiratory distress with tracheal deviation away from the affected side, absent breath sounds, hyper-resonance on that side, distended neck veins, and hypotension. What is the immediate management?",
+"options": [
+"Urgent chest radiograph then intercostal drain",
+"Immediate needle decompression followed by chest tube",
+"Pericardiocentesis",
+"Endotracheal intubation only"
+],
+"answer": 1,
+"explanation": "This is tension pneumothorax, a clinical diagnosis that must NOT await a chest radiograph. Immediate needle decompression (second intercostal space midclavicular line, or fifth space anterior axillary line) is performed, followed by definitive intercostal chest drain insertion. Distended neck veins and tracheal deviation distinguish it from simple pneumothorax. Delay for imaging can be fatal.",
+"highYield": "Tension pneumothorax = clinical diagnosis; immediate needle decompression, then chest tube. No X-ray first.",
+"pyqNote": "Tension pneumothorax (no X-ray, decompress first) is heavily repeated.",
+"tags": [
+"trauma",
+"tension-pneumothorax",
+"decompression"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Trauma - cardiac tamponade",
+"difficulty": "medium",
+"stem": "A patient with penetrating chest trauma presents with hypotension, muffled heart sounds, and distended neck veins (Beck's triad). What is the most appropriate immediate intervention?",
+"options": [
+"Needle thoracostomy",
+"Pericardiocentesis or pericardial window",
+"Chest radiograph",
+"Massive fluid bolus and observe"
+],
+"answer": 1,
+"explanation": "Beck's triad (hypotension, muffled heart sounds, raised jugular venous pressure/distended neck veins) indicates cardiac tamponade. Immediate decompression by pericardiocentesis (or surgical pericardial window/thoracotomy in the unstable trauma patient) is required to restore cardiac filling. FAST quickly confirms pericardial fluid. Needle thoracostomy treats tension pneumothorax, not tamponade.",
+"highYield": "Beck's triad = cardiac tamponade; treat with pericardiocentesis/pericardial window.",
+"pyqNote": "Beck's triad and tamponade management are recurring trauma items.",
+"tags": [
+"trauma",
+"cardiac-tamponade",
+"Beck-triad"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Trauma - urethral injury",
+"difficulty": "hard",
+"stem": "A man with a pelvic fracture has blood at the external urethral meatus, inability to pass urine, and a high-riding prostate on rectal examination. What is the most appropriate next step?",
+"options": [
+"Insert a urethral catheter immediately",
+"Retrograde urethrogram",
+"Intravenous urogram",
+"Suprapubic aspiration without imaging"
+],
+"answer": 1,
+"explanation": "Blood at the meatus, retention, and a high-riding prostate suggest posterior urethral injury (common with pelvic fractures). A retrograde urethrogram is the investigation of choice before any attempt at catheterization; blind urethral catheterization is contraindicated as it may convert a partial tear into a complete one. If the urethra is disrupted, a suprapubic catheter is placed.",
+"highYield": "Suspected urethral injury: retrograde urethrogram FIRST; never blindly catheterize.",
+"pyqNote": "Urethral injury and the contraindication to catheterization is a classic trap.",
+"tags": [
+"trauma",
+"urethral-injury",
+"urethrogram"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Breast - triple assessment",
+"difficulty": "easy",
+"stem": "What are the three components of 'triple assessment' used to evaluate a discrete breast lump?",
+"options": [
+"Clinical examination, imaging (mammography/ultrasound), and pathology (FNAC/core biopsy)",
+"Mammography, MRI, and PET scan",
+"FNAC, core biopsy, and excision biopsy",
+"History, blood tests, and tumour markers"
+],
+"answer": 0,
+"explanation": "Triple assessment comprises clinical examination, imaging (mammography in older women, ultrasound in younger women), and pathology (fine-needle aspiration cytology or core needle biopsy). Concordance of all three maximizes diagnostic accuracy for breast lumps. Core biopsy is preferred over FNAC as it distinguishes invasive from in situ disease and provides receptor status.",
+"highYield": "Triple assessment = clinical + imaging + pathology for any breast lump.",
+"pyqNote": "Triple assessment components are a guaranteed easy question.",
+"tags": [
+"breast",
+"triple-assessment",
+"diagnosis"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Acute abdomen - ruptured AAA",
+"difficulty": "medium",
+"stem": "A 70-year-old smoker presents with sudden severe back/abdominal pain, hypotension, and a pulsatile abdominal mass. He is haemodynamically unstable. What is the most appropriate management?",
+"options": [
+"CT angiography then elective repair",
+"Immediate transfer to theatre for emergency repair",
+"Observation with blood pressure control",
+"Ultrasound then discharge with follow-up"
+],
+"answer": 1,
+"explanation": "A pulsatile abdominal mass with sudden pain and shock indicates a ruptured abdominal aortic aneurysm. A haemodynamically unstable patient should go immediately to theatre for emergency repair (open or emergency EVAR) without delay for CT. CT angiography is appropriate only if the patient is stable enough to tolerate imaging and to plan EVAR. Permissive hypotension is maintained until clamping.",
+"highYield": "Unstable ruptured AAA = straight to theatre; CT only if stable enough for EVAR planning.",
+"pyqNote": "Ruptured AAA management (unstable to theatre) is a recurring vascular item.",
+"tags": [
+"acute-abdomen",
+"AAA",
+"vascular"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Breast - inflammatory carcinoma",
+"difficulty": "hard",
+"stem": "A woman presents with a diffusely erythematous, warm, oedematous breast with 'peau d'orange' appearance and no discrete lump, unresponsive to antibiotics. What is the most likely diagnosis?",
+"options": [
+"Acute mastitis",
+"Inflammatory breast carcinoma",
+"Fat necrosis",
+"Fibroadenoma"
+],
+"answer": 1,
+"explanation": "A diffusely erythematous, oedematous breast with peau d'orange (from dermal lymphatic invasion by tumour) and no response to antibiotics is inflammatory breast carcinoma, an aggressive form classified as T4d (Stage III at minimum). Skin punch biopsy confirms dermal lymphatic involvement. Treatment is neoadjuvant chemotherapy followed by surgery and radiotherapy. Acute mastitis would respond to antibiotics and usually occurs in lactating women.",
+"highYield": "Peau d'orange + erythema not responding to antibiotics = inflammatory breast carcinoma (T4d); neoadjuvant chemo first.",
+"pyqNote": "Inflammatory breast cancer versus mastitis is a recurring discriminator.",
+"tags": [
+"breast-cancer",
+"inflammatory",
+"peau-d-orange"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Fracture - nerve injury",
+"difficulty": "medium",
+"stem": "A patient sustains a mid-shaft fracture of the humerus and is noted to have wrist drop with inability to extend the wrist and fingers. Which nerve is most likely injured?",
+"options": [
+"Median nerve",
+"Ulnar nerve",
+"Radial nerve",
+"Axillary nerve"
+],
+"answer": 2,
+"explanation": "The radial nerve runs in the spiral (radial) groove of the humeral shaft and is the nerve most commonly injured in mid-shaft humeral fractures, producing wrist drop (loss of wrist and finger extension). Most are neurapraxias that recover spontaneously. The axillary nerve is injured in surgical neck fractures/shoulder dislocation, and the ulnar nerve at the medial epicondyle.",
+"highYield": "Mid-shaft humerus fracture leads to radial nerve injury and wrist drop (usually recovers).",
+"pyqNote": "Fracture site to nerve injury matching is asked every year.",
+"tags": [
+"fracture",
+"radial-nerve",
+"humerus"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Fracture - nerve injury",
+"difficulty": "medium",
+"stem": "A child with a supracondylar fracture of the humerus develops inability to make the 'OK' sign (cannot flex the distal interphalangeal joint of the index finger and the interphalangeal joint of the thumb). Which nerve is injured?",
+"options": [
+"Anterior interosseous branch of the median nerve",
+"Posterior interosseous nerve",
+"Ulnar nerve",
+"Radial nerve proper"
+],
+"answer": 0,
+"explanation": "Loss of the 'OK sign' (pinch) indicates injury to the anterior interosseous nerve, a branch of the median nerve, which is the most commonly injured nerve in extension-type supracondylar humerus fractures in children. It supplies flexor pollicis longus and the lateral half of flexor digitorum profundus. It is a pure motor nerve, so there is no sensory loss.",
+"highYield": "Supracondylar fracture: anterior interosseous nerve (median) injury, cannot make 'OK' sign.",
+"pyqNote": "AIN injury in supracondylar fracture is a high-yield paediatric ortho item.",
+"tags": [
+"fracture",
+"supracondylar",
+"anterior-interosseous-nerve"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Fracture classification - Salter Harris",
+"difficulty": "medium",
+"stem": "In the Salter-Harris classification of paediatric physeal (growth plate) injuries, a fracture that passes through the physis and the metaphysis (sparing the epiphysis) is which type?",
+"options": [
+"Type I",
+"Type II",
+"Type III",
+"Type IV"
+],
+"answer": 1,
+"explanation": "Salter-Harris type II fractures pass through the physis and exit through the metaphysis (above), and are the most common type. The mnemonic SALTR helps: I = Slipped (through physis), II = Above (metaphysis), III = Lower (epiphysis), IV = Through both, V = cRush (compression). Higher types (III-V) involve the joint surface or crush the physis and carry a worse prognosis for growth.",
+"highYield": "Salter-Harris II = through physis + metaphysis (Above); commonest type. SALTR mnemonic.",
+"pyqNote": "Salter-Harris types with the SALTR mnemonic are repeatedly tested.",
+"tags": [
+"fracture",
+"Salter-Harris",
+"pediatric"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Bone tumors",
+"difficulty": "medium",
+"stem": "An adolescent presents with knee pain; radiograph of the distal femur shows an aggressive lesion with 'sunburst' periosteal reaction and Codman's triangle. What is the most likely diagnosis?",
+"options": [
+"Ewing's sarcoma",
+"Osteosarcoma",
+"Giant cell tumour",
+"Osteochondroma"
+],
+"answer": 1,
+"explanation": "A 'sunburst' (sunray) appearance with Codman's triangle in the metaphysis of the distal femur in an adolescent is classic for osteosarcoma, the commonest primary malignant bone tumour, which peaks in the second decade around the knee. Ewing's sarcoma typically shows an 'onion-skin' lamellated periosteal reaction in the diaphysis. Treatment of osteosarcoma is neoadjuvant chemotherapy followed by limb-salvage surgery.",
+"highYield": "Sunburst + Codman's triangle around the knee in a teenager = osteosarcoma; onion-skin = Ewing's.",
+"pyqNote": "Sunburst (osteosarcoma) versus onion-skin (Ewing) is a classic radiograph pairing.",
+"tags": [
+"bone-tumor",
+"osteosarcoma",
+"Codman-triangle"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Bone tumors - giant cell tumor",
+"difficulty": "hard",
+"stem": "A 30-year-old presents with pain near the knee; radiograph shows an expansile, eccentric, lytic 'soap-bubble' lesion in the epiphysis/metaphysis of the distal femur extending up to the subarticular region. What is the most likely diagnosis?",
+"options": [
+"Osteosarcoma",
+"Giant cell tumour (osteoclastoma)",
+"Aneurysmal bone cyst",
+"Chondrosarcoma"
+],
+"answer": 1,
+"explanation": "An eccentric, expansile, lytic 'soap-bubble' lesion in the epiphysis extending to the subchondral bone of a long bone end in a skeletally mature adult (20-40 years, after physeal closure) is characteristic of giant cell tumour (osteoclastoma). It is locally aggressive and can recur or rarely metastasize to the lung despite benign histology. The distal femur and proximal tibia (around the knee) are the commonest sites.",
+"highYield": "GCT = epiphyseal, eccentric, lytic 'soap-bubble' lesion in 20-40 year olds, after physeal fusion.",
+"pyqNote": "GCT location (epiphysis, post-fusion) and soap-bubble appearance are classic.",
+"tags": [
+"bone-tumor",
+"giant-cell-tumor",
+"epiphysis"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Bone tumors - benign",
+"difficulty": "medium",
+"stem": "A young adult presents with night pain that is dramatically relieved by NSAIDs (aspirin). Radiograph shows a small (under 1.5 cm) radiolucent nidus surrounded by dense reactive sclerosis. What is the diagnosis?",
+"options": [
+"Osteoid osteoma",
+"Osteoblastoma",
+"Enchondroma",
+"Brodie's abscess"
+],
+"answer": 0,
+"explanation": "A small radiolucent nidus surrounded by reactive sclerosis, with night pain classically relieved by NSAIDs/aspirin (due to prostaglandin overproduction by the nidus), is characteristic of osteoid osteoma, a benign bone tumour usually under 1.5 cm. Osteoblastoma is histologically similar but larger (over 2 cm) and less responsive to NSAIDs. Brodie's abscess is a form of subacute osteomyelitis.",
+"highYield": "Osteoid osteoma = small (under 1.5 cm) nidus, night pain relieved by NSAIDs.",
+"pyqNote": "Osteoid osteoma (aspirin-relieved night pain) is a recurring favourite.",
+"tags": [
+"bone-tumor",
+"osteoid-osteoma",
+"benign"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Bone infection - osteomyelitis",
+"difficulty": "medium",
+"stem": "What is the most common causative organism of acute haematogenous osteomyelitis in children and adults overall?",
+"options": [
+"Streptococcus pyogenes",
+"Staphylococcus aureus",
+"Salmonella species",
+"Pseudomonas aeruginosa"
+],
+"answer": 1,
+"explanation": "Staphylococcus aureus is the most common cause of acute haematogenous osteomyelitis across all age groups. Salmonella is characteristically associated with osteomyelitis in sickle cell disease patients, and Pseudomonas with intravenous drug users and puncture wounds through footwear. MRI is the most sensitive early imaging modality, as plain radiographs lag by 10-14 days.",
+"highYield": "S. aureus = commonest cause of osteomyelitis overall; Salmonella in sickle cell disease.",
+"pyqNote": "Osteomyelitis organisms (S. aureus, Salmonella/sickle cell) are commonly tested.",
+"tags": [
+"osteomyelitis",
+"Staphylococcus",
+"infection"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Bone infection - Pott's spine",
+"difficulty": "medium",
+"stem": "Tuberculosis of the spine (Pott's disease) most commonly involves which part of the vertebra, leading to anterior wedging and gibbus formation?",
+"options": [
+"Posterior elements (lamina, spinous process)",
+"Paradiscal region of the vertebral body",
+"Pedicles only",
+"Facet joints"
+],
+"answer": 1,
+"explanation": "Tuberculosis of the spine most commonly affects the paradiscal region (anterior vertebral body adjacent to the disc), leading to vertebral body destruction, disc-space narrowing, anterior wedge collapse, and a characteristic gibbus (kyphotic) deformity. The thoracolumbar junction is the commonest site. Cold abscess formation and potential cord compression (Pott's paraplegia) are important complications. MRI is the investigation of choice.",
+"highYield": "Pott's spine: paradiscal vertebral body involvement leads to anterior wedging and gibbus; MRI is best.",
+"pyqNote": "Pott's spine location and gibbus deformity are recurring items.",
+"tags": [
+"TB-spine",
+"Pott-disease",
+"osteomyelitis"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Compartment syndrome",
+"difficulty": "hard",
+"stem": "A patient with a tibial shaft fracture develops severe pain aggravated by passive stretching of the toes, a tense swollen leg, and paraesthesia, with pulses still palpable. What is the earliest and most reliable clinical sign of acute compartment syndrome?",
+"options": [
+"Pulselessness",
+"Pain out of proportion, worsened by passive stretch",
+"Pallor",
+"Paralysis"
+],
+"answer": 1,
+"explanation": "The earliest and most reliable clinical sign of compartment syndrome is pain out of proportion to the injury, aggravated by passive stretching of the muscles in the affected compartment. Pulselessness, pallor, and paralysis are late signs and may indicate irreversible damage; pulses are often present early because compartment pressures rarely exceed arterial pressure initially. Emergency fasciotomy is the treatment.",
+"highYield": "Earliest sign of compartment syndrome = pain on passive stretch; pulselessness is a LATE sign. Treat with fasciotomy.",
+"pyqNote": "Earliest sign of compartment syndrome (passive stretch pain) is repeatedly tested.",
+"tags": [
+"compartment-syndrome",
+"fasciotomy",
+"trauma"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Congenital - DDH",
+"difficulty": "medium",
+"stem": "Which clinical test for developmental dysplasia of the hip (DDH) detects relocation of a dislocated femoral head back into the acetabulum by abduction of the flexed hip?",
+"options": [
+"Barlow test",
+"Ortolani test",
+"Trendelenburg test",
+"Thomas test"
+],
+"answer": 1,
+"explanation": "The Ortolani test relocates (reduces) a dislocated hip back into the acetabulum, producing a palpable clunk on abduction of the flexed hip. The Barlow test is provocative and dislocates a reducible hip by adduction and posterior pressure. Ultrasound is the imaging investigation of choice under 6 months of age (before ossification), after which radiographs are used.",
+"highYield": "Ortolani relocates (reduces); Barlow dislocates. Ultrasound is best under 6 months.",
+"pyqNote": "Ortolani versus Barlow is a guaranteed DDH question.",
+"tags": [
+"DDH",
+"Ortolani",
+"Barlow"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Congenital - CTEV",
+"difficulty": "medium",
+"stem": "In congenital talipes equinovarus (CTEV/clubfoot), what is the standard first-line treatment initiated soon after birth?",
+"options": [
+"Immediate surgical release",
+"Ponseti method of serial manipulation and casting",
+"Observation until walking age",
+"Botulinum toxin injection"
+],
+"answer": 1,
+"explanation": "The Ponseti method, consisting of serial gentle manipulation and weekly plaster casting (usually followed by percutaneous Achilles tenotomy and a foot-abduction brace), is the standard first-line treatment for idiopathic clubfoot and avoids extensive surgery in most cases. The deformity components are remembered as CAVE (Cavus, Adductus, Varus, Equinus). Surgery is reserved for resistant or neglected cases.",
+"highYield": "CTEV first-line = Ponseti serial casting; deformities = CAVE (cavus, adductus, varus, equinus).",
+"pyqNote": "Ponseti method for clubfoot is a high-yield paediatric ortho fact.",
+"tags": [
+"CTEV",
+"clubfoot",
+"Ponseti"
+]
+},
+{
+"subject": "Orthopedics",
+"topic": "Implants - X-ray identification",
+"difficulty": "hard",
+"stem": "An intertrochanteric (extracapsular) fracture of the proximal femur in an elderly patient is most appropriately fixed with which implant?",
+"options": [
+"Dynamic hip screw (DHS) or proximal femoral nail",
+"Cannulated cancellous screws only",
+"Hemiarthroplasty as first choice",
+"Plain Kirschner wires"
+],
+"answer": 0,
+"explanation": "Stable intertrochanteric (extracapsular) femoral fractures are best fixed with a dynamic hip screw (DHS); a proximal femoral nail (PFN/cephalomedullary nail) is preferred for unstable or reverse-oblique patterns. These allow controlled collapse and early mobilization. In contrast, displaced intracapsular (femoral neck) fractures in the elderly are usually treated by hemiarthroplasty or total hip replacement because of the high risk of avascular necrosis and non-union.",
+"highYield": "Intertrochanteric fracture = DHS/PFN; displaced intracapsular neck fracture in elderly = arthroplasty.",
+"pyqNote": "Implant choice for hip fractures (DHS versus arthroplasty) is repeatedly tested.",
+"tags": [
+"implant",
+"DHS",
+"intertrochanteric"
+]
+},
+{
+"subject": "Anaesthesia",
+"topic": "Airway - Mallampati",
+"difficulty": "easy",
+"stem": "During the modified Mallampati assessment, when only the hard and soft palate are visible (the uvula and faucial pillars are not seen), what is the Mallampati class, and what does it predict?",
+"options": [
+"Class I, easy intubation",
+"Class II, easy intubation",
+"Class III, potentially difficult intubation",
+"Class IV, easy intubation"
+],
+"answer": 2,
+"explanation": "When only the hard and soft palate are visible (uvula obscured), this is Mallampati class III, which predicts a potentially difficult intubation. Class I = soft palate, uvula, fauces, and pillars visible; Class II = soft palate, uvula, and fauces; Class IV = only the hard palate visible. Higher classes (III-IV) correlate with greater laryngoscopic difficulty.",
+"highYield": "Mallampati III = only soft + hard palate seen (uvula hidden) = potentially difficult airway.",
+"pyqNote": "Mallampati grading is a guaranteed easy anaesthesia item.",
+"tags": [
+"airway",
+"Mallampati",
+"intubation"
+]
+},
+{
+"subject": "Anaesthesia",
+"topic": "Local anaesthetic systemic toxicity",
+"difficulty": "hard",
+"stem": "A patient develops seizures and cardiac arrest shortly after a large-volume local anaesthetic (bupivacaine) injection. In addition to standard resuscitation, what is the specific antidote/treatment for local anaesthetic systemic toxicity (LAST)?",
+"options": [
+"Intravenous sodium bicarbonate",
+"Intravenous lipid emulsion (20% Intralipid)",
+"Intravenous calcium gluconate",
+"Intravenous flumazenil"
+],
+"answer": 1,
+"explanation": "Intravenous 20% lipid emulsion (lipid rescue/Intralipid) is the specific treatment for local anaesthetic systemic toxicity, acting as a 'lipid sink' that sequesters the lipophilic anaesthetic away from cardiac tissue. Bupivacaine is the most cardiotoxic local anaesthetic. Standard measures (airway, oxygen, seizure control with benzodiazepines, and modified ACLS avoiding high-dose adrenaline) are given alongside lipid emulsion.",
+"highYield": "LAST (especially bupivacaine) = treat with IV 20% lipid emulsion (lipid rescue).",
+"pyqNote": "Lipid emulsion for LAST is a high-yield anaesthesia fact.",
+"tags": [
+"LAST",
+"lipid-emulsion",
+"bupivacaine"
+]
+},
+{
+"subject": "Anaesthesia",
+"topic": "ASA grading",
+"difficulty": "easy",
+"stem": "A patient with well-controlled hypertension and diabetes (mild systemic disease without functional limitation) undergoing elective surgery is classified as which ASA physical status grade?",
+"options": [
+"ASA I",
+"ASA II",
+"ASA III",
+"ASA IV"
+],
+"answer": 1,
+"explanation": "ASA II denotes a patient with mild systemic disease without substantive functional limitation (for example well-controlled hypertension, diabetes, or a current smoker). ASA I is a normal healthy patient; ASA III has severe systemic disease with functional limitation; ASA IV has severe systemic disease that is a constant threat to life. The suffix 'E' is added for emergency procedures.",
+"highYield": "ASA II = mild systemic disease, no functional limitation (controlled HTN/DM).",
+"pyqNote": "ASA physical status grading is a dependable easy item.",
+"tags": [
+"ASA",
+"grading",
+"preoperative"
+]
+},
+{
+"subject": "Anaesthesia",
+"topic": "Inhalational agents",
+"difficulty": "medium",
+"stem": "Which property of an inhalational anaesthetic agent, represented by the MAC value, reflects its potency?",
+"options": [
+"A higher MAC indicates a more potent agent",
+"A lower MAC indicates a more potent agent",
+"MAC has no relation to potency",
+"MAC reflects blood solubility, not potency"
+],
+"answer": 1,
+"explanation": "MAC (minimum alveolar concentration) is the concentration of an inhalational agent that prevents movement in 50% of patients in response to a surgical stimulus. A lower MAC indicates a more potent agent (less is needed), so highly potent agents like halothane have a low MAC, whereas nitrous oxide has a very high MAC (low potency). Speed of induction/recovery, by contrast, is governed by the blood-gas solubility coefficient.",
+"highYield": "Lower MAC = more potent inhalational agent; blood-gas solubility governs speed of induction.",
+"pyqNote": "MAC and potency relationship is a recurring anaesthesia concept.",
+"tags": [
+"inhalational",
+"MAC",
+"potency"
+]
+},
+{
+"subject": "Anaesthesia",
+"topic": "IV induction agents",
+"difficulty": "medium",
+"stem": "Which intravenous induction agent is preferred for a haemodynamically unstable (shocked) trauma patient because it causes the least cardiovascular depression?",
+"options": [
+"Propofol",
+"Thiopentone",
+"Etomidate",
+"Sevoflurane"
+],
+"answer": 2,
+"explanation": "Etomidate causes minimal cardiovascular depression and maintains haemodynamic stability, making it useful for induction in haemodynamically compromised patients (though it transiently suppresses adrenal steroidogenesis). Propofol and thiopentone both cause significant hypotension. Ketamine is also haemodynamically favourable (sympathomimetic) and widely used in trauma, but classically etomidate is cited as the most cardiostable induction agent; sevoflurane is an inhalational agent, not an IV induction drug.",
+"highYield": "Etomidate = most cardiostable IV induction agent (but suppresses adrenal cortex).",
+"pyqNote": "Etomidate for the shocked patient is a recurring pharmacology item.",
+"tags": [
+"IV-induction",
+"etomidate",
+"hemodynamics"
+]
+},
+{
+"subject": "Anaesthesia",
+"topic": "Muscle relaxants - reversal",
+"difficulty": "medium",
+"stem": "Which agent specifically reverses (encapsulates) the aminosteroid non-depolarizing muscle relaxants rocuronium and vecuronium?",
+"options": [
+"Neostigmine",
+"Sugammadex",
+"Atropine",
+"Edrophonium"
+],
+"answer": 1,
+"explanation": "Sugammadex is a modified gamma-cyclodextrin that directly encapsulates aminosteroid neuromuscular blockers (rocuronium and vecuronium), rapidly and completely reversing their effect even from deep block. Neostigmine, an acetylcholinesterase inhibitor, reverses non-depolarizing blockade non-specifically but is ineffective against deep block and is given with an antimuscarinic (atropine/glycopyrrolate) to counter bradycardia. Sugammadex does not reverse benzylisoquinolinium agents such as atracurium.",
+"highYield": "Sugammadex specifically encapsulates rocuronium/vecuronium; neostigmine is the non-specific anticholinesterase reversal.",
+"pyqNote": "Sugammadex mechanism and specificity is increasingly tested.",
+"tags": [
+"muscle-relaxant",
+"sugammadex",
+"reversal"
+]
+},
+{
+"subject": "Anaesthesia",
+"topic": "Spinal vs epidural",
+"difficulty": "easy",
+"stem": "During spinal (subarachnoid) anaesthesia, the local anaesthetic is injected into the cerebrospinal fluid. To avoid spinal cord injury in an adult, the lumbar puncture should be performed at or below which interspace?",
+"options": [
+"L1-L2",
+"L3-L4 (or below)",
+"T12-L1",
+"L5-S1 only"
+],
+"answer": 1,
+"explanation": "In adults the spinal cord typically ends at the L1-L2 level (conus medullaris), so spinal anaesthesia is performed at L3-L4 (or below, e.g. L4-L5), using the iliac crests (Tuffier's line, at L4) as a landmark, to avoid damaging the cord. Spinal anaesthesia uses a small volume into the CSF for a rapid, dense block, whereas epidural anaesthesia deposits a larger volume into the epidural (potential) space with a slower onset and segmental block.",
+"highYield": "Spinal anaesthesia at L3-L4 or below (cord ends at L1-L2); Tuffier's line = L4 (iliac crests).",
+"pyqNote": "Level of spinal puncture and cord termination is commonly tested.",
+"tags": [
+"spinal-anaesthesia",
+"epidural",
+"lumbar-puncture"
+]
+},
+{
+"subject": "Anaesthesia",
+"topic": "Malignant hyperthermia",
+"difficulty": "hard",
+"stem": "A patient under general anaesthesia with sevoflurane and succinylcholine develops rapidly rising end-tidal CO2, tachycardia, masseter spasm, hyperthermia, and muscle rigidity. What is the specific drug treatment?",
+"options": [
+"Dantrolene",
+"Bromocriptine",
+"Cyproheptadine",
+"Activated charcoal"
+],
+"answer": 0,
+"explanation": "This is malignant hyperthermia, a hypermetabolic crisis triggered by volatile anaesthetics and succinylcholine in genetically susceptible patients (ryanodine receptor RYR1 mutation causing uncontrolled calcium release). The specific antidote is intravenous dantrolene, which inhibits sarcoplasmic calcium release; the triggering agents must be stopped immediately and the patient actively cooled. A rising end-tidal CO2 is often the earliest sign.",
+"highYield": "Malignant hyperthermia (volatiles/succinylcholine) = stop triggers + IV dantrolene; early sign is rising EtCO2.",
+"pyqNote": "Dantrolene for malignant hyperthermia is a guaranteed high-yield item.",
+"tags": [
+"malignant-hyperthermia",
+"dantrolene",
+"succinylcholine"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Classic signs - intussusception",
+"difficulty": "easy",
+"stem": "On ultrasound of an infant with suspected intussusception, the concentric rings of bowel within bowel produce which classic sign on the transverse view?",
+"options": [
+"Whirl sign",
+"Target (doughnut) sign",
+"Comet-tail sign",
+"Snowstorm appearance"
+],
+"answer": 1,
+"explanation": "The 'target' or 'doughnut' sign on the transverse ultrasound view (and a 'pseudokidney' sign on the longitudinal view) is characteristic of intussusception, representing concentric layers of telescoped bowel. Ultrasound is the investigation of choice. The whirl sign suggests volvulus, and a snowstorm appearance is seen in molar pregnancy.",
+"highYield": "Target/doughnut sign on USG = intussusception; pseudokidney on longitudinal view.",
+"pyqNote": "Target sign for intussusception is a recurring radiology item.",
+"tags": [
+"ultrasound",
+"intussusception",
+"target-sign"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Modality of choice - stroke",
+"difficulty": "medium",
+"stem": "What is the imaging investigation of choice for diagnosing an acute ischaemic stroke within the first few hours, specifically to detect early infarction and exclude haemorrhage before thrombolysis?",
+"options": [
+"Non-contrast CT head",
+"MRI diffusion-weighted imaging",
+"Carotid Doppler",
+"Plain skull radiograph"
+],
+"answer": 0,
+"explanation": "A non-contrast CT head is the first-line investigation in suspected acute stroke, primarily to exclude haemorrhage before thrombolysis, as it is fast and widely available; early ischaemic changes may be subtle. MRI with diffusion-weighted imaging is the most sensitive for detecting early ischaemia/infarct but is less practical as the initial emergency scan. Distinguishing infarct from bleed is essential before giving thrombolytics.",
+"highYield": "Acute stroke: non-contrast CT first to rule out bleed before thrombolysis; DWI-MRI is most sensitive for early ischaemia.",
+"pyqNote": "NCCT first in acute stroke is a high-yield modality-of-choice item.",
+"tags": [
+"CT",
+"stroke",
+"modality-of-choice"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Contrast studies - barium",
+"difficulty": "easy",
+"stem": "A barium swallow in a patient with achalasia cardia classically demonstrates which appearance of the distal oesophagus?",
+"options": [
+"'Bird's beak' tapering",
+"'Apple-core' stricture",
+"'String sign'",
+"'Corkscrew' oesophagus"
+],
+"answer": 0,
+"explanation": "Achalasia cardia produces a smooth, tapering 'bird's beak' (or 'rat-tail') narrowing of the distal oesophagus with proximal dilatation on barium swallow, due to failure of the lower oesophageal sphincter to relax. An 'apple-core' lesion suggests malignant stricture, the 'string sign' is seen in Crohn's disease/pyloric stenosis, and a 'corkscrew' oesophagus indicates diffuse oesophageal spasm. Manometry is confirmatory for achalasia.",
+"highYield": "Achalasia = 'bird's beak' tapering on barium swallow; apple-core = malignancy.",
+"pyqNote": "Barium swallow signs (bird's beak, apple-core) are frequently matched.",
+"tags": [
+"barium",
+"achalasia",
+"contrast"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Classic signs - volvulus",
+"difficulty": "medium",
+"stem": "On CT abdomen, a 'whirl sign' (swirling of mesenteric vessels and bowel around the mesenteric axis) is most characteristic of which condition?",
+"options": [
+"Diverticulitis",
+"Midgut/intestinal volvulus",
+"Appendicitis",
+"Pancreatitis"
+],
+"answer": 1,
+"explanation": "The 'whirl sign' on CT, produced by the bowel and mesenteric vessels twisting around the superior mesenteric artery axis, is characteristic of volvulus (including midgut volvulus from malrotation). In children, an abnormal position of the superior mesenteric vein relative to the artery on CT/ultrasound also suggests malrotation. Prompt recognition is vital as volvulus can cause bowel ischaemia.",
+"highYield": "Whirl sign on CT = volvulus (twisting of bowel and mesenteric vessels).",
+"pyqNote": "Whirl sign for volvulus is a recurring CT-sign question.",
+"tags": [
+"CT",
+"volvulus",
+"whirl-sign"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Radiation safety - ALARA",
+"difficulty": "easy",
+"stem": "The radiation protection principle 'ALARA' that guides safe use of ionizing radiation stands for:",
+"options": [
+"As Low As Reasonably Achievable",
+"Absolute Limit And Reduced Allowance",
+"Average Level And Recommended Amount",
+"Adjusted Lowest Acceptable Radiation Average"
+],
+"answer": 0,
+"explanation": "ALARA stands for 'As Low As Reasonably Achievable', the core principle of radiation safety, achieved through the three pillars of time (minimize exposure time), distance (maximize distance from the source), and shielding (use lead aprons/barriers). It applies to both patients and staff. Pregnant patients and children are especially radiosensitive, so radiation-free modalities (ultrasound, MRI) are preferred where possible.",
+"highYield": "ALARA = As Low As Reasonably Achievable; protect via time, distance, shielding.",
+"pyqNote": "ALARA and the time-distance-shielding triad are dependable easy items.",
+"tags": [
+"radiation-safety",
+"ALARA",
+"protection"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Modality of choice - MRI",
+"difficulty": "medium",
+"stem": "What is the imaging investigation of choice for suspected acute spinal cord compression (for example from a metastatic deposit or epidural abscess) to assess the cord and surrounding soft tissues?",
+"options": [
+"Plain spine radiograph",
+"CT spine",
+"MRI of the whole spine",
+"Bone scan"
+],
+"answer": 2,
+"explanation": "MRI of the whole spine is the investigation of choice for suspected cord compression, as it best demonstrates the spinal cord, soft tissues, discs, and epidural collections without ionizing radiation. The whole spine is imaged because metastatic compression can occur at multiple levels. CT and plain films assess bony detail but are inferior for cord and soft-tissue evaluation; urgent diagnosis is needed to preserve neurological function.",
+"highYield": "Suspected cord compression = urgent MRI of the WHOLE spine (best for cord and soft tissue).",
+"pyqNote": "MRI as modality of choice for cord compression is repeatedly tested.",
+"tags": [
+"MRI",
+"cord-compression",
+"modality-of-choice"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Interventional basics - Seldinger",
+"difficulty": "medium",
+"stem": "The Seldinger technique, fundamental to interventional radiology and vascular access, describes which basic method?",
+"options": [
+"Direct surgical cut-down onto a vessel",
+"Insertion of a catheter over a guidewire passed through a needle into a vessel",
+"Blind percutaneous catheter insertion without a guidewire",
+"Ultrasound-guided drainage of an abscess only"
+],
+"answer": 1,
+"explanation": "The Seldinger technique involves puncturing a vessel with a needle, passing a guidewire through the needle into the vessel, removing the needle, and then advancing a catheter/sheath over the guidewire. It is the foundation of angiography, central venous catheterization, and many percutaneous interventions, allowing safe access while minimizing trauma. It replaced the need for surgical cut-down for vascular access.",
+"highYield": "Seldinger technique = needle, then guidewire, then catheter over wire; basis of vascular access and IR.",
+"pyqNote": "Seldinger technique is a recurring interventional radiology concept.",
+"tags": [
+"interventional",
+"Seldinger",
+"vascular-access"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Classic signs - chest",
+"difficulty": "medium",
+"stem": "A neonate with respiratory distress has a chest radiograph showing multiple cystic air-filled loops of bowel in the left hemithorax, mediastinal shift to the right, and a paucity of bowel gas in the abdomen. What is the most likely diagnosis?",
+"options": [
+"Congenital lobar emphysema",
+"Congenital diaphragmatic hernia (Bochdalek)",
+"Cystic adenomatoid malformation",
+"Pneumothorax"
+],
+"answer": 1,
+"explanation": "Bowel loops in the chest with contralateral mediastinal shift and a gasless abdomen are characteristic of a congenital diaphragmatic hernia, most commonly through the posterolateral Bochdalek defect on the left. Associated pulmonary hypoplasia and pulmonary hypertension determine prognosis. Congenital lobar emphysema and CCAM are intrapulmonary lesions without herniated bowel, and a pneumothorax shows a collapsed lung edge, not bowel loops.",
+"highYield": "Bowel loops in chest + mediastinal shift + gasless abdomen on CXR = congenital diaphragmatic hernia (Bochdalek, left).",
+"pyqNote": "Diaphragmatic hernia chest radiograph appearance is a recurring paediatric radiology item.",
+"tags": [
+"chest-radiograph",
+"diaphragmatic-hernia",
+"neonatal"
+]
+}
+]
