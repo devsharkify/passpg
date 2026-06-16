@@ -124,6 +124,14 @@ const sources = [
   { name: 'path-image-style', load: () => loadJson('src/data/raw/path-image-style.json') },
   { name: 'medicine-gaps', load: () => loadJson('src/data/raw/medicine-gaps.json') },
   { name: 'neet-2025-style-mimic', load: () => loadJson('src/data/raw/neet-2025-style-mimic.json') },
+  // Blind spot fill — BNS 2024, SPM fringe, Nobel physiology, rare tox/fungi
+  { name: 'bns-forensic-v2', load: () => loadJson('src/data/raw/bns-forensic-v2.json') },
+  { name: 'spm-fringe-v2', load: () => loadJson('src/data/raw/spm-fringe-v2.json') },
+  { name: 'frontier-physio-v2', load: () => loadJson('src/data/raw/frontier-physio-v2.json') },
+  { name: 'rare-tox-fungi-v2', load: () => loadJson('src/data/raw/rare-tox-fungi-v2.json') },
+  { name: 'spm-fringe-direct', load: () => loadJson('src/data/raw/spm-fringe-direct.json') },
+  { name: 'frontier-physio-direct', load: () => loadJson('src/data/raw/frontier-physio-direct.json') },
+  { name: 'rare-tox-fungi-direct', load: () => loadJson('src/data/raw/rare-tox-fungi-direct.json') },
 ];
 
 const all = [];
