@@ -1,0 +1,699 @@
+[
+  {
+    "subject": "ENT",
+    "topic": "Hearing Rehabilitation - BAHA",
+    "difficulty": "medium",
+    "stem": "A 28-year-old man with bilateral aural atresia presents for hearing rehabilitation. His bone conduction thresholds in the better ear are 35 dB HL. He is not a candidate for conventional hearing aids due to absence of ear canals. Which device is most appropriate for this patient?",
+    "options": [
+      "Bone-Anchored Hearing Aid (BAHA)",
+      "Cochlear implant",
+      "CROS hearing aid",
+      "BiCROS hearing aid"
+    ],
+    "answer": 0,
+    "explanation": "BAHA is indicated for conductive or mixed hearing loss where conventional aids are not possible, such as aural atresia. It works via bone conduction through a titanium osseointegrated implant, bypassing the outer and middle ear. BAHA candidacy requires bone conduction thresholds in the better ear of <45 dB HL, which this patient meets at 35 dB HL. Cochlear implant is for sensorineural loss. CROS/BiCROS are for unilateral dead ear situations.",
+    "highYield": "BAHA indication: conductive/mixed hearing loss where conventional aids are impossible (aural atresia, COM with discharge, canal wall-down mastoidectomy); better ear BC <45 dB HL.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "ENT",
+    "topic": "Hearing Rehabilitation - CROS vs BiCROS",
+    "difficulty": "medium",
+    "stem": "A 45-year-old woman has a completely non-functional left ear (dead ear) following acoustic neuroma surgery. Her right ear has normal hearing. She complains of missing sounds from her left side. Which hearing device is most appropriate for her?",
+    "options": [
+      "Cochlear implant in the left ear",
+      "CROS hearing aid",
+      "BiCROS hearing aid",
+      "BAHA on the left side"
+    ],
+    "answer": 1,
+    "explanation": "CROS (Contralateral Routing of Signal) is indicated for unilateral dead ear with a NORMAL contralateral ear. A microphone on the dead (left) side routes sound wirelessly to a receiver in the normal (right) ear without adding amplification. BiCROS is used when the better ear also has hearing impairment. The key distinction: CROS = better ear is normal; BiCROS = better ear is impaired. Cochlear implant is an option for SSD but is more invasive. BAHA for SSD works by transcranial skull vibration stimulating the contralateral cochlea.",
+    "highYield": "CROS = dead ear + NORMAL better ear (no amplification added); BiCROS = dead ear + IMPAIRED better ear (amplification added to receiver ear).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "ENT",
+    "topic": "Hearing Rehabilitation - BiCROS",
+    "difficulty": "medium",
+    "stem": "A 62-year-old man has a dead right ear and moderate sensorineural hearing loss in the left ear (pure tone average 55 dB HL). He has tried a conventional hearing aid in the left ear alone with unsatisfactory results. What is the most appropriate hearing device for this patient?",
+    "options": [
+      "CROS hearing aid",
+      "BiCROS hearing aid",
+      "BAHA on the right side",
+      "Cochlear implant in the right ear"
+    ],
+    "answer": 1,
+    "explanation": "BiCROS is indicated when one ear is a dead/non-functional ear AND the better (contralateral) ear has hearing impairment. A microphone on the dead right side routes sound to a receiver on the left ear, which also provides amplification to compensate for the left ear's moderate SNHL. CROS is incorrect because the better ear (left) is not normal -- it has moderate hearing loss. BAHA on the right may help via bone conduction but BiCROS specifically addresses the combination of dead ear + impaired better ear.",
+    "highYield": "BiCROS = one dead ear + impaired better ear. CROS = one dead ear + normal better ear.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "ENT",
+    "topic": "Cochlear Implant - Candidacy",
+    "difficulty": "easy",
+    "stem": "Which of the following is the classic audiometric criterion for cochlear implant candidacy in adults with bilateral sensorineural hearing loss?",
+    "options": [
+      "Pure tone average >40 dB HL with speech discrimination <70%",
+      "Pure tone average >70 dB HL at 500, 1000, 2000 Hz with speech discrimination <50% in implant ear",
+      "Pure tone average >55 dB HL at 500 Hz only with speech discrimination <60%",
+      "Pure tone average >90 dB HL with total absence of speech discrimination"
+    ],
+    "answer": 1,
+    "explanation": "Classic cochlear implant audiometric candidacy criteria include: bilateral severe-to-profound SNHL with pure tone average >70 dB HL at 500, 1000, and 2000 Hz, AND speech discrimination score <50% in the ear to be implanted even with optimally fit hearing aids. Option A uses too low a threshold (40 dB). Option D (>90 dB, total absence) is too restrictive and misses many candidates. Option C uses a single frequency threshold which is not standard.",
+    "highYield": "CI candidacy: bilateral PTA >70 dB HL at 500/1000/2000 Hz + speech discrimination <50% with optimal hearing aids.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "ENT",
+    "topic": "Cochlear Implant - Prelingual Deafness",
+    "difficulty": "medium",
+    "stem": "A 3-year-old child with prelingual profound bilateral SNHL is being evaluated for cochlear implantation. Parents ask about the optimal timing for implantation. Which statement is most accurate regarding cochlear implant outcomes in prelingual deafness?",
+    "options": [
+      "Age of implantation has no significant effect on speech outcomes in prelingual deafness",
+      "Best outcomes occur when implanted before age 1-2 years during the critical period of auditory cortex plasticity",
+      "Prelingual deafness is a contraindication to cochlear implantation regardless of age",
+      "Implantation should be delayed until the child is old enough to participate in rehabilitation (age 5-7 years)"
+    ],
+    "answer": 1,
+    "explanation": "In prelingual deafness, best outcomes occur when cochlear implantation is performed before age 1-2 years during the critical period of auditory cortex plasticity. The developing auditory cortex requires acoustic stimulation during this window to establish normal auditory processing pathways. Delayed implantation results in cortical reorganisation and significantly poorer speech/language outcomes. This is one of the most important principles in paediatric cochlear implantation.",
+    "highYield": "Prelingual deafness CI: implant before age 1-2 years (critical period); later implantation = worse outcomes due to auditory cortex reorganisation.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "ENT",
+    "topic": "Cochlear Implant - Contraindications",
+    "difficulty": "medium",
+    "stem": "A 35-year-old woman with profound bilateral SNHL is being evaluated for cochlear implantation. MRI of the internal auditory canal shows aplasia of the cochlear nerve bilaterally. What is the most appropriate management?",
+    "options": [
+      "Proceed with cochlear implantation in the better ear",
+      "Trial with high-powered hearing aids for 6 months before deciding",
+      "Auditory brainstem implant (ABI) is the appropriate alternative",
+      "BAHA is the next best option for this patient"
+    ],
+    "answer": 2,
+    "explanation": "Cochlear nerve aplasia/absence is an absolute contraindication to cochlear implantation because the cochlear implant electrically stimulates the cochlear nerve fibres -- if the nerve is absent, no signal can reach the brainstem. In such cases, the Auditory Brainstem Implant (ABI) is used, which stimulates the cochlear nucleus in the brainstem directly, bypassing both the cochlea and the cochlear nerve. BAHA is for conductive/mixed loss, not applicable here. High-powered hearing aids would also fail without a functional cochlear nerve.",
+    "highYield": "Cochlear nerve aplasia = CI contraindication; use Auditory Brainstem Implant (ABI) instead.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "ENT",
+    "topic": "Cochlear Implant - Pre-operative Imaging",
+    "difficulty": "medium",
+    "stem": "A patient scheduled for cochlear implantation requires pre-operative imaging. Which imaging modality is mandatory to assess cochlear anatomy, scala tympani patency, and presence of labyrinthitis ossificans?",
+    "options": [
+      "MRI with gadolinium contrast of the brain and inner ear",
+      "Plain X-ray of the temporal bone (Schuller's view)",
+      "HRCT temporal bone",
+      "Ultrasound of the temporal bone"
+    ],
+    "answer": 2,
+    "explanation": "HRCT temporal bone is mandatory pre-cochlear implant imaging to assess: cochlear anatomy, patency of the scala tympani (the channel through which the electrode array is inserted), presence of labyrinthitis ossificans (bony occlusion of the cochlea from previous meningitis or infection), mastoid pneumatisation, and any anatomical anomalies. MRI with contrast is used complementarily to assess auditory nerve integrity and rule out retrocochlear pathology (e.g., acoustic neuroma), but HRCT is the mandatory primary modality. Plain X-ray and ultrasound have no role.",
+    "highYield": "HRCT temporal bone is mandatory pre-CI to assess cochlear patency, scala tympani, and labyrinthitis ossificans. MRI assesses auditory nerve integrity.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "ENT",
+    "topic": "Single-Sided Deafness - Device Comparison",
+    "difficulty": "hard",
+    "stem": "A 40-year-old man with sudden sensorineural hearing loss has developed unilateral dead right ear (single-sided deafness) with a normal left ear. He is particularly bothered by inability to localise sounds and difficulty understanding speech in noisy environments. Ranking from best to least effective for sound localisation and speech in noise, which order is correct?",
+    "options": [
+      "CROS > BAHA > Cochlear implant",
+      "Cochlear implant > BAHA > CROS",
+      "BAHA > Cochlear implant > CROS",
+      "CROS > Cochlear implant > BAHA"
+    ],
+    "answer": 1,
+    "explanation": "For single-sided deafness (SSD), the ranking for sound localisation and speech in noise performance is: Cochlear implant > BAHA > CROS. CI is best because it provides true binaural input directly to the deaf cochlea, restoring true binaural hearing. BAHA is second because it stimulates the contralateral (normal) cochlea via transcranial skull bone vibration, providing some spatial advantage but not true binaural hearing. CROS is the least effective for localisation because it merely routes sound from the dead side to the normal ear -- no binaural processing occurs, and localisation ability is minimal.",
+    "highYield": "SSD device ranking for localisation/speech in noise: CI > BAHA > CROS. CROS provides no binaural hearing; CI provides true binaural input.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "ENT",
+    "topic": "Hearing Aid - Conventional Fitting Thresholds",
+    "difficulty": "easy",
+    "stem": "A 55-year-old woman has bilateral sensorineural hearing loss with pure tone average of 98 dB HL bilaterally. She has been using conventional hearing aids with poor benefit. Which is the most appropriate next management step?",
+    "options": [
+      "Upgrade to high-powered digital hearing aids",
+      "BAHA implantation bilaterally",
+      "Referral for cochlear implant evaluation",
+      "CROS hearing aid fitting"
+    ],
+    "answer": 2,
+    "explanation": "Conventional hearing aids are effective for hearing loss up to 90 dB HL. At 98 dB HL (profound SNHL) with poor benefit from hearing aids, the patient is above the conventional hearing aid range and should be referred for cochlear implant evaluation. BAHA is preferred when the air-bone gap is large (>30 dB) with good bone conduction thresholds -- not applicable for profound bilateral SNHL. CROS aids are for unilateral dead ear with normal contralateral ear, not bilateral profound loss. Upgrading aids would still be insufficient at this severity.",
+    "highYield": "Conventional hearing aids: 25-90 dB HL. Above 90 dB (profound) = cochlear implant is preferred management.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "ENT",
+    "topic": "Cochlear Implant - Postlingual Deafness",
+    "difficulty": "easy",
+    "stem": "Among the following patient profiles, which patient is expected to achieve the BEST outcomes following cochlear implantation?",
+    "options": [
+      "A 5-year-old child with prelingual profound SNHL since birth, implanted at age 4",
+      "A 40-year-old adult who lost hearing 2 years ago after acquiring speech and language (postlingual deafness), implanted now",
+      "A 30-year-old adult with cochlear nerve aplasia",
+      "A 55-year-old adult with labyrinthitis ossificans (total ossification) of both cochleae"
+    ],
+    "answer": 1,
+    "explanation": "Postlingual deafness patients (who acquired speech and language before losing hearing) achieve the best cochlear implant outcomes overall. The central auditory pathways and language cortex are already fully developed and retain their function. Earlier implantation after deafness onset = better outcomes. The 40-year-old with only 2 years of deafness has intact auditory memory and language skills, and will benefit maximally. Prelingual deafness implanted late (age 4, past the critical window) has suboptimal results. Cochlear nerve aplasia is a CI contraindication. Total labyrinthitis ossificans makes electrode insertion technically impossible.",
+    "highYield": "Best CI outcomes: postlingual deafness adults. Earlier implantation post-deafness = better results. Prelingual deafness = critical period before age 1-2 years.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anti-VEGF - Faricimab Mechanism",
+    "difficulty": "medium",
+    "stem": "Faricimab (Vabysmo) is described as the first bispecific monoclonal antibody approved for ophthalmic use. Which TWO pathways does faricimab simultaneously inhibit?",
+    "options": [
+      "VEGF-A and VEGF-B",
+      "VEGF-A and Angiopoietin-2 (Ang-2)",
+      "Angiopoietin-2 and PDGF",
+      "VEGF-A and PlGF (placental growth factor)"
+    ],
+    "answer": 1,
+    "explanation": "Faricimab is the first bispecific monoclonal antibody in ophthalmology, targeting two distinct pathways: VEGF-A (same target as ranibizumab and bevacizumab) and Angiopoietin-2 (Ang-2). No prior anti-VEGF agent targeted Ang-2. Ang-2 destabilises retinal vessel endothelial junctions and sensitises vessels to VEGF signalling. Blocking Ang-2 reduces vascular permeability and neovascular inflammation, complementing VEGF-A blockade. Aflibercept targets VEGF-A, VEGF-B, and PlGF -- not Ang-2. PDGF is not a current ophthalmic target.",
+    "highYield": "Faricimab = first bispecific ophthalmic antibody; targets VEGF-A + Angiopoietin-2 (Ang-2). No prior anti-VEGF targeted Ang-2.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anti-VEGF - Molecule Types",
+    "difficulty": "medium",
+    "stem": "A medical student is studying anti-VEGF agents used in ophthalmology. Which of the following correctly matches the anti-VEGF agent with its molecular type?",
+    "options": [
+      "Ranibizumab = full-length humanised IgG; Bevacizumab = Fab fragment",
+      "Aflibercept = single-chain antibody fragment (scFv); Faricimab = fusion protein",
+      "Ranibizumab = Fab fragment; Bevacizumab = full-length humanised IgG; Brolucizumab = scFv",
+      "Faricimab = fusion protein; Aflibercept = bispecific full IgG"
+    ],
+    "answer": 2,
+    "explanation": "The correct molecular types are: Ranibizumab = antigen-binding fragment (Fab), derived from same parent molecule as bevacizumab, approved specifically for ophthalmic use. Bevacizumab = full-length humanised monoclonal IgG antibody, approved for colorectal cancer, used off-label in ophthalmology. Brolucizumab = single-chain antibody fragment (scFv), the smallest anti-VEGF molecule, highest molar concentration per dose, but associated with intraocular inflammation/vasculitis. Aflibercept is a fusion protein (VEGFR-1 + VEGFR-2 domains + IgG1 Fc). Faricimab is a bispecific full IgG.",
+    "highYield": "Anti-VEGF molecule types: Ranibizumab=Fab; Bevacizumab=full IgG; Aflibercept=fusion protein (VEGF trap); Faricimab=bispecific IgG; Brolucizumab=scFv (smallest).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anti-VEGF - Aflibercept Mechanism",
+    "difficulty": "medium",
+    "stem": "Aflibercept (Eylea) differs from ranibizumab and bevacizumab in its mechanism. Which statement best describes the unique mechanism of aflibercept?",
+    "options": [
+      "It is an Fab fragment that selectively binds only VEGF-A isoforms",
+      "It is a recombinant fusion protein combining VEGFR-1 domain 2 and VEGFR-2 domain 3 with IgG1 Fc, binding VEGF-A, VEGF-B, and PlGF",
+      "It is a bispecific antibody targeting VEGF-A and Angiopoietin-2",
+      "It is a full-length IgG antibody with higher VEGF-A affinity than ranibizumab but does not bind VEGF-B"
+    ],
+    "answer": 1,
+    "explanation": "Aflibercept (Eylea) is a recombinant fusion protein (VEGF trap) constructed from extracellular domains of VEGFR-1 (domain 2) and VEGFR-2 (domain 3) fused to the Fc portion of IgG1. This architecture gives it higher binding affinity for VEGF-A than ranibizumab or bevacizumab, and it also binds VEGF-B and placental growth factor (PlGF) -- broader blockade. Its dosing interval can be extended to every 8 weeks. Faricimab (not aflibercept) targets Ang-2. Brolucizumab (not aflibercept) is the scFv.",
+    "highYield": "Aflibercept = VEGF trap fusion protein (VEGFR-1 D2 + VEGFR-2 D3 + IgG1 Fc); binds VEGF-A + VEGF-B + PlGF; higher affinity than ranibizumab/bevacizumab.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anti-VEGF - Faricimab Clinical Trials",
+    "difficulty": "hard",
+    "stem": "Which set of landmark clinical trials evaluated faricimab for neovascular AMD (wet AMD) and diabetic macular oedema respectively?",
+    "options": [
+      "HARBOR and RIDE/RISE trials",
+      "TENAYA/LUCERNE (nAMD) and YOSEMITE/RHINE (DME)",
+      "CATT trial (nAMD) and DRCR.net Protocol T (DME)",
+      "IVAN trial (nAMD) and BOULEVARD trial (DME)"
+    ],
+    "answer": 1,
+    "explanation": "The landmark faricimab clinical trials are: TENAYA and LUCERNE for neovascular AMD (wet AMD), and YOSEMITE and RHINE for diabetic macular oedema (DME/DMO). These trials demonstrated that faricimab achieved dosing intervals of up to 16 weeks in a significant proportion of patients -- the key clinical advantage over other anti-VEGFs. HARBOR, CATT, and IVAN are ranibizumab/bevacizumab comparison trials. RIDE/RISE are ranibizumab DME trials. DRCR.net Protocol T compared ranibizumab, bevacizumab, and aflibercept for DME.",
+    "highYield": "Faricimab trials: TENAYA + LUCERNE (nAMD); YOSEMITE + RHINE (DME). Key advantage: up to 16-week dosing interval.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "OCT-A vs FFA",
+    "difficulty": "medium",
+    "stem": "A 68-year-old man with wet AMD is being investigated with retinal imaging. OCT-A (optical coherence tomography angiography) is requested. Which statement best describes the key advantage and limitation of OCT-A compared to fundus fluorescein angiography (FFA)?",
+    "options": [
+      "OCT-A shows active leakage better than FFA and requires dye injection",
+      "OCT-A is non-invasive, dye-free, and superior for structural CNV mapping, but cannot demonstrate active leakage (dynamic function)",
+      "FFA is superior to OCT-A for visualising the deep capillary plexus and foveal avascular zone",
+      "OCT-A requires intravenous fluorescein injection and is contraindicated in renal failure"
+    ],
+    "answer": 1,
+    "explanation": "OCT-A uses motion contrast imaging (decorrelation of signal from moving blood cells) -- it is non-invasive and requires NO dye injection. Key advantage: can visualise the foveal avascular zone (FAZ), deep capillary plexus, and choriocapillaris, and is superior for structural mapping of CNV networks. Key limitation: it shows flow, NOT leakage. FFA shows dynamic leakage (functional assessment) and remains the gold standard for detecting active leakage and guiding treatment decisions. Both modalities are complementary. FFA requires IV fluorescein, which OCT-A does not.",
+    "highYield": "OCT-A: non-invasive, dye-free, shows flow/structure, cannot show leakage. FFA: shows active leakage (dynamic), gold standard for treatment guidance. Complementary modalities.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anti-VEGF - Faricimab Angiopoietin-2",
+    "difficulty": "hard",
+    "stem": "A researcher explains that blocking Angiopoietin-2 (Ang-2) provides additional benefit beyond VEGF-A blockade in neovascular retinal disease. Which mechanism best explains the role of Ang-2 in retinal vascular disease?",
+    "options": [
+      "Ang-2 promotes pericyte coverage and stabilises retinal vessel walls",
+      "Ang-2 destabilises retinal vessel endothelial junctions and sensitises vessels to VEGF signalling, promoting vascular permeability and neovascular inflammation",
+      "Ang-2 is the primary growth factor responsible for neovascular membrane formation in AMD",
+      "Ang-2 acts downstream of VEGF-A to promote photoreceptor apoptosis"
+    ],
+    "answer": 1,
+    "explanation": "Angiopoietin-2 (Ang-2) destabilises retinal vessel endothelial junctions (loosening tight junctions) and sensitises vessels to VEGF signalling, thereby promoting vascular permeability and neovascular inflammation. This is distinct from Ang-1, which promotes vessel stability. By blocking Ang-2, faricimab reduces vascular leakage through a mechanism complementary to VEGF-A blockade. Ang-2 is NOT the primary driver of neovascular membrane formation (VEGF-A is); rather, it amplifies VEGF-mediated effects. Ang-2 does not promote pericyte coverage -- that is the role of Ang-1/PDGF.",
+    "highYield": "Ang-2 = destabilises vessel junctions + sensitises to VEGF. Faricimab blocks both VEGF-A and Ang-2, reducing leakage and neovascular inflammation.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anti-VEGF - Brolucizumab",
+    "difficulty": "hard",
+    "stem": "Brolucizumab differs from other intravitreal anti-VEGF agents in its molecular structure. Which statement about brolucizumab is correct, including its notable adverse effect?",
+    "options": [
+      "Brolucizumab is a full IgG antibody with the largest molecular size among anti-VEGF agents; associated with hypersensitivity reactions",
+      "Brolucizumab is a single-chain antibody fragment (scFv), the smallest anti-VEGF molecule with highest molar concentration per dose; associated with intraocular inflammation and retinal vasculitis",
+      "Brolucizumab is a fusion protein similar to aflibercept; associated with thromboembolic events",
+      "Brolucizumab is a bispecific antibody; associated with paradoxical choroidal neovascularisation"
+    ],
+    "answer": 1,
+    "explanation": "Brolucizumab is a single-chain antibody fragment (scFv) -- the smallest anti-VEGF molecule. Its small size allows the highest molar concentration per standard injection volume, potentially providing more potent per-dose blockade. However, a critical safety signal emerged post-approval: brolucizumab is associated with intraocular inflammation, retinal vasculitis, and retinal vascular occlusion, limiting its use. It is NOT a full IgG (that is bevacizumab/faricimab), NOT a fusion protein (that is aflibercept), and NOT bispecific (faricimab is the bispecific antibody).",
+    "highYield": "Brolucizumab = scFv (smallest anti-VEGF, highest molar concentration per dose); adverse effect = intraocular inflammation and retinal vasculitis.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Radiology",
+    "topic": "AI in Radiology - FDA Clearances",
+    "difficulty": "easy",
+    "stem": "According to current data (early 2026), what proportion of all FDA-cleared AI medical devices belong to the radiology specialty, and approximately how many total AI-enabled radiology devices have been cleared?",
+    "options": [
+      "25-30% of all AI devices; over 200 devices",
+      "50% of all AI devices; over 500 devices",
+      "75-77% of all AI devices; over 1,000 devices",
+      "90% of all AI devices; over 2,000 devices"
+    ],
+    "answer": 2,
+    "explanation": "As of early 2026, the FDA has cleared over 1,000 AI-enabled radiology devices, and radiology accounts for approximately 75-77% of all AI medical device authorisations. This dominance reflects the image-based nature of radiology, which is highly amenable to deep learning and convolutional neural network (CNN) analysis. This is a frequently tested landmark statistic in radiology MCQs for NEET PG 2026.",
+    "highYield": "AI in radiology: >1,000 FDA-cleared devices as of early 2026; radiology = ~75-77% of all FDA AI medical device authorisations.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Radiology",
+    "topic": "AI in Radiology - Deep Learning Applications",
+    "difficulty": "medium",
+    "stem": "A hospital implements an AI-based mammography triage tool to reduce radiologist workload for screening mammography. According to published literature, approximately what proportion of low-risk screening mammography cases can potentially be removed from radiologist review without compromising cancer detection?",
+    "options": [
+      "Less than 20% of cases",
+      "30-40% of cases",
+      "More than 75% of cases",
+      "Only cases where the patient is under 40 years old"
+    ],
+    "answer": 2,
+    "explanation": "AI mammography triage tools can potentially remove more than 75% of low-risk screening mammography cases from radiologist workload without compromising cancer detection rates. This represents a major potential efficiency gain for breast cancer screening programs. This is a high-yield statistic for NEET PG 2026 radiology questions on AI applications. The AI identifies cases with very low probability of abnormality, flagging only the suspicious cases for radiologist review.",
+    "highYield": "AI mammography triage: can remove >75% of low-risk screening cases from radiologist workload without compromising detection.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Radiology",
+    "topic": "FDG-PET - Warburg Effect",
+    "difficulty": "medium",
+    "stem": "A 58-year-old man with lung adenocarcinoma undergoes FDG-PET/CT scan which shows intense FDG uptake in the primary tumour and mediastinal lymph nodes. Which biological mechanism best explains why cancer cells avidly take up FDG?",
+    "options": [
+      "Upregulation of mitochondrial oxidative phosphorylation increases glucose demand in cancer cells",
+      "Cancer cells exhibit aerobic glycolysis (Warburg effect): high glucose uptake via GLUT transporters, phosphorylated by hexokinase, then metabolically trapped as FDG-6-phosphate",
+      "FDG is preferentially taken up by necrotic tumour cells due to increased cell membrane permeability",
+      "Cancer cells express unique FDG-specific membrane receptors that actively transport the tracer intracellularly"
+    ],
+    "answer": 1,
+    "explanation": "The biological basis of FDG-PET is the Warburg effect: cancer cells exhibit aerobic glycolysis, meaning they have high glucose (and FDG) uptake via upregulated GLUT transporters even in the presence of oxygen. HIF-1 activation upregulates GLUT transporters and glycolytic enzymes. FDG is taken up via GLUT transporters and phosphorylated by hexokinase to FDG-6-phosphate, but unlike true glucose, FDG is NOT phosphorylated further -- causing metabolic trapping. It is NOT taken up by necrotic areas (poor blood supply). There are no specific FDG receptors.",
+    "highYield": "Warburg effect = aerobic glycolysis in cancer cells. FDG: GLUT uptake → hexokinase phosphorylation → metabolic trapping (not phosphorylated further). HIF-1 upregulates GLUT transporters.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Radiology",
+    "topic": "PSMA-PET - Prostate Cancer",
+    "difficulty": "medium",
+    "stem": "A 65-year-old man treated with radical prostatectomy for prostate cancer develops biochemical recurrence with PSA of 0.3 ng/mL. Conventional imaging (bone scan and CT) shows no evidence of disease. Which imaging modality is most appropriate for restaging in this clinical scenario?",
+    "options": [
+      "Repeat bone scan after 6 months",
+      "18F-FDG PET/CT",
+      "68Ga-PSMA PET/CT",
+      "MRI of the pelvis only"
+    ],
+    "answer": 2,
+    "explanation": "PSMA-PET/CT (using 68Ga-PSMA or 18F-DCFPyL) is now the imaging of choice for biochemical recurrence after definitive therapy for prostate cancer. It is far superior to conventional imaging (bone scan + CT) for detecting disease at low PSA levels -- PSMA-PET can detect nodal and metastatic disease at PSA as low as 0.2 ng/mL. In the key Australian multicenter trial, PSMA-PET changed management in 62% of patients with biochemical recurrence. FDG-PET has poor sensitivity for early prostate cancer recurrence (prostate cancer is often FDG-negative unless castration-resistant). MRI pelvis alone is insufficient for systemic restaging.",
+    "highYield": "PSMA-PET detects prostate cancer recurrence at PSA as low as 0.2 ng/mL; changed management in 62% of biochemical recurrence cases vs conventional imaging.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Radiology",
+    "topic": "DECT - Gout and Renal Stones",
+    "difficulty": "medium",
+    "stem": "A 52-year-old man with recurrent kidney stones undergoes dual-energy CT (DECT). The DECT report identifies radiolucent stones on plain X-ray that appear as specific composition on DECT analysis. Which is the most clinically significant application of DECT in renal stone characterisation?",
+    "options": [
+      "DECT can detect calcium oxalate stones and differentiate them from struvite stones with 98% sensitivity",
+      "DECT can differentiate uric acid stones from calcium-containing stones (sensitivity 0.88, specificity 0.98), enabling non-surgical dissolution with urinary alkalinisation",
+      "DECT colour-codes uric acid deposits in renal parenchyma as green, similar to gout",
+      "DECT detects MSU crystal deposits within kidney parenchyma, diagnosing renal gout"
+    ],
+    "answer": 1,
+    "explanation": "The most clinically significant application of DECT for renal stones is differentiating uric acid stones from calcium-containing stones (sensitivity 0.88, specificity 0.98). Uric acid stones are radiolucent on plain X-ray but visible on CT, and unlike calcium stones, they can be dissolved non-invasively with urinary alkalinisation (potassium citrate). DECT enables this critical management decision without surgery. For gout, DECT colour-codes monosodium urate (MSU) crystals in joints as green, but the 2025 RENODECT study specifically showed DECT CANNOT detect MSU deposits in kidney parenchyma or renal artery walls.",
+    "highYield": "DECT: uric acid vs calcium stones (sensitivity 0.88, specificity 0.98); uric acid stones = radiolucent, dissolvable with alkalinisation. DECT CANNOT detect MSU in renal parenchyma.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Radiology",
+    "topic": "HRCT ILD - UIP Pattern",
+    "difficulty": "medium",
+    "stem": "A 62-year-old man with progressive dyspnoea undergoes HRCT chest. The report describes basal-predominant, subpleural honeycombing with peripheral traction bronchiectasis, WITHOUT subpleural sparing. Which diagnosis is most consistent with this HRCT pattern?",
+    "options": [
+      "Nonspecific interstitial pneumonia (NSIP) associated with connective tissue disease",
+      "Cryptogenic organising pneumonia (COP)",
+      "Usual interstitial pneumonia (UIP) pattern consistent with idiopathic pulmonary fibrosis (IPF)",
+      "Hypersensitivity pneumonitis (HP) chronic fibrotic form"
+    ],
+    "answer": 2,
+    "explanation": "The UIP (Usual Interstitial Pneumonia) pattern on HRCT is characterised by: basal-predominant, subpleural honeycombing with or without peripheral traction bronchiectasis, and the ABSENCE of subpleural sparing. This pattern is most associated with IPF. NSIP shows basal GGO with reticulation and KEY DIFFERENTIATOR is the presence of SUBPLEURAL SPARING (spared subpleural rim) -- absent in this case. COP shows peribronchovascular consolidation with the reversed halo sign. Fibrotic HP typically has upper/mid lobe predominance with mosaic attenuation. The absence of subpleural sparing rules out NSIP.",
+    "highYield": "UIP pattern: basal subpleural honeycombing, NO subpleural sparing, associated with IPF. NSIP: basal GGO + subpleural SPARING (key differentiator).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Radiology",
+    "topic": "HRCT ILD - NSIP vs UIP",
+    "difficulty": "medium",
+    "stem": "An HRCT chest in a 45-year-old woman with systemic sclerosis shows bilateral basal ground-glass opacity with reticulation, traction bronchiolectasis, and a clearly preserved subpleural rim of lung parenchyma. Which ILD pattern does this describe?",
+    "options": [
+      "UIP (Usual Interstitial Pneumonia) pattern",
+      "NSIP (Nonspecific Interstitial Pneumonia) pattern",
+      "COP (Cryptogenic Organising Pneumonia) pattern",
+      "HP (Hypersensitivity Pneumonitis) pattern"
+    ],
+    "answer": 1,
+    "explanation": "NSIP (Nonspecific Interstitial Pneumonia) pattern is characterised by basal-predominant ground-glass opacity with reticulation and traction bronchiolectasis, with the KEY differentiating feature of SUBPLEURAL SPARING (preserved subpleural rim). NSIP is strongly associated with connective tissue diseases, especially systemic sclerosis (SSc), polymyositis, and dermatomyositis. It has better prognosis than UIP. UIP lacks subpleural sparing and shows honeycombing. COP shows peribronchovascular consolidation. The subpleural sparing is the single most important discriminating feature between NSIP and UIP.",
+    "highYield": "NSIP: basal GGO + reticulation + SUBPLEURAL SPARING (key!); associated with CTD (SSc, polymyositis). Better prognosis than UIP.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Radiology",
+    "topic": "HRCT ILD - COP",
+    "difficulty": "medium",
+    "stem": "An HRCT chest shows peribronchovascular consolidation in both lower lobes. A specific sign is noted: areas of central ground-glass opacity surrounded by a ring of denser consolidation. This finding is most characteristic of which ILD pattern?",
+    "options": [
+      "UIP pattern - honeycombing with traction bronchiectasis",
+      "NSIP pattern - subpleural ground-glass with sparing",
+      "COP (Cryptogenic Organising Pneumonia) - reversed halo sign (atoll sign)",
+      "HP pattern - centrilobular nodules with mosaic attenuation"
+    ],
+    "answer": 2,
+    "explanation": "The reversed halo sign (also called the atoll sign) -- central ground-glass opacity surrounded by a ring or crescent of denser consolidation -- is the classic HRCT sign of COP (Cryptogenic Organising Pneumonia). COP typically shows peribronchovascular or subpleural consolidation, often bilateral and lower lobe predominant. It responds well to corticosteroids and has the best prognosis among the fibrosing ILDs. In antisynthetase syndrome, COP or NSIP-OP overlap predicts a favorable response to immunosuppression. The reversed halo sign is highly specific for COP.",
+    "highYield": "COP: reversed halo sign (atoll sign) = central GGO surrounded by ring of consolidation. Steroid-responsive, best prognosis among ILDs.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Dermatology",
+    "topic": "Biologics - Dupilumab Mechanism",
+    "difficulty": "easy",
+    "stem": "Dupilumab is approved for moderate-to-severe atopic dermatitis. Which cytokine signalling pathways does dupilumab block by targeting the IL-4 receptor alpha subunit (IL-4Ra)?",
+    "options": [
+      "IL-4 only",
+      "IL-13 only",
+      "IL-4 and IL-13 simultaneously (both share the IL-4Ra subunit)",
+      "IL-4, IL-13, and IL-31"
+    ],
+    "answer": 2,
+    "explanation": "Dupilumab targets the IL-4 receptor alpha subunit (IL-4Ra), which is a shared receptor component for both IL-4 and IL-13 signalling. By blocking IL-4Ra, dupilumab simultaneously inhibits both IL-4 (which drives Th2 differentiation and IgE class switching) and IL-13 (which drives skin barrier dysfunction, mucus production, and eosinophilic inflammation). This dual blockade with a single agent is the key mechanistic advantage of dupilumab. IL-31 (the pruritic cytokine) is targeted by nemolizumab, not dupilumab.",
+    "highYield": "Dupilumab = anti-IL-4Ra; blocks BOTH IL-4 AND IL-13 simultaneously (shared receptor subunit). First approved biologic for atopic dermatitis.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Dermatology",
+    "topic": "Biologics - Dupilumab Adverse Effects",
+    "difficulty": "medium",
+    "stem": "A 35-year-old woman on dupilumab therapy for atopic dermatitis develops de novo plaque psoriasis after 3 months of treatment. Which immunological mechanism explains this paradoxical adverse effect?",
+    "options": [
+      "Dupilumab activates mast cells, triggering psoriatic inflammation",
+      "IL-4Ra blockade reduces Th2 activity, causing immune skewing toward Th17 pathway, which can unmask or trigger psoriasis",
+      "Dupilumab cross-reacts with IL-17A receptors, directly stimulating keratinocyte proliferation",
+      "The paradoxical psoriasis is caused by dupilumab's suppression of regulatory T cells"
+    ],
+    "answer": 1,
+    "explanation": "Dupilumab-induced psoriasis is a recognised paradoxical adverse effect. By blocking IL-4/IL-13 (Th2 pathway), dupilumab reduces Th2 dominance. This immune axis shift allows relative expansion of Th17 cells (which are counter-regulated by Th2 immunity). The resultant Th17 skewing leads to increased IL-17A production, which drives keratinocyte hyperproliferation -- the hallmark of psoriasis. This is a classic example of paradoxical psoriasis from a biologic agent, similar to TNF-inhibitor-induced psoriasis. Management can include topical treatments, and if needed, switching to a JAK inhibitor that addresses both AD and psoriasis.",
+    "highYield": "Dupilumab paradoxical psoriasis: Th2 blockade → Th17 skewing → IL-17A excess → psoriasis. Can also trigger psoriatic arthritis.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Dermatology",
+    "topic": "JAK Inhibitors - Alopecia Areata",
+    "difficulty": "medium",
+    "stem": "A 28-year-old woman develops severe alopecia areata with 70% scalp hair loss unresponsive to intralesional corticosteroids. In June 2022, the FDA approved the first-ever systemic treatment specifically for severe alopecia areata. Which drug was approved and through which pivotal trials?",
+    "options": [
+      "Upadacitinib (Rinvoq) -- approved through MEASURE trials",
+      "Tofacitinib (Xeljanz) -- approved through ORAL trials",
+      "Baricitinib (Olumiant) -- approved through BRAVE-AA1 and BRAVE-AA2 trials",
+      "Ritlecitinib (Litfulo) -- approved through ALLEGRO trials"
+    ],
+    "answer": 2,
+    "explanation": "Baricitinib (Olumiant), a JAK1/2 inhibitor, was FDA-approved in June 2022 as the first-ever systemic treatment specifically approved for severe alopecia areata in adults. The pivotal trials were BRAVE-AA1 and BRAVE-AA2. Ritlecitinib (Litfulo) was subsequently approved in 2023 for severe alopecia areata in patients aged 12 and older (first approval in adolescents), but baricitinib was the FIRST approval. Tofacitinib and upadacitinib are used off-label but are not approved for alopecia areata. The BRAVE trials are the key landmark trial names for this indication.",
+    "highYield": "Baricitinib (JAK1/2 inhibitor) = first FDA-approved systemic treatment for severe alopecia areata (June 2022); pivotal trials: BRAVE-AA1 and BRAVE-AA2.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Dermatology",
+    "topic": "JAK Inhibitors - Ritlecitinib",
+    "difficulty": "medium",
+    "stem": "Ritlecitinib (Litfulo) was approved in 2023 for severe alopecia areata. What makes ritlecitinib unique compared to baricitinib for alopecia areata?",
+    "options": [
+      "It is the first oral treatment approved; baricitinib is injectable",
+      "Ritlecitinib is approved for patients aged 12 and older, making it the first approval in adolescents for severe alopecia areata",
+      "Ritlecitinib targets JAK1/2 while baricitinib targets JAK3/TEC kinases",
+      "Ritlecitinib has no black-box warning unlike baricitinib"
+    ],
+    "answer": 1,
+    "explanation": "Ritlecitinib (Litfulo) is a JAK3/TEC-family kinase inhibitor approved in 2023 for severe alopecia areata. Its key distinction is that it is approved for patients aged 12 years and older -- making it the first FDA approval for severe alopecia areata in ADOLESCENTS. Baricitinib was the first adult approval. Both are oral agents. The mechanism is reversed: ritlecitinib targets JAK3/TEC kinases, while baricitinib targets JAK1/2. Both carry the standard JAK inhibitor black-box warnings.",
+    "highYield": "Ritlecitinib (JAK3/TEC inhibitor) = first approval for severe alopecia areata in patients aged 12+ (adolescents). Baricitinib = first adult approval.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Dermatology",
+    "topic": "TYK2 Inhibitors - Psoriasis",
+    "difficulty": "hard",
+    "stem": "Deucravacitinib (Sotyktu) was the first oral TYK2 inhibitor approved for moderate-to-severe plaque psoriasis (September 2022). Which mechanism distinguishes deucravacitinib from classical JAK inhibitors?",
+    "options": [
+      "Deucravacitinib competitively inhibits the ATP-binding JH1 kinase domain of TYK2, similar to JAK1/2 inhibitors",
+      "Deucravacitinib acts as an allosteric inhibitor by binding the pseudokinase (JH2) regulatory domain of TYK2, providing greater selectivity and fewer hematological side effects",
+      "Deucravacitinib is a biologic antibody targeting TYK2 receptors on T lymphocytes",
+      "Deucravacitinib blocks TYK2 by forming a covalent irreversible bond at the ATP pocket, similar to ibrutinib"
+    ],
+    "answer": 1,
+    "explanation": "Deucravacitinib's key distinguishing mechanism is its allosteric inhibition of TYK2 by binding the pseudokinase (JH2) regulatory domain, NOT the ATP-binding (JH1) kinase domain used by classical JAK inhibitors (baricitinib, upadacitinib, ruxolitinib etc.). This provides high selectivity for TYK2 over JAK1/2/3, reducing hematological side effects (thrombocytopenia, anaemia) and potentially reducing the infection risk profile. TYK2 mediates signalling downstream of IL-12, IL-23, and type I interferons -- central to psoriasis pathogenesis. It is an oral small molecule, not a biologic.",
+    "highYield": "Deucravacitinib = allosteric TYK2 inhibitor (binds JH2 pseudokinase domain, NOT JH1 ATP site); first oral TYK2 inhibitor; greater selectivity = fewer hematological side effects.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Dermatology",
+    "topic": "IL-17 Biologics - Psoriasis",
+    "difficulty": "medium",
+    "stem": "A dermatologist explains that bimekizumab is unique among IL-17 pathway inhibitors for psoriasis. Which statement correctly distinguishes bimekizumab from secukinumab and ixekizumab?",
+    "options": [
+      "Bimekizumab targets IL-17RA receptor, blocking IL-17A, IL-17F, and IL-25 (IL-17E)",
+      "Bimekizumab is the only biologic that dually inhibits both IL-17A and IL-17F, achieving superior PASI 90/100 responses",
+      "Bimekizumab targets only IL-17F, while secukinumab and ixekizumab target only IL-17A",
+      "Bimekizumab carries a black-box warning for suicidal ideation similar to brodalumab"
+    ],
+    "answer": 1,
+    "explanation": "Bimekizumab is the only biologic that dually inhibits both IL-17A AND IL-17F. Secukinumab and ixekizumab target only IL-17A. IL-17F also contributes to psoriatic inflammation, and blocking both isoforms provides superior PASI 90/100 responses compared to secukinumab and adalimumab in head-to-head trials. Brodalumab (not bimekizumab) targets IL-17RA (the receptor, blocking IL-17A, IL-17F, and IL-17E/IL-25) and carries the black-box warning for suicidal ideation. Bimekizumab does not have this warning.",
+    "highYield": "Bimekizumab = ONLY biologic blocking BOTH IL-17A and IL-17F; superior PASI 90/100. Brodalumab = anti-IL-17RA + suicidal ideation black-box warning.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Dermatology",
+    "topic": "IL-23 Biologics - p19 vs p40 Subunit",
+    "difficulty": "medium",
+    "stem": "A physician is choosing between guselkumab and ustekinumab for a patient with moderate-to-severe plaque psoriasis. Which statement correctly distinguishes the mechanism of guselkumab from ustekinumab?",
+    "options": [
+      "Guselkumab targets the shared p40 subunit of IL-12 and IL-23; ustekinumab targets only p19 of IL-23",
+      "Ustekinumab targets the shared p40 subunit of IL-12 and IL-23 (blocking Th1 and Th17); guselkumab specifically targets p19 subunit of IL-23 only (sparing IL-12 signalling)",
+      "Both guselkumab and ustekinumab target the p19 subunit of IL-23 with equivalent selectivity",
+      "Guselkumab targets VEGF-A downstream of IL-23; ustekinumab directly blocks Th17 cells"
+    ],
+    "answer": 1,
+    "explanation": "Ustekinumab targets the shared p40 subunit of BOTH IL-12 and IL-23, thereby blocking both Th1 (IL-12 driven) and Th17 (IL-23 driven) pathways. Guselkumab (along with risankizumab and tildrakizumab) specifically targets the p19 subunit of IL-23 ONLY. Since IL-12 uses the p40/p35 subunits (not p19), this selectivity spares IL-12 signalling and preserves Th1-mediated immunity against infections. Targeting p19 is more selective and has shown better long-term drug survival (88% vs 75% at 24 months) compared to IL-17 inhibitors.",
+    "highYield": "Ustekinumab = anti-p40 (blocks IL-12 AND IL-23). Guselkumab/risankizumab/tildrakizumab = anti-p19 (IL-23 only, spares IL-12 and Th1 immunity).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Dermatology",
+    "topic": "Topical JAK Inhibitors - Ruxolitinib Cream",
+    "difficulty": "medium",
+    "stem": "Ruxolitinib cream (Opzelura) is a topical JAK inhibitor with two FDA-approved indications in dermatology. Which statement correctly lists both indications and its significance for vitiligo?",
+    "options": [
+      "Approved for moderate-to-severe atopic dermatitis and psoriasis in adults; first topical vitiligo treatment",
+      "Approved for mild-to-moderate atopic dermatitis in patients aged 12+ and for vitiligo; it is the first topical treatment approved for repigmentation in vitiligo",
+      "Approved for alopecia areata and vitiligo in adults only; not approved for atopic dermatitis",
+      "Approved for mild atopic dermatitis in adults only; vitiligo indication is off-label"
+    ],
+    "answer": 1,
+    "explanation": "Ruxolitinib cream (Opzelura) is a topical JAK1/2 inhibitor with two FDA-approved indications: (1) mild-to-moderate atopic dermatitis in patients aged 12 years and older, and (2) vitiligo -- where it holds the landmark distinction of being the FIRST topical treatment ever approved specifically for repigmentation in vitiligo. Prior to ruxolitinib cream, no topical agent had FDA approval for vitiligo repigmentation. It is NOT approved for psoriasis or alopecia areata topically (those are systemic JAK inhibitor indications).",
+    "highYield": "Ruxolitinib cream = first topical treatment approved for vitiligo repigmentation (landmark). Also approved for mild-to-moderate AD in patients 12+.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Forensic Medicine",
+    "topic": "BNS 2024 - Medical Negligence",
+    "difficulty": "medium",
+    "stem": "Under the Bharatiya Nyaya Sanhita (BNS) 2024, which section specifically addresses causing death by negligence, and what is the special provision for registered medical practitioners?",
+    "options": [
+      "BNS Section 103 -- medical practitioners exempt from criminal liability",
+      "BNS Section 105 -- medical practitioners face a minimum 5-year sentence",
+      "BNS Section 106 -- causing death by negligence; registered medical practitioners face up to 2 years imprisonment + fine (lighter than the general 5-year provision)",
+      "BNS Section 114 -- grievous hurt provisions apply to medical practitioners with up to 10 years"
+    ],
+    "answer": 2,
+    "explanation": "BNS Section 106 replaces IPC Section 304A (causing death by negligence/rash act). The general punishment under Section 106 for causing death by negligent/rash act is up to 5 years imprisonment + fine. However, Section 106 contains a specific provision: if a REGISTERED MEDICAL PRACTITIONER causes death by negligent medical procedure, the punishment is up to 2 YEARS imprisonment + fine -- a lighter sentence recognising the clinical context of medical practice. This directly NEET PG-relevant provision distinguishes medical negligence from general negligence under the new law.",
+    "highYield": "BNS 106 (=IPC 304A): death by negligence. Special provision for registered medical practitioners = up to 2 years (general provision = up to 5 years).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Forensic Medicine",
+    "topic": "BNS 2024 - Rape and Sexual Offences",
+    "difficulty": "medium",
+    "stem": "Under BNS 2024, what is the minimum punishment for gang rape (Section 70), and what is the punishment when the victim is below 18 years of age?",
+    "options": [
+      "Minimum 10 years for gang rape; 14 years if victim under 18",
+      "Minimum 14 years for gang rape; life imprisonment if victim under 18",
+      "Minimum 20 years (extendable to life, remainder of natural life) + fine paid to victim; if victim under 18 = life imprisonment or death penalty",
+      "Minimum 7 years for gang rape regardless of victim age; maximum death penalty"
+    ],
+    "answer": 2,
+    "explanation": "BNS Section 70 (replacing IPC 376D for gang rape) stipulates: minimum 20 years rigorous imprisonment, extendable to imprisonment for remainder of natural life + fine paid DIRECTLY to the victim for medical and rehabilitation expenses. If the victim is below 18 years of age (Section 70(2)), the punishment is life imprisonment (natural life) or death penalty. The fine paid directly to the victim for rehabilitation is a notable new provision. BNS Section 64 (individual rape) carries minimum 10 years; gang rape carries minimum 20 years.",
+    "highYield": "BNS 70 (gang rape): min 20 years to natural life + fine to victim. Victim <18 years (S.70[2]) = life imprisonment OR death penalty.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Forensic Medicine",
+    "topic": "BNS 2024 - Grievous Hurt",
+    "difficulty": "medium",
+    "stem": "Under BNS Section 114 (grievous hurt, replacing IPC 320), how many types of grievous hurt are defined, and which of the following is CORRECTLY listed among them?",
+    "options": [
+      "Six types; includes blindness in both eyes only",
+      "Ten types; includes disfiguration of any body part",
+      "Eight types; includes fracture or dislocation of a bone or tooth",
+      "Eight types; includes any injury requiring >7 days of hospitalisation"
+    ],
+    "answer": 2,
+    "explanation": "BNS Section 114 retains the 8 types of grievous hurt from IPC Section 320: (1) emasculation, (2) permanent loss of sight of either eye, (3) permanent loss of hearing of either ear, (4) deprivation of any member or joint, (5) destruction or permanent impairing of powers of any member or joint, (6) permanent disfiguration of head or face, (7) fracture or dislocation of a bone or tooth, and (8) any hurt endangering life or causing severe bodily pain lasting 20 days or more in usual pursuits. Option C is correct -- fracture or dislocation of a bone or tooth IS one of the 8 types. The 20-day criterion (not 7-day hospitalisation) is for type 8.",
+    "highYield": "BNS 114 (=IPC 320): 8 types of grievous hurt retained. Type 7 = fracture/dislocation of bone or tooth. Type 8 = hurt endangering life OR severe pain lasting >20 days in usual pursuits.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Forensic Medicine",
+    "topic": "BNSS 2023 - Forensic Crime Scene",
+    "difficulty": "hard",
+    "stem": "BNSS Section 176(3) introduces a new mandatory forensic provision with no equivalent in the old CrPC. Which statement correctly describes this provision?",
+    "options": [
+      "Mandatory audio recording of all witness statements for offenses punishable by more than 3 years imprisonment",
+      "Mandatory forensic expert videography of the crime scene for offenses punishable by more than 7 years imprisonment",
+      "Mandatory DNA sampling from all arrested persons regardless of the nature of the offense",
+      "Mandatory polygraph examination before Magistrate for offenses punishable by more than 10 years"
+    ],
+    "answer": 1,
+    "explanation": "BNSS Section 176(3) is a new provision with NO CrPC equivalent. It mandates that a forensic expert must visit the crime scene and carry out videography of the crime scene for offenses punishable by more than 7 years imprisonment. This ensures forensic evidence is documented at the scene by qualified experts and that the documentation is recorded (not just photographed). This has significant implications for forensic pathology practice -- medical examiners and forensic practitioners must be aware of this legal requirement when called to crime scenes.",
+    "highYield": "BNSS 176(3): NEW provision (no CrPC equivalent) -- mandatory forensic expert crime scene videography for offenses punishable by >7 years imprisonment.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Forensic Medicine",
+    "topic": "BNSS 2023 - Police Inquest",
+    "difficulty": "medium",
+    "stem": "A 26-year-old married woman is found dead at home 3 years after her marriage. Under BNSS Section 194, which replaces CrPC Section 174, what mandatory step must be taken regarding autopsy?",
+    "options": [
+      "Autopsy is optional and at the discretion of the nearest Executive Magistrate",
+      "When a woman dies within 7 years of marriage, the body must be sent to a qualified medical professional for autopsy under BNSS 194",
+      "Autopsy is mandatory for all deaths occurring in homes regardless of marital status",
+      "The body of a married woman must be sent to a civil surgeon specifically, not any medical professional"
+    ],
+    "answer": 1,
+    "explanation": "BNSS Section 194 (replacing CrPC 174) governs police inquest on unnatural/suspicious death. Under this section, the nearest Executive Magistrate must be informed immediately. A specific mandatory provision applies: if a WOMAN DIES WITHIN 7 YEARS OF MARRIAGE (raising suspicion of dowry-related violence or domestic abuse), the body MUST be sent to a qualified medical professional (not necessarily a civil surgeon specifically -- a qualified medical professional) for autopsy. The inquest itself is fact-finding (cause of death) and does not identify culprits. The 7-year marriage criterion is the clinically and legally important trigger.",
+    "highYield": "BNSS 194 (=CrPC 174): death of woman within 7 years of marriage = mandatory autopsy by qualified medical professional. Inquest = fact-finding, not culprit identification.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Forensic Medicine",
+    "topic": "BSA 2023 - Dying Declaration",
+    "difficulty": "medium",
+    "stem": "Under the Bharatiya Sakshya Adhiniyam (BSA) 2023, Section 26(a) deals with dying declarations. Which of the following statements about dying declarations under BSA is CORRECT?",
+    "options": [
+      "A dying declaration must be recorded by a Magistrate only; a doctor-recorded declaration is inadmissible",
+      "A dying declaration requires corroboration by at least two witnesses before it can be used as evidence",
+      "A dying declaration does not require corroboration and can be the sole basis for conviction if the court finds it truthful and voluntary; it can be recorded by a doctor, Magistrate, or police",
+      "Under BSA 2023, dying declarations recorded by police officers are automatically excluded from evidence"
+    ],
+    "answer": 2,
+    "explanation": "BSA Section 26(a) (replacing IEA Section 32[1]) defines dying declaration as a statement by a person about the cause of their own death or the circumstances leading to death, where the cause of death is in question. Critically: it does NOT require corroboration and can be the sole basis for conviction if the court finds it truthful and voluntary. It can be recorded by a doctor, Magistrate, or even police if there is no time for the others. A doctor's certificate of mental fitness strengthens admissibility but is not always mandatory. Police-recorded declarations are not automatically excluded -- their admissibility depends on voluntariness and circumstances.",
+    "highYield": "BSA 26(a) (= IEA 32[1]): dying declaration needs no corroboration; can convict alone if truthful + voluntary; can be recorded by doctor, Magistrate, or police.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Forensic Medicine",
+    "topic": "BNS 2024 - Murder vs Culpable Homicide",
+    "difficulty": "medium",
+    "stem": "Under BNS 2024, a surgeon performs a high-risk surgery under general anaesthesia. The patient dies intraoperatively due to an anaesthetic error. The surgeon did not intend harm and had obtained informed consent. Under which BNS section would this be MOST appropriately classified?",
+    "options": [
+      "BNS Section 103 (Murder) -- death occurred during a procedure",
+      "BNS Section 105 (Culpable homicide not amounting to murder) -- requires intention or knowledge",
+      "BNS Section 106 (Causing death by negligence) with the special medical practitioner provision (up to 2 years)",
+      "BNS Section 114 (Grievous hurt) -- death resulting from a surgical procedure"
+    ],
+    "answer": 2,
+    "explanation": "BNS Section 106 (replacing IPC 304A) applies to causing death by a rash or negligent act NOT amounting to culpable homicide. There is no intention to cause death (rules out Section 103 - murder) and no knowledge that death was likely (rules out Section 105 - culpable homicide, which requires intention or knowledge). This scenario involves alleged medical negligence/rashness, making Section 106 the appropriate classification. The special provision for registered medical practitioners caps punishment at up to 2 years imprisonment + fine, distinguishing medical negligence from general negligence. Section 114 is for grievous hurt, not death.",
+    "highYield": "Medical death intraoperatively without intent/knowledge = BNS 106 (negligence). Special medical practitioner provision = max 2 years. BNS 103 needs intent to kill.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Radiology",
+    "topic": "FDG-PET - Limitations and Reverse Warburg",
+    "difficulty": "hard",
+    "stem": "During tumour board discussion of a patient with invasive ductal carcinoma, the radiologist mentions the Reverse Warburg Effect and warns about potential discordance in FDG-PET interpretation. What does the Reverse Warburg Effect describe?",
+    "options": [
+      "Cancer cells switch from glycolysis to oxidative phosphorylation in the presence of oxygen",
+      "Cancer-associated fibroblasts undergo aerobic glycolysis and feed lactate/pyruvate to cancer cells, potentially creating discordance in FDG-PET interpretation",
+      "The observation that FDG uptake is paradoxically lower in high-grade tumours due to vascular steal phenomenon",
+      "Radiation therapy reverses the Warburg effect by restoring mitochondrial function in surviving cancer cells"
+    ],
+    "answer": 1,
+    "explanation": "The Reverse Warburg Effect describes a metabolic symbiosis where cancer-associated fibroblasts (CAFs) in the tumour microenvironment undergo aerobic glycolysis and produce lactate and pyruvate, which are then taken up and used by adjacent cancer cells for oxidative phosphorylation. This can create discordance in FDG-PET interpretation: the cancer cells themselves may show lower FDG uptake (using OXPHOS not glycolysis), while the surrounding stromal fibroblasts take up the glucose. This is observed in invasive ductal carcinoma and NSCLC. FDG-PET is also not reliable for detecting radiation pneumonitis (FDG uptake may be absent or variable).",
+    "highYield": "Reverse Warburg Effect: CAFs undergo aerobic glycolysis → feed lactate/pyruvate to cancer cells → potential FDG-PET discordance. Seen in invasive ductal carcinoma and NSCLC.",
+    "pyqNote": "",
+    "tags": []
+  }
+]

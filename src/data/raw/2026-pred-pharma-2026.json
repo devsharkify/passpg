@@ -1,0 +1,597 @@
+[
+  {
+    "subject": "Pharmacology",
+    "topic": "PCSK9 Inhibitors",
+    "difficulty": "easy",
+    "stem": "What is the primary mechanism of action of evolocumab in reducing LDL cholesterol?",
+    "options": [
+      "Inhibits HMG-CoA reductase in hepatocytes",
+      "Binds circulating PCSK9, preventing degradation of LDL receptors on hepatocytes",
+      "Blocks intestinal cholesterol absorption via NPC1L1",
+      "Activates PPAR-alpha to increase LDL catabolism"
+    ],
+    "answer": 1,
+    "explanation": "Evolocumab is a monoclonal antibody that binds circulating PCSK9 protein. Normally, PCSK9 binds to LDL receptors (LDLR) on hepatocytes and targets them for lysosomal degradation. By neutralizing PCSK9, evolocumab prevents LDLR degradation, increasing receptor density on hepatocyte surfaces and enhancing LDL-C clearance from blood. Statins inhibit HMG-CoA reductase (A). Ezetimibe blocks NPC1L1 (C). Fibrates activate PPAR-alpha (D).",
+    "highYield": "PCSK9 inhibitors prevent LDLR degradation by binding circulating PCSK9, thereby increasing LDL receptor density on hepatocytes.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "PCSK9 Inhibitors",
+    "difficulty": "medium",
+    "stem": "A 52-year-old man with familial hypercholesterolemia is on maximum-dose atorvastatin but LDL remains at 210 mg/dL. His physician adds evolocumab. By approximately what percentage can evolocumab further reduce his LDL-C?",
+    "options": [
+      "15-25%",
+      "25-40%",
+      "56-75%",
+      "80-90%"
+    ],
+    "answer": 2,
+    "explanation": "PCSK9 inhibitors (evolocumab and alirocumab) reduce LDL-C by approximately 56-75% (often cited as ~60% in exam contexts), and this reduction is additive on top of existing statin therapy. They work via a completely different mechanism from statins \u2014 preventing LDL receptor degradation rather than inhibiting cholesterol synthesis. Option A (15-25%) is the range for ezetimibe. Option B is inadequate for PCSK9 inhibitors. Option D (80-90%) overstates the effect.",
+    "highYield": "PCSK9 inhibitors reduce LDL-C by 56-75% (~60% for exams), additive on top of statin therapy.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "PCSK9 Inhibitors",
+    "difficulty": "easy",
+    "stem": "Which of the following best describes the route of administration and dosing schedule of alirocumab?",
+    "options": [
+      "Intravenous infusion every 4 weeks",
+      "Oral tablet once daily",
+      "Subcutaneous injection every 2 weeks or monthly",
+      "Intramuscular injection every 3 months"
+    ],
+    "answer": 2,
+    "explanation": "Both evolocumab and alirocumab are administered as subcutaneous injections. Alirocumab is given at 75-150 mg every 2 weeks (Q2W). Evolocumab is given as 140 mg Q2W or 420 mg monthly. These are monoclonal antibodies that cannot be given orally due to proteolytic degradation in the GI tract. Intravenous or intramuscular routes are not standard for these agents.",
+    "highYield": "PCSK9 inhibitors (evolocumab, alirocumab) are given as subcutaneous injections every 2 weeks or monthly.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "PCSK9 Inhibitors",
+    "difficulty": "medium",
+    "stem": "A patient on evolocumab for 6 months develops pain and redness at the injection site. Her liver enzymes and creatine kinase are normal. Which of the following is the most likely adverse effect she is experiencing?",
+    "options": [
+      "Myopathy due to PCSK9 inhibition",
+      "Drug-induced hepatitis",
+      "Injection site reaction",
+      "Rhabdomyolysis"
+    ],
+    "answer": 2,
+    "explanation": "The most common and characteristic side effect of PCSK9 inhibitors is injection site reactions (pain, redness, bruising at the injection site). Unlike statins, PCSK9 inhibitors do NOT cause myopathy or rhabdomyolysis \u2014 this is actually a key advantage, making them suitable for statin-intolerant patients. Hepatotoxicity is not a recognized side effect of PCSK9 inhibitors. Normal CK and liver enzymes in the vignette further support that this is simply an injection site reaction.",
+    "highYield": "PCSK9 inhibitors do NOT cause myopathy \u2014 the hallmark adverse effect is injection site reaction only.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "PCSK9 Inhibitors",
+    "difficulty": "medium",
+    "stem": "Which of the following patient profiles represents the most appropriate indication for initiating a PCSK9 inhibitor?",
+    "options": [
+      "A 30-year-old with LDL 130 mg/dL on no medications, non-smoker with no cardiovascular risk factors",
+      "A 60-year-old post-MI patient on high-dose rosuvastatin with LDL still 160 mg/dL",
+      "A 45-year-old with hypertriglyceridemia and normal LDL",
+      "A 55-year-old with isolated low HDL and borderline LDL"
+    ],
+    "answer": 1,
+    "explanation": "PCSK9 inhibitors are indicated for secondary prevention of ASCVD (atherosclerotic cardiovascular disease), familial hypercholesterolemia, and statin-intolerant patients. A 60-year-old post-MI patient (established ASCVD) on maximum statin therapy who still has elevated LDL is the classic indication. Option A has low-risk profile with LDL in acceptable range. Options C and D involve dyslipidemia patterns (hypertriglyceridemia, low HDL) that PCSK9 inhibitors do not primarily address.",
+    "highYield": "Primary indications for PCSK9 inhibitors: secondary ASCVD prevention, familial hypercholesterolemia, statin-intolerant patients.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "BTK Inhibitors",
+    "difficulty": "easy",
+    "stem": "Ibrutinib exerts its anti-cancer effect by which of the following mechanisms?",
+    "options": [
+      "Competitively and reversibly inhibits PI3-kinase in T lymphocytes",
+      "Covalently and irreversibly inhibits Bruton Tyrosine Kinase, blocking B-cell receptor signaling",
+      "Inhibits BCL-2, inducing apoptosis in malignant B cells",
+      "Targets CD20 on B lymphocytes leading to ADCC and complement-mediated lysis"
+    ],
+    "answer": 1,
+    "explanation": "Ibrutinib covalently and irreversibly inhibits Bruton Tyrosine Kinase (BTK), a non-receptor tyrosine kinase essential for B-lymphocyte survival, proliferation, and differentiation. By blocking the B-cell receptor (BCR) signaling pathway, it eliminates survival signals in malignant B cells. Idelalisib inhibits PI3-kinase delta (A). Venetoclax inhibits BCL-2 (C). Rituximab targets CD20 (D).",
+    "highYield": "Ibrutinib: covalent irreversible BTK inhibitor that blocks B-cell receptor (BCR) signaling \u2014 key mechanism.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "BTK Inhibitors",
+    "difficulty": "medium",
+    "stem": "A 68-year-old man with CLL is started on ibrutinib. After 3 months he develops palpitations and is found to have atrial fibrillation on ECG. Which property of ibrutinib best explains this complication?",
+    "options": [
+      "On-target inhibition of BTK in cardiac conduction tissue",
+      "Off-target inhibition of cardiac PI3K-Akt signaling",
+      "Drug-induced thyrotoxicosis leading to AF",
+      "Hypokalemia due to ibrutinib-induced renal tubular toxicity"
+    ],
+    "answer": 1,
+    "explanation": "Atrial fibrillation is the hallmark cardiac toxicity of ibrutinib, occurring in up to 38% of patients. This occurs due to OFF-TARGET inhibition of cardiac PI3K-Akt signaling (not on-target BTK inhibition in the heart). This off-target effect is a major limitation of ibrutinib. Second-generation BTK inhibitors like acalabrutinib and zanubrutinib have greater BTK selectivity and therefore lower incidence of AF. Thyrotoxicosis and hypokalemia are not mechanisms of ibrutinib-induced AF.",
+    "highYield": "Ibrutinib-induced AF (up to 38%) is due to OFF-TARGET inhibition of cardiac PI3K-Akt signaling, not on-target BTK inhibition.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "BTK Inhibitors",
+    "difficulty": "medium",
+    "stem": "Which of the following malignancies or conditions is NOT a recognized indication for ibrutinib?",
+    "options": [
+      "Chronic lymphocytic leukemia (CLL)",
+      "Mantle cell lymphoma (MCL)",
+      "Waldenstrom macroglobulinemia",
+      "Multiple myeloma"
+    ],
+    "answer": 3,
+    "explanation": "Ibrutinib is approved for CLL, MCL (mantle cell lymphoma), marginal zone lymphoma, Waldenstrom macroglobulinemia, and chronic graft-vs-host disease. Multiple myeloma is a plasma cell dyscrasia and is NOT a standard indication for ibrutinib \u2014 it is treated with proteasome inhibitors (bortezomib), immunomodulatory drugs (lenalidomide), anti-CD38 antibodies (daratumumab), and corticosteroids. The other three options (A, B, C) are all approved indications for ibrutinib.",
+    "highYield": "Ibrutinib is NOT indicated for multiple myeloma; its indications are CLL, MCL, marginal zone lymphoma, Waldenstrom macroglobulinemia, and chronic GvHD.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "BTK Inhibitors",
+    "difficulty": "hard",
+    "stem": "A hematologist is choosing between ibrutinib and acalabrutinib for a 72-year-old patient with CLL and pre-existing hypertension. Which of the following statements correctly distinguishes acalabrutinib from ibrutinib?",
+    "options": [
+      "Acalabrutinib is a first-generation BTK inhibitor with broader kinase selectivity",
+      "Acalabrutinib has greater BTK selectivity with lower incidence of AF and hypertension; most common side effect is headache",
+      "Acalabrutinib reversibly inhibits BTK, whereas ibrutinib irreversibly inhibits BTK",
+      "Acalabrutinib is associated with higher rates of bleeding than ibrutinib"
+    ],
+    "answer": 1,
+    "explanation": "Acalabrutinib is a 2nd-generation BTK inhibitor with greater BTK selectivity and fewer off-target kinase effects compared to ibrutinib. This selectivity results in a lower incidence of atrial fibrillation and hypertension than ibrutinib \u2014 making it preferable in patients with pre-existing cardiac risk factors. The most common side effect of acalabrutinib is headache (occurring in 22-51% of patients). Both ibrutinib and acalabrutinib are covalent (irreversible) BTK inhibitors (ruling out C). Bleeding risk from platelet dysfunction exists for both agents (D is incorrect).",
+    "highYield": "Acalabrutinib (2nd gen BTK inhibitor): greater BTK selectivity, less AF/hypertension than ibrutinib; most common side effect is headache.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "BTK Inhibitors",
+    "difficulty": "easy",
+    "stem": "Regarding BTK inhibitor generations, which of the following correctly classifies ibrutinib, acalabrutinib, and zanubrutinib?",
+    "options": [
+      "All three are first-generation BTK inhibitors with similar selectivity profiles",
+      "Ibrutinib is first-generation (non-selective); acalabrutinib and zanubrutinib are second-generation (more selective)",
+      "Ibrutinib is second-generation; acalabrutinib is first-generation; zanubrutinib is third-generation",
+      "Zanubrutinib is a reversible BTK inhibitor unlike ibrutinib and acalabrutinib"
+    ],
+    "answer": 1,
+    "explanation": "Ibrutinib is the first-in-class, first-generation BTK inhibitor and is considered non-selective (has significant off-target kinase inhibition). Acalabrutinib and zanubrutinib are both second-generation BTK inhibitors with greater BTK selectivity, resulting in fewer cardiac adverse events (less AF, less hypertension) compared to ibrutinib. All three are covalent (irreversible) inhibitors \u2014 zanubrutinib is not reversible.",
+    "highYield": "BTK inhibitor generations: ibrutinib = 1st gen (non-selective); acalabrutinib and zanubrutinib = 2nd gen (selective, fewer cardiac events).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "JAK Inhibitors",
+    "difficulty": "medium",
+    "stem": "A 45-year-old woman with myelofibrosis is started on ruxolitinib. Which JAK kinases does ruxolitinib selectively inhibit?",
+    "options": [
+      "JAK1 and JAK3",
+      "JAK1 and JAK2",
+      "JAK2 and TYK2",
+      "JAK1, JAK2, JAK3, and TYK2 (pan-JAK)"
+    ],
+    "answer": 1,
+    "explanation": "Ruxolitinib is a JAK1 and JAK2 inhibitor. It was the first-in-class JAK inhibitor approved and is the backbone treatment for myelofibrosis because the JAK2-V617F mutation (present in ~95% of polycythemia vera and ~60% of myelofibrosis) constitutively activates JAK2 signaling. Tofacitinib inhibits JAK1 + JAK3 (A). Baricitinib inhibits JAK1 + JAK2 (same as ruxolitinib) but also TYK2. No approved drug is purely JAK2 + TYK2 (C). Pan-JAK inhibition (D) describes the older classification of tofacitinib before selectivity data emerged.",
+    "highYield": "Ruxolitinib selectivity: JAK1 + JAK2 inhibitor; first-in-class JAK inhibitor; approved for myelofibrosis, polycythemia vera, GvHD.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "JAK Inhibitors",
+    "difficulty": "hard",
+    "stem": "A 38-year-old woman with alopecia areata affecting 70% of her scalp is referred for systemic therapy. Which JAK inhibitor was the FIRST to receive FDA approval specifically for alopecia areata as a systemic agent?",
+    "options": [
+      "Ruxolitinib (oral)",
+      "Tofacitinib",
+      "Baricitinib",
+      "Upadacitinib"
+    ],
+    "answer": 2,
+    "explanation": "Baricitinib (a JAK1 + JAK2 inhibitor) was the first FDA-approved systemic JAK inhibitor specifically indicated for alopecia areata, receiving approval in June 2022. Ruxolitinib is approved for alopecia areata but as a TOPICAL formulation (Opzelura cream), not oral systemic therapy. Tofacitinib is used off-label for alopecia areata but has no FDA approval for this indication. Upadacitinib (JAK1 selective) is under investigation for alopecia areata but not yet approved for it.",
+    "highYield": "Baricitinib = first FDA-approved SYSTEMIC JAK inhibitor for alopecia areata (June 2022); ruxolitinib is topical only for this indication.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "JAK Inhibitors",
+    "difficulty": "medium",
+    "stem": "Tofacitinib carries a black box warning for which of the following serious adverse effects?",
+    "options": [
+      "Nephrotoxicity and hypertension",
+      "Serious infections, malignancies, thrombosis, and MACE",
+      "Hepatotoxicity and cholestatic jaundice",
+      "Severe hypokalemia and QT prolongation"
+    ],
+    "answer": 1,
+    "explanation": "Tofacitinib (JAK1 + JAK3 inhibitor, the first JAK inhibitor approved for RA) carries a black box warning for increased risk of: serious infections (including TB reactivation and opportunistic infections), malignancies (lymphoma and other cancers), thrombosis (both VTE and arterial), and major adverse cardiovascular events (MACE). These class-wide warnings were strengthened after the ORAL Surveillance trial. Nephrotoxicity (A), hepatotoxicity (C), and QT prolongation (D) are not black-boxed warnings for tofacitinib.",
+    "highYield": "Tofacitinib black box warning: serious infections, malignancies, thrombosis, and MACE \u2014 based on ORAL Surveillance data.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "JAK Inhibitors",
+    "difficulty": "medium",
+    "stem": "Before initiating any JAK inhibitor for rheumatoid arthritis, which of the following baseline screenings is MANDATORY?",
+    "options": [
+      "Echocardiogram and pulmonary function tests",
+      "Renal biopsy and urine protein quantification",
+      "Tuberculosis screening and hepatitis B serology",
+      "Ophthalmologic examination for macular degeneration"
+    ],
+    "answer": 2,
+    "explanation": "JAK inhibitors increase risk of reactivation of latent tuberculosis (JAK2 inhibition impairs IFN-gamma signaling via JAK1/2) and can reactivate hepatitis B virus. Therefore, TB screening (tuberculin skin test or IGRA) and hepatitis B serology (HBsAg, anti-HBc) are mandatory before initiating JAK inhibitor therapy. Herpes zoster reactivation is also a concern, and vaccination should be considered. Echocardiogram, renal biopsy, and ophthalmology are not routinely required before starting JAK inhibitors.",
+    "highYield": "Before JAK inhibitors: mandatory screening for TB (IGRA/TST) and hepatitis B, as reactivation risk is significant.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "JAK Inhibitors",
+    "difficulty": "hard",
+    "stem": "Which of the following best explains why JAK inhibitors are effective in BOTH inflammatory diseases like rheumatoid arthritis AND myeloproliferative neoplasms like polycythemia vera?",
+    "options": [
+      "JAK inhibitors directly deplete B and T lymphocytes through apoptosis induction",
+      "The JAK-STAT pathway is downstream of cytokine receptors (IL-6, EPO) and of JAK2-V617F mutation, making it a shared therapeutic target",
+      "JAK inhibitors inhibit NF-kB activation, the master regulator of inflammation and cell proliferation",
+      "JAK inhibitors block tyrosine phosphorylation of BCR-ABL, treating both autoimmune and myeloproliferative disease"
+    ],
+    "answer": 1,
+    "explanation": "The JAK-STAT pathway is the signaling cascade downstream of cytokine receptors such as IL-6, IL-2, EPO, TPO, and IFN receptors. In inflammatory diseases (RA, IBD, atopic dermatitis), excessive cytokine signaling via JAK-STAT drives inflammation \u2014 JAK inhibitors block this. In myeloproliferative neoplasms, the JAK2-V617F somatic mutation constitutively activates JAK2, mimicking continuous cytokine stimulation \u2014 JAK inhibitors suppress this pathological signaling. This shared pathway explains the dual utility. JAK inhibitors don't directly cause lymphocyte apoptosis (A), don't primarily target NF-kB (C), and BCR-ABL is targeted by imatinib, not JAK inhibitors (D).",
+    "highYield": "JAK-STAT pathway is downstream of both cytokine receptors (RA/IBD) AND constitutively activated JAK2-V617F (MPN) \u2014 explains dual therapeutic utility.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "JAK Inhibitors",
+    "difficulty": "medium",
+    "stem": "Which of the following JAK inhibitors is most selective for JAK1 and is approved for atopic dermatitis, Crohn's disease, and ulcerative colitis among its indications?",
+    "options": [
+      "Ruxolitinib",
+      "Baricitinib",
+      "Tofacitinib",
+      "Upadacitinib"
+    ],
+    "answer": 3,
+    "explanation": "Upadacitinib is a highly selective JAK1 inhibitor. Its approved indications include RA, atopic dermatitis, psoriatic arthritis, Crohn's disease, ulcerative colitis, and ankylosing spondylitis \u2014 the broadest indication profile among JAK inhibitors. Ruxolitinib (JAK1+JAK2) is approved for myelofibrosis, polycythemia vera, and GvHD. Baricitinib (JAK1+JAK2) is approved for RA, alopecia areata, and COVID-19. Tofacitinib (JAK1+JAK3) is approved for RA, psoriatic arthritis, and UC but lacks Crohn's disease approval.",
+    "highYield": "Upadacitinib = selective JAK1 inhibitor; broadest indication profile including atopic dermatitis, Crohn's disease, and UC.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "mTOR Inhibitors",
+    "difficulty": "easy",
+    "stem": "Which intracellular protein does sirolimus (rapamycin) first bind to before exerting its pharmacological effect?",
+    "options": [
+      "Calcineurin",
+      "FK-binding protein 12 (FKBP-12)",
+      "mTORC2 directly",
+      "Cyclophilin A"
+    ],
+    "answer": 1,
+    "explanation": "Sirolimus (rapamycin) binds to the intracellular immunophilin FK-binding protein 12 (FKBP-12), forming a sirolimus-FKBP12 complex. This complex then binds to and inhibits mTORC1 (mechanistic target of rapamycin complex 1), leading to reduced T-lymphocyte proliferation, cell cycle arrest at G1-S phase, inhibited protein synthesis, and anti-angiogenic effects. Note: Tacrolimus also binds FKBP-12, but the tacrolimus-FKBP12 complex inhibits calcineurin (not mTOR). Cyclosporine binds cyclophilin A (D), which then inhibits calcineurin.",
+    "highYield": "Sirolimus mechanism: binds FKBP-12 \u2192 complex inhibits mTORC1 (NOT calcineurin, unlike tacrolimus which uses the same FKBP-12 but inhibits calcineurin).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "mTOR Inhibitors",
+    "difficulty": "medium",
+    "stem": "A patient with tuberous sclerosis complex (TSC) develops a subependymal giant cell astrocytoma (SEGA). Which mTOR inhibitor is approved for this specific indication?",
+    "options": [
+      "Sirolimus (rapamycin)",
+      "Temsirolimus",
+      "Everolimus",
+      "Ridaforolimus"
+    ],
+    "answer": 2,
+    "explanation": "Everolimus is specifically FDA-approved for subependymal giant cell astrocytoma (SEGA) in tuberous sclerosis complex (TSC) and also for renal angiomyolipoma in TSC. TSC results from loss-of-function mutations in TSC1/TSC2 genes, leading to constitutive mTORC1 activation \u2014 making mTOR inhibitors rationally targeted therapy. Sirolimus is used for transplant rejection and lymphangioleiomyomatosis (LAM) but SEGA/TSC approvals are for everolimus. Temsirolimus (IV prodrug of sirolimus) is approved for renal cell carcinoma, not SEGA. Ridaforolimus is an investigational mTOR inhibitor.",
+    "highYield": "Everolimus is the approved mTOR inhibitor for SEGA and renal angiomyolipoma in tuberous sclerosis complex (TSC).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "mTOR Inhibitors",
+    "difficulty": "medium",
+    "stem": "Which of the following is the MOST COMMON adverse effect of mTOR inhibitors as a drug class?",
+    "options": [
+      "Nephrotoxicity",
+      "Stomatitis (mouth ulcers)",
+      "Peripheral neuropathy",
+      "Alopecia"
+    ],
+    "answer": 1,
+    "explanation": "The most common adverse effect of mTOR inhibitors (sirolimus, everolimus, temsirolimus) is stomatitis \u2014 painful aphthous-like mouth ulcers occurring in 40-60% of patients. This is important to distinguish from nephrotoxicity (associated with calcineurin inhibitors like tacrolimus and cyclosporine, NOT mTOR inhibitors). Other important mTOR inhibitor side effects include pneumonitis (non-infectious interstitial lung disease \u2014 must stop drug), hyperlipidemia, hyperglycemia, impaired wound healing, and thrombocytopenia. Peripheral neuropathy (C) and alopecia (D) are not characteristic mTOR inhibitor effects.",
+    "highYield": "mTOR inhibitor most common side effect = stomatitis (mouth ulcers); they are NOT nephrotoxic (unlike calcineurin inhibitors).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "mTOR Inhibitors",
+    "difficulty": "hard",
+    "stem": "A renal transplant patient on tacrolimus develops worsening renal function attributed to calcineurin inhibitor nephrotoxicity. His nephrologist considers switching to sirolimus. Which of the following statements about sirolimus in this context is CORRECT?",
+    "options": [
+      "Sirolimus is equally nephrotoxic to tacrolimus and cannot replace it",
+      "Sirolimus is not nephrotoxic and can replace calcineurin inhibitors in transplant; it is metabolized by CYP3A4",
+      "Sirolimus causes nephrotoxicity through direct tubular toxicity similar to aminoglycosides",
+      "Sirolimus should not be used perioperatively due to myelosuppression risk"
+    ],
+    "answer": 1,
+    "explanation": "A key clinical advantage of sirolimus is that it is NOT nephrotoxic, unlike calcineurin inhibitors (tacrolimus, cyclosporine). This makes it a viable replacement in patients with calcineurin inhibitor-induced nephrotoxicity. Sirolimus is metabolized by CYP3A4, making drug interactions an important consideration (rifampicin induces, ketoconazole inhibits CYP3A4). The perioperative concern with mTOR inhibitors is impaired wound healing (not myelosuppression) \u2014 they should NOT be used perioperatively for this reason. The drug should also not be started immediately post-transplant due to this wound healing impairment.",
+    "highYield": "Sirolimus advantage in transplant: NOT nephrotoxic; can replace calcineurin inhibitors; perioperative concern = impaired wound healing, not nephrotoxicity.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "mTOR Inhibitors",
+    "difficulty": "medium",
+    "stem": "Which of the following drug name suffixes identifies mTOR inhibitors as a pharmacological class?",
+    "options": [
+      "-tinib",
+      "-mab",
+      "-limus",
+      "-ciclib"
+    ],
+    "answer": 2,
+    "explanation": "The suffix '-limus' identifies mTOR inhibitors: siROLIMUS (rapamycin), everoLIMUS, temsiROLIMUS (IV prodrug of sirolimus for renal cell carcinoma), and ridaforoLIMUS. This is an important pharmacology exam memory hook. The suffix '-tinib' identifies small-molecule kinase inhibitors (imatinib, ibrutinib, gefitinib). The suffix '-mab' identifies monoclonal antibodies (rituximab, evolocumab). The suffix '-ciclib' identifies CDK inhibitors (palbociclib, ribociclib, abemaciclib).",
+    "highYield": "-limus suffix = mTOR inhibitors (sirolimus, everolimus, temsirolimus, ridaforolimus).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Pharmacogenomics - CYP Variants",
+    "difficulty": "medium",
+    "stem": "A 4-year-old child is given a standard dose of codeine after tonsillectomy. He develops severe respiratory depression and near-fatal opioid toxicity. Which pharmacogenomic variant most likely explains this adverse outcome?",
+    "options": [
+      "CYP2D6 poor metabolizer genotype \u2014 unable to convert codeine to morphine",
+      "CYP2D6 ultra-rapid metabolizer genotype \u2014 converts codeine to morphine excessively",
+      "CYP2C19 poor metabolizer \u2014 reduced codeine clearance",
+      "CYP3A4 induction \u2014 accelerated codeine metabolism to norcodeine"
+    ],
+    "answer": 1,
+    "explanation": "CYP2D6 ultra-rapid metabolizers (UMs) have multiple functional copies of the CYP2D6 gene and convert codeine to morphine at an extremely rapid rate, generating toxic morphine levels even at standard doses. This mechanism has caused fatal respiratory depression in children post-tonsillectomy and in neonates of nursing UM mothers who took codeine. The FDA has black-boxed codeine in children after adenotonsillectomy and in nursing mothers. CYP2D6 poor metabolizers get little/no analgesia (A) \u2014 the opposite problem. CYP2C19 does not metabolize codeine (C). CYP3A4 converts codeine to norcodeine (inactive), not relevant here (D).",
+    "highYield": "CYP2D6 ultra-rapid metabolizers: excessive codeine-to-morphine conversion \u2192 fatal respiratory depression; FDA black box in children post-tonsillectomy.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Pharmacogenomics - CYP Variants",
+    "difficulty": "hard",
+    "stem": "A 55-year-old woman with ER-positive breast cancer on tamoxifen is also prescribed paroxetine for depression. After 2 years, she relapses. Pharmacogenomically, what is the most likely mechanism linking paroxetine to tamoxifen failure?",
+    "options": [
+      "Paroxetine induces CYP3A4, accelerating tamoxifen clearance and reducing plasma levels",
+      "Paroxetine inhibits CYP2D6, reducing conversion of tamoxifen to its active metabolite endoxifen",
+      "Paroxetine competes with tamoxifen for estrogen receptor binding",
+      "Paroxetine inhibits CYP2C19, reducing tamoxifen to 4-hydroxytamoxifen conversion"
+    ],
+    "answer": 1,
+    "explanation": "Tamoxifen itself is relatively inactive and requires CYP2D6-mediated conversion to endoxifen, its primary active metabolite, which has ~100x higher estrogen receptor affinity than tamoxifen. Paroxetine is a potent CYP2D6 inhibitor \u2014 its co-administration reduces endoxifen levels, making the patient phenotypically equivalent to a CYP2D6 poor metabolizer. CYP2D6 PMs have ~4x higher relapse risk in ER+ breast cancer on tamoxifen. Other SSRIs with less CYP2D6 inhibition (venlafaxine, citalopram, escitalopram) are preferred for hot flashes in tamoxifen-treated patients. CYP3A4 induction (A) and CYP2C19 (D) are not the primary pathways for tamoxifen activation.",
+    "highYield": "Paroxetine (CYP2D6 inhibitor) + tamoxifen = reduced endoxifen formation = phenotypic CYP2D6 PM = higher breast cancer relapse risk.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Pharmacogenomics - CYP Variants",
+    "difficulty": "medium",
+    "stem": "A 58-year-old man undergoes coronary stent placement and is prescribed clopidogrel. Despite therapy, he develops stent thrombosis. Genetic testing reveals CYP2C19 *2/*2 genotype. Which of the following best explains the failure of clopidogrel?",
+    "options": [
+      "CYP2C19 *2 allele causes ultra-rapid clopidogrel metabolism, rapidly eliminating the drug",
+      "CYP2C19 *2 allele encodes a non-functional enzyme; clopidogrel cannot be converted to its active thiol metabolite",
+      "CYP2C19 *2/*2 increases P-glycoprotein expression, reducing clopidogrel absorption",
+      "CYP2C19 *2 causes direct platelet resistance by altering P2Y12 receptor structure"
+    ],
+    "answer": 1,
+    "explanation": "Clopidogrel is a prodrug that requires hepatic bioactivation by CYP2C19 to generate the active thiol metabolite that irreversibly inhibits the P2Y12 ADP receptor on platelets. The CYP2C19 *2 allele (and *3 allele) encodes a non-functional enzyme (loss-of-function variant). Homozygous *2/*2 patients are CYP2C19 poor metabolizers \u2014 they cannot generate sufficient active metabolite, resulting in inadequate platelet inhibition and increased stent thrombosis risk. This is NOT ultra-rapid metabolism (A). P-glycoprotein is not involved (C). The P2Y12 receptor itself is structurally normal in these patients (D).",
+    "highYield": "Clopidogrel failure: CYP2C19 *2 or *3 loss-of-function alleles \u2192 cannot generate active thiol metabolite \u2192 inadequate platelet inhibition \u2192 stent thrombosis.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Pharmacogenomics - CYP Variants",
+    "difficulty": "medium",
+    "stem": "CYP2C19 loss-of-function alleles (*2, *3) are more prevalent in which ethnic population, explaining higher rates of clopidogrel non-response in that group?",
+    "options": [
+      "Sub-Saharan Africans (40-50%)",
+      "Northern Europeans (25-35%)",
+      "Asians (30-40%)",
+      "Latin Americans (20-30%)"
+    ],
+    "answer": 2,
+    "explanation": "CYP2C19 loss-of-function alleles (*2 and *3) are found in 30-40% of Asians (Han Chinese, Japanese, Korean, South Asian populations) compared to approximately 15% in Caucasians and 15-25% in Africans. This higher prevalence means Asian patients have a significantly greater rate of clopidogrel non-response, a clinically important pharmacoethnic consideration. The *3 allele is particularly more common in Asians than in other ethnic groups. This epidemiological fact is frequently tested in NEET PG pharmacology.",
+    "highYield": "CYP2C19 loss-of-function alleles (*2, *3) prevalence: Asians 30-40% vs Caucasians/Africans ~15% \u2014 explains higher clopidogrel non-response in Asians.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Pharmacogenomics - CYP Variants",
+    "difficulty": "hard",
+    "stem": "A 62-year-old patient with ACS and CYP2C19 poor metabolizer status undergoes PCI. Which antiplatelet agent should be preferred and which should be avoided specifically in this genetic context?",
+    "options": [
+      "Prefer clopidogrel; avoid prasugrel due to higher bleeding risk in genetic variants",
+      "Prefer prasugrel or ticagrelor; avoid clopidogrel since it cannot be activated in CYP2C19 poor metabolizers",
+      "Prefer aspirin monotherapy; all P2Y12 inhibitors require CYP2C19 activation",
+      "Prefer ticlopidine; it does not require CYP2C19 activation"
+    ],
+    "answer": 1,
+    "explanation": "In CYP2C19 poor metabolizers, clopidogrel cannot be adequately activated and should be avoided. Prasugrel and ticagrelor do NOT require CYP2C19 for bioactivation, making them the preferred alternatives in this genetic context. Prasugrel is a prodrug activated by CYP3A4 and CYP2B6 (not CYP2C19). Ticagrelor is an active drug that directly and reversibly binds P2Y12 without requiring hepatic conversion. Note: Prasugrel is contraindicated in patients with prior TIA/stroke and in those >75 years old. Ticlopidine also requires CYP-mediated activation and is an older drug with worse tolerability (D is incorrect).",
+    "highYield": "In CYP2C19 poor metabolizers: avoid clopidogrel; prefer prasugrel (CYP3A4/2B6 activation, not CYP2C19) or ticagrelor (direct P2Y12 antagonist, no CYP activation needed).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Pharmacogenomics - HLA Alleles",
+    "difficulty": "medium",
+    "stem": "A 35-year-old HIV-positive patient from Thailand is about to start antiretroviral therapy including abacavir. Which HLA allele screening is mandatory before initiating abacavir?",
+    "options": [
+      "HLA-B*1502",
+      "HLA-B*5701",
+      "HLA-B*5801",
+      "HLA-A*3101"
+    ],
+    "answer": 1,
+    "explanation": "HLA-B*5701 screening is mandatory before starting abacavir (a nucleoside reverse transcriptase inhibitor used in HIV treatment). Carriers of HLA-B*5701 develop a severe, potentially life-threatening hypersensitivity reaction within 6 weeks of initiation \u2014 characterized by fever, rash, and multiorgan involvement. Prospective genetic screening has virtually eliminated immunologically confirmed abacavir hypersensitivity reactions in clinical practice. HLA-B*1502 is screened before carbamazepine in Asian patients (SJS risk). HLA-B*5801 is screened before allopurinol in Asian patients. HLA-A*3101 is associated with carbamazepine-induced rash in Europeans.",
+    "highYield": "HLA-B*5701 must be screened before abacavir (NRTI/HIV) \u2014 carriers develop fatal hypersensitivity; contraindicated if positive.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Pharmacogenomics - HLA Alleles",
+    "difficulty": "medium",
+    "stem": "A 28-year-old Han Chinese woman is newly diagnosed with trigeminal neuralgia. Before prescribing carbamazepine, the FDA mandates genetic testing for which HLA allele due to risk of Stevens-Johnson syndrome?",
+    "options": [
+      "HLA-B*5701",
+      "HLA-B*5801",
+      "HLA-B*1502",
+      "HLA-A*3101"
+    ],
+    "answer": 2,
+    "explanation": "HLA-B*1502 is the allele mandatorily screened before carbamazepine initiation in patients of South/Southeast Asian ancestry (Han Chinese, Thai, Malaysian, Filipino populations). Carriers have an 80-fold increased risk of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN). The FDA mandates this genetic test before starting carbamazepine in at-risk populations. HLA-B*5701 is for abacavir (A). HLA-B*5801 is for allopurinol in Asian patients (B). HLA-A*3101 is associated with carbamazepine-induced maculopapular RASH (less severe than SJS) in Europeans and Japanese (D).",
+    "highYield": "HLA-B*1502 (Asian ancestry) + carbamazepine = 80-fold increased SJS/TEN risk; FDA-mandated screening before starting carbamazepine.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Pharmacogenomics - HLA Alleles",
+    "difficulty": "hard",
+    "stem": "A 50-year-old Korean man with gout is about to start allopurinol. Which HLA allele is associated with allopurinol-induced SJS/TEN in Asian populations, necessitating screening?",
+    "options": [
+      "HLA-B*1502",
+      "HLA-B*5701",
+      "HLA-B*5801",
+      "HLA-A*3101"
+    ],
+    "answer": 2,
+    "explanation": "HLA-B*5801 is associated with allopurinol-induced SJS/TEN in Han Chinese, Korean, and other Asian populations. Given that allopurinol is widely used for gout and hyperuricemia, screening for HLA-B*5801 before initiation in high-risk Asian patients is recommended. This is separate from HLA-B*1502 (carbamazepine/Asian) and HLA-B*5701 (abacavir). A key mnemonic: HLA-B*5801 = allopurinol in Asians (both have '58' in common with 'a-58-year-old patient starting allo-58-urinol'). HLA-A*3101 is for carbamazepine rash in Europeans/Japanese.",
+    "highYield": "HLA-B*5801 = allopurinol-induced SJS/TEN in Asian patients (Han Chinese, Korean populations); screen before starting allopurinol.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Pharmacogenomics - HLA Alleles",
+    "difficulty": "hard",
+    "stem": "Regarding the HLA associations with carbamazepine toxicity, which of the following statements correctly distinguishes HLA-B*1502 from HLA-A*3101?",
+    "options": [
+      "HLA-B*1502 causes maculopapular rash in Europeans; HLA-A*3101 causes SJS/TEN in Asians",
+      "HLA-B*1502 causes SJS/TEN in South/Southeast Asians; HLA-A*3101 causes maculopapular rash in Europeans and Japanese",
+      "Both alleles are associated with identical severity of carbamazepine hypersensitivity across all populations",
+      "HLA-A*3101 is the FDA-mandated screening allele before carbamazepine in Asian patients"
+    ],
+    "answer": 1,
+    "explanation": "There are two distinct HLA associations with carbamazepine toxicity: (1) HLA-B*1502 \u2014 found in South/Southeast Asian populations (Han Chinese, Thai, Malaysian, Filipino), associated with severe SJS/TEN (80-fold risk increase), FDA-mandated screening. (2) HLA-A*3101 \u2014 found in Europeans and Japanese, associated with maculopapular rash (less severe than SJS), not FDA-mandated. Different allele, different population, different severity of reaction. Options A, C, and D all incorrectly swap or conflate these relationships.",
+    "highYield": "HLA-B*1502 (Asian) = severe SJS/TEN with carbamazepine; HLA-A*3101 (European/Japanese) = maculopapular rash with carbamazepine \u2014 different alleles, different populations, different severity.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Therapeutic Drug Monitoring",
+    "difficulty": "hard",
+    "stem": "According to the 2020 ASHP/IDSA consensus guidelines, which monitoring strategy is now the recommended standard for vancomycin dosing in serious MRSA infections?",
+    "options": [
+      "Trough-only monitoring targeting 15-20 mg/L",
+      "Peak-only monitoring targeting 25-40 mg/L",
+      "AUC/MIC-guided monitoring targeting AUC 400-600 mg.h/L using Bayesian software",
+      "Fixed interval dosing without serum level monitoring"
+    ],
+    "answer": 2,
+    "explanation": "The 2020 ASHP/IDSA consensus guideline represents a paradigm shift in vancomycin TDM. Trough-only monitoring (targeting 15-20 mg/L for serious infections) is now OBSOLETE. The current standard is AUC/MIC-guided monitoring targeting an AUC of 400-600 mg.h/L (assuming MIC of 1 mg/L). This requires Bayesian software using two timed serum levels to calculate AUC. The rationale: high troughs correlated with nephrotoxicity without improving efficacy, whereas AUC-guided dosing reduces AKI risk significantly while maintaining therapeutic efficacy against MRSA. Peak-only monitoring (B) is used for aminoglycosides, not vancomycin.",
+    "highYield": "Vancomycin TDM paradigm shift (2020): trough monitoring is obsolete; AUC/MIC-guided monitoring (target AUC 400-600 mg.h/L) is the current standard for MRSA infections.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Therapeutic Drug Monitoring",
+    "difficulty": "medium",
+    "stem": "A patient is receiving once-daily aminoglycoside therapy (gentamicin 7 mg/kg). A single serum level is drawn at 8 hours post-dose and plotted on the Hartford Nomogram. What does this nomogram help determine?",
+    "options": [
+      "The exact MIC of the infecting organism against gentamicin",
+      "The appropriate dosing interval (24, 36, or 48 hours) for the next dose",
+      "Whether to switch from gentamicin to tobramycin based on resistance pattern",
+      "The required trough level for the next traditional multiple-daily-dose regimen"
+    ],
+    "answer": 1,
+    "explanation": "The Hartford Nomogram is used for extended-interval (once-daily) aminoglycoside dosing. A single serum level drawn at 6-14 hours post-dose is plotted on the nomogram to determine the appropriate dosing interval: 24, 36, or 48 hours. This approach achieves a high peak/MIC ratio (exploiting concentration-dependent killing) while allowing adequate trough washout to reduce nephrotoxicity. The nomogram does not determine MIC (A), drug selection (C), or traditional trough targets (D). Before giving the next once-daily dose, the trough must be undetectable (<1 mcg/mL for gentamicin).",
+    "highYield": "Hartford Nomogram: single level drawn 6-14 hours post-dose plots to determine 24/36/48h dosing interval for once-daily aminoglycoside therapy.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Therapeutic Drug Monitoring",
+    "difficulty": "medium",
+    "stem": "Which of the following correctly describes the rationale for once-daily (extended-interval) aminoglycoside dosing compared to traditional multiple-daily dosing?",
+    "options": [
+      "Once-daily dosing exploits time-dependent killing and maintains continuous drug exposure above MIC",
+      "Once-daily dosing exploits concentration-dependent killing; high peak/MIC ratio maximizes efficacy while low troughs reduce nephrotoxicity",
+      "Once-daily dosing reduces ototoxicity risk primarily through reducing total daily dose",
+      "Once-daily dosing is less effective but preferred for outpatient convenience and compliance"
+    ],
+    "answer": 1,
+    "explanation": "Aminoglycosides display CONCENTRATION-DEPENDENT killing \u2014 efficacy is maximized by achieving high peak concentrations relative to the MIC (peak/MIC ratio). Once-daily dosing (e.g., 7 mg/kg) generates a much higher peak than divided doses, maximizing the pharmacodynamic driver of efficacy. The prolonged trough period allows proximal tubular cells to recover from aminoglycoside accumulation, reducing nephrotoxicity. Time-dependent killing (A) describes beta-lactams and vancomycin where time above MIC drives efficacy. The total daily dose is similar to multiple-dose regimens (C is incorrect). Once-daily dosing equals or exceeds efficacy of traditional dosing (D is incorrect).",
+    "highYield": "Aminoglycosides = concentration-dependent killers; once-daily dosing maximizes peak/MIC ratio for efficacy and allows trough clearance to reduce nephrotoxicity.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Therapeutic Drug Monitoring",
+    "difficulty": "easy",
+    "stem": "Which of the following drugs follows zero-order (saturation) kinetics above therapeutic concentrations, meaning a small dose increase can cause a disproportionately large rise in serum levels?",
+    "options": [
+      "Lithium",
+      "Digoxin",
+      "Phenytoin",
+      "Cyclosporine"
+    ],
+    "answer": 2,
+    "explanation": "Phenytoin (therapeutic range 10-20 mcg/mL) undergoes saturable (zero-order) kinetics above its therapeutic range because the hepatic CYP2C9/2C19 enzymes responsible for its hydroxylation become saturated. Once saturated, a small incremental dose increase leads to a disproportionately large (and potentially toxic) rise in plasma concentration. This non-linear pharmacokinetics makes phenytoin particularly dangerous \u2014 dose adjustments above 300 mg/day must be made in small increments. Lithium, digoxin, and cyclosporine follow first-order kinetics (proportional dose-concentration relationship) within normal ranges, though all require TDM.",
+    "highYield": "Phenytoin = zero-order (saturation) kinetics above therapeutic range; small dose increase above saturation point causes large serum level jump and toxicity.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Pharmacogenomics - CYP Variants",
+    "difficulty": "medium",
+    "stem": "A patient on warfarin for atrial fibrillation has unusual sensitivity requiring a very low dose (1 mg/day) to achieve therapeutic anticoagulation. Which genetic variants most likely explain this low warfarin dose requirement?",
+    "options": [
+      "CYP3A4 induction and increased warfarin clearance",
+      "CYP2C9 reduced-function variants (*2 or *3) and/or VKORC1 polymorphisms reducing warfarin dose requirement",
+      "CYP2D6 ultra-rapid metabolizer phenotype with rapid warfarin elimination",
+      "CYP2C19 poor metabolizer reducing S-warfarin metabolism"
+    ],
+    "answer": 1,
+    "explanation": "Warfarin dose requirements are influenced by two key pharmacogenomic factors: (1) CYP2C9 \u2014 responsible for metabolizing S-warfarin (the more potent enantiomer). CYP2C9 *2 and *3 variants are loss-of-function alleles \u2014 reduced metabolism means slower S-warfarin clearance, so lower doses are needed to avoid bleeding. (2) VKORC1 \u2014 encodes vitamin K epoxide reductase, warfarin's target enzyme. VKORC1 polymorphisms affect target sensitivity; certain variants require much lower warfarin doses for anticoagulation. CYP2D6 does not significantly metabolize warfarin (C). CYP2C19 (D) has minimal contribution to warfarin metabolism. CYP3A4 induction would increase clearance and require HIGHER doses (A).",
+    "highYield": "Warfarin pharmacogenomics: CYP2C9 *2/*3 (reduced S-warfarin clearance) + VKORC1 polymorphisms = lower warfarin dose requirement and higher bleeding risk.",
+    "pyqNote": "",
+    "tags": []
+  }
+]

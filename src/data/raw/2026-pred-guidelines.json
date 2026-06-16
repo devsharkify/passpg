@@ -1,0 +1,682 @@
+[
+  {
+    "subject": "Medicine",
+    "topic": "Diabetes - ADA 2024 Guidelines",
+    "difficulty": "medium",
+    "stem": "A 58-year-old man with type 2 diabetes mellitus (HbA1c 7.8%) presents with established coronary artery disease and LVEF of 35%. His current medications include metformin 1000 mg twice daily and gliclazide. According to ADA Standards of Medical Care in Diabetes 2024, what is the most appropriate next pharmacological step?",
+    "options": [
+      "Add insulin glargine to achieve HbA1c < 7%",
+      "Add an SGLT2 inhibitor with proven cardiovascular benefit",
+      "Intensify metformin dose and add sitagliptin",
+      "Switch to sulfonylurea monotherapy and set HbA1c target < 6.5%"
+    ],
+    "answer": 1,
+    "explanation": "ADA 2024 recommends SGLT2 inhibitors and/or GLP-1 RAs with proven cardiovascular benefit as preferred agents in T2DM with established ASCVD or heart failure, independent of baseline HbA1c and regardless of whether metformin is used. This patient has both ASCVD (coronary artery disease) and HFrEF (LVEF 35%), making SGLT2 inhibitor addition the highest-priority intervention. Adding insulin or intensifying metformin does not confer the cardioprotective benefit. Sulfonylureas increase hypoglycemia risk without CV benefit.",
+    "highYield": "In T2DM + ASCVD/HF/CKD, SGLT2i or GLP-1 RA is preferred over metformin intensification regardless of HbA1c level (ADA 2024 paradigm shift).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Diabetes - ADA 2024 Guidelines",
+    "difficulty": "easy",
+    "stem": "According to ADA Standards of Medical Care in Diabetes 2024, metformin remains the preferred first-line agent in which specific subset of type 2 diabetes patients?",
+    "options": [
+      "T2DM with established ASCVD and HbA1c > 9%",
+      "T2DM with CKD and eGFR 30 mL/min/1.73 m2",
+      "T2DM without ASCVD, heart failure, CKD, or obesity",
+      "T2DM with heart failure with preserved ejection fraction"
+    ],
+    "answer": 2,
+    "explanation": "ADA 2024 conditionally retains metformin as first-line only in T2DM patients without ASCVD, heart failure, CKD, or obesity. In any patient with these comorbidities, cardioprotective or nephroprotective agents (SGLT2i, GLP-1 RA) take precedence even without prior metformin use. This represents a fundamental paradigm shift from the traditional 'metformin first always' approach. Options A, B, and D all describe patients with compelling indications for SGLT2i or GLP-1 RA as preferred initial agents.",
+    "highYield": "Metformin is no longer universal first-line in T2DM; SGLT2i/GLP-1 RA take priority when ASCVD, HF, CKD, or obesity coexist.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Diabetic Nephropathy - ADA 2024",
+    "difficulty": "medium",
+    "stem": "A 62-year-old woman with T2DM has eGFR of 35 mL/min/1.73 m2 and UACR of 350 mg/g despite maximum dose lisinopril. Serum potassium is 4.2 mEq/L. Which of the following agents is recommended by ADA 2024 specifically for this patient to reduce CKD progression, and is a nonsteroidal mineralocorticoid receptor antagonist?",
+    "options": [
+      "Spironolactone",
+      "Eplerenone",
+      "Finerenone",
+      "Canrenone"
+    ],
+    "answer": 2,
+    "explanation": "Finerenone is a nonsteroidal MRA recommended by ADA 2024 for T2DM with eGFR >= 25 mL/min/1.73 m2, normal serum potassium, and UACR >= 30 mg/g despite maximum tolerated RAS blockade. This patient meets all criteria (eGFR 35, K+ normal, UACR 350). Evidence comes from FIDELIO-DKD and FIGARO-DKD trials. Spironolactone and eplerenone are steroidal MRAs not recommended in this specific ADA 2024 guideline context for diabetic CKD. Canrenone is an active metabolite of spironolactone, not a recommended standalone agent for diabetic CKD.",
+    "highYield": "Finerenone (NOT spironolactone) is the nonsteroidal MRA endorsed by ADA 2024 for diabetic CKD with UACR >= 30 mg/g on maximum RAS blockade.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Diabetic Nephropathy - ADA 2024",
+    "difficulty": "hard",
+    "stem": "A 55-year-old man with T2DM, eGFR 22 mL/min/1.73 m2, and UACR 280 mg/g is on maximum tolerated ACE inhibitor. He is not on an SGLT2 inhibitor. Per ADA 2024, which statement best reflects the appropriate use of SGLT2 inhibitors in this patient?",
+    "options": [
+      "SGLT2 inhibitor is contraindicated because eGFR is below 30",
+      "SGLT2 inhibitor can be initiated as eGFR >= 20 with UACR >= 200 mg/g",
+      "SGLT2 inhibitor should be withheld until eGFR improves to > 45",
+      "SGLT2 inhibitor is only indicated if HbA1c remains > 8%"
+    ],
+    "answer": 1,
+    "explanation": "ADA 2024 lowered the eGFR initiation threshold for SGLT2 inhibitors in T2DM with CKD. SGLT2 inhibitors (dapagliflozin, empagliflozin) can now be initiated when eGFR >= 20 mL/min/1.73 m2 AND UACR >= 200 mg/g to reduce CKD progression and CV events. This patient has eGFR 22 (>= 20) and UACR 280 (>= 200), so SGLT2 inhibitor is appropriate. The glycemic benefit may be minimal at low eGFR, but the nephroprotective benefit persists. The older cutoff of eGFR 45 or 30 for initiation is outdated per 2024 guidelines.",
+    "highYield": "ADA 2024 lowered SGLT2i initiation threshold to eGFR >= 20 mL/min/1.73 m2 (with UACR >= 200 mg/g) for nephroprotection in diabetic CKD.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Diabetes - Glycemic Targets ADA 2024",
+    "difficulty": "medium",
+    "stem": "A 78-year-old man with T2DM, mild cognitive impairment, moderate CKD, and a history of two falls in the past year has an HbA1c of 7.2%. His daughter asks about intensifying treatment to reach HbA1c < 7%. According to ADA 2024 individualized glycemic targets, what is the most appropriate recommendation?",
+    "options": [
+      "Intensify therapy to achieve HbA1c < 7% as this reduces microvascular complications",
+      "Target HbA1c < 8% or even < 8.5% to avoid hypoglycemia and falls",
+      "Set a universal HbA1c target of 7% for all diabetic patients regardless of age",
+      "Initiate insulin to rapidly lower HbA1c to < 6.5%"
+    ],
+    "answer": 1,
+    "explanation": "ADA 2024 replaced the blanket <7% HbA1c target with individualized goals. In older, frail adults with multiple comorbidities (cognitive impairment, CKD, fall risk), the recommended target is <8% or even <8.5%. Evidence from ACCORD and ADVANCE trials demonstrated that tight glycemic control (HbA1c <7%) in such patients increases hypoglycemia, falls, and mortality without reducing cardiovascular risk. Hypoglycemia avoidance takes priority over tight glycemic targets in complex/frail older adults. Option A ignores the individualization principle. Options C and D are inappropriate in a frail elderly patient.",
+    "highYield": "ADA 2024: HbA1c target is individualized — <7% for young/healthy, <8–8.5% for frail/elderly with comorbidities. Hypoglycemia avoidance > tight control in elderly.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Diabetes - Obesity Management ADA 2024",
+    "difficulty": "medium",
+    "stem": "A 48-year-old woman with T2DM and BMI 38 kg/m2 requires pharmacotherapy for weight reduction and glycemic control. Her cardiologist confirms no established ASCVD. According to ADA 2024, which drug is classified as a dual GIP and GLP-1 receptor agonist and is preferred for T2DM with obesity?",
+    "options": [
+      "Semaglutide",
+      "Liraglutide",
+      "Tirzepatide",
+      "Dulaglutide"
+    ],
+    "answer": 2,
+    "explanation": "Tirzepatide is a dual GIP (glucose-dependent insulinotropic polypeptide) and GLP-1 receptor agonist. ADA 2024 explicitly distinguishes tirzepatide from pure GLP-1 RAs. In T2DM with obesity, tirzepatide (SURMOUNT-2 trial) achieves approximately 11% additional weight reduction versus placebo, rivaling bariatric surgical outcomes. Semaglutide, liraglutide, and dulaglutide are pure GLP-1 receptor agonists. The key NEET PG anchor is that tirzepatide = dual agonist (GIP + GLP-1), not a plain GLP-1 RA. This pharmacological distinction is a high-yield classification question.",
+    "highYield": "Tirzepatide = dual GIP + GLP-1 receptor agonist (NOT a pure GLP-1 RA); preferred in T2DM with obesity per ADA 2024.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Diabetes - Cardiovascular Targets ADA 2024",
+    "difficulty": "easy",
+    "stem": "According to ADA 2024 Standards of Medical Care, the recommended blood pressure target for a patient with type 2 diabetes mellitus, if achievable safely, is?",
+    "options": [
+      "< 140/90 mmHg",
+      "< 130/80 mmHg",
+      "< 120/70 mmHg",
+      "< 150/90 mmHg"
+    ],
+    "answer": 1,
+    "explanation": "ADA 2024 tightened the blood pressure goal for T2DM patients from <140/90 mmHg to <130/80 mmHg, aligning with SPRINT/ACCORD evidence and ACC/AHA 2017 recommendations. The qualifier 'if achievable safely' acknowledges individual patient factors. The previous target of <140/90 mmHg is now outdated per 2024 guidelines. A target of <120/70 is too aggressive and not recommended. The <150/90 mmHg target was used only for certain elderly populations in older guidelines.",
+    "highYield": "ADA 2024 BP target in T2DM is <130/80 mmHg (previously <140/90 mmHg).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Diabetes - Lipid Targets ADA 2024",
+    "difficulty": "medium",
+    "stem": "A 65-year-old man with T2DM has established ASCVD (prior STEMI 2 years ago). He is on high-intensity rosuvastatin 40 mg daily with current LDL of 68 mg/dL. According to ADA 2024, his LDL target and next step should be?",
+    "options": [
+      "LDL target < 100 mg/dL; current therapy is sufficient",
+      "LDL target < 70 mg/dL; add ezetimibe",
+      "LDL target < 55 mg/dL; add ezetimibe",
+      "LDL target < 40 mg/dL; switch to PCSK9 inhibitor alone"
+    ],
+    "answer": 2,
+    "explanation": "ADA 2024 sets LDL target at <55 mg/dL for T2DM patients with established ASCVD. This patient has established ASCVD (prior STEMI) and current LDL of 68 mg/dL which exceeds the <55 mg/dL target. The add-on sequence when LDL is not at goal on high-intensity statin is: add ezetimibe first, then PCSK9 inhibitor if still not at target. Therefore, the next step is to add ezetimibe. Option B uses the wrong target (<70 mg/dL applies to high CV risk without established ASCVD). Option D skips ezetimibe and uses an incorrect target. Current therapy alone (option A) is insufficient given the target.",
+    "highYield": "In T2DM + established ASCVD: LDL target is <55 mg/dL (ADA 2024). Add ezetimibe first, then PCSK9i if still not at goal.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Diabetes - Heart Failure ADA 2024",
+    "difficulty": "hard",
+    "stem": "A 70-year-old woman with T2DM presents with NYHA Class II dyspnea. Echocardiography shows LVEF 55% with concentric LVH and Grade II diastolic dysfunction (HFpEF). According to ADA 2024, which of the following statements about SGLT2 inhibitor use in this patient is correct?",
+    "options": [
+      "SGLT2 inhibitors are only indicated in HFrEF (EF < 40%) in diabetic patients",
+      "SGLT2 inhibitors are endorsed for both HFrEF and HFpEF in T2DM",
+      "SGLT2 inhibitors are contraindicated in HFpEF due to volume depletion risk",
+      "SGLT2 inhibitors benefit in HF is limited to patients with concurrent CKD"
+    ],
+    "answer": 1,
+    "explanation": "ADA 2024 endorses SGLT2 inhibitors (dapagliflozin, empagliflozin) for T2DM patients with both HFrEF AND HFpEF to reduce heart failure hospitalization and cardiovascular mortality. Earlier guidelines were primarily limited to HFrEF. This extension to HFpEF is a landmark change. EMPEROR-Preserved (empagliflozin) and DELIVER (dapagliflozin) trials provided evidence for HFpEF benefit. Option A reflects the outdated pre-2022 view. Options C and D are incorrect; SGLT2 inhibitors benefit in HF is not limited to CKD coexistence.",
+    "highYield": "ADA 2024: SGLT2 inhibitors are endorsed for BOTH HFrEF and HFpEF in T2DM, not just HFrEF (based on EMPEROR-Preserved and DELIVER trials).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Tuberculosis - MDR-TB Treatment",
+    "difficulty": "medium",
+    "stem": "A 35-year-old man with MDR-TB (rifampicin and isoniazid resistant) has susceptible fluoroquinolone sensitivity on DST. According to WHO 2022 Module 4 guidelines, the preferred treatment regimen and duration is?",
+    "options": [
+      "BPaL (Bedaquiline + Pretomanid + Linezolid) for 24 weeks",
+      "BPaLM (Bedaquiline + Pretomanid + Linezolid + Moxifloxacin) for 24 weeks",
+      "Conventional injectable-based regimen for 18-24 months",
+      "BPaLM for 12 months followed by continuation phase"
+    ],
+    "answer": 1,
+    "explanation": "WHO 2022 Module 4 replaced older 18-24 month MDR-TB regimens with BPaLM as the preferred option for MDR/RR-TB without fluoroquinolone resistance. BPaLM = Bedaquiline + Pretomanid + Linezolid (600 mg) + Moxifloxacin for 24 weeks (6 months). BPaL (without moxifloxacin) is reserved for pre-XDR-TB (MDR + fluoroquinolone resistance). Since this patient has fluoroquinolone-susceptible disease, BPaLM (with moxifloxacin added) is preferred. The older 18-24 month injectable-based regimen is no longer the standard. BPaLM is not extended to 12 months in fluoroquinolone-susceptible cases.",
+    "highYield": "BPaLM (with Moxifloxacin) for 24 weeks = preferred for MDR-TB with fluoroquinolone-susceptible disease (WHO 2022); BPaL for pre-XDR-TB.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Tuberculosis - Drug-Resistant TB Definitions",
+    "difficulty": "medium",
+    "stem": "A TB patient's drug susceptibility testing reveals MDR-TB plus resistance to levofloxacin. According to the WHO 2021 updated definitions, this patient's TB is classified as?",
+    "options": [
+      "XDR-TB",
+      "Pre-XDR-TB",
+      "Polydrug-resistant TB",
+      "Extensively drug-resistant TB requiring injectable salvage"
+    ],
+    "answer": 1,
+    "explanation": "WHO 2021 redefined TB resistance categories. Pre-XDR-TB is defined as MDR/RR-TB PLUS resistance to any fluoroquinolone (levofloxacin or moxifloxacin). This patient has MDR-TB + levofloxacin resistance, which precisely fits pre-XDR-TB by the 2021 definition. XDR-TB (new definition) requires MDR/RR-TB + fluoroquinolone resistance + resistance to at least one Group A drug (bedaquiline OR linezolid). The old definition of XDR-TB required injectable resistance, which is no longer used. Pre-XDR-TB is treated with BPaL regimen (without moxifloxacin).",
+    "highYield": "Pre-XDR-TB (WHO 2021) = MDR/RR-TB + any fluoroquinolone resistance. XDR-TB = MDR + FQ resistance + Bdq or Lzd resistance. Injectable-based old definition is obsolete.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Tuberculosis - Drug Mechanisms",
+    "difficulty": "hard",
+    "stem": "A patient with pre-XDR-TB is started on BPaL regimen. The drug Pretomanid in this regimen belongs to which class and acts by which primary mechanism?",
+    "options": [
+      "Diarylquinoline; inhibits mycobacterial ATP synthase",
+      "Nitroimidazooxazine; releases reactive nitrogen species killing both replicating and dormant bacilli",
+      "Oxazolidinone; inhibits 23S rRNA and protein synthesis",
+      "Fluoroquinolone; inhibits DNA gyrase and topoisomerase IV"
+    ],
+    "answer": 1,
+    "explanation": "Pretomanid is a nitroimidazooxazine (similar class to delamanid). It is activated under anaerobic conditions to release reactive nitrogen species that kill both replicating and non-replicating (dormant) TB bacilli — this dual killing activity is pharmacologically unique. It was approved under FDA's 'Limited Population' pathway in 2019. Bedaquiline (not pretomanid) is the diarylquinoline that inhibits ATP synthase. Linezolid is the oxazolidinone in BPaL that inhibits protein synthesis via 23S rRNA. Moxifloxacin is the fluoroquinolone added in BPaLM.",
+    "highYield": "Pretomanid = nitroimidazooxazine; activated anaerobically to release reactive nitrogen species, killing both replicating AND dormant TB bacilli.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Tuberculosis - Drug Mechanisms",
+    "difficulty": "medium",
+    "stem": "Bedaquiline, used as a Group A drug in MDR-TB regimens, has a unique mechanism of action. Which of the following correctly describes its pharmacological target?",
+    "options": [
+      "Inhibits mycobacterial cell wall synthesis by blocking enoyl-ACP reductase (InhA)",
+      "Inhibits mycobacterial ATP synthase c-subunit (oligomer)",
+      "Inhibits mycobacterial RNA polymerase beta subunit",
+      "Inhibits mycobacterial 30S ribosomal subunit protein synthesis"
+    ],
+    "answer": 1,
+    "explanation": "Bedaquiline is a diarylquinoline class drug that specifically inhibits the c-subunit (oligomer) of mycobacterial ATP synthase, thereby depleting the bacterium of energy. This mechanism of action has no cross-resistance with other TB drugs. It is approved for MDR-TB in adults and children >= 5 years. InhA inhibition is the mechanism of isoniazid. RNA polymerase beta subunit inhibition is rifampicin's mechanism. Aminoglycosides (amikacin, kanamycin) inhibit the 30S ribosomal subunit.",
+    "highYield": "Bedaquiline = diarylquinoline; inhibits mycobacterial ATP synthase c-subunit. Unique MOA with no cross-resistance to other TB drugs.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Tuberculosis - TB Prevention",
+    "difficulty": "medium",
+    "stem": "Under NTEP India's TB Preventive Treatment (TPT) guidelines, a new shorter prophylaxis regimen released in December 2024 with higher completion rates than the 9H regimen consists of?",
+    "options": [
+      "3HP — 3 months of weekly isoniazid + rifapentine",
+      "6H — 6 months of daily isoniazid",
+      "1HP — 1 month of daily isoniazid + rifapentine",
+      "4R — 4 months of daily rifampicin alone"
+    ],
+    "answer": 2,
+    "explanation": "NTEP India released guidance for the 1HP regimen (1 month of daily isoniazid + daily rifapentine) in December 2024 as a new TPT option with higher completion rates than the older 9H (9 months daily isoniazid) regimen. The established NTEP TPT regimens include 6H (6 months daily isoniazid) and 3HP (3 months weekly isoniazid + rifapentine). The 1HP regimen is the newest addition with programmatic advantages due to shortest duration. 4R (4 months daily rifampicin) is a WHO-recommended regimen but not the December 2024 NTEP-specific guidance document referenced.",
+    "highYield": "NTEP 1HP (1 month daily isoniazid + rifapentine) released December 2024 — newest TPT regimen with highest completion rates.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Heart Failure - ACC/AHA 2022 Guidelines",
+    "difficulty": "easy",
+    "stem": "According to the 2022 ACC/AHA/HFSA Heart Failure Guidelines, which of the following represents the standard quadruple therapy (all Class I) for heart failure with reduced ejection fraction (HFrEF)?",
+    "options": [
+      "ACE inhibitor + Beta-blocker + Spironolactone + Digoxin",
+      "ARNI + Beta-blocker + MRA + SGLT2 inhibitor",
+      "ARB + Beta-blocker + Loop diuretic + Ivabradine",
+      "ARNI + Beta-blocker + Loop diuretic + Hydralazine"
+    ],
+    "answer": 1,
+    "explanation": "The 2022 ACC/AHA/HFSA guidelines established quadruple therapy as the standard of care for HFrEF. The four pillars are: (1) ARNI (sacubitril-valsartan), (2) Beta-blocker (carvedilol, metoprolol succinate, or bisoprolol), (3) MRA (spironolactone or eplerenone), and (4) SGLT2 inhibitor (dapagliflozin or empagliflozin) — all with Class I, Level A recommendation. Memory anchor: ABMS = ARNI + Beta-blocker + MRA + SGLT2i. Digoxin, loop diuretics, ivabradine, and hydralazine are adjunctive agents, not part of the core quadruple therapy.",
+    "highYield": "HFrEF quadruple therapy (all Class I): ARNI + Beta-blocker + MRA + SGLT2 inhibitor. Memory: ABMS. No ACEi (replaced by ARNI).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Heart Failure - ARNI Guidelines",
+    "difficulty": "medium",
+    "stem": "A 52-year-old man with HFrEF (EF 30%) on enalapril 10 mg twice daily, carvedilol, and spironolactone is to be switched to sacubitril-valsartan. What is the mandatory washout period required before initiating sacubitril-valsartan?",
+    "options": [
+      "12 hours",
+      "24 hours",
+      "36 hours",
+      "48 hours"
+    ],
+    "answer": 2,
+    "explanation": "When switching from an ACE inhibitor (such as enalapril) to ARNI (sacubitril-valsartan), a mandatory 36-hour washout period is required to avoid the risk of angioedema. Both ACE inhibitors and sacubitril (neprilysin inhibitor) increase bradykinin levels; concurrent use dramatically increases angioedema risk. ARNI is NOT combined with ACE inhibitors — it replaces ACEi as the preferred RAA blocker in HFrEF. The 36-hour washout is a high-yield pharmacological safety fact. Shorter periods (12h, 24h) are insufficient to clear ACEi and avoid the angioedema risk.",
+    "highYield": "36-hour washout is mandatory when switching from ACEi to ARNI (sacubitril-valsartan) to prevent angioedema. Never combine ARNI + ACEi.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Heart Failure - Beta-blockers",
+    "difficulty": "easy",
+    "stem": "Which of the following beta-blockers has proven mortality benefit and is specifically approved for use in heart failure with reduced ejection fraction (HFrEF)?",
+    "options": [
+      "Atenolol",
+      "Metoprolol tartrate (short-acting)",
+      "Bisoprolol",
+      "Propranolol"
+    ],
+    "answer": 2,
+    "explanation": "Only three beta-blockers have proven mortality benefit and are approved for HFrEF: carvedilol, metoprolol succinate (extended-release, not tartrate), and bisoprolol. Atenolol and metoprolol tartrate (short-acting) are NOT indicated for HFrEF despite being beta-blockers. Propranolol is a non-selective beta-blocker without proven HF mortality benefit. The critical distinction is that metoprolol succinate (XL/CR) is approved for HFrEF, but metoprolol tartrate (IR) is not — a common NEET PG trap question.",
+    "highYield": "Only 3 beta-blockers for HFrEF: Carvedilol, Metoprolol SUCCINATE (not tartrate), Bisoprolol. Atenolol and tartrate formulation are NOT approved.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Heart Failure - Novel Agents 2022",
+    "difficulty": "hard",
+    "stem": "A 68-year-old woman is diagnosed with transthyretin amyloid cardiomyopathy (ATTR-CM) confirmed by Tc-99m pyrophosphate scan. She has no diabetes or hypertension. According to the 2022 ACC/AHA HF guidelines, which is the first disease-modifying treatment approved for this condition?",
+    "options": [
+      "Vericiguat",
+      "Tafamidis",
+      "Empagliflozin",
+      "Patisiran"
+    ],
+    "answer": 1,
+    "explanation": "Tafamidis is the first disease-modifying treatment approved for transthyretin amyloid cardiomyopathy (ATTR-CM). It works by stabilizing the transthyretin tetramer, preventing misfolding and amyloid deposition. The 2022 ACC/AHA/HFSA guidelines include tafamidis as a guideline addition for ATTR-CM. Vericiguat is a soluble guanylate cyclase stimulator used in HFrEF (not ATTR-CM). Empagliflozin is an SGLT2 inhibitor for HF of all types but is not disease-modifying for amyloidosis. Patisiran is an RNA interference therapy for hereditary TTR amyloidosis (hATTR), a different indication.",
+    "highYield": "Tafamidis = first disease-modifying treatment for ATTR-CM (transthyretin amyloid cardiomyopathy); TTR tetramer stabilizer (2022 ACC/AHA guideline addition).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Hypertension Guidelines",
+    "difficulty": "medium",
+    "stem": "A 45-year-old hypertensive man (BP 175/100 mmHg) presents to the emergency department with severe headache and BP of 195/120 mmHg. Fundoscopy shows papilledema and flame-shaped hemorrhages. Serum creatinine is 2.8 mg/dL (baseline 1.0). This presentation is classified as hypertensive emergency. What is the target for MAP reduction in the first hour of treatment?",
+    "options": [
+      "Reduce systolic BP to < 120 mmHg immediately",
+      "Reduce MAP by no more than 25% in the first hour",
+      "Normalize BP to < 130/80 mmHg within 1 hour using oral agents",
+      "Reduce diastolic BP to < 80 mmHg over 24-48 hours"
+    ],
+    "answer": 1,
+    "explanation": "In hypertensive emergency (BP >180/120 with end-organ damage), the target is to reduce MAP by no more than 25% in the first hour, then gradually to 160/100 mmHg over the next 2-6 hours. This patient has hypertensive encephalopathy evidence (papilledema, hemorrhages) and acute kidney injury (end-organ damage). Excessive BP reduction causes cerebral, coronary, or renal ischemia. Treatment uses IV agents (nitroprusside, labetalol, nicardipine). The exception is aortic dissection where systolic target is <120 mmHg within 20 minutes. Option C (oral agents) is used only for hypertensive urgency (no organ damage), not emergency.",
+    "highYield": "Hypertensive emergency: reduce MAP by no more than 25% in first hour with IV agents. Exception: aortic dissection targets SBP < 120 mmHg in 20 minutes.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Heart Failure - HFpEF",
+    "difficulty": "medium",
+    "stem": "A 72-year-old woman presents with exertional dyspnea and bilateral leg edema. Echo shows LVEF 58%, Grade II diastolic dysfunction. NT-proBNP is elevated. Diagnosis is HFpEF. According to the 2022 ACC/AHA/HFSA guidelines, which drug class now carries a Class IIa recommendation specifically for HFpEF — the first class shown to have guideline-supported benefit in HFpEF?",
+    "options": [
+      "ACE inhibitors",
+      "Aldosterone antagonists (MRA)",
+      "SGLT2 inhibitors",
+      "Beta-blockers"
+    ],
+    "answer": 2,
+    "explanation": "SGLT2 inhibitors (empagliflozin from EMPEROR-Preserved trial; dapagliflozin from DELIVER trial) now carry a Class IIa recommendation for HFpEF per 2022 ACC/AHA/HFSA guidelines. This was a historic milestone — previously NO drug had proven guideline-recommended benefit in HFpEF. ACE inhibitors and beta-blockers do not have outcomes-based recommendations in HFpEF. Spironolactone (MRA) has only a Class IIb recommendation for HFpEF. SGLT2 inhibitors represent the first class with Class IIa evidence in HFpEF, making this a landmark distinction.",
+    "highYield": "SGLT2 inhibitors = Class IIa for HFpEF (first drug class with guideline benefit in HFpEF). Based on EMPEROR-Preserved (empagliflozin) and DELIVER (dapagliflozin) trials.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Heart Failure - Staging 2022",
+    "difficulty": "easy",
+    "stem": "According to the 2022 ACC/AHA/HFSA updated heart failure staging system, a 55-year-old asymptomatic man with diabetes, hypertension, and LVH on ECG but no structural heart disease on echocardiography is classified as?",
+    "options": [
+      "Stage A — at risk for heart failure",
+      "Stage B — pre-heart failure",
+      "Stage C — symptomatic heart failure",
+      "Stage D — advanced heart failure"
+    ],
+    "answer": 0,
+    "explanation": "The 2022 ACC/AHA/HFSA guidelines updated HF staging: Stage A = 'at risk for HF' (no symptoms, no structural disease, but has risk factors such as diabetes, hypertension, obesity, exposure to cardiotoxic agents). Stage B = 'pre-HF' (structural heart disease — e.g., cardiomegaly, reduced LVEF, valvular disease — but no symptoms). Stage C = symptomatic HF. Stage D = advanced/refractory HF. This patient has risk factors (diabetes, hypertension) and LVH on ECG but normal echocardiography (no structural disease), classifying him as Stage A. If echo showed LV wall motion abnormality or chamber dilation, he would be Stage B.",
+    "highYield": "2022 HF staging: Stage A = risk factors only (no structure/symptoms); Stage B = structural disease without symptoms; Stage C = symptomatic; Stage D = advanced.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "National Immunization Programme - HPV Vaccine",
+    "difficulty": "medium",
+    "stem": "India's government launched the nationwide HPV vaccination programme on February 28, 2026. The primary target group for this school-based free government HPV programme is girls aged?",
+    "options": [
+      "9-10 years",
+      "11-13 years",
+      "14 years",
+      "16-18 years"
+    ],
+    "answer": 2,
+    "explanation": "PM Modi launched India's nationwide HPV vaccination programme on February 28, 2026, targeting girls aged 14 years for the school-based catch-up drive, with approximately 1.15 crore (11.5 million) girls vaccinated annually at government facilities free of charge. The broader IAP and NTAGI recommendation covers girls aged 9-14 years, but the government's primary targeted age group for programmatic delivery is 14 years. This is a landmark public health event for NEET PG SPM. NTAGI had recommended HPV vaccine inclusion in UIP in June 2022, and it was formally launched in 2026.",
+    "highYield": "India's government HPV vaccine programme (launched Feb 28, 2026) targets girls aged 14 years at government facilities free; IAP covers 9-14 years.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "National Immunization Programme - HPV Vaccine",
+    "difficulty": "medium",
+    "stem": "India's indigenous quadrivalent HPV vaccine, approved in 2023, is produced by which manufacturer and is described as non-inferior to available vaccines in 2-dose schedule?",
+    "options": [
+      "Bharat Biotech — Cervavac",
+      "Serum Institute of India — Cervavac",
+      "Biological E — Cervaxin",
+      "Zydus Cadila — Gardasil India"
+    ],
+    "answer": 1,
+    "explanation": "Cervavac is India's indigenous quadrivalent HPV vaccine manufactured by Serum Institute of India (SII). It was approved in 2023 and demonstrated non-inferiority to available quadrivalent HPV vaccines when given in a 2-dose schedule. However, it was not WHO-prequalified as of early 2026. Bharat Biotech makes other vaccines (Covaxin, rotavirus vaccine Rotavac), not Cervavac. Biological E and Zydus Cadila are not linked to these specific HPV vaccine products. Cervavac's domestic production is expected to enable affordable large-scale HPV vaccination across India.",
+    "highYield": "Cervavac = India's indigenous quadrivalent HPV vaccine by Serum Institute of India (2023 approval); non-inferior to available vaccines in 2-dose schedule.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "Universal Immunization Programme",
+    "difficulty": "easy",
+    "stem": "Fractional IPV (fIPV) is given intradermally under India's Universal Immunization Programme (UIP). The dose and route of fIPV administration is?",
+    "options": [
+      "0.5 mL intramuscularly at 6 and 14 weeks",
+      "0.1 mL intradermally at 6 and 14 weeks",
+      "0.2 mL subcutaneously at 10 and 14 weeks",
+      "0.5 mL subcutaneously at 6, 10, and 14 weeks"
+    ],
+    "answer": 1,
+    "explanation": "Fractional IPV (fIPV) under India's UIP is administered as 0.1 mL intradermally (ID) at 6 weeks and 14 weeks. This replaced the earlier full-dose IPV schedule (0.5 mL IM) to conserve vaccine supply while maintaining immunogenicity. The intradermal route activates Langerhans cells efficiently, allowing a smaller dose (1/5 of standard dose) to achieve comparable immune response. OPV (oral polio vaccine) is given at birth (bOPV) and at 6, 10, and 14 weeks. India runs a combined OPV + fIPV schedule under UIP.",
+    "highYield": "fIPV under UIP: 0.1 mL INTRADERMAL at 6 and 14 weeks (NOT 0.5 mL IM). Given to conserve vaccine supply.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "Mission Indradhanush",
+    "difficulty": "easy",
+    "stem": "Intensified Mission Indradhanush (IMI) 4.0 was launched on February 7, 2022. The number of districts covered under IMI 4.0 was?",
+    "options": [
+      "200 districts in 20 states/UTs",
+      "300 districts in 25 states/UTs",
+      "416 districts in 33 states/UTs",
+      "500 districts in all states/UTs"
+    ],
+    "answer": 2,
+    "explanation": "Intensified Mission Indradhanush (IMI) 4.0 was launched on February 7, 2022, covering 416 districts across 33 states/UTs in 3 rounds (February to May 2022). It targeted unvaccinated and partially vaccinated children and pregnant women. As part of all IMI phases combined, 5.46 crore children and 1.32 crore pregnant women have been vaccinated under Mission Indradhanush overall. The coverage of 416 districts in 33 states/UTs is the specific figure for IMI 4.0 and is high-yield for NEET PG SPM.",
+    "highYield": "IMI 4.0 (launched Feb 7, 2022) covered 416 districts in 33 states/UTs across 3 rounds; targets unvaccinated children and pregnant women.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "IAP Immunization Schedule Updates",
+    "difficulty": "medium",
+    "stem": "The IAP ACVIP 2024-2025 updated its influenza vaccine recommendation, switching from quadrivalent to trivalent influenza vaccine. The reason for this change is?",
+    "options": [
+      "B/Victoria lineage has been eradicated globally",
+      "B/Yamagata lineage is considered eradicated",
+      "A/H1N1 strains no longer circulate in India",
+      "Quadrivalent vaccines showed inferior immunogenicity in Indian children"
+    ],
+    "answer": 1,
+    "explanation": "IAP ACVIP 2024-2025 updated the influenza vaccine recommendation from quadrivalent influenza vaccine (covering A/H1N1, A/H3N2, B/Victoria, B/Yamagata) to trivalent influenza vaccine (covering A/H1N1, A/H3N2, B/Victoria). The reason is that the B/Yamagata lineage is considered globally eradicated — no confirmed B/Yamagata isolates have been detected since March 2020. Therefore, including a B/Yamagata component in vaccines is no longer necessary. B/Victoria continues to circulate and is retained. A/H1N1 and A/H3N2 are retained. Quadrivalent vaccines did not show inferior immunogenicity.",
+    "highYield": "IAP 2024-25: Switch from quadrivalent to trivalent influenza vaccine because B/Yamagata lineage is considered eradicated (no isolates since March 2020).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "National TB Elimination Programme",
+    "difficulty": "easy",
+    "stem": "India's National TB Elimination Programme (NTEP) approved the BPaLM regimen on September 6, 2024. NTEP replaced the earlier programme known as?",
+    "options": [
+      "National TB Control Programme (NTCP)",
+      "Revised National TB Control Programme (RNTCP)",
+      "Modified National TB Control Programme (MNTCP)",
+      "Enhanced TB Elimination Mission (ETEM)"
+    ],
+    "answer": 1,
+    "explanation": "NTEP (National TB Elimination Programme) replaced RNTCP (Revised National TB Control Programme) in 2020. The name change reflected India's ambition to eliminate TB by 2025 (incidence <10/lakh population per year), ahead of the global Sustainable Development Goal target of 2030. India currently has the highest TB burden globally, accounting for 26% of global cases. On September 6, 2024, NTEP approved the BPaLM regimen for MDR-TB treatment as part of its modernized approach. NTCP, MNTCP, and ETEM are not real programme names.",
+    "highYield": "NTEP replaced RNTCP in 2020; goal is TB elimination by 2025 (incidence <10/lakh/year). India has 26% of global TB burden. BPaLM approved Sep 6, 2024.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "Preeclampsia Prevention - Aspirin",
+    "difficulty": "medium",
+    "stem": "A 32-year-old woman in her first pregnancy at 12 weeks gestation is identified as high risk for preeclampsia based on first trimester screening (combined test including uterine artery Doppler and PlGF). According to FIGO/ISSHP guidelines, the recommended aspirin dose for preeclampsia prevention and optimal time of administration is?",
+    "options": [
+      "81 mg aspirin at any time of day, started before 16 weeks",
+      "150 mg aspirin at bedtime, started between 11-14 weeks",
+      "100 mg aspirin in the morning, started after 14 weeks",
+      "300 mg aspirin at bedtime, started at 16-20 weeks"
+    ],
+    "answer": 1,
+    "explanation": "FIGO and ISSHP recommend aspirin 150 mg/day started between 11-14 weeks for high-risk preeclampsia prevention. The dose should be taken at bedtime as this improves bioavailability and the blood pressure-lowering effect acts during the nocturnal period. ACOG recommends the lower dose of 81 mg, creating an ongoing dosing controversy, but FIGO/ISSHP specifies 150 mg. Starting at 11-14 weeks is the window to achieve benefit before placentation is complete. Starting after 16 weeks is less effective. 300 mg is not recommended for prophylaxis.",
+    "highYield": "FIGO/ISSHP preeclampsia prophylaxis: Aspirin 150 mg at BEDTIME, started 11-14 weeks gestation in high-risk women.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "Preeclampsia Diagnosis - Biomarkers",
+    "difficulty": "hard",
+    "stem": "A 30-year-old woman at 28 weeks gestation with new-onset hypertension (BP 148/94 mmHg) but no proteinuria undergoes sFlt-1/PlGF ratio testing. The ratio is 32. According to PROGNOSIS trial data, what does this result indicate?",
+    "options": [
+      "Confirms preeclampsia diagnosis (ratio > 38 is diagnostic)",
+      "Rules out preeclampsia within 1 week (NPV 99.3%)",
+      "Requires immediate delivery as ratio > 20 is critical",
+      "Indicates pre-XDR preeclampsia needing fetal monitoring only"
+    ],
+    "answer": 1,
+    "explanation": "An sFlt-1/PlGF ratio of 32 is below the 38 threshold. Per PROGNOSIS trial data, a ratio <= 38 rules out preeclampsia within 1 week with a negative predictive value (NPV) of 99.3%. A ratio above 38 has a positive predictive value of ~84.8% for preeclampsia within 28 days. Ratios above 85 (or 110 near term) are used to confirm/rule-in preeclampsia. Since this patient's ratio is 32 (<38), preeclampsia is effectively ruled out for the next week, allowing safe outpatient monitoring. The term 'pre-XDR preeclampsia' does not exist — this is a distractor from TB terminology.",
+    "highYield": "sFlt-1/PlGF ratio <= 38: rules out preeclampsia in 1 week with NPV 99.3% (PROGNOSIS trial). Ratio > 85: rules in preeclampsia.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "Preeclampsia Diagnosis - ISSHP 2021",
+    "difficulty": "medium",
+    "stem": "A 36-year-old woman at 32 weeks gestation develops BP of 150/96 mmHg on two readings 4 hours apart. Urine dipstick is negative for protein. She has a platelet count of 90,000/mm3. According to ISSHP 2021 guidelines, can preeclampsia be diagnosed?",
+    "options": [
+      "No, because proteinuria is absent which is mandatory for diagnosis",
+      "Yes, because new-onset hypertension after 20 weeks with maternal organ dysfunction (thrombocytopenia) qualifies",
+      "No, preeclampsia requires both proteinuria AND systolic BP > 160 mmHg",
+      "Yes, but only if 24-hour urine protein exceeds 300 mg"
+    ],
+    "answer": 1,
+    "explanation": "Per ISSHP 2021 guidelines, proteinuria is NOT required for a diagnosis of preeclampsia. New-onset hypertension after 20 weeks PLUS any one of the following qualifies: proteinuria, maternal organ dysfunction (including thrombocytopenia, renal impairment, hepatic dysfunction, neurological features), or uteroplacental dysfunction (FGR, abnormal Dopplers). This patient has new-onset HTN after 20 weeks with thrombocytopenia (platelets 90,000 = maternal organ dysfunction), which meets the ISSHP 2021 criteria for preeclampsia even without proteinuria. This is a major conceptual shift from older definitions.",
+    "highYield": "ISSHP 2021: Proteinuria is NOT required for preeclampsia. New-onset HTN > 20 weeks + organ dysfunction (thrombocytopenia, renal, hepatic, neurological) or uteroplacental dysfunction is sufficient.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "PPH Prevention - Uterotonics",
+    "difficulty": "medium",
+    "stem": "A woman delivers in a peripheral health center in a remote area without reliable cold chain facilities. To prevent postpartum hemorrhage (PPH), the healthcare worker needs to administer a uterotonic that does not require refrigeration. According to WHO/FIGO guidelines, which agent is endorsed as an alternative to oxytocin for this purpose?",
+    "options": [
+      "Methylergonovine 0.2 mg IM",
+      "Carbetocin 100 mcg IM/IV (heat-stable formulation)",
+      "Misoprostol 400 mcg sublingual",
+      "Oxytocin 5 IU IM (stored at room temperature)"
+    ],
+    "answer": 1,
+    "explanation": "Heat-stable carbetocin 100 mcg IM/IV is WHO/FIGO-endorsed as an alternative to oxytocin for PPH prevention where cold chain is unreliable. Carbetocin does not require refrigeration unlike oxytocin (which requires 2-8 degrees C cold chain). Carbetocin is more effective than oxytocin for PPH prevention after cesarean section. There is no statistically significant difference after vaginal delivery. While misoprostol is also used in resource-limited settings, the question specifically asks about the WHO/FIGO endorsed alternative that is heat-stable. Oxytocin requires cold chain and loses potency at room temperature. Methylergonovine is contraindicated in hypertension and preeclampsia.",
+    "highYield": "Heat-stable carbetocin 100 mcg IM/IV = WHO/FIGO endorsed for PPH prevention where cold chain is unreliable. No refrigeration needed unlike oxytocin.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "Cervical Cancer Staging - FIGO 2018",
+    "difficulty": "medium",
+    "stem": "A 45-year-old woman with cervical cancer undergoes MRI pelvis which reveals enlarged pelvic lymph nodes suspicious for metastasis (confirmed on PET-CT). Histopathological examination of the primary lesion shows stromal invasion of 8 mm depth. According to FIGO 2018 staging (which incorporates imaging), what is the stage?",
+    "options": [
+      "Stage IB2",
+      "Stage IIA2",
+      "Stage IIIC1r",
+      "Stage IIIC2r"
+    ],
+    "answer": 2,
+    "explanation": "FIGO 2018 introduced Stage IIIC for lymph node involvement. Stage IIIC1 = pelvic lymph node metastasis; Stage IIIC2 = para-aortic lymph node metastasis. The 'r' suffix (IIIC1r) indicates diagnosis based on imaging, while 'p' suffix (IIIC1p) indicates histopathological confirmation. This patient has pelvic LN metastasis confirmed on PET-CT imaging, making the stage IIIC1r. FIGO 2018 was a landmark change as lymph node involvement previously had no role in FIGO cervical cancer staging. The primary tumor invasion depth (8 mm) would place it as IB2 (2-4 cm) or IB1/IB2, but LN involvement overrides to Stage IIIC1r.",
+    "highYield": "FIGO 2018: Stage IIIC added for LN metastasis. IIIC1 = pelvic LN; IIIC2 = para-aortic LN. 'r' suffix = imaging-based; 'p' suffix = pathology-confirmed.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "Cervical Cancer Staging - FIGO 2018",
+    "difficulty": "medium",
+    "stem": "According to FIGO 2018 cervical cancer staging, Stage IB has been subdivided into three categories. A tumor measuring 2.8 cm in its greatest dimension confined to the cervix (no lymph node involvement) is classified as?",
+    "options": [
+      "Stage IB1 (< 2 cm)",
+      "Stage IB2 (2-4 cm)",
+      "Stage IB3 (>= 4 cm)",
+      "Stage IIA1 (extension beyond cervix)"
+    ],
+    "answer": 1,
+    "explanation": "FIGO 2018 subdivided Stage IB into three categories: IB1 = < 2 cm (replacing old IB1), IB2 = 2-4 cm (new intermediate category), IB3 = >= 4 cm (replacing old IB2). Previously the split was only at 4 cm (old IB1 < 4 cm and IB2 >= 4 cm). A tumor of 2.8 cm falls in the 2-4 cm range, classifying it as IB2. This subdivision allows better surgical vs. radiotherapy decision-making. Stage IIA would require extension beyond the cervix (vaginal upper 2/3 involvement or parametrial involvement). The 7 mm horizontal spread criterion was removed in FIGO 2018.",
+    "highYield": "FIGO 2018 IB subdivision: IB1 < 2 cm; IB2 = 2-4 cm; IB3 >= 4 cm. Old system: IB1 < 4 cm and IB2 >= 4 cm (only one split). Width criterion removed.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "Cervical Cancer Staging - FIGO 2018 Microinvasive",
+    "difficulty": "hard",
+    "stem": "On cone biopsy of the cervix, histopathology shows squamous cell carcinoma with stromal invasion of 4.2 mm depth. The horizontal spread measures 10 mm. According to FIGO 2018, this tumor is staged as?",
+    "options": [
+      "Stage IA1 (invasion < 3 mm)",
+      "Stage IA2 (invasion 3-5 mm)",
+      "Stage IB1 (invasion > 5 mm regardless of width)",
+      "Stage IA2 is not applicable as width > 7 mm disqualifies microinvasion"
+    ],
+    "answer": 1,
+    "explanation": "FIGO 2018 criteria for microinvasive cervical carcinoma: Stage IA1 = stromal invasion < 3 mm depth; Stage IA2 = stromal invasion 3-5 mm depth. The critical change in FIGO 2018 is that the horizontal spread (width) criterion was REMOVED. The old FIGO 2009 system required width <= 7 mm for IA staging, but FIGO 2018 no longer uses width as a criterion. Therefore, this tumor with 4.2 mm depth and 10 mm width (which would have been disqualified in old staging) is correctly classified as Stage IA2 in FIGO 2018, regardless of the 10 mm width. This is a high-yield conceptual change for NEET PG.",
+    "highYield": "FIGO 2018: Stage IA1 = invasion < 3 mm; IA2 = 3-5 mm. Width/horizontal spread criterion is REMOVED (old 7 mm rule is obsolete).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "National Immunization Programme - PCV",
+    "difficulty": "easy",
+    "stem": "Pneumococcal Conjugate Vaccine (PCV-13) has been introduced into India's Universal Immunization Programme (UIP) and is being expanded nationally. Under the UIP schedule, the primary doses and booster dose of PCV are administered at?",
+    "options": [
+      "6 weeks, 10 weeks, and 14 weeks (three primary doses, no booster)",
+      "6 weeks and 14 weeks (primary doses) with a booster dose",
+      "10 weeks and 14 weeks (primary doses) with booster at 9 months",
+      "6, 10, and 14 weeks (three primary doses) with booster at 15 months"
+    ],
+    "answer": 1,
+    "explanation": "Under India's UIP, PCV-13 is given as two primary doses at 6 weeks and 14 weeks, with one booster dose. This is the 2+1 schedule adopted in the national program for cost-effectiveness and programmatic feasibility. The IAP recommends PCV13, PCV15, or PCV20 in the private sector following a different schedule. For UIP specifically, the 6-week and 14-week primary doses plus a booster is the schedule. Rotavirus vaccine under UIP uses three doses at 6, 10, and 14 weeks (no booster). The rotavirus first dose has a strict cutoff at 15 weeks of age.",
+    "highYield": "PCV-13 under UIP India: Primary doses at 6 weeks and 14 weeks, plus one booster dose (2+1 schedule).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Immunization - Rotavirus Vaccine",
+    "difficulty": "medium",
+    "stem": "A mother brings her 16-week-old infant for the first dose of rotavirus vaccine. According to IAP guidelines, the correct action is?",
+    "options": [
+      "Administer the first dose now and complete the 3-dose series by 32 weeks",
+      "Do not administer rotavirus vaccine as the first dose must be given before 15 weeks of age",
+      "Administer the first dose now and complete 2 doses by 24 weeks (2-dose schedule)",
+      "Defer to 6 months and start a new rotavirus series"
+    ],
+    "answer": 1,
+    "explanation": "IAP guidelines specify a strict age cutoff for rotavirus vaccine initiation: the first dose CANNOT be given after 15 weeks of age. This infant is 16 weeks old, which exceeds the maximum age for starting rotavirus vaccination. The reason for this cutoff is the rare but serious risk of intussusception with wild-type rotavirus infection at older ages; delaying vaccine initiation beyond this point negates the benefit-risk balance. The total series must also be completed by 32 weeks. Since this child has exceeded the 15-week cutoff, the vaccine is not administered. This is a common NEET PG pediatrics question.",
+    "highYield": "Rotavirus vaccine (IAP): First dose CANNOT be given after 15 weeks of age (strict cutoff). Series must be completed by 32 weeks.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "Diabetes - ADA 2024 Vaccination",
+    "difficulty": "easy",
+    "stem": "ADA Standards of Medical Care in Diabetes 2024 added a new vaccine recommendation for diabetic adults aged 60 years and above. Which vaccine was newly added based on recent FDA approval?",
+    "options": [
+      "Hepatitis A vaccine",
+      "Varicella-zoster (shingles) vaccine",
+      "Respiratory Syncytial Virus (RSV) vaccine",
+      "Meningococcal conjugate vaccine"
+    ],
+    "answer": 2,
+    "explanation": "ADA 2024 added the RSV (Respiratory Syncytial Virus) vaccine for adults aged >= 60 years with diabetes, reflecting FDA approval of RSV vaccines (RSVpreF and mResvia). The established recommended vaccinations in diabetic patients include pneumococcal (PPSV23/PCV15/PCV20), influenza (annual), hepatitis B (age < 60 unvaccinated), and now RSV (age >= 60). NEET PG angle: the memory hook is Pneumococcal + Influenza + Hepatitis B + RSV (newest addition) = vaccine set for diabetic patients. Hepatitis A, varicella-zoster (already recommended separately), and meningococcal vaccines were not new additions in ADA 2024.",
+    "highYield": "ADA 2024 new addition: RSV vaccine for diabetics aged >= 60 years. Established vaccines: pneumococcal, influenza, hepatitis B. RSV is the newest.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Tuberculosis - MDR-TB Regimen BPaL Duration",
+    "difficulty": "hard",
+    "stem": "A 40-year-old man with pre-XDR-TB (MDR-TB + levofloxacin resistance) is started on BPaL regimen (Bedaquiline + Pretomanid + Linezolid 600 mg). His sputum cultures remain positive at month 5 of treatment. According to WHO 2022 guidelines, what modification in duration applies?",
+    "options": [
+      "Extend BPaL to 12 months as cultures are positive beyond 4 months",
+      "Stop BPaL and switch to conventional 18-24 month regimen",
+      "BPaL can be extended to 39 weeks (9 months) if cultures positive between months 4-6",
+      "BPaL duration cannot be modified; switch to BPaLM if cultures positive"
+    ],
+    "answer": 2,
+    "explanation": "The standard BPaL regimen for pre-XDR-TB is 24 weeks (6 months). However, WHO 2022 guidelines allow extension of BPaL to 39 weeks (9 months) if sputum cultures remain positive between months 4-6 of treatment. This patient's positive culture at month 5 falls within this extension criterion. The extension accounts for slower bacteriological conversion in patients with extensive disease or cavity formation. BPaLM (with moxifloxacin) is for fluoroquinolone-susceptible MDR-TB and cannot be used in pre-XDR-TB where moxifloxacin is already resistant. Conventional 18-24 month regimens are no longer the standard fallback.",
+    "highYield": "BPaL for pre-XDR-TB: Standard 24 weeks; can extend to 39 weeks (9 months) if sputum cultures remain positive between months 4-6 (WHO 2022).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Heart Failure - Special Populations",
+    "difficulty": "medium",
+    "stem": "A 55-year-old African-American man with HFrEF (EF 25%) has persistent NYHA Class III symptoms despite optimal doses of sacubitril-valsartan, carvedilol, and spironolactone. He has moderate CKD (eGFR 35) with elevated potassium. He cannot tolerate SGLT2 inhibitors due to recurrent UTI. Which agent carries a Class I indication specifically for his ethnic group as an add-on to standard therapy?",
+    "options": [
+      "Ivabradine",
+      "Digoxin",
+      "Hydralazine + Isosorbide dinitrate",
+      "Vericiguat"
+    ],
+    "answer": 2,
+    "explanation": "Hydralazine + Isosorbide dinitrate (H-ISDN) carries a Class I recommendation specifically for Black/African-American patients with HFrEF already on optimal therapy (based on A-HeFT trial showing 43% relative mortality reduction in Black patients). It also has a Class I indication for HFrEF patients who cannot tolerate ACEi/ARB/ARNI due to renal failure or hyperkalemia. This patient is on ARNI and has not tolerated SGLT2i. The combination H-ISDN provides additional benefit in this demographic. Ivabradine requires HR >= 70 in sinus rhythm and is not specific to this demographic. Vericiguat is a soluble guanylate cyclase stimulator for worsening HF but does not have a specific indication for Black patients. Digoxin has no mortality benefit.",
+    "highYield": "Hydralazine + ISDN = Class I for Black/African-American HFrEF patients on optimal therapy (A-HeFT trial) AND for those intolerant to ARNI/ACEi/ARB.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Diabetes - Four Pillar Nephroprotection ADA 2024",
+    "difficulty": "hard",
+    "stem": "An image shows a treatment algorithm for a 58-year-old T2DM patient with CKD (eGFR 38, UACR 450 mg/g) and established ASCVD. The algorithm lists four treatment pillars for comprehensive nephrocardioprotection. According to ADA 2024, which four-drug combination constitutes the 'four pillar' approach for diabetic CKD?",
+    "options": [
+      "Metformin + ACEi/ARB + SGLT2i + Finerenone",
+      "ACEi/ARB + SGLT2i + Finerenone + GLP-1 RA",
+      "ACEi/ARB + SGLT2i + MRA (spironolactone) + Statin",
+      "SGLT2i + GLP-1 RA + Finerenone + Tirzepatide"
+    ],
+    "answer": 1,
+    "explanation": "ADA 2024 endorses a 'four pillar' approach for diabetic CKD: (1) ACEi/ARB (RAS blockade for nephroprotection), (2) SGLT2 inhibitor (nephro and cardiprotection), (3) Finerenone (nonsteroidal MRA for further nephroprotection and CV benefit), and (4) GLP-1 RA (primarily for cardiovascular benefit in those with ASCVD). This stacking of all four agents is now endorsed, unlike older sequential monotherapy thinking. Metformin is not a pillar of nephroprotection. Spironolactone (steroidal MRA) is not the recommended MRA in this context — finerenone is specifically endorsed. Tirzepatide is not part of the four-pillar framework.",
+    "highYield": "ADA 2024 four-pillar nephroprotection in diabetic CKD: ACEi/ARB + SGLT2i + Finerenone + GLP-1 RA. All four can be stacked simultaneously.",
+    "pyqNote": "",
+    "tags": []
+  }
+]

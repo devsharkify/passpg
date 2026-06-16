@@ -1,0 +1,597 @@
+[
+  {
+    "subject": "Pathology",
+    "topic": "CNS Tumors - WHO CNS5 2021 Classification",
+    "difficulty": "medium",
+    "stem": "A 55-year-old man presents with progressive headache and seizures. MRI shows a ring-enhancing lesion in the right temporal lobe with surrounding edema. Biopsy reveals a diffuse astrocytic tumor with palisading necrosis and microvascular proliferation. Molecular testing shows IDH-wildtype status. According to WHO CNS5 2021, what is the correct diagnosis?",
+    "options": [
+      "Astrocytoma, IDH-mutant, CNS WHO grade 4",
+      "Glioblastoma, IDH-wildtype, CNS WHO grade 4",
+      "Anaplastic astrocytoma, IDH-wildtype",
+      "Diffuse midline glioma, H3 K27-altered"
+    ],
+    "answer": 1,
+    "explanation": "Per WHO CNS5 2021, Glioblastoma (GBM) is now exclusively reserved for IDH-wildtype diffuse astrocytic tumors. The presence of palisading necrosis and microvascular proliferation in an IDH-wildtype tumor confirms GBM grade 4. IDH-mutant high-grade gliomas are reclassified as Astrocytoma, IDH-mutant, CNS WHO grade 4 (not GBM). 'Anaplastic astrocytoma' as a separate label is deprecated in the new classification.",
+    "highYield": "GBM = IDH-wildtype ONLY in WHO CNS5 2021; IDH-mutant high-grade astrocytoma is NOT called GBM",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "CNS Tumors - Molecular Back-doors to GBM Diagnosis",
+    "difficulty": "hard",
+    "stem": "A 62-year-old woman undergoes biopsy for a diffuse astrocytic brain tumor. Histology shows no necrosis and no microvascular proliferation. Molecular testing reveals IDH-wildtype status and TERT promoter mutation. What is the correct WHO CNS5 2021 diagnosis and grade?",
+    "options": [
+      "Astrocytoma, IDH-wildtype, CNS WHO grade 2",
+      "Astrocytoma, IDH-wildtype, CNS WHO grade 3",
+      "Glioblastoma, IDH-wildtype, CNS WHO grade 4",
+      "Oligodendroglioma, IDH-mutant, CNS WHO grade 2"
+    ],
+    "answer": 2,
+    "explanation": "WHO CNS5 2021 established three molecular 'back-doors' to GBM diagnosis even without classical histological features (necrosis or microvascular proliferation): (a) TERT promoter mutation, (b) EGFR amplification, or (c) combined +7/-10 chromosomal change. Presence of ANY ONE of these in an IDH-wildtype diffuse astrocytoma = GBM grade 4, regardless of histological appearance. Options A and B are incorrect because the molecular findings override morphology.",
+    "highYield": "TERT promoter mutation alone in IDH-wildtype astrocytoma = GBM grade 4 even without necrosis or MVP",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "CNS Tumors - Oligodendroglioma Molecular Diagnosis",
+    "difficulty": "medium",
+    "stem": "A 40-year-old man presents with a seizure. MRI shows a frontal lobe mass with calcifications. Histology reveals a tumor with uniform round cells and 'fried-egg' artifact. Molecular workup shows IDH mutation and 1p/19q co-deletion. What additional marker is required to confirm oligodendroglioma diagnosis per WHO CNS5?",
+    "options": [
+      "EGFR amplification",
+      "TERT promoter mutation",
+      "H3 K27M mutation",
+      "CDKN2A homozygous deletion"
+    ],
+    "answer": 1,
+    "explanation": "Per WHO CNS5 2021, oligodendroglioma diagnosis requires THREE co-existing molecular features: (1) IDH mutation, (2) 1p/19q co-deletion, AND (3) TERT promoter mutation. All three must be present simultaneously. EGFR amplification is a back-door to GBM diagnosis. H3 K27M defines diffuse midline glioma. CDKN2A homozygous deletion is a poor-prognosis marker in meningioma. Without TERT promoter mutation, the oligodendroglioma diagnosis cannot be made by WHO CNS5 criteria.",
+    "highYield": "Oligodendroglioma requires IDH mutation + 1p/19q co-deletion + TERT promoter mutation (all three required)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "CNS Tumors - Diffuse Midline Glioma",
+    "difficulty": "medium",
+    "stem": "A 12-year-old boy presents with diplopia and ataxia for 3 months. MRI reveals a non-enhancing diffuse infiltrative tumor in the pons. Biopsy shows diffuse astrocytic morphology. Molecular testing reveals H3 K27M mutation, IDH-wildtype status. What is the WHO grade and prognosis?",
+    "options": [
+      "CNS WHO grade 2 with favorable prognosis",
+      "CNS WHO grade 3 with intermediate prognosis",
+      "CNS WHO grade 4 with poor prognosis regardless of histological grade",
+      "CNS WHO grade 1 with excellent prognosis after surgery"
+    ],
+    "answer": 2,
+    "explanation": "Diffuse Midline Glioma, H3 K27-altered is a new WHO CNS5 entity that is ALWAYS grade 4, regardless of histological features. It primarily affects children and young adults and arises in midline structures (thalamus, brainstem/pons, spinal cord). The defining mutation is H3 K27M (H3.3 or H3.1). There is no IDH mutation, and no effective targeted therapy exists currently. The location in the pons in a child with H3 K27M = classic diffuse intrinsic pontine glioma (DIPG), now classified under this entity.",
+    "highYield": "Diffuse midline glioma H3 K27-altered = always grade 4, always pediatric/young adult, always midline, H3 K27M mutation",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Meningioma Molecular Grading",
+    "difficulty": "hard",
+    "stem": "A 50-year-old woman undergoes resection of a meningioma. Histology shows a grade 1 appearance (syncytial pattern, no mitoses, no necrosis). However, molecular testing reveals CDKN2A/B homozygous deletion and TERT promoter mutation. According to WHO CNS5 2021, what grade should be assigned?",
+    "options": [
+      "Grade 1, as histology determines grading",
+      "Grade 2, as molecular features suggest intermediate risk",
+      "Grade 3, as molecular markers override histology for grading",
+      "Grade 2 based on TERT mutation alone"
+    ],
+    "answer": 2,
+    "explanation": "Per WHO CNS5 2021, molecular markers can OVERRIDE histological grading in meningioma. CDKN2A/B homozygous deletion carries the worst prognosis among meningioma markers, and TERT promoter mutation is associated with high-grade behavior. The presence of either of these molecular alterations upgrades a histologically grade 1 meningioma to grade 3. This is analogous to how molecular features drive GBM diagnosis. Grade 1 meningiomas typically show NF2 loss or AKT1/SMO/TRAF7/KLF4 mutations (especially skull-base subtypes).",
+    "highYield": "CDKN2A/B deletion or TERT promoter mutation in meningioma = grade 3, overriding histological grade",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "PD-L1 Testing and Immunotherapy Biomarkers",
+    "difficulty": "medium",
+    "stem": "A 65-year-old man is diagnosed with advanced lung adenocarcinoma. PD-L1 IHC testing using 22C3 pharmDx assay shows 60% of tumor cells staining positive. No EGFR/ALK/ROS1 alterations are found. What is the appropriate first-line treatment implication?",
+    "options": [
+      "Chemotherapy alone; PD-L1 TPS does not guide first-line therapy",
+      "Pembrolizumab monotherapy is indicated as TPS is >/= 50%",
+      "Pembrolizumab is contraindicated until Combined Positive Score is calculated",
+      "Atezolizumab monotherapy based on immune-cell scoring"
+    ],
+    "answer": 1,
+    "explanation": "For lung adenocarcinoma, PD-L1 is assessed using Tumour Proportion Score (TPS). TPS >/= 50% qualifies the patient for first-line pembrolizumab monotherapy (KEYNOTE-024 trial). The patient's TPS of 60% meets this threshold. Combined Positive Score (CPS) is used for gastric/GEJ, cervical, head-and-neck, and triple-negative breast cancers, NOT lung. Atezolizumab uses immune-cell (IC) scoring primarily in urothelial carcinoma. In absence of driver mutations, TPS >/= 50% is the standard for pembrolizumab monotherapy in NSCLC.",
+    "highYield": "Lung adenocarcinoma PD-L1 = Tumour Proportion Score (TPS); TPS >/= 50% = first-line pembrolizumab monotherapy",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "PD-L1 Scoring Systems - CPS vs TPS",
+    "difficulty": "hard",
+    "stem": "A 48-year-old woman with triple-negative breast cancer has PD-L1 IHC testing. The pathologist reports CPS of 12. Which statement correctly describes the Combined Positive Score and its treatment implication?",
+    "options": [
+      "CPS counts only tumor cells; CPS 12 suggests pembrolizumab benefit",
+      "CPS counts tumor cells, macrophages, and lymphocytes; CPS >/= 10 indicates pembrolizumab benefit in TNBC",
+      "CPS is equivalent to TPS and measures the same cell population",
+      "CPS >/= 1 is the threshold for pembrolizumab in TNBC"
+    ],
+    "answer": 1,
+    "explanation": "Combined Positive Score (CPS) counts PD-L1 positive tumor cells, macrophages, and lymphocytes (all three cell types), divided by total viable tumor cells x 100. For triple-negative breast cancer (TNBC), the threshold for pembrolizumab benefit (KEYNOTE-522) is CPS >/= 10. This patient's CPS of 12 exceeds the threshold. Note: For cervical cancer, CPS >/= 1 is the threshold. For gastric/GEJ cancer, CPS >/= 10 is used. TPS (Tumour Proportion Score) counts only tumor cells and is used for NSCLC.",
+    "highYield": "CPS includes tumor cells + macrophages + lymphocytes; TNBC pembrolizumab threshold = CPS >/= 10",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "TMB and Tumor-Agnostic Immunotherapy",
+    "difficulty": "medium",
+    "stem": "A 55-year-old patient with metastatic endometrial carcinoma undergoes comprehensive genomic profiling. Results show TMB of 15 mutations/megabase, MSS (microsatellite stable) status, and PD-L1 CPS of 3. Which statement regarding pembrolizumab eligibility is correct?",
+    "options": [
+      "Not eligible; requires MSI-H status for pembrolizumab",
+      "Not eligible; CPS >/= 10 required for pembrolizumab in endometrial cancer",
+      "Eligible; TMB >/= 10 mutations/Mb qualifies for tumor-agnostic pembrolizumab approval",
+      "Eligible only if POLE mutation is also present"
+    ],
+    "answer": 2,
+    "explanation": "The FDA approved pembrolizumab for TMB-high tumors (>/= 10 mutations/megabase) across all solid tumors agnostically in 2020 (KEYNOTE-158). This patient's TMB of 15 mutations/Mb exceeds the threshold, making them eligible regardless of MSI status or PD-L1 CPS. TMB is measured by FoundationOne CDx. TMB-high is most common in melanoma, lung, bladder, and endometrial MSI-H tumors. The MSS status does not preclude eligibility when TMB-high criterion is met independently.",
+    "highYield": "TMB >/= 10 mutations/Mb = tumor-agnostic pembrolizumab eligibility (FDA 2020, KEYNOTE-158)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "MSI-H/dMMR and Lynch Syndrome",
+    "difficulty": "medium",
+    "stem": "A 45-year-old woman has resected colorectal cancer showing loss of MLH1 and PMS2 on IHC with intact MSH2 and MSH6. Additional testing shows BRAF V600E mutation and MLH1 promoter methylation. What is the most likely diagnosis and implication?",
+    "options": [
+      "Lynch syndrome due to germline MLH1 mutation; genetic counseling required",
+      "Sporadic MSI-H CRC due to MLH1 promoter methylation plus BRAF V600E; NOT Lynch syndrome",
+      "Lynch syndrome due to germline PMS2 mutation; colonoscopy surveillance of family",
+      "Sporadic CRC with acquired MSH2 mutation; not eligible for immunotherapy"
+    ],
+    "answer": 1,
+    "explanation": "The combination of MLH1 promoter hypermethylation AND BRAF V600E mutation in a colorectal cancer with dMMR (MLH1/PMS2 loss) is the hallmark of SPORADIC MSI-H CRC, not Lynch syndrome. BRAF V600E is rare in Lynch syndrome. Lynch syndrome = germline dMMR mutation (constitutional), while sporadic MSI-H CRC = somatic MLH1 promoter methylation causing MLH1 silencing. This distinction is critical: Lynch syndrome requires genetic counseling and surveillance of family members. Sporadic MSI-H CRC does NOT. However, both subtypes are eligible for pembrolizumab (dMMR/MSI-H agnostic approval).",
+    "highYield": "Sporadic MSI-H CRC = MLH1 promoter methylation + BRAF V600E; this combination EXCLUDES Lynch syndrome",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "HER2 Testing and HER2-Low Concept",
+    "difficulty": "medium",
+    "stem": "A 52-year-old woman with metastatic breast cancer has HER2 IHC showing 2+ staining (incomplete membrane staining in >10% cells). Reflex FISH shows HER2:CEP17 ratio of 1.6 with average HER2 signals of 4.0. How should this case be classified and what is the therapeutic implication?",
+    "options": [
+      "HER2-positive; trastuzumab indicated",
+      "HER2-negative; no HER2-targeted therapy possible",
+      "HER2-low (IHC 2+/FISH-negative); eligible for trastuzumab deruxtecan (T-DXd)",
+      "HER2-equivocal; repeat IHC on new block required before any decision"
+    ],
+    "answer": 2,
+    "explanation": "HER2 IHC 2+ requires reflex FISH. FISH is positive if HER2:CEP17 ratio >/= 2.0 OR average HER2 signals >/= 6.0. This patient has ratio 1.6 and average signals 4.0 — both below thresholds, so FISH is NEGATIVE. IHC 2+/FISH-negative = HER2-low (not positive, not truly zero). HER2-low category (IHC 1+ or IHC 2+/FISH-negative) is now targetable with trastuzumab deruxtecan (T-DXd), which was FDA-approved for HER2-low metastatic breast cancer in 2022 (DESTINY-Breast04 trial). Standard trastuzumab requires IHC 3+ or FISH-amplified.",
+    "highYield": "HER2-low = IHC 1+ or IHC 2+/FISH-negative; targetable with trastuzumab deruxtecan (T-DXd)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Philadelphia Chromosome and BCR-ABL Isoforms",
+    "difficulty": "medium",
+    "stem": "A 25-year-old man presents with acute lymphoblastic leukemia. Cytogenetics reveals t(9;22)(q34;q11). RT-PCR shows BCR-ABL p190 isoform (minor breakpoint). Which statement about this finding is correct?",
+    "options": [
+      "p190 BCR-ABL is characteristic of CML and carries a good prognosis",
+      "p190 BCR-ABL is the minor breakpoint isoform, characteristic of ALL with worse prognosis than p210",
+      "p210 BCR-ABL is characteristic of ALL and responds well to imatinib",
+      "Both p190 and p210 isoforms have the same clinical significance in ALL"
+    ],
+    "answer": 1,
+    "explanation": "BCR-ABL fusion from t(9;22) creates different isoforms depending on the breakpoint: p210 (major breakpoint, e3a2 or b2a2/b3a2) is characteristic of CML and some ALL. p190 (minor breakpoint, e1a2) is primarily found in Philadelphia chromosome-positive ALL and carries WORSE prognosis compared to p210. p190-positive ALL requires TKI (imatinib/dasatinib/ponatinib) plus chemotherapy. Dasatinib and nilotinib are 2nd-generation TKIs for resistance. T315I 'gatekeeper' mutation = resistance to all TKIs except ponatinib and asciminib.",
+    "highYield": "p190 BCR-ABL = minor breakpoint = Ph+ ALL (worse prognosis); p210 = major breakpoint = CML",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "AML - APML and Auer Rods",
+    "difficulty": "easy",
+    "stem": "A 35-year-old woman presents with spontaneous gingival bleeding and petechiae. Peripheral smear shows blasts with bundles of needle-shaped cytoplasmic inclusions forming 'faggot cells.' Coagulation screen shows PT prolonged, fibrinogen low, and D-dimers markedly elevated. What is the diagnosis and immediate priority in management?",
+    "options": [
+      "AML-M2 with single Auer rods; begin standard 7+3 chemotherapy",
+      "APML (AML-M3) with faggot cells; immediate ATRA initiation before genetic confirmation",
+      "Burkitt lymphoma with DIC; begin R-CHOP",
+      "CML blast crisis; begin imatinib therapy"
+    ],
+    "answer": 1,
+    "explanation": "Faggot cells (blasts with bundles of multiple Auer rods forming faggot-like structures) are pathognomonic of Acute Promyelocytic Leukemia (APML/AML-M3), caused by t(15;17) PML-RARA fusion. The presentation shows DIC (low fibrinogen, high D-dimers, prolonged PT), which is the commonest cause of early death in untreated APML. ATRA (all-trans retinoic acid) must be started IMMEDIATELY on clinical suspicion, even before genetic confirmation, because early DIC-related mortality is preventable. ATRA + arsenic trioxide is the definitive treatment (not standard 7+3 chemotherapy).",
+    "highYield": "Faggot cells = APML (AML-M3); DIC is the commonest cause of death in untreated APML; start ATRA immediately",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Lymphoma - CD Markers and Burkitt Lymphoma",
+    "difficulty": "medium",
+    "stem": "A 28-year-old man presents with a rapidly growing jaw mass. Biopsy shows a starry-sky pattern with uniform medium-sized lymphoid cells. IHC: CD10+, CD20+, BCL6+, BCL2-, MYC+. Ki-67 shows nearly 100% proliferative index. What molecular abnormality is most characteristic?",
+    "options": [
+      "t(14;18) BCL2/IgH translocation",
+      "t(8;14) c-MYC/IgH translocation",
+      "t(11;14) cyclin D1/IgH translocation",
+      "t(2;5) NPM-ALK translocation"
+    ],
+    "answer": 1,
+    "explanation": "The clinical picture describes Burkitt lymphoma: jaw mass in young male (endemic type), starry-sky pattern (macrophages engulfing apoptotic cells), CD10+, CD20+, BCL6+, BCL2-NEGATIVE, MYC+, and near-100% Ki-67. The defining molecular abnormality is t(8;14) c-MYC/IgH translocation (chromosome 8 MYC oncogene juxtaposed to chromosome 14 IgH). t(14;18) = follicular lymphoma (BCL2/IgH). t(11;14) = mantle cell lymphoma (cyclin D1). t(2;5) = ALK+ ALCL (NPM-ALK). The BCL2-negative status helps distinguish Burkitt from DLBCL.",
+    "highYield": "Burkitt lymphoma: CD10+, BCL2-, MYC+, Ki-67 ~100%, t(8;14) c-MYC/IgH translocation",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "ALCL - ALK Status and Prognosis",
+    "difficulty": "medium",
+    "stem": "A 22-year-old man has a neck lymph node biopsy showing large anaplastic cells with horseshoe-shaped nuclei ('hallmark cells'), sinusoidal growth pattern. IHC: CD30+, EMA+, ALK+. Cytogenetics: t(2;5). What is the diagnosis, prognosis, and potential targeted therapy?",
+    "options": [
+      "ALK-negative ALCL; poor prognosis; no targeted therapy available",
+      "ALK-positive ALCL; better prognosis; ALK inhibitors such as crizotinib being studied",
+      "Classical Hodgkin lymphoma; good prognosis; brentuximab vedotin",
+      "DLBCL, ALK-positive variant; intermediate prognosis; R-CHOP standard"
+    ],
+    "answer": 1,
+    "explanation": "ALK-positive Anaplastic Large Cell Lymphoma (ALCL) is defined by: CD30+, EMA+, ALK+, t(2;5) NPM-ALK fusion, and hallmark cells (horseshoe/wreath-shaped nucleus). ALK+ ALCL has BETTER prognosis compared to ALK-negative ALCL. ALK inhibitors like crizotinib are being studied for relapsed/refractory cases. ALK-negative ALCL has worse prognosis and no specific molecular marker. Classical Hodgkin lymphoma is RS-cell positive but EMA-negative and lacks hallmark cells. The t(2;5) translocation fuses nucleophosmin (NPM1) on chromosome 5 to ALK on chromosome 2.",
+    "highYield": "ALK+ ALCL: CD30+, EMA+, t(2;5) NPM-ALK, hallmark cells; better prognosis than ALK-negative ALCL",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Soft Tissue Tumors - CIC-DUX4 vs Ewing Sarcoma",
+    "difficulty": "hard",
+    "stem": "A 19-year-old man has a soft tissue mass in the thorax. Histology shows sheets of small round blue cells. IHC: CD99 variable (focally positive), NKX2.2 negative. Molecular testing: EWSR1 FISH negative; CIC::DUX4 fusion detected by RNA sequencing. What is the correct diagnosis per WHO 5th edition 2022?",
+    "options": [
+      "Ewing sarcoma; EWSR1::FLI1 is the only defining fusion and FISH negativity excludes it",
+      "CIC-rearranged sarcoma (formerly Ewing-like sarcoma); more aggressive than Ewing sarcoma",
+      "Alveolar rhabdomyosarcoma; PAX-FOXO1 fusion negative makes this diagnosis",
+      "Undifferentiated round cell sarcoma, NOS; no specific molecular classification possible"
+    ],
+    "answer": 1,
+    "explanation": "Per WHO 5th edition 2022 soft tissue classification, CIC-rearranged sarcoma (CIC::DUX4 or CIC::FOXO4/NUTM1 fusions) is now a distinct entity, previously called 'Ewing-like sarcoma.' Key distinctions from Ewing sarcoma: Ewing sarcoma = EWSR1::FLI1 (t(11;22)), CD99 diffusely positive (membranous), NKX2.2 positive. CIC-rearranged sarcoma = CD99 variable, NKX2.2 NEGATIVE, CIC::DUX4 fusion. CIC-rearranged sarcoma is MORE aggressive than Ewing sarcoma with poorer outcomes. EWSR1 FISH negativity with variable CD99 and NKX2.2 negativity should prompt CIC testing.",
+    "highYield": "CIC-rearranged sarcoma: CD99 variable, NKX2.2-negative, CIC::DUX4 fusion; more aggressive than Ewing sarcoma",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "NTRK Fusions and Pan-TRK Therapy",
+    "difficulty": "hard",
+    "stem": "A 3-month-old infant presents with a rapidly growing arm mass. Histology shows a cellular spindle cell tumor with herringbone pattern. IHC: pan-TRK cytoplasmic staining positive. FISH confirms ETV6::NTRK3 fusion (t(12;15)). What is the diagnosis and the most appropriate targeted therapy?",
+    "options": [
+      "Synovial sarcoma with SS18::SSX fusion; imatinib is the targeted therapy",
+      "Infantile fibrosarcoma with ETV6::NTRK3 fusion; larotrectinib or entrectinib (pan-TRK inhibitors)",
+      "Congenital rhabdomyosarcoma; vincristine-based chemotherapy",
+      "Malignant peripheral nerve sheath tumor (MPNST); no targeted therapy available"
+    ],
+    "answer": 1,
+    "explanation": "ETV6::NTRK3 fusion from t(12;15) is the defining molecular event of infantile fibrosarcoma (congenital fibrosarcoma), occurring in infants <1 year with a spindle cell tumor. Pan-TRK IHC (cytoplasmic staining) is the screening test, confirmed by FISH or NGS for the fusion. Larotrectinib and entrectinib are pan-TRK inhibitors FDA-approved tumor-agnostically for NTRK-fusion positive solid tumors. This same ETV6::NTRK3 fusion is also found in secretory carcinoma of breast/salivary gland and congenital mesoblastic nephroma. Pan-TRK IHC sensitivity ~90% for screening.",
+    "highYield": "Infantile fibrosarcoma: ETV6::NTRK3 fusion (t(12;15)); treat with pan-TRK inhibitors larotrectinib/entrectinib",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "KRAS G12C - Targeted Therapy in NSCLC",
+    "difficulty": "hard",
+    "stem": "A 58-year-old smoker with metastatic lung adenocarcinoma has comprehensive genomic profiling revealing KRAS G12C mutation, PD-L1 TPS 20%, no EGFR/ALK/ROS1/MET alterations. Which targeted therapy is specifically approved for KRAS G12C in NSCLC?",
+    "options": [
+      "No targeted therapy exists for KRAS mutations; pembrolizumab as TPS 20% sufficient",
+      "Sotorasib or adagrasib; KRAS G12C is the first targetable KRAS mutation",
+      "Vemurafenib; KRAS and BRAF mutations are both in the RAS/RAF pathway",
+      "Bevacizumab (anti-VEGF); KRAS-mutant tumors respond well to anti-angiogenic therapy"
+    ],
+    "answer": 1,
+    "explanation": "KRAS G12C is the first targetable KRAS mutation, and sotorasib (AMG-510) and adagrasib (MRTX849) are approved for KRAS G12C-mutant NSCLC (second-line after prior therapy). KRAS G12C creates a cysteine at codon 12 that can be covalently bound by these agents, locking KRAS in an inactive GDP-bound state. KRAS mutations at codons 12/13 are present in ~40% of CRC, >90% of pancreatic ductal adenocarcinoma, and ~25% of NSCLC. Previously considered 'undruggable,' KRAS G12C is now the first targetable KRAS variant. Pembrolizumab (TPS 20%) is below the >/=50% threshold for monotherapy but is used in combination.",
+    "highYield": "KRAS G12C = first targetable KRAS mutation; sotorasib/adagrasib approved for NSCLC KRAS G12C",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Mesothelioma - IHC and Asbestos",
+    "difficulty": "medium",
+    "stem": "An image shows elongated ferruginous bodies (golden-brown beaded rods with dumbbell shapes) in BAL fluid. The patient is a 62-year-old shipyard worker. Subsequent pleural biopsy shows a biphasic tumor. IHC: Calretinin+, WT1+, D2-40+, CK5/6+, CEA-, BerEP4-. What is the diagnosis and the most carcinogenic asbestos fiber type?",
+    "options": [
+      "Pleural adenocarcinoma from lung primary; chrysotile asbestos is most carcinogenic",
+      "Malignant pleural mesothelioma; crocidolite (blue asbestos) is the most carcinogenic fiber type",
+      "Pleural fibroma; chrysotile exposure is the main risk; no IHC required",
+      "Reactive mesothelial hyperplasia; WT1 positivity is non-specific"
+    ],
+    "answer": 1,
+    "explanation": "Ferruginous bodies (asbestos fibers coated with iron-protein material, appearing as golden-brown dumbbell-shaped rods) in a shipyard worker indicate asbestos exposure. The biphasic pleural tumor with Calretinin+, WT1+, D2-40 (podoplanin)+, CK5/6+ and negative CEA/BerEP4/MOC31 is classic malignant mesothelioma IHC. Adenocarcinoma would be CEA+, BerEP4+, Calretinin-. Among asbestos fiber types, CROCIDOLITE (blue asbestos/amphibole fibers) is the MOST carcinogenic for mesothelioma, followed by amosite. Chrysotile (white asbestos, serpentine) is the most commonly used but less carcinogenic than crocidolite. Latency period is 20-40 years.",
+    "highYield": "Mesothelioma IHC: Calretinin+, WT1+, D2-40+, CEA-; crocidolite (blue asbestos) is most carcinogenic",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "MEN Syndromes - Molecular Genetics",
+    "difficulty": "medium",
+    "stem": "A 35-year-old man presents with recurrent peptic ulcers, hypercalcemia, and is found to have a pituitary prolactinoma. His father had similar problems. Gene testing reveals a mutation in the MENIN gene on chromosome 11q13. What is the syndrome and the complete clinical triad?",
+    "options": [
+      "MEN2A: medullary thyroid carcinoma + pheochromocytoma + hyperparathyroidism; RET mutation",
+      "MEN1: pituitary adenoma + parathyroid hyperplasia + pancreatic islet tumors (gastrinoma causing ZE syndrome); MENIN gene mutation",
+      "MEN2B: MTC + pheochromocytoma + marfanoid habitus; RET mutation without hyperparathyroidism",
+      "VHL syndrome: hemangioblastoma + clear cell RCC + pheochromocytoma; VHL gene mutation"
+    ],
+    "answer": 1,
+    "explanation": "MEN1 (Multiple Endocrine Neoplasia type 1) is caused by mutation in the MENIN tumor suppressor gene on chromosome 11q13. The classic triad is: (1) Pituitary adenoma (prolactinoma most common), (2) Parathyroid hyperplasia (hyperparathyroidism causing hypercalcemia), and (3) Pancreatic islet tumors (gastrinoma causing Zollinger-Ellison syndrome with recurrent ulcers is most common). MEN2A = RET proto-oncogene (10q11): MTC + pheochromocytoma + hyperparathyroidism. MEN2B = RET + MTC + pheochromocytoma + marfanoid + mucosal neuromas (NO hyperparathyroid). VHL = VHL gene (3p25).",
+    "highYield": "MEN1 = MENIN gene (11q13); triad = Pituitary + Parathyroid + Pancreatic islets (3 Ps)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "MGMT Methylation and Epigenetic Markers in GBM",
+    "difficulty": "medium",
+    "stem": "A newly diagnosed GBM patient is being counseled about chemotherapy. Molecular testing shows IDH-wildtype (confirmed GBM) and MGMT promoter methylation by methylation-specific PCR. What is the significance of MGMT promoter methylation?",
+    "options": [
+      "MGMT methylation = MGMT enzyme overexpressed = temozolomide resistance = poor prognosis",
+      "MGMT methylation = MGMT enzyme silenced = temozolomide cannot be repaired = better response and prognosis",
+      "MGMT methylation is only relevant for IDH-mutant gliomas, not GBM",
+      "MGMT methylation predicts response to bevacizumab but not temozolomide"
+    ],
+    "answer": 1,
+    "explanation": "MGMT (O6-methylguanine DNA methyltransferase) is a DNA repair enzyme that reverses the DNA alkylation damage caused by temozolomide, the standard chemotherapy for GBM. When the MGMT promoter is METHYLATED, the gene is SILENCED (epigenetically turned off), meaning MGMT protein is not produced, and temozolomide damage CANNOT be repaired. This leads to BETTER response to temozolomide and BETTER prognosis. Unmethylated MGMT = MGMT active = repairs temozolomide damage = resistance = poor prognosis. Testing by methylation-specific PCR or pyrosequencing. IDH1 R132H IHC (clone H09) screens for the most common IDH mutation in gliomas.",
+    "highYield": "MGMT promoter methylation = MGMT silenced = cannot repair temozolomide damage = better GBM prognosis",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Liquid Biopsy and ctDNA",
+    "difficulty": "medium",
+    "stem": "A 55-year-old woman with stage IV NSCLC was initially treated with erlotinib (EGFR TKI) but develops disease progression. Re-biopsy of the lung lesion shows adequate tissue but pathology finds no new EGFR mutation. A liquid biopsy (plasma ctDNA) is ordered. What is the primary clinical utility of liquid biopsy in this scenario?",
+    "options": [
+      "Liquid biopsy is only useful for early cancer detection, not resistance mechanism detection",
+      "Liquid biopsy can detect EGFR T790M resistance mutation as an alternative to repeat tissue biopsy",
+      "Liquid biopsy provides histological information equivalent to core needle biopsy",
+      "Liquid biopsy is the standard first-line diagnostic test replacing bronchoscopy"
+    ],
+    "answer": 1,
+    "explanation": "Circulating tumor DNA (ctDNA) in plasma is shed by tumor cells and can be detected by next-generation sequencing. In NSCLC patients on EGFR TKI (erlotinib/gefitinib) who develop acquired resistance, the most common mechanism is the EGFR T790M 'gatekeeper' mutation. Liquid biopsy (plasma ctDNA) can detect EGFR T790M as an ALTERNATIVE to tissue re-biopsy, which may be difficult due to tumor location or patient condition. Detection of T790M triggers switch to osimertinib (3rd-gen EGFR TKI covering T790M). ctDNA also useful for minimal residual disease (MRD) detection and early recurrence monitoring. Not a replacement for diagnostic bronchoscopy.",
+    "highYield": "Liquid biopsy ctDNA: detects EGFR T790M resistance in NSCLC; alternative to repeat tissue biopsy",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "ESBL - Classification and Mechanism",
+    "difficulty": "easy",
+    "stem": "A urine culture from a hospitalized patient grows E. coli resistant to cefotaxime, ceftazidime, and aztreonam, but susceptible to imipenem. Disk diffusion shows enhanced inhibition zone between ceftazidime and amoxicillin-clavulanate disks (double-disk synergy test positive). Which family of ESBLs is currently the most widespread globally?",
+    "options": [
+      "TEM-type ESBLs",
+      "SHV-type ESBLs",
+      "CTX-M-type ESBLs",
+      "OXA-type ESBLs"
+    ],
+    "answer": 2,
+    "explanation": "ESBLs (Extended-Spectrum Beta-Lactamases) hydrolyze penicillins, cephalosporins (including 3rd and 4th gen), and monobactams (aztreonam) but NOT carbapenems (imipenem remains active). Three major families: TEM, SHV, and CTX-M. CTX-M is currently the MOST WIDESPREAD ESBL globally, with over 170 CTX-M variants identified. CTX-M-15 is predominant in India. ESBLs are inhibited by clavulanic acid, which is the basis of the double-disk synergy test (DDST) and combined disk confirmatory test (>/= 5 mm zone increase with clavulanate confirms ESBL). OXA-type includes carbapenemases (OXA-48) and does not primarily confer ESBL phenotype.",
+    "highYield": "CTX-M is the most widespread ESBL globally (>170 variants); ESBLs inhibited by clavulanic acid",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "ESBL Detection - Combined Disk Test",
+    "difficulty": "medium",
+    "stem": "An isolate of Klebsiella pneumoniae is screened for ESBL production. The ceftazidime disk alone shows a zone of 14 mm. The ceftazidime plus clavulanic acid disk shows a zone of 22 mm. What is the interpretation and confirmatory threshold?",
+    "options": [
+      "ESBL negative; the difference of 8 mm is within normal variation",
+      "ESBL positive; >/= 5 mm increase in zone diameter with clavulanic acid confirms ESBL production",
+      "ESBL indeterminate; requires repeat testing with cefotaxime disk only",
+      "Carbapenemase positive; zone difference indicates carbapenem resistance"
+    ],
+    "answer": 1,
+    "explanation": "The combined disk test (phenotypic ESBL confirmatory test) uses ceftazidime (or cefotaxime) with and without clavulanic acid. An increase in zone diameter of >/= 5 mm when clavulanic acid is added confirms ESBL production. In this case: 22 - 14 = 8 mm increase, which exceeds the 5 mm threshold, confirming ESBL positive. Clavulanic acid is a suicide inhibitor of serine beta-lactamases (Class A, including ESBLs) and restores the activity of ceftazidime against ESBL producers. This positive result would also rule out pure carbapenemase production (carbapenems would still be active). Two disks (ceftazidime and cefotaxime, each with/without clavulanic acid) are typically tested for best sensitivity.",
+    "highYield": "ESBL confirmed by combined disk test: zone increase >/= 5 mm with clavulanate vs without clavulanate",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "Carbapenemases - Ambler Classification",
+    "difficulty": "medium",
+    "stem": "A clinical microbiologist receives a Klebsiella pneumoniae isolate resistant to all carbapenems. Boronic acid inhibition test is positive; EDTA inhibition test is negative. Molecular testing shows blaKPC gene. What is the Ambler class and mechanism?",
+    "options": [
+      "Class B (Metallo-beta-lactamase); requires Zn2+ cofactor; inhibited by EDTA",
+      "Class A (Serine carbapenemase); KPC is inhibited by boronic acid; uses serine at active site",
+      "Class D (OXA-type carbapenemase); not inhibited by EDTA or boronic acid",
+      "Class C (AmpC cephalosporinase); hyperproduced AmpC with porin loss causes carbapenem resistance"
+    ],
+    "answer": 1,
+    "explanation": "KPC (Klebsiella pneumoniae Carbapenemase) is an Ambler Class A SERINE carbapenemase (Bush-Jacoby group 2f). Class A enzymes use a serine residue at their active site. KPC is INHIBITED by BORONIC ACID (used in phenotypic detection) but NOT by EDTA (which chelates zinc and is used to detect Class B metallo-beta-lactamases). First identified in North Carolina, USA in 1996. KPC hydrolyzes carbapenems, penicillins, and cephalosporins. The boronic acid disk test + negative EDTA test pattern distinguishes KPC from NDM/VIM (Class B, EDTA-positive) and OXA-48 (Class D, neither positive reliably).",
+    "highYield": "KPC = Class A serine carbapenemase; detected by BORONIC ACID inhibition test (EDTA negative)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "NDM-1 - Mechanism and Indian Origin",
+    "difficulty": "medium",
+    "stem": "A 40-year-old man returns from India after hospitalization for a road traffic accident. In the UK, his wound culture grows E. coli resistant to imipenem, meropenem, all cephalosporins, penicillins, but susceptible to aztreonam alone. EDTA synergy test: positive. Boronic acid test: negative. What enzyme is responsible?",
+    "options": [
+      "KPC (Class A serine carbapenemase); boronic acid test should have been positive",
+      "NDM-1 (New Delhi Metallo-beta-lactamase-1, Class B); zinc-dependent; detected by EDTA synergy test",
+      "OXA-48 (Class D serine carbapenemase); detected by temocillin susceptibility pattern",
+      "TEM-26 (ESBL, Class A); susceptibility to aztreonam would not occur with ESBL"
+    ],
+    "answer": 1,
+    "explanation": "NDM-1 (New Delhi Metallo-beta-lactamase-1) is an Ambler Class B METALLO-beta-lactamase, first described in 2008 from a Swedish patient with Indian travel history. It requires ZINC (Zn2+) at its active site and is detected by EDTA synergy test (EDTA chelates zinc, inactivating the enzyme, causing increased meropenem zone). NDM-1 confers resistance to virtually all beta-lactams including carbapenems EXCEPT aztreonam (which NDM-1 does not hydrolyze efficiently). However, co-carried ESBL/AmpC genes often confer aztreonam resistance in practice. Boronic acid (KPC detector) is negative. EDTA positive = Class B MBL confirmed.",
+    "highYield": "NDM-1 = Class B MBL, zinc-dependent, detected by EDTA synergy test, first linked to Indian subcontinent",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "NDM-1 vs KPC vs OXA-48 Differentiation",
+    "difficulty": "hard",
+    "stem": "Three carbapenem-resistant Klebsiella pneumoniae isolates are tested with Modified Hodge Test (MHT), EDTA disk synergy, and boronic acid disk. Results: Isolate 1: MHT+, EDTA+, boronic-. Isolate 2: MHT+, EDTA-, boronic+. Isolate 3: MHT+, EDTA-, boronic-. What are the most likely carbapenemases?",
+    "options": [
+      "Isolate 1 = KPC; Isolate 2 = NDM-1; Isolate 3 = OXA-48",
+      "Isolate 1 = NDM-1; Isolate 2 = KPC; Isolate 3 = OXA-48",
+      "Isolate 1 = OXA-48; Isolate 2 = KPC; Isolate 3 = NDM-1",
+      "Isolate 1 = VIM; Isolate 2 = OXA-48; Isolate 3 = KPC"
+    ],
+    "answer": 1,
+    "explanation": "Carbapenemase detection algorithm: EDTA synergy test positive = Class B metallo-beta-lactamase (NDM-1, VIM, IMP) because EDTA chelates zinc, inhibiting MBLs. Boronic acid positive = Class A serine carbapenemase (KPC) because boronic acid inhibits KPC. Neither EDTA nor boronic acid positive = likely Class D (OXA-type, e.g., OXA-48), which is not reliably detected by either. Modified Hodge Test (MHT) using E. coli ATCC 25922 as indicator organism detects carbapenemase production generally (clover-leaf indentation = positive) but has low specificity. Therefore: Isolate 1 (EDTA+, boronic-) = NDM-1 (MBL, Class B). Isolate 2 (EDTA-, boronic+) = KPC (Class A). Isolate 3 (EDTA-, boronic-) = OXA-48 (Class D).",
+    "highYield": "EDTA+ = NDM-1/VIM (Class B MBL); Boronic acid+ = KPC (Class A); Neither = OXA-48 (Class D)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "Modified Hodge Test for Carbapenemase",
+    "difficulty": "medium",
+    "stem": "The Modified Hodge Test (MHT) is performed on a carbapenem-resistant isolate. E. coli ATCC 25922 is streaked radially around a meropenem disk. After overnight incubation, an image shows a distorted, clover-leaf-shaped inhibition zone indentation along the test organism streak. What does this finding indicate and what is a major limitation of this test?",
+    "options": [
+      "Negative MHT; the clover-leaf pattern rules out carbapenemase production",
+      "Positive MHT indicating carbapenemase production; limitation is false positives with AmpC + porin loss",
+      "Positive MHT indicating only ESBL production; MHT is specific for ESBLs only",
+      "Positive MHT indicating only KPC; MHT cannot detect Class B or D carbapenemases"
+    ],
+    "answer": 1,
+    "explanation": "The Modified Hodge Test detects carbapenemase production using E. coli ATCC 25922 (susceptible indicator strain) streaked radially around a meropenem disk. A POSITIVE result = clover-leaf indentation (distortion of the inhibition zone) = carbapenemase in the test organism enables surrounding E. coli to grow closer to the meropenem disk. NEGATIVE = no indentation. Major limitations of MHT: (1) Low specificity - false positives occur with AmpC hyperproduction combined with outer membrane porin loss (non-enzymatic carbapenem resistance). (2) Low sensitivity for some MBLs (NDM, VIM, IMP). (3) Cannot differentiate between different carbapenemase classes. EDTA and boronic acid disk tests are needed for class-specific identification.",
+    "highYield": "MHT positive = clover-leaf indentation; major limitation = false positives with AmpC + porin loss",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "MCR - Plasmid-Mediated Colistin Resistance",
+    "difficulty": "hard",
+    "stem": "A pan-drug resistant E. coli isolate from a pig farm in China is found to be resistant to colistin with MIC >4 mcg/mL. WGS shows the mcr-1 gene on an IncI2 plasmid. What is the mechanism of MCR-1 mediated colistin resistance?",
+    "options": [
+      "MCR-1 encodes a porin that prevents colistin entry into the periplasm",
+      "MCR-1 encodes a phosphoethanolamine transferase that modifies lipid A, reducing colistin binding affinity",
+      "MCR-1 is an efflux pump that actively exports colistin from the cell",
+      "MCR-1 encodes a colistin-hydrolyzing enzyme that degrades the antibiotic"
+    ],
+    "answer": 1,
+    "explanation": "MCR (Mobilized Colistin Resistance) genes encode a PHOSPHOETHANOLAMINE TRANSFERASE enzyme. This enzyme adds phosphoethanolamine to the lipid A component of LPS (lipopolysaccharide) in the outer membrane of gram-negative bacteria. Colistin (polymyxin E) normally acts by binding to the negatively charged LPS, disrupting the outer membrane. The addition of phosphoethanolamine to lipid A REDUCES the negative charge of the outer membrane, decreasing colistin's electrostatic binding affinity. MCR-1 was first reported in 2015 in China on IncI2 and IncHI2 plasmids in E. coli from pigs and humans. MCR-1 through MCR-5 variants exist. Colistin MIC resistance breakpoint (CLSI) = >4 mcg/mL for Enterobacterales.",
+    "highYield": "MCR-1 = phosphoethanolamine transferase; modifies lipid A of LPS; reduces negative charge; decreases colistin binding",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "MCR + NDM Co-resistance and Superbugs",
+    "difficulty": "hard",
+    "stem": "A clinical isolate of Klebsiella pneumoniae from a critically ill patient in a tertiary ICU carries both mcr-1 and blaNDM-1 genes on the same plasmid. The patient fails treatment with meropenem, colistin, and tigecycline. Why does the co-existence of MCR-1 and NDM-1 create a 'worst-case' scenario?",
+    "options": [
+      "MCR-1 inhibits NDM-1 activity, creating paradoxical antibiotic sensitivity",
+      "MCR-1 + NDM-1 co-existence creates pan-drug resistant organisms: NDM-1 destroys carbapenems while MCR-1 destroys colistin (the last resort for carbapenem-resistant organisms), leaving NO treatment options",
+      "Both genes are on the chromosome and cannot be transferred between organisms",
+      "MCR-1 + NDM-1 combination only affects Pseudomonas aeruginosa, not Enterobacterales"
+    ],
+    "answer": 1,
+    "explanation": "This represents the ultimate antibiotic resistance nightmare: NDM-1 (Class B MBL, zinc-dependent) = carbapenem resistance, making last-resort carbapenems ineffective. Colistin (polymyxin E) is the last-resort antibiotic used for carbapenem-resistant organisms (CRO). MCR-1 = resistance to colistin (the last resort for CRO). When both genes co-exist on plasmids (transferable between organisms), the result is PAN-DRUG RESISTANT organisms with NO effective treatment. This is a WHO Priority 1 critical pathogen concern. The plasmid-mediated nature (IncI2, IncHI2 for MCR; IncA/C, IncFII for NDM) allows rapid horizontal gene transfer between strains, species, and even genera.",
+    "highYield": "MCR-1 + NDM-1 co-existence = pan-drug resistant; NDM eliminates carbapenems + MCR eliminates last-resort colistin",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "CRISPR Diagnostics - SHERLOCK vs DETECTR",
+    "difficulty": "hard",
+    "stem": "A reference laboratory implements a novel CRISPR-based AMR detection system that uses Cas13a effector protein and detects NDM and KPC gene RNA targets, producing a fluorescent signal within 1 hour at isothermal temperature. No thermocycler is required. What platform is being described and what is its key collateral activity?",
+    "options": [
+      "DETECTR (Cas12a); detects DNA targets; collateral cleavage of ssDNA reporters",
+      "SHERLOCK (Cas13a); detects RNA targets; collateral cleavage of ssRNA reporters produces fluorescent signal",
+      "CRISPR-PCR hybrid requiring thermocycler; Cas9 for target cleavage; gel electrophoresis readout",
+      "LAMP-CRISPR using Cas14 (CasΦ); targets single-stranded RNA without PAM requirement"
+    ],
+    "answer": 1,
+    "explanation": "SHERLOCK (Specific High-sensitivity Enzymatic Reporter unLOCKing) uses CRISPR-Cas13a and targets RNA. Key mechanism: Cas13a is guided by crRNA to the target RNA, and upon binding, its HEPN nuclease domain is activated for COLLATERAL CLEAVAGE of non-target ssRNA (reporter RNA with fluorescent quencher). This produces a fluorescent signal detectable in ~1 hour at isothermal temperature. DETECTR uses Cas12a and detects DNA targets (with collateral cleavage of ssDNA reporters). Both SHERLOCK and DETECTR are isothermal (no thermocycler needed), making them point-of-care applicable. SHERLOCK has been applied to detect AMR genes including NDM and KPC, as well as SARS-CoV-2 and other pathogens.",
+    "highYield": "SHERLOCK = Cas13a = RNA target detection; collateral cleavage of ssRNA reporters; isothermal, no thermocycler needed",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "CRISPR Diagnostics - DETECTR Platform",
+    "difficulty": "hard",
+    "stem": "A point-of-care diagnostic device uses CRISPR-Cas12a to detect HPV16 and HPV18 DNA from cervical swab samples. A single-stranded DNA reporter (FAM-N12-TAMRA) is included in the reaction. A positive result produces fluorescence. What phenomenon enables this detection and how does DETECTR differ from SHERLOCK?",
+    "options": [
+      "DETECTR uses Cas12a for DNA detection; collateral cleavage of ssDNA reporters; SHERLOCK uses Cas13a for RNA",
+      "DETECTR uses Cas9 for DNA detection; site-specific cleavage only; no collateral cleavage",
+      "DETECTR and SHERLOCK are identical platforms using different nomenclature for the same Cas12a enzyme",
+      "DETECTR uses Cas13a for RNA detection; SHERLOCK uses Cas12a for DNA detection"
+    ],
+    "answer": 0,
+    "explanation": "DETECTR (DNA Endonuclease-Targeted CRISPR Trans Reporter) uses CRISPR-Cas12a to detect DNA targets. When Cas12a (guided by crRNA) binds its target dsDNA, it undergoes a conformational change that activates COLLATERAL (trans) CLEAVAGE of non-target ssDNA — the fluorescent ssDNA reporter (FAM-N12-TAMRA) is cleaved, separating fluorophore from quencher, producing signal. SHERLOCK uses Cas13a, detects RNA, and shows collateral cleavage of ssRNA reporters. Key comparison: DETECTR (Cas12a, DNA target, ssDNA reporter) vs SHERLOCK (Cas13a, RNA target, ssRNA reporter). Both are isothermal, point-of-care applicable, and can detect AMR genes. DETECTR has been applied for SARS-CoV-2 and HPV detection.",
+    "highYield": "DETECTR = Cas12a = DNA target; SHERLOCK = Cas13a = RNA target; both use collateral cleavage at isothermal conditions",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "OXA-48 Carbapenemase - Class D Features",
+    "difficulty": "hard",
+    "stem": "A carbapenem-resistant Klebsiella pneumoniae isolate from Turkey shows positive MHT, negative EDTA synergy test, and negative boronic acid test. Temocillin (4 mcg/mL) is found to be susceptible (zone >12 mm). Molecular PCR confirms blaOXA-48 gene. What class does OXA-48 belong to and why is detection challenging?",
+    "options": [
+      "Class A serine carbapenemase; inhibited by clavulanic acid; easily detected by standard tests",
+      "Class D serine carbapenemase; not reliably inhibited by EDTA or boronic acid; temocillin susceptibility pattern aids detection",
+      "Class B metallo-carbapenemase; zinc-dependent; detected by EDTA but not boronic acid",
+      "Class C AmpC cephalosporinase; induces false-positive MHT due to porin loss"
+    ],
+    "answer": 1,
+    "explanation": "OXA-48 is an Ambler Class D SERINE carbapenemase, common in Enterobacterales in India and Turkey (different epidemiology from NDM-1). Class D uses serine at active site but is structurally distinct from Class A. Detection is challenging because OXA-48 is NOT reliably inhibited by EDTA (no zinc cofactor; EDTA negative, ruling out Class B) and NOT reliably inhibited by boronic acid (rules out KPC/Class A). OXA-48 is a WEAK carbapenem hydrolyzer but clinically significant. The temocillin susceptibility pattern is used as a phenotypic clue: OXA-48 producers typically show an unusual temocillin susceptibility phenotype. Definitive detection requires molecular PCR for blaOXA-48. This 'both-EDTA-and-boronic-negative' pattern with MHT positive should raise suspicion for OXA-48.",
+    "highYield": "OXA-48 = Class D serine carbapenemase; NOT detected by EDTA or boronic acid; temocillin susceptibility aids detection",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "India AMR Burden - NDM and ESBL Epidemiology",
+    "difficulty": "easy",
+    "stem": "A NEET PG candidate is reviewing AMR epidemiology. Regarding NDM-1 and India's role in global AMR burden, which statement is most accurate?",
+    "options": [
+      "NDM-1 was first described in a Swedish patient without travel history; India has low ESBL prevalence",
+      "NDM-1 was first linked to the Indian subcontinent (blaNDM-1 on IncA/C and IncFII plasmids); India has one of the highest global rates of ESBL-producing Enterobacterales",
+      "NDM-1 was first identified in North Carolina, USA in 1996; same as KPC origin",
+      "India has low carbapenemase rates; MCR genes have not been detected in Indian livestock"
+    ],
+    "answer": 1,
+    "explanation": "NDM-1 (New Delhi Metallo-beta-lactamase-1) was first described in 2008 in Lancet Infectious Diseases from a Swedish patient who had been hospitalized in India. The bla-NDM-1 gene is carried on IncA/C and IncFII plasmids, enabling horizontal transfer. India has one of the highest global rates of ESBL-producing Enterobacterales (primarily E. coli and Klebsiella pneumoniae). MCR genes (MCR-1 through MCR-5) have been detected in Indian livestock and hospital isolates. KPC was first identified in North Carolina, USA in 1996 (not NDM-1). This India-specific AMR burden is particularly relevant for NEET PG and clinical practice in Indian tertiary hospitals.",
+    "highYield": "NDM-1 first linked to Indian subcontinent; India has among highest global rates of ESBL-producing Enterobacterales",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pathology",
+    "topic": "DLBCL - Hans Classifier and GCB vs ABC Subtyping",
+    "difficulty": "hard",
+    "stem": "A 60-year-old man has a rapidly enlarging axillary lymph node. Biopsy shows diffuse proliferation of large B-cells with vesicular nuclei and prominent nucleoli. IHC: CD20+, CD10-, BCL6+, MUM1+. Ki-67 ~70%. Hans classifier is applied. What is the DLBCL subtype and its clinical significance?",
+    "options": [
+      "Germinal Center B-cell (GCB) subtype; CD10+ required for GCB classification; better prognosis",
+      "Activated B-cell (ABC) / Non-GCB subtype by Hans classifier (CD10-, BCL6+, MUM1+); worse prognosis",
+      "Burkitt lymphoma; MUM1+ with near-100% Ki-67 and c-MYC positivity distinguishes from DLBCL",
+      "Primary mediastinal B-cell lymphoma; MUM1+ and CD10- pattern is characteristic"
+    ],
+    "answer": 1,
+    "explanation": "The Hans classifier uses CD10, BCL6, and MUM1 to subtype DLBCL: GCB subtype = CD10+ (any BCL6/MUM1), OR CD10- + BCL6+ + MUM1-. Non-GCB (ABC) subtype = CD10- + BCL6- (any MUM1), OR CD10- + BCL6+ + MUM1+. This patient: CD10-, BCL6+, MUM1+ = NON-GCB (ABC) subtype. ABC/Non-GCB DLBCL has WORSE prognosis than GCB, with lower cure rates with R-CHOP. Ki-67 ~70% is typical for DLBCL (not the ~100% seen in Burkitt). MUM1 (IRF4) marks post-GC activated B cells. GCB subtype arises from germinal center B cells; ABC subtype arises from post-GC activated B cells with NF-kB pathway activation.",
+    "highYield": "Hans classifier: CD10-, BCL6+, MUM1+ = Non-GCB (ABC) DLBCL subtype; worse prognosis than GCB",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "Colistin Mechanism and Last-Resort Status",
+    "difficulty": "easy",
+    "stem": "A carbapenem-resistant Acinetobacter baumannii isolate is susceptible only to colistin (MIC 1 mcg/mL). What is the mechanism of colistin's antibacterial activity and why is it considered a last-resort antibiotic?",
+    "options": [
+      "Colistin inhibits cell wall synthesis by blocking peptidoglycan cross-linking; used in gram-positive infections",
+      "Colistin binds LPS and disrupts the outer membrane of gram-negative bacteria by electrostatic displacement of divalent cations; last-resort due to nephrotoxicity and neurotoxicity",
+      "Colistin inhibits DNA gyrase (topoisomerase II); nephrotoxicity limits its use to last resort",
+      "Colistin is a protein synthesis inhibitor (30S ribosomal subunit); restricted to last-resort due to ototoxicity"
+    ],
+    "answer": 1,
+    "explanation": "Colistin (polymyxin E) is a polycationic lipopeptide antibiotic that acts by binding to the negatively charged lipopolysaccharide (LPS) in the outer membrane of gram-negative bacteria, specifically through electrostatic displacement of Mg2+ and Ca2+ ions. This disrupts the outer membrane integrity, causes leakage of intracellular contents, and leads to cell death. It is active ONLY against gram-negative organisms (not gram-positives, which lack LPS). Colistin is considered a last-resort antibiotic due to significant nephrotoxicity (dose-dependent acute kidney injury) and neurotoxicity. It is used primarily for carbapenem-resistant organisms (CRO) including CRKP, CR-Acinetobacter, CR-Pseudomonas. The colistin resistance MIC breakpoint per CLSI is >4 mcg/mL for Enterobacterales.",
+    "highYield": "Colistin binds LPS, disrupts gram-negative outer membrane; last-resort due to nephrotoxicity; gram-negative only",
+    "pyqNote": "",
+    "tags": []
+  }
+]

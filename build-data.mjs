@@ -136,6 +136,19 @@ const sources = [
   { name: 'mock1-miss-neubauer', load: () => loadJson('src/data/raw/mock1-miss-neubauer.json') },
   { name: 'mock1-miss-eog', load: () => loadJson('src/data/raw/mock1-miss-eog.json') },
   { name: 'mock1-partials-fill', load: () => loadJson('src/data/raw/mock1-partials-fill.json') },
+  // NEET PG 2026 prediction engine — 53-agent sweep
+  { name: '2026-nobel', load: () => loadJson('src/data/raw/2026-pred-nobel.json') },
+  { name: '2026-new-drugs', load: () => loadJson('src/data/raw/2026-pred-new-drugs.json') },
+  { name: '2026-guidelines', load: () => loadJson('src/data/raw/2026-pred-guidelines.json') },
+  { name: '2026-india-events', load: () => loadJson('src/data/raw/2026-pred-india-events.json') },
+  { name: '2026-coaching-patterns', load: () => loadJson('src/data/raw/2026-pred-coaching-patterns.json') },
+  { name: '2026-preclinical', load: () => loadJson('src/data/raw/2026-pred-preclinical.json') },
+  { name: '2026-patho-micro', load: () => loadJson('src/data/raw/2026-pred-patho-micro.json') },
+  { name: '2026-pharma', load: () => loadJson('src/data/raw/2026-pred-pharma-2026.json') },
+  { name: '2026-medicine-psych', load: () => loadJson('src/data/raw/2026-pred-medicine-psych.json') },
+  { name: '2026-surgery-ortho', load: () => loadJson('src/data/raw/2026-pred-surgery-ortho.json') },
+  { name: '2026-obg-peds', load: () => loadJson('src/data/raw/2026-pred-obg-peds.json') },
+  { name: '2026-specialty', load: () => loadJson('src/data/raw/2026-pred-specialty.json') },
 ];
 
 const all = [];

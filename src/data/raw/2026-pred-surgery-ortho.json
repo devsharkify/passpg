@@ -1,0 +1,665 @@
+[
+  {
+    "subject": "Surgery",
+    "topic": "ERAS Protocol - Preoperative Fasting",
+    "difficulty": "medium",
+    "stem": "A 55-year-old man is scheduled for elective laparoscopic sigmoid colectomy. According to the Enhanced Recovery After Surgery (ERAS) protocol, what is the recommended preoperative carbohydrate loading regimen?",
+    "options": [
+      "100 g carbohydrate drink the night before and 50 g two hours before surgery",
+      "Clear liquids only until midnight; solid food prohibited after dinner",
+      "50 g carbohydrate drink the night before and 100 g two hours before surgery",
+      "No oral intake for 12 hours before surgery to reduce aspiration risk"
+    ],
+    "answer": 0,
+    "explanation": "ERAS protocol mandates preoperative carbohydrate loading: 100 g drink the evening before surgery and 50 g drink 2 hours before surgery. Clear liquids are allowed up to 2 hours before the procedure. This regimen reduces insulin resistance, attenuates the catabolic stress response, and improves postoperative recovery. Traditional 'nil by mouth from midnight' is outdated and harmful. Options B and D represent old practice. Option C reverses the doses incorrectly.",
+    "highYield": "ERAS carbohydrate loading: 100 g night before + 50 g two hours pre-op; clear liquids allowed up to 2 hours pre-surgery.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "ERAS Protocol - Analgesia",
+    "difficulty": "medium",
+    "stem": "Which analgesic modality is the preferred method in ERAS protocol for open colorectal surgery to reduce opioid use, attenuate the stress response, and promote gut recovery?",
+    "options": [
+      "Patient-controlled IV morphine analgesia",
+      "Mid-thoracic epidural analgesia",
+      "Intramuscular pethidine every 6 hours",
+      "Oral tramadol with paracetamol"
+    ],
+    "answer": 1,
+    "explanation": "Mid-thoracic epidural analgesia is the preferred analgesic modality in ERAS for open colorectal surgery. It reduces opioid consumption, attenuates the neurohumoral stress response, promotes earlier return of gut function, and decreases pulmonary complications. Opioids (options A and C) impair gut motility and delay recovery. Oral tramadol (option D) is part of multimodal analgesia but not the preferred primary modality for open surgery.",
+    "highYield": "ERAS preferred analgesia for open colorectal = mid-thoracic epidural; reduces opioids, promotes gut recovery.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "ERAS Protocol - Postoperative Care",
+    "difficulty": "easy",
+    "stem": "A patient undergoes open hemicolectomy under ERAS protocol. Regarding routine nasogastric tube (NGT) use in ERAS, which statement is correct?",
+    "options": [
+      "NGT should be routinely placed and kept for 48 hours postoperatively",
+      "NGT should be used selectively only if the patient develops ileus",
+      "Routine postoperative NGT is NOT recommended in ERAS protocol",
+      "NGT is mandatory in all open colorectal surgeries for bowel decompression"
+    ],
+    "answer": 2,
+    "explanation": "ERAS protocol specifically recommends AGAINST routine postoperative nasogastric tube use. Routine NGT increases pulmonary complications (aspiration, atelectasis) and delays the return of oral feeding. NGT may be used selectively for specific indications (e.g., intraoperative complications, severe ileus), but routine placement is not endorsed. This is a key ERAS principle that frequently appears in exams.",
+    "highYield": "ERAS: NO routine postoperative NGT; routine use increases pulmonary complications and delays oral feeding.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "ERAS Protocol - Bowel Preparation",
+    "difficulty": "easy",
+    "stem": "According to the ERAS protocol for colorectal surgery, which statement best describes the role of mechanical bowel preparation (MBP)?",
+    "options": [
+      "MBP is mandatory before all colorectal surgeries to reduce anastomotic leak risk",
+      "MBP should be combined with oral antibiotics before elective left-sided colectomy",
+      "MBP is NOT recommended routinely in ERAS; it may cause dehydration and electrolyte imbalance",
+      "MBP is required only for right-sided colonic resections"
+    ],
+    "answer": 2,
+    "explanation": "ERAS protocol does not recommend routine mechanical bowel preparation before colorectal surgery. MBP has been shown to cause dehydration, electrolyte imbalance, and patient discomfort without a proven reduction in anastomotic leak or infectious complications. While some guidelines allow oral antibiotic bowel preparation combined with MBP for select cases (left-sided colectomy), the default ERAS position is that routine MBP is NOT mandatory. Option B combines two interventions in a way that may be acceptable in some protocols but is not the ERAS default position.",
+    "highYield": "ERAS: Mechanical bowel preparation is NOT routinely recommended; causes dehydration and electrolyte imbalance.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "ERAS Protocol - Early Mobilization",
+    "difficulty": "easy",
+    "stem": "An ERAS protocol for elective colonic resection is being implemented. What is the recommended timeline for early patient mobilization postoperatively?",
+    "options": [
+      "Within 6 hours of surgery",
+      "Within 24 hours postoperatively",
+      "On postoperative day 3 after drain removal",
+      "Only after the patient passes flatus"
+    ],
+    "answer": 1,
+    "explanation": "ERAS mandates early mobilization within 24 hours postoperatively. Early ambulation reduces DVT, hospital-acquired pneumonia, postoperative ileus, and muscle wasting. Waiting for flatus (option D) is outdated practice. Mobilizing within 6 hours (option A) may be feasible in some cases but the ERAS recommendation is 'within 24 hours' as the standard. Option C represents delayed mobilization inconsistent with ERAS principles.",
+    "highYield": "ERAS early mobilization: within 24 hours postoperatively; reduces DVT, pneumonia, ileus, and muscle wasting.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "TAVI/TAVR - Indications",
+    "difficulty": "medium",
+    "stem": "A 68-year-old man with severe aortic stenosis has an STS score of 2.5% (low surgical risk). Based on current evidence from PARTNER 2 and Evolut Low Risk trials, which statement about TAVR is correct?",
+    "options": [
+      "TAVR is contraindicated in low-risk surgical patients; SAVR is the only option",
+      "TAVR is now indicated for intermediate-risk and low-risk surgical patients",
+      "TAVR is reserved only for patients with STS score greater than 8% (high risk)",
+      "TAVR should be offered only when transfemoral access is unavailable"
+    ],
+    "answer": 1,
+    "explanation": "Based on PARTNER 2 (intermediate risk) and Evolut Low Risk trials, TAVR has expanded its indication to include intermediate-risk AND low-risk surgical patients, not just high-risk patients. The initial TAVR indication was limited to high-risk or inoperable patients, but evidence now supports its use across all risk categories. Options A and C are outdated. Option D is incorrect as transfemoral access is the preferred route, not a contraindication.",
+    "highYield": "TAVR is now indicated for low-risk patients (not just high-risk); supported by PARTNER 2 and Evolut Low Risk trials.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "TAVI/TAVR - Access and Complications",
+    "difficulty": "hard",
+    "stem": "Comparing TAVR versus SAVR in a low-risk patient with severe aortic stenosis, which complication profile is correct?",
+    "options": [
+      "TAVR: higher atrial fibrillation + higher AKI; SAVR: higher pacemaker implantation + paravalvular leak",
+      "TAVR: higher pacemaker implantation + higher paravalvular leak; SAVR: higher AKI + higher atrial fibrillation",
+      "TAVR: higher stroke + higher mortality; SAVR: higher pacemaker + higher paravalvular leak",
+      "TAVR and SAVR have identical complication rates in low-risk patients"
+    ],
+    "answer": 1,
+    "explanation": "TAVR has higher rates of permanent pacemaker implantation (due to proximity of aortic annulus to conduction system) and paravalvular leak (incomplete sealing around the prosthesis). SAVR has higher rates of acute kidney injury (cardiopulmonary bypass effect), atrial fibrillation (direct cardiac manipulation), and blood transfusion. This distinction is classic for exams. Stroke rates are comparable or even lower with TAVR in experienced centers.",
+    "highYield": "TAVR: more pacemakers + paravalvular leak. SAVR: more AKI + atrial fibrillation + blood transfusion.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "TAVI/TAVR - Access Route",
+    "difficulty": "medium",
+    "stem": "In a patient requiring TAVR, which access route is preferred, and what alternatives are used when this route is unsuitable?",
+    "options": [
+      "Transapical is preferred; alternatives are transfemoral and subclavian",
+      "Transfemoral is preferred; alternatives include transapical, transaortic, and subclavian",
+      "Transaortic is preferred; transfemoral used only if transaortic fails",
+      "Subclavian is preferred in all cases to reduce vascular complications"
+    ],
+    "answer": 1,
+    "explanation": "Transfemoral access is the preferred and most commonly used route for TAVR due to the least invasiveness, feasibility under local anesthesia, and good outcomes data. When femoral access is unsuitable (severe peripheral vascular disease, small caliber vessels, excessive calcification), alternative routes include transapical (left ventricular apex via mini-thoracotomy), transaortic (ascending aorta), and subclavian/axillary approaches.",
+    "highYield": "TAVR preferred route: transfemoral. Alternatives: transapical, transaortic, subclavian when femoral unsuitable.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Robotic Surgery - da Vinci System",
+    "difficulty": "medium",
+    "stem": "A surgical trainee is learning about the da Vinci robotic system. Which statement correctly describes its components and instrument capabilities?",
+    "options": [
+      "Consists of a surgeon console, patient-side cart with 4 arms, vision cart; instruments have 4 degrees of freedom",
+      "Consists of a surgeon console, patient-side cart with 4 arms, vision cart with 3D HD camera; instruments have 7 degrees of freedom",
+      "The surgeon stands at the patient-side cart and controls a 2D camera with laparoscopic instruments",
+      "Robotic instruments provide superior haptic feedback compared to conventional laparoscopy"
+    ],
+    "answer": 1,
+    "explanation": "The da Vinci robotic system consists of three components: (1) surgeon console where the surgeon sits, (2) patient-side cart with 4 robotic arms, and (3) vision cart with a 3D HD camera system. The wristed instruments provide 7 degrees of freedom, far exceeding the 4 degrees available with standard laparoscopic instruments. A key DISADVANTAGE is the LOSS of haptic feedback (option D is incorrect). The surgeon operates remotely from the console, not at the patient-side cart.",
+    "highYield": "da Vinci: surgeon console + 4-arm patient cart + 3D HD vision cart; wristed instruments = 7 degrees of freedom.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Robotic Surgery - Advantages and Disadvantages",
+    "difficulty": "medium",
+    "stem": "Which of the following correctly lists the advantages AND disadvantages of robotic surgery compared to conventional laparoscopy?",
+    "options": [
+      "Advantages: haptic feedback, low cost; Disadvantages: limited visualization, fewer degrees of freedom",
+      "Advantages: tremor filtration, motion scaling, magnified 3D field, superior ergonomics; Disadvantages: loss of haptic feedback, high cost",
+      "Advantages: haptic feedback, lower operating time; Disadvantages: 3D visualization, motion scaling",
+      "Advantages: cost-effectiveness, ease of training; Disadvantages: tremor amplification, loss of 3D vision"
+    ],
+    "answer": 1,
+    "explanation": "Robotic surgery advantages include: tremor filtration, motion scaling (large movements converted to precise micro-movements), magnified 3D HD visualization, and superior ergonomics for the surgeon during prolonged procedures. The key DISADVANTAGES are loss of haptic (tactile) feedback - the surgeon cannot feel tissue resistance - and high capital and maintenance costs. Options A, C, and D incorrectly assign advantages and disadvantages.",
+    "highYield": "Robotic advantages: tremor filter, motion scaling, 3D magnified field, ergonomics. Disadvantages: no haptic feedback, high cost.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Sentinel Lymph Node Biopsy - Technique",
+    "difficulty": "medium",
+    "stem": "A 45-year-old woman with early-stage breast cancer (T1N0) is undergoing sentinel lymph node biopsy (SLNB). What is the standard dual-mapping technique used for this procedure?",
+    "options": [
+      "Methylene blue dye alone detected visually",
+      "Blue dye (isosulfan blue or patent blue V) plus Tc-99m radiolabeled colloid detected by gamma probe",
+      "Indocyanine green (ICG) with CT fluoroscopy intraoperatively",
+      "Tc-99m alone with preoperative lymphoscintigraphy"
+    ],
+    "answer": 1,
+    "explanation": "The standard dual-mapping technique for SLNB in breast cancer uses: (1) blue dye - isosulfan blue or patent blue V - detected visually as stained lymphatic channels and nodes, combined with (2) Tc-99m radiolabeled colloid (usually sulfur colloid) detected by a hand-held gamma probe intraoperatively. This dual technique increases detection rates compared to either alone. ICG with near-infrared fluorescence (option C) is a newer validated alternative but not the traditional standard. Tc-99m alone (option D) misses nodes detectable only by blue dye.",
+    "highYield": "SLNB dual mapping: blue dye (isosulfan blue/patent blue V) + Tc-99m radiolabeled colloid detected by gamma probe.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Sentinel Lymph Node Biopsy - ICG and Histopathology",
+    "difficulty": "hard",
+    "stem": "Regarding sentinel lymph node biopsy in breast cancer: which newer imaging agent avoids radiation, and what histopathological technique detects micrometastases missed on routine H&E staining?",
+    "options": [
+      "Methylene blue avoids radiation; PAS staining detects micrometastases",
+      "Indocyanine green (ICG) with near-infrared camera avoids radiation; serial sectioning plus IHC for cytokeratin detects micrometastases",
+      "Tc-99m with shielded injection avoids radiation; Congo red staining detects micrometastases",
+      "Patent blue V avoids radiation; Ziehl-Neelsen staining detects micrometastases"
+    ],
+    "answer": 1,
+    "explanation": "Indocyanine green (ICG) with near-infrared fluorescence imaging is a validated alternative for SLNB that avoids radiation exposure (unlike Tc-99m). It is detected intraoperatively using a near-infrared camera. For histopathological assessment, serial sectioning of the sentinel node combined with immunohistochemistry (IHC) using cytokeratin markers identifies micrometastases that are missed on routine H&E staining. Up to 4 sentinel nodes are typically removed. Other staining methods listed are not used for this purpose.",
+    "highYield": "SLNB: ICG + near-infrared camera avoids radiation. Micrometastases detected by serial sectioning + IHC for cytokeratin.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Laparoscopic Cholecystectomy - Critical View of Safety",
+    "difficulty": "medium",
+    "stem": "During laparoscopic cholecystectomy, what constitutes the Critical View of Safety (CVS) that must be achieved before clipping and dividing any structures?",
+    "options": [
+      "Visualization of the common bile duct with a cholangiogram confirming anatomy",
+      "Two structures (cystic duct and cystic artery) seen entering the gallbladder with the lower third of the gallbladder dissected free from the liver bed",
+      "Complete dissection of Calot's triangle with visualization of the cystic duct, cystic artery, and common hepatic duct",
+      "Intraoperative ultrasound confirming absence of CBD stones before clipping the cystic duct"
+    ],
+    "answer": 1,
+    "explanation": "The Critical View of Safety (CVS) requires: (1) only TWO structures - the cystic duct and cystic artery - are seen entering the gallbladder, and (2) the lower third of the gallbladder is dissected free from the liver bed (hepatocystic triangle cleared). CVS does NOT require visualization of the CBD (option A) - in fact, positively identifying the CBD before clip application risks injury. CVS prevents misidentification of the CBD as the cystic duct, which is the most common cause of bile duct injury.",
+    "highYield": "Critical View of Safety (CVS): 2 structures only (cystic duct + cystic artery) into GB + lower third GB free from liver.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Laparoscopic Surgery - Physiological Effects",
+    "difficulty": "medium",
+    "stem": "A patient undergoing laparoscopic cholecystectomy develops rising end-tidal CO2 and increasing heart rate during pneumoperitoneum. Which physiological effect of CO2 pneumoperitoneum is responsible?",
+    "options": [
+      "Decreased intra-abdominal pressure causing improved venous return",
+      "Increased intra-abdominal pressure causing reduced venous return plus CO2 absorption causing hypercapnia",
+      "Nitrogen absorption from N2O pneumoperitoneum causing hypercarbia",
+      "Oxygen embolism from CO2 dissociation in the bloodstream"
+    ],
+    "answer": 1,
+    "explanation": "CO2 pneumoperitoneum causes two main physiological effects: (1) increased intra-abdominal pressure which reduces venous return (preload reduction) and can cause cardiovascular compromise, and (2) CO2 absorption across the peritoneum causing hypercapnia (elevated pCO2 and end-tidal CO2). This stimulates the sympathetic system causing tachycardia. CO2 embolism (not oxygen embolism - option D) is a rare but serious complication. N2O (option C) is rarely used for pneumoperitoneum today.",
+    "highYield": "CO2 pneumoperitoneum: increased intra-abdominal pressure (reduced venous return) + CO2 absorption (hypercapnia, risk of CO2 embolism).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Osteoporosis Pharmacology - Denosumab",
+    "difficulty": "medium",
+    "stem": "A 70-year-old postmenopausal woman with severe osteoporosis has been on denosumab 60 mg SC every 6 months for 3 years. Her physician wants to discontinue the drug. What is the most important precaution before stopping denosumab?",
+    "options": [
+      "Gradually taper the denosumab dose over 6 months before stopping",
+      "Stop denosumab abruptly; no precaution is required as the effect wears off slowly",
+      "Transition to a bisphosphonate before stopping denosumab to prevent rebound vertebral fractures",
+      "Switch to teriparatide immediately before stopping denosumab"
+    ],
+    "answer": 2,
+    "explanation": "Denosumab discontinuation causes a rapid rebound increase in bone resorption (rebound vertebral fractures) due to reversal of RANK-L inhibition. This rebound is unique to denosumab and does NOT occur with bisphosphonates. Therefore, transitioning to a bisphosphonate (e.g., alendronate or zoledronic acid) before stopping denosumab is mandatory to maintain bone protection. Abrupt stopping (option B) is dangerous. Teriparatide (option D) is an anabolic agent and does not prevent the resorption rebound. Tapering (option A) is not feasible as denosumab is a biologic given as fixed-dose injections.",
+    "highYield": "Denosumab discontinuation = rebound vertebral fractures. MUST transition to bisphosphonate before stopping. Classic exam trap.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Osteoporosis Pharmacology - Teriparatide",
+    "difficulty": "medium",
+    "stem": "A 65-year-old woman with glucocorticoid-induced osteoporosis has failed bisphosphonate therapy. Teriparatide is considered. Which statement about teriparatide is correct?",
+    "options": [
+      "Teriparatide inhibits osteoclasts and is an antiresorptive agent; maximum duration is 36 months",
+      "Teriparatide (PTH 1-34) stimulates osteoblasts (anabolic); maximum approved duration is 24 months",
+      "Teriparatide should be given after bisphosphonate therapy for maximum efficacy",
+      "Teriparatide is a monoclonal antibody targeting sclerostin with dual anabolic-antiresorptive action"
+    ],
+    "answer": 1,
+    "explanation": "Teriparatide is recombinant PTH (1-34) and is an ANABOLIC bone agent - it stimulates osteoblasts to form new bone, unlike antiresorptive agents (bisphosphonates, denosumab) which inhibit osteoclasts. Maximum approved duration is 24 months lifetime. It is used in severe osteoporosis, glucocorticoid-induced osteoporosis, and when antiresorptives fail. Importantly, giving bisphosphonate BEFORE teriparatide blunts the anabolic response - so anabolic therapy should ideally come FIRST (option C is incorrect). Option D describes romosozumab (anti-sclerostin), not teriparatide.",
+    "highYield": "Teriparatide = PTH 1-34, anabolic (stimulates osteoblasts), max 24 months. Give anabolics BEFORE bisphosphonates for best effect.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Osteoporosis Pharmacology - Bisphosphonates",
+    "difficulty": "medium",
+    "stem": "Regarding zoledronic acid for osteoporosis, which of the following statements is correct?",
+    "options": [
+      "Zoledronic acid is given as weekly oral tablets; inhibits COX-2 enzyme pathway",
+      "Zoledronic acid is an annual IV infusion (5 mg); inhibits farnesyl pyrophosphate synthase; side effects include acute phase reaction and osteonecrosis of the jaw",
+      "Zoledronic acid is a monthly SC injection; acts by inhibiting RANK-L binding to RANK receptor",
+      "Zoledronic acid can be safely used in patients with eGFR less than 30 mL/min without dose adjustment"
+    ],
+    "answer": 1,
+    "explanation": "Zoledronic acid is the most potent bisphosphonate, administered as an annual IV infusion (5 mg over 15 minutes). Its mechanism is inhibition of farnesyl pyrophosphate synthase in the mevalonate pathway, causing osteoclast apoptosis. Key side effects: acute phase reaction (flu-like symptoms within 24-72 hours of first dose), osteonecrosis of the jaw (ONJ), and atypical subtrochanteric fractures with long-term use. It is contraindicated in severe renal impairment (eGFR <35 mL/min). RANK-L inhibition (option C) is the mechanism of denosumab, not bisphosphonates.",
+    "highYield": "Zoledronic acid: annual IV 5 mg; inhibits farnesyl pyrophosphate synthase; SE: acute phase reaction, ONJ, atypical fractures.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Osteoporosis Pharmacology - Romosozumab",
+    "difficulty": "hard",
+    "stem": "Which anti-osteoporosis drug has a dual mechanism of both increasing bone formation AND decreasing bone resorption simultaneously, and has a specific cardiovascular precaution?",
+    "options": [
+      "Denosumab: dual RANK-L and sclerostin blockade; precaution in renal failure",
+      "Romosozumab: anti-sclerostin antibody with dual anabolic-antiresorptive action; avoid in patients with recent MI or stroke",
+      "Teriparatide: stimulates both osteoblasts and osteoclasts; precaution in Paget's disease",
+      "Alendronate: dual inhibition of osteoclast and osteoblast; precaution in esophageal stricture"
+    ],
+    "answer": 1,
+    "explanation": "Romosozumab is a monoclonal antibody against sclerostin (a Wnt pathway inhibitor). By blocking sclerostin, it simultaneously increases bone formation (anabolic) AND decreases bone resorption (antiresorptive) - a unique dual mechanism. It is given as monthly subcutaneous injections for 12 months, followed by transition to an antiresorptive. The key cardiovascular caution: it is avoided in patients with recent MI or stroke due to increased cardiovascular risk observed in trials. Denosumab (option A) targets RANK-L only, not sclerostin. Teriparatide (option C) is purely anabolic.",
+    "highYield": "Romosozumab: anti-sclerostin, dual anabolic + antiresorptive; 12 monthly SC doses; avoid in recent MI/stroke.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Bone Tumors - Osteosarcoma",
+    "difficulty": "medium",
+    "stem": "A 15-year-old boy presents with pain and swelling around the distal femur for 3 months. X-ray shows a sunburst pattern and Codman triangle (periosteal reaction). What is the most likely diagnosis and first-line treatment sequence?",
+    "options": [
+      "Ewing's sarcoma; radiotherapy followed by chemotherapy",
+      "Osteosarcoma; neoadjuvant chemotherapy (methotrexate, doxorubicin, cisplatin) followed by limb-salvage surgery",
+      "Giant cell tumor; curettage and bone cement",
+      "Osteosarcoma; immediate amputation without chemotherapy"
+    ],
+    "answer": 1,
+    "explanation": "The clinical picture - adolescent, distal femur metaphysis, sunburst pattern and Codman triangle on X-ray - is classic for osteosarcoma. It is the most common primary malignant bone tumor in children/adolescents (peak 10-20 years). Treatment: neoadjuvant chemotherapy (methotrexate, doxorubicin, cisplatin = MAP regimen) followed by limb-salvage surgery (wide resection and reconstruction), then adjuvant chemotherapy. Ewing's sarcoma (option A) affects the diaphysis with 'onion peel' periosteal layering. GCT (option C) occurs after skeletal maturity in the epiphysis. Immediate amputation (option D) without neoadjuvant chemo is outdated.",
+    "highYield": "Osteosarcoma: distal femur metaphysis, sunburst + Codman triangle, adolescent. Rx: neoadjuvant MAP chemo + limb-salvage surgery.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Bone Tumors - Ewing's Sarcoma",
+    "difficulty": "medium",
+    "stem": "An 11-year-old boy has fever, elevated ESR, and pain in the diaphysis of the right femur. X-ray shows onion peel periosteal layering. Biopsy reveals small round blue cells. What is the chromosomal translocation associated with this tumor and its treatment?",
+    "options": [
+      "t(9;22) Philadelphia chromosome; treated with imatinib",
+      "t(11;22) translocation; treated with chemotherapy plus radiation (radiosensitive tumor)",
+      "t(8;14) Burkitt translocation; treated with chemotherapy alone",
+      "t(11;22) translocation; treated with surgery alone as radiation causes secondary malignancy"
+    ],
+    "answer": 1,
+    "explanation": "This is Ewing's sarcoma: second most common primary bone malignancy in children, diaphysis of long bones, 'onion peel' periosteal layering on X-ray, small round blue cells on biopsy. The characteristic translocation is t(11;22) resulting in EWS-FLI1 fusion gene. Treatment: chemotherapy (vincristine, actinomycin, cyclophosphamide, ifosfamide, etoposide) PLUS radiation, because Ewing's is radiosensitive (unlike osteosarcoma which is radioresistant). Surgery may also be used for local control. t(9;22) is Philadelphia chromosome (CML). t(8;14) is Burkitt lymphoma.",
+    "highYield": "Ewing's sarcoma: t(11;22), diaphysis, onion peel periosteum. Radiosensitive - treat with chemo + radiation.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Bone Tumors - Giant Cell Tumor",
+    "difficulty": "medium",
+    "stem": "A 28-year-old woman presents with knee pain. X-ray shows a soap-bubble lytic lesion at the distal femur epiphysis with no sclerotic rim. Skeletal survey confirms skeletal maturity. Which drug is now approved for unresectable giant cell tumor (GCT) and what is its mechanism?",
+    "options": [
+      "Imatinib; inhibits BCR-ABL tyrosine kinase in GCT stromal cells",
+      "Denosumab; inhibits RANK-L expressed by GCT stromal cells",
+      "Zoledronic acid; inhibits farnesyl pyrophosphate synthase in osteoclast-like GCT cells",
+      "Teriparatide; stimulates osteoblastic response to fill the lytic lesion"
+    ],
+    "answer": 1,
+    "explanation": "Giant cell tumor (GCT) is locally aggressive, occurring at the epiphysis of long bones after skeletal maturity, with soap-bubble lytic appearance and no sclerotic rim on X-ray. GCT stromal cells highly express RANK-L, which drives the osteoclast-like giant cell proliferation. Denosumab, a monoclonal antibody inhibiting RANK-L, is approved for unresectable or metastatic GCT. This creates an overlap between its use in osteoporosis and bone tumor management - a common exam trick. Standard treatment for resectable GCT is curettage with bone cement or grafting.",
+    "highYield": "GCT: soap-bubble lytic epiphyseal lesion. Denosumab (anti-RANK-L) approved for unresectable GCT. Standard: curettage + bone cement.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Compartment Syndrome",
+    "difficulty": "hard",
+    "stem": "A 22-year-old man sustains a closed tibial shaft fracture. Six hours later he complains of severe pain disproportionate to injury and paresthesias in the foot, not relieved by opioids. What is the indication threshold for fasciotomy and the critical time window?",
+    "options": [
+      "Compartment pressure >50 mmHg; fasciotomy within 12 hours",
+      "Compartment pressure >30 mmHg or within 30 mmHg of diastolic BP; fasciotomy within 6 hours",
+      "Absent distal pulse (compartment pressure >60 mmHg); fasciotomy within 8 hours",
+      "Pain + paresthesia alone without pressure measurement; fasciotomy within 24 hours"
+    ],
+    "answer": 1,
+    "explanation": "Compartment syndrome: fasciotomy is indicated when compartment pressure exceeds 30 mmHg or is within 30 mmHg of the patient's diastolic blood pressure (delta pressure <30 mmHg). The critical time window is within 6 hours to prevent irreversible muscle necrosis and Volkmann's ischemic contracture. The earliest signs are pain out of proportion and paresthesia (5 Ps: pain, pressure, paresthesia, paralysis, pallor/pulselessness - the last two are LATE signs). Option A uses incorrect threshold. Option C relying on absent pulse is too late. Option D lacks the pressure criterion.",
+    "highYield": "Compartment syndrome: fasciotomy when pressure >30 mmHg or within 30 mmHg of diastolic. Within 6 hours to prevent Volkmann's contracture.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Avascular Necrosis of Femoral Head",
+    "difficulty": "medium",
+    "stem": "A 40-year-old man on long-term prednisolone for rheumatoid arthritis develops progressive hip pain. MRI shows abnormal signal in the femoral head with normal X-ray. What is the most common cause of AVN of femoral head in India, the gold standard investigation, and the treatment for this early stage?",
+    "options": [
+      "Alcohol is most common; CT scan is gold standard; total hip replacement is treatment",
+      "Corticosteroids are most common in India; MRI is gold standard; core decompression for early stage",
+      "Trauma is most common; bone scan is gold standard; conservative management always sufficient",
+      "Sickle cell disease is most common; X-ray is gold standard; bisphosphonate therapy"
+    ],
+    "answer": 1,
+    "explanation": "In India, corticosteroids (iatrogenic) are the most common cause of AVN of the femoral head. Other causes include alcohol, sickle cell disease, and trauma (transcervical fractures). MRI is the gold standard for early diagnosis - it detects marrow edema and early ischemia before X-ray changes appear (Ficat Stage 1). For early stages (I-II), the treatment is core decompression (drilling to reduce intraosseous pressure and stimulate revascularization). Advanced stages (III-IV with collapse and OA) require total hip arthroplasty. Bone scan is sensitive but not the gold standard.",
+    "highYield": "AVN femoral head: corticosteroids = most common in India. MRI = gold standard. Early stage = core decompression.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Scaphoid Fracture",
+    "difficulty": "medium",
+    "stem": "A 25-year-old man falls on an outstretched hand. X-ray of the wrist is normal. He has tenderness in the anatomical snuffbox. Which statement is correct regarding further management?",
+    "options": [
+      "Normal X-ray rules out scaphoid fracture; discharge with bandage",
+      "Normal X-ray does not exclude scaphoid fracture; MRI or CT required if clinical suspicion is high",
+      "Perform a bone scan immediately as it is the gold standard for scaphoid fracture",
+      "Repeat X-ray in 6 weeks; if still normal, fracture is definitively ruled out"
+    ],
+    "answer": 1,
+    "explanation": "Scaphoid fracture is the most common carpal bone fracture following fall on an outstretched hand (FOOSH). Anatomical snuffbox tenderness is the key clinical sign. Crucially, X-rays are normal in up to 20% of scaphoid fractures initially. A normal X-ray does NOT exclude fracture. MRI (most sensitive and specific) or CT scan should be performed when clinical suspicion is high despite a normal X-ray. Proximal pole fractures carry the highest risk of AVN due to retrograde blood supply. Delayed diagnosis and untreated fractures lead to non-union and AVN - serious consequences in young patients.",
+    "highYield": "Scaphoid fracture: normal X-ray does NOT exclude; MRI or CT needed if snuffbox tenderness present. Proximal pole = highest AVN risk.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Cauda Equina Syndrome",
+    "difficulty": "medium",
+    "stem": "A 45-year-old man presents with sudden-onset bilateral leg weakness, saddle anesthesia, and urinary retention following lifting a heavy weight. MRI shows a massive central disc prolapse at L4-L5. What is this diagnosis and the required management?",
+    "options": [
+      "Lumbar radiculopathy; manage with physiotherapy and NSAIDs",
+      "Cauda equina syndrome; emergency surgical decompression within 24-48 hours",
+      "Cervical myelopathy; elective cervical laminectomy",
+      "Cauda equina syndrome; high-dose IV corticosteroids followed by delayed surgery"
+    ],
+    "answer": 1,
+    "explanation": "Cauda equina syndrome (CES) is a surgical emergency caused by massive central disc prolapse (most commonly L4-L5 or L5-S1). Classic features are the tetrad: bilateral leg weakness, saddle anesthesia (perianal area numbness), urinary retention (overflow incontinence), and loss of anal sphincter tone. Treatment: emergency surgical decompression (discectomy/laminectomy) within 24-48 hours. Delay beyond this window causes permanent sphincter dysfunction. Steroids (option D) have no proven role in CES. This is NOT lumbar radiculopathy (which is unilateral dermatomal). Cervical myelopathy (option C) causes UMN signs.",
+    "highYield": "Cauda equina syndrome: saddle anesthesia + urinary retention + bilateral leg weakness = surgical emergency, decompress within 24-48 hours.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Periprosthetic Joint Infection - Diagnosis and Management",
+    "difficulty": "hard",
+    "stem": "A 68-year-old man with a total knee replacement 4 years ago presents with chronic knee pain, elevated CRP/ESR, and synovial fluid WBC of 4500/mm3. Culture grows Staphylococcus epidermidis. What is the gold standard treatment for this chronic periprosthetic joint infection (PJI)?",
+    "options": [
+      "Long-term suppressive antibiotics without surgery",
+      "Two-stage revision: Stage 1 = implant removal + antibiotic-loaded cement spacer; Stage 2 = reimplantation after 6-8 weeks of IV antibiotics",
+      "Single-stage revision with immediate reimplantation and intravenous antibiotics",
+      "Arthroscopic lavage and debridement without implant removal"
+    ],
+    "answer": 1,
+    "explanation": "Two-stage revision is the gold standard for chronic PJI. Stage 1: remove the infected implant, thorough surgical debridement, and insertion of an antibiotic-loaded cement spacer (static or articulating). Stage 2: after 6-8 weeks of IV antibiotics (confirmed by negative cultures and normalized inflammatory markers), reimplant a new prosthesis. The most common organism in chronic PJI is Staphylococcus epidermidis (coagulase-negative staph, biofilm-forming). Acute PJI (within 3 months) can be managed by DAIR (Debridement, Antibiotics, Implant Retention). Single-stage revision (option C) is emerging for acute infections with sensitive organisms.",
+    "highYield": "Chronic PJI gold standard: two-stage revision (removal + antibiotic spacer → 6-8 weeks IV antibiotics → reimplantation). Staph epidermidis = most common chronic PJI organism.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Orthopedics",
+    "topic": "Rickets and Osteomalacia",
+    "difficulty": "medium",
+    "stem": "An X-ray image shows widened, cupped, and frayed metaphyses in a 3-year-old child with bow legs and a rachitic rosary on examination. Which biochemical profile best confirms this diagnosis?",
+    "options": [
+      "High calcium, high phosphate, low ALP, normal 25-OH Vitamin D",
+      "Low calcium, low phosphate, elevated ALP, elevated PTH, low 25-OH Vitamin D",
+      "Low calcium, high phosphate, elevated ALP, low PTH",
+      "Normal calcium, normal phosphate, elevated ALP, normal 25-OH Vitamin D"
+    ],
+    "answer": 1,
+    "explanation": "Rickets (in children) results from defective bone mineralization at the growth plate. X-ray shows widened, cupped, frayed metaphyses. Clinical features include rachitic rosary (costochondral junction enlargement), Harrison's sulcus, bow legs (genu varum). Biochemical profile: low serum calcium, low phosphate (impaired renal tubular reabsorption), elevated ALP (increased osteoblastic activity), secondary hyperparathyroidism (elevated PTH trying to correct hypocalcemia), and low 25-OH Vitamin D (in nutritional rickets). Treatment is Vitamin D plus calcium supplementation.",
+    "highYield": "Rickets labs: low Ca, low PO4, high ALP, high PTH, low 25-OH Vit D. X-ray: widened cupped frayed metaphyses, rachitic rosary.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "Sugammadex - Mechanism and Selectivity",
+    "difficulty": "medium",
+    "stem": "A patient received cisatracurium for muscle relaxation during surgery. At the end of the procedure, the anesthesiologist wants to reverse the neuromuscular blockade. Which statement regarding reversal agents is correct?",
+    "options": [
+      "Sugammadex can be used to reverse cisatracurium by encapsulating the drug",
+      "Sugammadex cannot reverse cisatracurium; neostigmine with glycopyrrolate should be used",
+      "Sugammadex reverses all neuromuscular blocking agents including succinylcholine",
+      "Neostigmine alone (without anticholinergic) is sufficient for safe reversal of cisatracurium"
+    ],
+    "answer": 1,
+    "explanation": "Sugammadex reverses ONLY aminosteroid NMBAs: rocuronium (highest affinity) and vecuronium. It does NOT reverse benzylisoquinolinium NMBAs such as cisatracurium, atracurium, or mivacurium, and does NOT reverse the depolarizing agent succinylcholine. Cisatracurium undergoes spontaneous Hofmann elimination and does not require reversal in most cases, but if reversal is needed, neostigmine (cholinesterase inhibitor) with glycopyrrolate (anticholinergic to prevent muscarinic side effects) is used. Neostigmine alone (option D) without anticholinergic causes dangerous bradycardia and bronchospasm.",
+    "highYield": "Sugammadex reverses ONLY aminosteroids (rocuronium > vecuronium). Does NOT reverse benzylisoquinoliniums (cisatracurium, atracurium) or succinylcholine.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "Sugammadex - Dosing",
+    "difficulty": "hard",
+    "stem": "During rapid sequence intubation, a patient received rocuronium 1.2 mg/kg. Immediately after intubation the surgeon cancels the operation. What dose of sugammadex is required for immediate full reversal?",
+    "options": [
+      "2 mg/kg sugammadex IV",
+      "4 mg/kg sugammadex IV",
+      "16 mg/kg sugammadex IV",
+      "Sugammadex cannot be used immediately; must wait for T2 return"
+    ],
+    "answer": 2,
+    "explanation": "Sugammadex dosing is based on depth of blockade: 2 mg/kg for moderate block (T2 reappearance on TOF), 4 mg/kg for deep block (post-tetanic count 1-2), and 16 mg/kg for immediate reversal after a full intubating dose of rocuronium with no waiting required. This 16 mg/kg 'rescue dose' is a unique advantage of sugammadex, allowing rocuronium to be used for RSI as an alternative to succinylcholine, especially when succinylcholine is contraindicated (burns, denervation injury, etc.). Option D is incorrect - sugammadex can reverse rocuronium at any depth immediately.",
+    "highYield": "Sugammadex doses: 2 mg/kg (moderate block), 4 mg/kg (deep block), 16 mg/kg (immediate reversal after full RSI dose of rocuronium).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "Remimazolam - Pharmacology",
+    "difficulty": "hard",
+    "stem": "Remimazolam is a new ultra-short-acting sedative agent. Which statement correctly describes its mechanism of metabolism and receptor action?",
+    "options": [
+      "Metabolized by CYP3A4 in the liver to an active metabolite; acts on NMDA receptors",
+      "Metabolized by tissue carboxylesterase-1 (CES1) via ester hydrolysis to an inactive metabolite (CNS 7054); acts at GABA-A benzodiazepine allosteric site",
+      "Metabolized by plasma cholinesterase; acts on GABA-A receptor at the barbiturate binding site",
+      "Metabolized by Hofmann elimination at physiological pH; acts on opioid mu receptors"
+    ],
+    "answer": 1,
+    "explanation": "Remimazolam's key pharmacological innovation is organ-independent metabolism: it contains a methyl propionate ester group cleaved by tissue carboxylesterase-1 (CES1) to produce CNS 7054, which is an inactive metabolite. This means metabolism is independent of hepatic or renal function. Its mechanism of action is identical to other benzodiazepines: enhancement of GABA-A receptor activity at the benzodiazepine allosteric site (alpha-gamma subunit interface), increasing chloride influx. Hofmann elimination (option D) is the mechanism of atracurium/cisatracurium. Plasma cholinesterase (option C) metabolizes succinylcholine and mivacurium.",
+    "highYield": "Remimazolam: metabolized by tissue CES1 (organ-independent) to inactive CNS 7054; acts at GABA-A benzodiazepine site.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "Remimazolam - Reversal and Comparison with Propofol",
+    "difficulty": "medium",
+    "stem": "An anesthesiologist is choosing between propofol and remimazolam for procedural sedation. Which statement correctly distinguishes these two agents regarding reversibility?",
+    "options": [
+      "Both propofol and remimazolam can be reversed with flumazenil",
+      "Propofol has no reversal agent; remimazolam is reversible with flumazenil",
+      "Remimazolam has no reversal agent; propofol is reversed with sugammadex",
+      "Both agents are irreversible; naloxone is used for both"
+    ],
+    "answer": 1,
+    "explanation": "This is a key exam distinction: propofol has NO reversal agent - once administered, its effects must wear off spontaneously (though propofol has a short context-sensitive half-life). Remimazolam is a benzodiazepine and is reversible with flumazenil (competitive antagonist at the benzodiazepine site on GABA-A receptor). However, routine reversal of remimazolam with flumazenil is not recommended due to the risk of rebound sedation if the flumazenil wears off first. Sugammadex (option C) reverses neuromuscular blockers, not sedatives. Naloxone (option D) reverses opioids.",
+    "highYield": "Key distinction: propofol = no reversal agent. Remimazolam = reversible with flumazenil. Routine flumazenil reversal not recommended (rebound sedation risk).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "Train-of-Four Monitoring",
+    "difficulty": "medium",
+    "stem": "During nerve stimulator monitoring, a patient who received succinylcholine shows no fade on train-of-four (TOF) testing and no post-tetanic facilitation. What block is this, and how does it differ from a non-depolarizing block?",
+    "options": [
+      "Phase II (non-depolarizing) block; characterized by no fade and no post-tetanic facilitation",
+      "Phase I (depolarizing) block; characterized by no fade on TOF and no post-tetanic facilitation; opposite of non-depolarizing block",
+      "Phase II (depolarizing) block; characterized by fade on TOF and post-tetanic facilitation",
+      "Non-depolarizing block; succinylcholine causes fade on TOF"
+    ],
+    "answer": 1,
+    "explanation": "Succinylcholine causes Phase I depolarizing block: characterized by NO fade on TOF (all four twitches equally reduced) and NO post-tetanic facilitation. This is because depolarizing blockade involves persistent receptor depolarization without receptor antagonism. Non-depolarizing (Phase II) block shows FADE on TOF (progressive reduction T1>T2>T3>T4) AND post-tetanic facilitation (brief augmentation after tetanic stimulation). A TOF ratio >0.9 is required to confirm complete recovery from any block before extubation.",
+    "highYield": "Depolarizing (succinylcholine): no TOF fade, no post-tetanic facilitation. Non-depolarizing: fade on TOF + post-tetanic facilitation.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "POCUS - Lung Ultrasound",
+    "difficulty": "medium",
+    "stem": "During anesthesia, a patient develops acute hypoxemia. POCUS of the chest shows multiple hyperechoic vertical lines arising from the pleural line, extending to the bottom of the screen without fading. What are these artifacts called and what do they indicate?",
+    "options": [
+      "A-lines; indicate normal aerated lung with air reverberation artifact",
+      "B-lines (comet-tail artifacts); indicate interstitial syndrome (pulmonary edema or ARDS)",
+      "Z-lines; indicate pleural effusion on the dependent side",
+      "E-lines; indicate emphysema with air trapping"
+    ],
+    "answer": 1,
+    "explanation": "B-lines (also called comet-tail artifacts) are hyperechoic vertical lines arising from the pleural line and extending to the bottom of the ultrasound screen without fading. Multiple B-lines (3 or more per intercostal space) indicate interstitial syndrome, which occurs in pulmonary edema, ARDS, or interstitial pneumonia - all causing thickened interlobular septa. A-lines (option A) are horizontal reverberation artifacts from the pleural line, indicating normal aerated lung. In pneumothorax: absent lung sliding + absent B-lines + only A-lines are seen.",
+    "highYield": "B-lines (comet-tail) = vertical, reach screen bottom without fading = interstitial syndrome (pulmonary edema/ARDS). 3+ per space = abnormal.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "POCUS - Pneumothorax Diagnosis",
+    "difficulty": "medium",
+    "stem": "After central venous catheter insertion, a mechanically ventilated patient develops sudden hemodynamic deterioration. POCUS of the left chest shows absent lung sliding and only A-lines. What additional finding is pathognomonic for pneumothorax on lung ultrasound?",
+    "options": [
+      "Presence of B-lines bilaterally confirming bilateral pulmonary edema",
+      "Identification of the lung point (junction of sliding and non-sliding pleura) on ultrasound",
+      "D-sign on parasternal short-axis cardiac view indicating tension pneumothorax",
+      "Pericardial effusion (echo-free space around heart) indicating concurrent hemothorax"
+    ],
+    "answer": 1,
+    "explanation": "For pneumothorax on POCUS: absent lung sliding + absent B-lines + presence of A-lines strongly suggest pneumothorax, but the pathognomonic finding is the LUNG POINT - the junction between the sliding pleura (normal lung) and non-sliding pleura (pneumothorax) seen in real-time during breathing. The lung point is 100% specific for pneumothorax when identified. B-lines (option A) would indicate fluid, not pneumothorax. The D-sign (option C) is RV pressure overload from PE. Pericardial effusion (option D) indicates cardiac tamponade, not pneumothorax.",
+    "highYield": "Pneumothorax POCUS: absent lung sliding + A-lines. Pathognomonic = LUNG POINT (sliding meets non-sliding pleura). 100% specific.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "Succinylcholine - Contraindications",
+    "difficulty": "medium",
+    "stem": "A 30-year-old man with burns involving 40% body surface area sustained 48 hours ago requires emergency surgery. Which statement about succinylcholine use is correct in this patient?",
+    "options": [
+      "Succinylcholine is safe to use in burn patients at any time after injury",
+      "Succinylcholine is contraindicated from 24 hours post-burn onward due to risk of life-threatening hyperkalemia",
+      "Succinylcholine can be used in burns patients for the first 7 days only",
+      "Succinylcholine is contraindicated only if the patient has pre-existing renal failure"
+    ],
+    "answer": 1,
+    "explanation": "Succinylcholine is CONTRAINDICATED in burns patients after 24 hours from the time of injury. Burns (as well as crush injuries, upper/lower motor neuron lesions, prolonged immobilization, and denervation) cause upregulation of extrajunctional acetylcholine receptors throughout the muscle membrane. When succinylcholine is given, massive potassium efflux from these upregulated receptors causes life-threatening hyperkalemia (potentially fatal cardiac arrest). This risk persists until healing is complete (weeks to months). Rocuronium is the preferred alternative for RSI in these patients.",
+    "highYield": "Succinylcholine contraindicated from 24 hours post-burn (also: crush injury, motor neuron lesions, prolonged immobilization) due to upregulation of extrajunctional ACh receptors causing hyperkalemia.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "Atracurium and Cisatracurium - Metabolism",
+    "difficulty": "medium",
+    "stem": "A 60-year-old man with end-stage renal failure and Child-Pugh C liver cirrhosis requires muscle relaxation for elective surgery. Which non-depolarizing neuromuscular blocking agent is most appropriate?",
+    "options": [
+      "Vecuronium; minimal renal and hepatic dependence for elimination",
+      "Rocuronium; eliminated primarily by kidneys so safe in liver failure",
+      "Cisatracurium; undergoes organ-independent Hofmann elimination and ester hydrolysis",
+      "Pancuronium; longest duration provides best relaxation in high-risk patients"
+    ],
+    "answer": 2,
+    "explanation": "Cisatracurium (and atracurium) undergoes Hofmann elimination - spontaneous non-enzymatic degradation at physiological pH and temperature - plus ester hydrolysis. This metabolism is completely organ-independent, making cisatracurium the drug of choice in patients with hepatic AND/OR renal failure. Atracurium also undergoes Hofmann elimination but releases histamine (a disadvantage); cisatracurium does NOT release histamine. Vecuronium is primarily hepatically eliminated. Rocuronium is hepatically eliminated and renally excreted. Pancuronium has significant renal excretion.",
+    "highYield": "Cisatracurium: Hofmann elimination (organ-independent) = drug of choice in combined hepatic + renal failure. Does NOT release histamine (unlike atracurium).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "Malignant Hyperthermia",
+    "difficulty": "medium",
+    "stem": "During general anesthesia with sevoflurane and succinylcholine, a 25-year-old man develops rapidly rising temperature, muscle rigidity, tachycardia, and increasing end-tidal CO2. What is the diagnosis, its molecular basis, and the specific antidote?",
+    "options": [
+      "Neuroleptic malignant syndrome; dopamine receptor blockade; bromocriptine",
+      "Malignant hyperthermia; uncontrolled Ca2+ release from sarcoplasmic reticulum (RYR1 mutation); dantrolene",
+      "Serotonin syndrome; excess serotonergic activity; cyproheptadine",
+      "Thyroid storm; excess thyroid hormone; propylthiouracil"
+    ],
+    "answer": 1,
+    "explanation": "Malignant hyperthermia (MH) is triggered by volatile halogenated agents (halothane, sevoflurane, desflurane) and/or succinylcholine. It is caused by a mutation in the RYR1 (ryanodine receptor 1) gene causing uncontrolled calcium release from the sarcoplasmic reticulum of skeletal muscle, leading to hypermetabolism, rigidity, hyperthermia, rhabdomyolysis, and acidosis. Specific treatment: dantrolene 2.5 mg/kg IV bolus (blocks RYR1 channel), repeated as needed. Neuroleptic malignant syndrome (option A) is caused by antipsychotics. Serotonin syndrome (option C) is caused by serotonergic drugs.",
+    "highYield": "Malignant hyperthermia: volatile agents + succinylcholine triggers; RYR1 mutation; uncontrolled SR Ca2+ release. Rx: dantrolene 2.5 mg/kg IV.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "Ketamine - Pharmacology",
+    "difficulty": "medium",
+    "stem": "Which induction agent uniquely causes cardiovascular stimulation (increased HR and BP), bronchodilation, and preservation of airway reflexes while producing anesthesia?",
+    "options": [
+      "Propofol; causes cardiovascular stimulation and bronchodilation via GABA-A potentiation",
+      "Ketamine; causes sympathomimetic stimulation via NMDA receptor antagonism and central catecholamine release",
+      "Thiopentone; increases cardiac output and maintains airway reflexes via barbiturate mechanism",
+      "Etomidate; causes cardiovascular stimulation and is the preferred agent in asthma"
+    ],
+    "answer": 1,
+    "explanation": "Ketamine is unique among induction agents for several reasons: (1) cardiovascular stimulation - increases HR, BP, and cardiac output via central catecholamine release (sympathomimetic), making it useful in hemorrhagic shock; (2) bronchodilation - useful in asthmatic patients; (3) preserves airway reflexes (unlike other agents) - though aspiration is still possible; (4) mechanism: dissociative anesthesia via NMDA receptor antagonism. Emergence reactions (hallucinations, vivid dreams) are prevented by co-administering benzodiazepines (e.g., midazolam). Propofol (option A) causes cardiovascular DEPRESSION. Etomidate (option D) is cardiovascularly neutral, not stimulating.",
+    "highYield": "Ketamine: only induction agent causing cardiovascular stimulation (NMDA antagonist + catecholamines), bronchodilation, airway reflex preservation. Emergence reactions prevented by benzodiazepines.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Anaesthesia",
+    "topic": "Post-Dural Puncture Headache",
+    "difficulty": "easy",
+    "stem": "A 28-year-old woman develops a severe frontal headache that worsens on sitting up and is relieved on lying flat, one day after spinal anesthesia for cesarean section. What is the definitive treatment for this complication?",
+    "options": [
+      "Oral paracetamol and bed rest for 7 days",
+      "Epidural blood patch using 15-20 mL of autologous blood",
+      "IV caffeine infusion as definitive treatment",
+      "Repeat spinal injection to equalize CSF pressure"
+    ],
+    "answer": 1,
+    "explanation": "Post-dural puncture headache (PDPH) is the classic positional headache after spinal/epidural anesthesia: worse when upright (sitting/standing), relieved in supine position. Caused by CSF leakage through the dural puncture causing intracranial hypotension and traction on meninges. Management is stepwise: conservative first (hydration, bed rest, analgesics, caffeine). DEFINITIVE treatment is epidural blood patch (EBP): 15-20 mL of the patient's own autologous blood injected into the epidural space at the level of the puncture; the blood clots and seals the dural tear. Success rate >90%. Caffeine (option C) is adjunctive, not definitive. Repeating the spinal (option D) would worsen the situation.",
+    "highYield": "PDPH: positional headache post-spinal (upright = worse, supine = better). Definitive Rx = epidural blood patch (15-20 mL autologous blood).",
+    "pyqNote": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "subject": "Medicine",
+    "topic": "SLE Classification Criteria",
+    "difficulty": "medium",
+    "stem": "A 28-year-old woman presents with malar rash, arthritis, and positive ANA at 1:160 on HEp-2 cells. Complement levels are low and anti-dsDNA is positive. According to 2019 EULAR/ACR classification criteria, what is the mandatory entry criterion that must be fulfilled before scoring any domain?",
+    "options": [
+      "Anti-dsDNA positivity",
+      "ANA positivity on HEp-2 cells at titer >=1:80",
+      "Biopsy-proven lupus nephritis",
+      "Malar rash with photosensitivity"
+    ],
+    "answer": 1,
+    "explanation": "The 2019 EULAR/ACR SLE classification criteria require ANA positivity on HEp-2 cells at a titer of >=1:80 as the mandatory entry criterion. Without this, no further domain scoring is performed. Anti-dsDNA is used to monitor disease activity but is not the entry criterion. Biopsy-proven lupus nephritis is the basis for classification under SLICC 2012 (older criteria), not the 2019 criteria. Malar rash alone is not the entry criterion.",
+    "highYield": "2019 EULAR/ACR SLE criteria: ANA on HEp-2 at >=1:80 is the mandatory entry criterion before any domain scoring",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "SLE Classification Criteria",
+    "difficulty": "hard",
+    "stem": "Using the 2019 EULAR/ACR classification criteria for SLE, a patient's cumulative domain score is calculated. What minimum cumulative score across the ten weighted domains is required to classify a patient as having SLE?",
+    "options": [
+      "Score >=6",
+      "Score >=8",
+      "Score >=10",
+      "Score >=4 with at least 1 clinical and 1 immunological criterion"
+    ],
+    "answer": 2,
+    "explanation": "The 2019 EULAR/ACR criteria require a cumulative score of >=10 (after meeting the mandatory ANA entry criterion) across seven clinical domains and three immunological domains to classify a patient as having SLE. A score of >=6 is required for RA (2010 ACR/EULAR criteria), not SLE. The requirement of >=4 criteria with at least 1 clinical + 1 immunological criterion is from the SLICC 2012 criteria. The 2019 criteria have a sensitivity of 96.1% and specificity of 93.4%, superior to both 1997 ACR and 2012 SLICC.",
+    "highYield": "2019 EULAR/ACR SLE: cumulative score >=10 required for classification (sensitivity 96.1%, specificity 93.4%)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "SLE Disease Monitoring",
+    "difficulty": "easy",
+    "stem": "A patient with established SLE diagnosis comes for follow-up. Which serological marker is most useful for monitoring disease activity and flares, especially in lupus nephritis?",
+    "options": [
+      "ANA titer",
+      "Anti-Sm antibody",
+      "Anti-dsDNA antibody with complement levels (C3/C4)",
+      "Anti-SSA/Ro antibody"
+    ],
+    "answer": 2,
+    "explanation": "Anti-dsDNA antibody titers and complement levels (C3/C4) are the gold standard for monitoring SLE disease activity. Anti-dsDNA rises and C3/C4 fall during active lupus nephritis. ANA is used for diagnosis (entry criterion in 2019 criteria) but does not reliably track disease activity. Anti-Sm and anti-SSA/Ro are diagnostic markers that do not fluctuate reliably with activity. The combination of rising anti-dsDNA + falling complements indicates impending renal flare.",
+    "highYield": "Anti-dsDNA + low C3/C4 = disease activity monitoring in SLE; ANA is for diagnosis only",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "SLE vs SLICC 2012",
+    "difficulty": "medium",
+    "stem": "A clinician uses the SLICC 2012 criteria to classify a patient with SLE. A biopsy confirms lupus nephritis. What additional serological finding alone (without counting other criteria) can be used alongside the biopsy to fulfill SLICC classification?",
+    "options": [
+      "Anti-Sm positivity",
+      "ANA or anti-dsDNA positivity",
+      "Low C3 with anti-SSA",
+      "Anti-phospholipid antibody positivity"
+    ],
+    "answer": 1,
+    "explanation": "Under SLICC 2012 criteria, biopsy-proven lupus nephritis + ANA positivity OR anti-dsDNA positivity is sufficient to classify SLE (the second pathway). This is distinct from the first pathway requiring >=4 of 11 criteria with at least 1 clinical + 1 immunological. The 2019 EULAR/ACR criteria have since replaced SLICC for standard classification, but SLICC remains historically important. Anti-Sm, low complement, and anti-phospholipid antibodies alone do not fulfill the SLICC biopsy-proven nephritis pathway.",
+    "highYield": "SLICC 2012 alternate pathway: biopsy-proven lupus nephritis + ANA or anti-dsDNA = SLE classification",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Rheumatoid Arthritis",
+    "difficulty": "easy",
+    "stem": "A 45-year-old woman presents with symmetric small joint polyarthritis for 8 weeks, morning stiffness >1 hour, positive anti-CCP antibodies, and elevated CRP. She is started on disease-modifying therapy. Which drug remains the anchor DMARD in RA management?",
+    "options": [
+      "Hydroxychloroquine",
+      "Methotrexate",
+      "Leflunomide",
+      "Sulfasalazine"
+    ],
+    "answer": 1,
+    "explanation": "Methotrexate is the anchor DMARD (Disease-Modifying Anti-Rheumatic Drug) in RA management and remains the cornerstone of initial therapy. While hydroxychloroquine, leflunomide, and sulfasalazine are all conventional synthetic DMARDs used in RA, methotrexate is the preferred first-line agent. The 2025 EULAR update continues to favor a treat-to-target strategy with methotrexate as the foundation. Anti-CCP (anti-citrullinated protein antibody) is more specific than RF for RA diagnosis.",
+    "highYield": "Methotrexate = anchor DMARD for RA; anti-CCP more specific than RF for diagnosis",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Ankylosing Spondylitis",
+    "difficulty": "medium",
+    "stem": "A 25-year-old male presents with chronic low back pain, morning stiffness improving with exercise, and restricted spinal mobility. MRI of sacroiliac joints shows bone marrow edema. HLA-B27 is positive. What is the earliest MRI finding and the first-line treatment for this condition?",
+    "options": [
+      "Erosions; anti-TNF therapy",
+      "Bone marrow edema on STIR; NSAIDs",
+      "Sclerosis with bridging syndesmophytes; sulfasalazine",
+      "Fat deposition; physiotherapy alone"
+    ],
+    "answer": 1,
+    "explanation": "In Ankylosing Spondylitis (AS), bone marrow edema on STIR (Short Tau Inversion Recovery) MRI sequences represents active sacroiliitis and is the earliest MRI sign of inflammation, preceding erosions and sclerosis. NSAIDs are the first-line treatment and are effective in most patients. Anti-TNF agents (etanercept, adalimumab) and IL-17 inhibitors (secukinumab, ixekizumab) are second-line for NSAID-refractory disease. Bridging syndesmophytes are a late radiographic finding. HLA-B27 is positive in ~90% of AS cases.",
+    "highYield": "AS: bone marrow edema (STIR MRI) = earliest sacroiliitis sign; NSAIDs = first-line; anti-TNF/IL-17i for NSAID failure",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "IBD Biologics",
+    "difficulty": "medium",
+    "stem": "A 32-year-old man with moderate-to-severe Crohn's disease has failed anti-TNF therapy with adalimumab. He has a positive QuantiFERON-TB test and a history of recurrent infections. Which biologic is preferred next given his TB risk profile?",
+    "options": [
+      "Infliximab (dose escalation)",
+      "Ustekinumab",
+      "Vedolizumab",
+      "Tofacitinib"
+    ],
+    "answer": 1,
+    "explanation": "Ustekinumab (anti-IL-12/23, targeting the shared p40 subunit) is preferred in patients with TB risk or prior anti-TNF failure because it does not significantly increase TB reactivation risk unlike anti-TNF agents. It is approved for moderate-to-severe Crohn's disease and UC, given as IV induction followed by SC maintenance. Vedolizumab (gut-selective anti-integrin) is also an option but ustekinumab has evidence for TB-risk patients. Tofacitinib is approved for UC but not Crohn's. Re-using infliximab after adalimumab failure (both anti-TNFs) is generally not appropriate.",
+    "highYield": "Ustekinumab preferred over anti-TNF in IBD patients with TB risk; targets IL-12/23 shared p40 subunit",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "IBD Biologics",
+    "difficulty": "medium",
+    "stem": "Vedolizumab is described as gut-selective unlike natalizumab. What is the specific molecular mechanism that confers this gut-selectivity to vedolizumab?",
+    "options": [
+      "Blocks alpha-4 integrin broadly, preventing CNS entry of lymphocytes",
+      "Blocks alpha-4 beta-7 integrin specifically, preventing lymphocyte trafficking into gut mucosa only",
+      "Inhibits JAK1/JAK3 pathways reducing systemic cytokine production",
+      "Targets the shared p40 subunit of IL-12 and IL-23"
+    ],
+    "answer": 1,
+    "explanation": "Vedolizumab specifically targets alpha-4 beta-7 integrin, which is expressed primarily on gut-homing lymphocytes. This integrin binds to MAdCAM-1 on gut endothelium, mediating lymphocyte entry into the gut mucosa. Natalizumab blocks alpha-4 integrin broadly (including alpha-4 beta-1), which can affect CNS lymphocyte trafficking and carries risk of Progressive Multifocal Leukoencephalopathy (PML). Vedolizumab has no PML risk due to its gut selectivity. JAK inhibition describes tofacitinib. p40 subunit targeting describes ustekinumab.",
+    "highYield": "Vedolizumab: blocks alpha-4 beta-7 integrin = gut-selective, no PML risk (unlike natalizumab which blocks alpha-4 broadly)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "IBD Biologics",
+    "difficulty": "hard",
+    "stem": "A patient with moderate-to-severe ulcerative colitis is started on a new oral agent that works by trapping lymphocytes in lymph nodes, reducing gut inflammation. The same drug is also used in multiple sclerosis. What is the mechanism of action of this drug?",
+    "options": [
+      "Anti-integrin monoclonal antibody (alpha-4 beta-7)",
+      "Sphingosine-1-phosphate (S1P) receptor modulator",
+      "JAK1/JAK3 inhibitor",
+      "Anti-IL-23 p19 subunit antibody"
+    ],
+    "answer": 1,
+    "explanation": "Ozanimod is a sphingosine-1-phosphate (S1P) receptor modulator (subtypes 1 and 5). S1P receptors on lymphocytes are required for their egress from lymph nodes. By modulating S1P receptors, ozanimod sequesters lymphocytes in lymph nodes, reducing circulating lymphocytes that would otherwise traffic to the gut. It is an oral agent approved for moderate-to-severe UC and also approved for multiple sclerosis, sharing the same mechanism. Anti-integrin describes vedolizumab. JAK inhibitor describes tofacitinib/upadacitinib. Anti-IL-23 p19 describes risankizumab/mirikizumab.",
+    "highYield": "Ozanimod = S1P receptor modulator; traps lymphocytes in lymph nodes; approved for UC and MS",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "IBD - Crohn's vs UC",
+    "difficulty": "easy",
+    "stem": "A 24-year-old woman presents with bloody diarrhea and tenesmus for 3 months. Colonoscopy shows continuous mucosal inflammation starting from the rectum with pseudopolyps. The terminal ileum is normal. Biopsy shows crypt abscesses without granulomas. What is the most likely diagnosis?",
+    "options": [
+      "Crohn's disease",
+      "Ulcerative colitis",
+      "Infectious colitis",
+      "Ischemic colitis"
+    ],
+    "answer": 1,
+    "explanation": "The features of continuous inflammation starting from the rectum (rectal involvement is universal), pseudopolyps, absence of skip lesions, and no granulomas on biopsy are classic for Ulcerative Colitis (UC). Crohn's disease is characterized by skip lesions, transmural inflammation, non-caseating granulomas, perianal disease, cobblestoning, and can affect any part of the GI tract from mouth to anus (most commonly terminal ileum). Lead-pipe colon (loss of haustra) is a radiological feature of UC. String sign on barium is seen in Crohn's.",
+    "highYield": "UC: continuous, rectum always involved, pseudopolyps, crypt abscesses; Crohn's: skip lesions, granulomas, transmural, perianal",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Migraine - CGRP Antagonists",
+    "difficulty": "medium",
+    "stem": "A 35-year-old woman with frequent episodic migraines (12 episodes/month) has failed propranolol and topiramate for prevention. She also has ischemic heart disease. Which class of preventive migraine therapy is safe for her and is recommended as first-line by the 2024 AHS consensus?",
+    "options": [
+      "Triptans (sumatriptan)",
+      "Anti-CGRP monoclonal antibodies",
+      "Ergotamine derivatives",
+      "Amitriptyline"
+    ],
+    "answer": 1,
+    "explanation": "Anti-CGRP monoclonal antibodies (erenumab, fremanezumab, galcanezumab, eptinezumab) are recommended as first-line preventive therapy for episodic migraine per the 2024 AHS consensus. Critically, they do not cause vasoconstriction (unlike triptans and ergotamines), making them safe in patients with cardiovascular disease including ischemic heart disease. Triptans (5-HT1B/1D agonists) cause vasoconstriction and are contraindicated in ischemic heart disease. Ergotamines are similarly contraindicated. Amitriptyline is a second-line preventive option.",
+    "highYield": "Anti-CGRP mAbs: no vasoconstriction = safe in cardiovascular disease; 2024 AHS first-line for episodic migraine prevention",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Migraine - CGRP Antagonists",
+    "difficulty": "hard",
+    "stem": "Among the anti-CGRP monoclonal antibodies used for migraine prevention, erenumab differs mechanistically from fremanezumab, galcanezumab, and eptinezumab. What is the specific target of erenumab?",
+    "options": [
+      "CGRP ligand",
+      "CGRP receptor",
+      "CGRP gene promoter",
+      "5-HT1F receptor"
+    ],
+    "answer": 1,
+    "explanation": "Erenumab targets the CGRP receptor (not the ligand), making it the only anti-CGRP mAb that blocks the receptor rather than the peptide itself. Fremanezumab, galcanezumab, and eptinezumab all target the CGRP ligand directly. This distinction is a high-yield exam point. All four are given monthly (or 3-monthly for fremanezumab) and have no vasoconstrictive effects. 5-HT1F receptor agonism is the mechanism of lasmiditan (a ditan, not an anti-CGRP agent).",
+    "highYield": "Erenumab targets CGRP receptor; fremanezumab, galcanezumab, eptinezumab target CGRP ligand",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Migraine - Gepants and Ditans",
+    "difficulty": "medium",
+    "stem": "A 50-year-old male with hypertension and a previous myocardial infarction develops acute migraine attacks. His cardiologist advises against triptans. Which oral acute migraine drug acts as a CGRP receptor antagonist (gepant) without causing vasoconstriction?",
+    "options": [
+      "Sumatriptan",
+      "Lasmiditan",
+      "Ubrogepant",
+      "Ergotamine"
+    ],
+    "answer": 2,
+    "explanation": "Ubrogepant is a gepant (small-molecule CGRP receptor antagonist) approved for acute migraine treatment. Like all gepants, it does not cause vasoconstriction and is safe in patients with cardiovascular contraindications to triptans. Lasmiditan is also safe in cardiovascular disease but acts via 5-HT1F receptor agonism (a ditan, not a gepant); it causes CNS sedation and dizziness. Sumatriptan and ergotamine are contraindicated in ischemic heart disease due to vasoconstrictive effects. Rimegepant and atogepant are gepants with both acute and preventive indications.",
+    "highYield": "Gepants (ubrogepant, zavegepant, rimegepant, atogepant) = CGRP receptor antagonists; no vasoconstriction; safe in cardiovascular disease",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Migraine - Lasmiditan",
+    "difficulty": "medium",
+    "stem": "Lasmiditan is a novel acute migraine treatment. It is safe in ischemic heart disease. What is its mechanism of action, and what is the unique driving restriction associated with its use?",
+    "options": [
+      "5-HT1B/1D agonist; restrict driving for 4 hours",
+      "5-HT1F receptor agonist; do not drive for 8 hours after dose",
+      "CGRP receptor antagonist; no driving restriction",
+      "NMDA receptor antagonist; restrict driving for 12 hours"
+    ],
+    "answer": 1,
+    "explanation": "Lasmiditan is a selective 5-HT1F receptor agonist (ditan class). Unlike triptans which are 5-HT1B/1D agonists and cause vasoconstriction via vascular receptors, lasmiditan acts on neuronal 5-HT1F receptors without vasoconstrictive effects, making it safe in ischemic heart disease. However, it causes significant CNS adverse effects including dizziness and sedation; patients must not drive for 8 hours after taking the dose. CGRP antagonists (gepants) generally have no driving restriction. NMDA antagonism describes esketamine.",
+    "highYield": "Lasmiditan: 5-HT1F agonist, no vasoconstriction, safe in IHD, do NOT drive for 8 hours post-dose",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Hepatitis C - DAA Therapy",
+    "difficulty": "medium",
+    "stem": "A patient with chronic Hepatitis C genotype 2 infection needs treatment. The physician prescribes a pangenotypic regimen that covers all 6 genotypes with a 12-week course. Which combination drug is being described?",
+    "options": [
+      "Sofosbuvir + Ledipasvir (Harvoni)",
+      "Sofosbuvir + Velpatasvir (Epclusa)",
+      "Glecaprevir + Pibrentasvir (Maviret)",
+      "Daclatasvir + Asunaprevir"
+    ],
+    "answer": 1,
+    "explanation": "Sofosbuvir + Velpatasvir (Epclusa) is a pangenotypic regimen that covers all 6 HCV genotypes with a 12-week course, achieving SVR12 >95%. Sofosbuvir + Ledipasvir (Harvoni) covers genotypes 1, 4, 5, and 6 but not genotypes 2 and 3, so it is not pangenotypic. Glecaprevir + Pibrentasvir (Maviret) is also pangenotypic but used for 8 weeks (in patients without cirrhosis). Daclatasvir + asunaprevir is an older, genotype-specific regimen. SVR12 (sustained virologic response at 12 weeks after treatment completion) = functional cure.",
+    "highYield": "Epclusa (Sofosbuvir + Velpatasvir) = pangenotypic HCV regimen (all 6 genotypes), 12 weeks",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Hepatitis C - DAA Mechanisms",
+    "difficulty": "hard",
+    "stem": "Which of the following correctly describes the mechanism of sofosbuvir and its role in HCV regimens?",
+    "options": [
+      "NS3/4A protease inhibitor; genotype 1 specific; used in Maviret",
+      "NS5B polymerase inhibitor (nucleotide analogue); pangenotypic backbone of most modern HCV regimens",
+      "NS5A inhibitor; targets viral replication complex; combined with velpatasvir in Epclusa",
+      "NS5B non-nucleoside inhibitor; used only for genotype 3"
+    ],
+    "answer": 1,
+    "explanation": "Sofosbuvir is a nucleotide analogue NS5B RNA-dependent RNA polymerase inhibitor. It is pangenotypic and forms the backbone of most modern HCV regimens. NS5A inhibitors (ledipasvir, velpatasvir, daclatasvir) are partner drugs combined with sofosbuvir. NS3/4A protease inhibitors (glecaprevir, grazoprevir) are used in other combinations (Maviret, Zepatier). HCV genotype 3 carries the highest risk of hepatic steatosis and fastest progression to cirrhosis. All current DAA-based regimens achieve SVR12 >95%, replacing interferon completely.",
+    "highYield": "Sofosbuvir = NS5B polymerase inhibitor (nucleotide analogue); pangenotypic backbone; not NS5A (that's ledipasvir/velpatasvir)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Heart Failure - HFrEF",
+    "difficulty": "medium",
+    "stem": "A 62-year-old diabetic man is diagnosed with HFrEF (EF 32%). He is already on carvedilol and lisinopril. His physician adds a fourth pillar of therapy that reduces HF hospitalization regardless of diabetes status. Which drug class is being added?",
+    "options": [
+      "Aldosterone antagonist (spironolactone)",
+      "SGLT2 inhibitor (dapagliflozin)",
+      "ARNI (sacubitril/valsartan)",
+      "Ivabradine"
+    ],
+    "answer": 1,
+    "explanation": "SGLT2 inhibitors (dapagliflozin, empagliflozin) are the newest fourth pillar of HFrEF therapy (EF <40%). They reduce HF hospitalization and cardiovascular mortality regardless of diabetes status. The four pillars of HFrEF treatment that all reduce mortality are: (1) ACEi/ARB or ARNI (sacubitril/valsartan superior to ACEi), (2) beta-blocker (carvedilol, bisoprolol, metoprolol succinate), (3) MRA (spironolactone/eplerenone), and (4) SGLT2 inhibitor. Since the patient is on lisinopril (ACEi) and carvedilol (beta-blocker), the logical missing pillar here is the SGLT2 inhibitor. Spironolactone is the MRA (third pillar, also missing but SGLT2i is the 'newest' asked for).",
+    "highYield": "HFrEF four pillars: ACEi/ARB/ARNI + beta-blocker + MRA + SGLT2i; SGLT2i reduces HF hospitalization regardless of diabetes",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Heart Failure - ARNI",
+    "difficulty": "easy",
+    "stem": "In a patient with HFrEF who was previously on enalapril, the physician switches therapy to sacubitril/valsartan (Entresto). What is the advantage of ARNI (angiotensin receptor-neprilysin inhibitor) over ACE inhibitors in HFrEF?",
+    "options": [
+      "ARNI has no risk of angioedema unlike ACEi",
+      "ARNI reduces mortality and hospitalization superior to ACEi, with neprilysin inhibition increasing natriuretic peptides",
+      "ARNI can be combined with ACEi safely for maximum benefit",
+      "ARNI specifically improves renal function without affecting cardiac mortality"
+    ],
+    "answer": 1,
+    "explanation": "Sacubitril/valsartan (ARNI) combines neprilysin inhibition (sacubitril breaks down natriuretic peptides, bradykinin; blocking it raises beneficial natriuretic peptide levels) with AT1 receptor blockade (valsartan). The PARADIGM-HF trial showed ARNI is superior to enalapril in reducing cardiovascular mortality and HF hospitalization. Important: ARNI must NOT be combined with ACEi due to angioedema risk; there must be a 36-hour washout period when switching from ACEi to ARNI. ARNI does carry risk of angioedema (bradykinin accumulation), actually higher than ACEi alone.",
+    "highYield": "ARNI (sacubitril/valsartan) superior to ACEi in HFrEF (PARADIGM-HF); never combine with ACEi (36-hour washout needed)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Stroke - Thrombolysis",
+    "difficulty": "medium",
+    "stem": "A 68-year-old man presents 3 hours after sudden onset left hemiparesis and dysarthria. CT head is negative for hemorrhage. NIHSS score is 12. He has no contraindications to thrombolysis. What is the treatment, and what is the maximum time window for IV alteplase?",
+    "options": [
+      "IV alteplase within 3 hours of onset only",
+      "IV alteplase within 4.5 hours of onset",
+      "Mechanical thrombectomy only; alteplase is not indicated beyond 3 hours",
+      "IV tenecteplase within 6 hours of onset"
+    ],
+    "answer": 1,
+    "explanation": "IV alteplase (tissue plasminogen activator) is indicated within 4.5 hours of ischemic stroke onset in eligible patients, with no hemorrhage on CT head. The 3-hour window is the original approval, but guidelines now extend to 4.5 hours for most patients. Mechanical thrombectomy is additionally indicated for large-vessel occlusion (LVO) up to 24 hours in selected patients meeting DAWN/DEFUSE-3 trial criteria (NIHSS >=6, confirmed penumbra on perfusion imaging). Tenecteplase is a newer alternative but alteplase remains the standard. This patient at 3 hours is within the 4.5-hour window.",
+    "highYield": "IV alteplase: within 4.5 hours of stroke onset; mechanical thrombectomy for LVO up to 24 hours (DAWN/DEFUSE-3 criteria)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Parkinson's Disease Pharmacology",
+    "difficulty": "easy",
+    "stem": "A 70-year-old man with Parkinson's disease is started on levodopa combined with carbidopa. What is the role of carbidopa in this combination?",
+    "options": [
+      "Central dopamine receptor agonist enhancing levodopa's CNS effect",
+      "Peripheral aromatic L-amino acid decarboxylase inhibitor reducing peripheral conversion of levodopa to dopamine",
+      "MAO-B inhibitor preventing dopamine breakdown centrally",
+      "COMT inhibitor prolonging levodopa half-life"
+    ],
+    "answer": 1,
+    "explanation": "Carbidopa is a peripheral DOPA decarboxylase (aromatic L-amino acid decarboxylase) inhibitor that does not cross the blood-brain barrier. It prevents peripheral conversion of levodopa to dopamine (which cannot cross the BBB and causes nausea, vomiting, hypotension). By inhibiting peripheral conversion, carbidopa increases the amount of levodopa available to reach the brain, allowing lower doses and reducing peripheral side effects. COMT inhibitors (entacapone) prolong levodopa effect by preventing its peripheral metabolism. MAO-B inhibitors (selegiline, rasagiline) prevent central dopamine breakdown.",
+    "highYield": "Carbidopa = peripheral decarboxylase inhibitor; reduces peripheral levodopa-to-dopamine conversion; increases CNS levodopa availability",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "IBD Biologics",
+    "difficulty": "hard",
+    "stem": "An image shows a barium study of the terminal ileum with irregular mucosa, luminal narrowing producing a 'string sign,' and normal colonic mucosa. The diagnosis is confirmed by biopsy showing non-caseating granulomas. Which biologic used for this condition after anti-TNF failure targets the p40 subunit shared by IL-12 and IL-23?",
+    "options": [
+      "Vedolizumab",
+      "Ustekinumab",
+      "Risankizumab",
+      "Ozanimod"
+    ],
+    "answer": 1,
+    "explanation": "The image describes Crohn's disease of the terminal ileum (string sign on barium = hallmark of Crohn's; non-caseating granulomas on biopsy). After anti-TNF failure, ustekinumab is a key second-line biologic. Ustekinumab is an anti-IL-12/23 monoclonal antibody targeting the shared p40 subunit of both IL-12 and IL-23. Vedolizumab targets alpha-4 beta-7 integrin and is gut-selective. Risankizumab targets the IL-23 p19 subunit specifically (not the shared p40). Ozanimod is an S1P receptor modulator approved for UC, not Crohn's.",
+    "highYield": "Ustekinumab targets the shared p40 subunit of IL-12 and IL-23; second-line in Crohn's after anti-TNF failure",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "DSM-5-TR Updates",
+    "difficulty": "easy",
+    "stem": "Which of the following is the only new disorder added in DSM-5-TR (Text Revision, 2022), placed in the Trauma and Stressor-Related Disorders chapter?",
+    "options": [
+      "Complex PTSD",
+      "Prolonged Grief Disorder",
+      "Persistent Depressive Disorder",
+      "Disruptive Mood Dysregulation Disorder"
+    ],
+    "answer": 1,
+    "explanation": "Prolonged Grief Disorder (PGD) is the only brand-new disorder added in DSM-5-TR. It is characterized by intense yearning or preoccupation with the deceased persisting >12 months after the loss (>6 months for children), causing significant functional impairment. It is placed in the Trauma and Stressor-Related Disorders chapter. DSM-5-TR is a Text Revision that revised text for >70 disorders but added only one new disorder. Complex PTSD exists in ICD-11 but was not added to DSM-5-TR. Persistent Depressive Disorder and DMDD were in the original DSM-5 (2013).",
+    "highYield": "DSM-5-TR: only ONE new disorder added = Prolonged Grief Disorder (>12 months yearning/preoccupation with deceased)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "DSM-5-TR Updates",
+    "difficulty": "medium",
+    "stem": "A patient's mother died 14 months ago. He has persistent intense yearning for her, finds it difficult to accept her death, feels emotionally numb, and cannot engage in meaningful activities. He scores high on the Prolonged Grief Disorder scale. According to DSM-5-TR, what duration criterion must be met for diagnosing Prolonged Grief Disorder in adults?",
+    "options": [
+      ">6 months after loss",
+      ">12 months after loss",
+      ">24 months after loss",
+      ">3 months after loss"
+    ],
+    "answer": 1,
+    "explanation": "In DSM-5-TR, the duration criterion for Prolonged Grief Disorder (PGD) in adults is >12 months since the death of the person. The intense yearning/preoccupation must persist beyond this period and cause significant functional impairment. For children, the threshold is >6 months. PGD is distinct from normal bereavement and from major depressive disorder. It was placed in the Trauma and Stressor-Related Disorders chapter. The >3 month criterion does not apply to PGD.",
+    "highYield": "Prolonged Grief Disorder DSM-5-TR: >12 months in adults (>6 months in children); yearning/preoccupation with deceased + functional impairment",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "DSM-5-TR Updates",
+    "difficulty": "medium",
+    "stem": "DSM-5-TR made a significant change regarding schizophrenia diagnostic classification. Which major diagnostic system had already made a similar change before DSM-5-TR regarding schizophrenia subtypes?",
+    "options": [
+      "ICD-10, which retained subtypes until the DSM-5-TR revision",
+      "ICD-11, which removed schizophrenia subtypes before DSM-5-TR; DSM-5 had already done so in 2013",
+      "DSM-IV-TR, which was the last to use subtypes before DSM-5",
+      "ICD-10, same time as DSM-5"
+    ],
+    "answer": 1,
+    "explanation": "DSM-5 (2013) removed schizophrenia subtypes (paranoid, disorganized/hebephrenic, catatonic, undifferentiated, residual) in favor of dimensional specifiers. ICD-11 subsequently also removed these subtypes, aligning with DSM-5. ICD-10 retained the subtypes. DSM-5-TR (2022) maintained the DSM-5 position (no subtypes). Both DSM-5 and ICD-11 now use dimensional approaches to characterize schizophrenia presentations. This is a frequently tested classification distinction.",
+    "highYield": "Schizophrenia subtypes removed: DSM-5 (2013) and ICD-11 both removed them; ICD-10 still had them",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "Newer Antidepressants",
+    "difficulty": "medium",
+    "stem": "A 45-year-old woman with Treatment-Resistant Depression (TRD) has failed three adequate antidepressant trials. She is referred for a novel intranasal treatment administered in a certified healthcare setting under the REMS program due to risk of dissociation and sedation. What is this drug and its mechanism?",
+    "options": [
+      "Brexanolone; GABA-A positive allosteric modulator; 60-hour IV infusion",
+      "Esketamine (Spravato); NMDA receptor antagonist; intranasal route",
+      "Zuranolone; neuroactive steroid; 14-day oral course",
+      "Dextromethorphan + Bupropion; NMDA antagonist + DNRI; oral tablet"
+    ],
+    "answer": 1,
+    "explanation": "Esketamine (Spravato) is the S-enantiomer of ketamine that works as an NMDA receptor antagonist/modulator. It is administered intranasally in certified healthcare settings under the REMS (Risk Evaluation and Mitigation Strategy) program due to risks of dissociation, sedation, and misuse. It is FDA-approved for TRD and MDD with acute suicidal ideation. In 2025, monotherapy approval for TRD was granted. Brexanolone is IV (60-hour infusion) for postpartum depression. Zuranolone is an oral 14-day course neuroactive steroid. DXM+bupropion (Auvelity) is an oral combination for MDD.",
+    "highYield": "Esketamine (Spravato): S-enantiomer of ketamine, NMDA antagonist, intranasal, REMS program, approved for TRD and acute suicidal ideation",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "Newer Antidepressants",
+    "difficulty": "medium",
+    "stem": "A 28-year-old woman develops severe depression two weeks after delivery of her first child. She is admitted and started on the first FDA-approved drug specifically indicated for Postpartum Depression (PPD). What is this drug and its route of administration?",
+    "options": [
+      "Zuranolone; oral, 14-day course",
+      "Brexanolone (Zulresso); continuous 60-hour IV infusion in hospital",
+      "Esketamine; intranasal in outpatient REMS setting",
+      "Sertraline; oral antidepressant started immediately"
+    ],
+    "answer": 1,
+    "explanation": "Brexanolone (Zulresso) is the first FDA-approved drug specifically for Postpartum Depression (PPD). It is a synthetic allopregnanolone (a neuroactive steroid) that acts as a positive allosteric modulator of GABA-A receptors. It is administered as a continuous 60-hour IV infusion in an inpatient hospital setting. Zuranolone is also a neuroactive steroid GABA-A modulator approved for both MDD and PPD but is an oral agent given over 14 days. Esketamine is for TRD/suicidal ideation, not specifically PPD. Sertraline is commonly used off-label for PPD but was not the first specifically approved drug.",
+    "highYield": "Brexanolone = first drug specifically FDA-approved for PPD; allopregnanolone (neuroactive steroid), GABA-A modulator, 60-hour IV infusion",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "Newer Antidepressants",
+    "difficulty": "hard",
+    "stem": "Zuranolone is a recently approved oral antidepressant that works through a novel mechanism. Which of the following correctly describes its mechanism and dosing schedule?",
+    "options": [
+      "Selective serotonin reuptake inhibitor; continuous daily dosing indefinitely",
+      "Positive allosteric modulator of GABA-A receptors (neuroactive steroid); 14-day course taken once daily",
+      "NMDA receptor antagonist; intranasal twice weekly",
+      "5-HT1A partial agonist; continuous daily dosing"
+    ],
+    "answer": 1,
+    "explanation": "Zuranolone is a neuroactive steroid (synthetic neurosteroid) that acts as a positive allosteric modulator of GABA-A receptors, modulating both synaptic and extrasynaptic GABA-A receptor subtypes. Uniquely, it is taken once daily for a 14-day treatment course (not continuous long-term dosing like SSRIs). It is FDA-approved for both MDD and Postpartum Depression. Its short course and rapid onset distinguish it from traditional antidepressants. The GABA-A modulation mechanism is shared with brexanolone (IV) but zuranolone is oral.",
+    "highYield": "Zuranolone: oral neuroactive steroid, GABA-A positive allosteric modulator, 14-day course for MDD and PPD",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "Newer Antidepressants",
+    "difficulty": "medium",
+    "stem": "Dextromethorphan + Bupropion (Auvelity) is approved for MDD. It has a faster onset than traditional antidepressants. What are the combined mechanisms of action of its two components?",
+    "options": [
+      "SSRI + SNRI combination targeting serotonin and norepinephrine reuptake",
+      "NMDA receptor antagonist (dextromethorphan) + dopamine-norepinephrine reuptake inhibitor (bupropion)",
+      "5-HT1A partial agonist + 5-HT2A antagonist",
+      "MAOI + tricyclic antidepressant combination"
+    ],
+    "answer": 1,
+    "explanation": "Auvelity (dextromethorphan + bupropion) combines two distinct mechanisms: dextromethorphan is an NMDA receptor antagonist (similar to ketamine/esketamine, explaining the rapid onset within ~1 week), and bupropion is a dopamine-norepinephrine reuptake inhibitor (DNRI) that also inhibits CYP2D6, slowing dextromethorphan metabolism to maintain therapeutic levels. This combination is approved for MDD with notably faster onset than SSRIs/SNRIs. The NMDA antagonism mechanism links it to the ketamine family of rapid-acting antidepressants.",
+    "highYield": "Auvelity = dextromethorphan (NMDA antagonist) + bupropion (DNRI); faster onset ~1 week; bupropion also inhibits CYP2D6 to maintain DXM levels",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "Newer Antipsychotics",
+    "difficulty": "medium",
+    "stem": "An elderly patient with Parkinson's disease develops visual hallucinations and delusions. The neurologist wants to treat the psychosis without worsening the motor symptoms of Parkinsonism. Which antipsychotic is specifically FDA-approved for Parkinson's Disease Psychosis and has no dopamine D2 blockade?",
+    "options": [
+      "Clozapine",
+      "Quetiapine",
+      "Pimavanserin (Nuplazid)",
+      "Olanzapine"
+    ],
+    "answer": 2,
+    "explanation": "Pimavanserin (Nuplazid) is a selective 5-HT2A inverse agonist (and partial 5-HT2C inverse agonist) with no D2 receptor blockade. This unique mechanism means it treats psychosis without blocking dopamine receptors, so it does not worsen the motor symptoms of Parkinson's disease. It is the only drug specifically FDA-approved for Parkinson's Disease Psychosis (PDP). Clozapine and quetiapine are sometimes used off-label in PD psychosis (lowest D2 affinity among antipsychotics), but only pimavanserin is specifically approved. Olanzapine worsens motor symptoms significantly.",
+    "highYield": "Pimavanserin = selective 5-HT2A inverse agonist, NO D2 blockade, specifically approved for Parkinson's Disease Psychosis",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "Newer Antipsychotics",
+    "difficulty": "medium",
+    "stem": "A 30-year-old patient with schizophrenia has prominent negative symptoms (flat affect, alogia, avolition) and cognitive impairment in addition to positive symptoms. Which newer antipsychotic has preferential D3 receptor affinity that targets negative symptoms and cognition, and is also approved for bipolar depression?",
+    "options": [
+      "Brexpiprazole",
+      "Lumateperone",
+      "Cariprazine",
+      "Aripiprazole"
+    ],
+    "answer": 2,
+    "explanation": "Cariprazine (Vraylar) is a D2/D3 partial agonist with preferential D3 affinity. D3 receptors are implicated in negative symptoms and cognitive dysfunction in schizophrenia. Cariprazine is approved for schizophrenia, bipolar mania, bipolar depression, and as an adjunct in MDD. Its D3 selectivity distinguishes it from aripiprazole (D2 partial agonist, minimal D3). Brexpiprazole is a D2 partial agonist + 5-HT1A partial agonist + 5-HT2A antagonist, approved for schizophrenia, adjunct MDD, and Alzheimer's agitation. Lumateperone is a serotonin-dopamine activity modulator.",
+    "highYield": "Cariprazine: D2/D3 partial agonist with preferential D3 affinity; targets negative symptoms/cognition; approved for schizophrenia, bipolar depression",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "Newer Antipsychotics",
+    "difficulty": "hard",
+    "stem": "A patient with schizophrenia is started on brexpiprazole (Rexulti). Compared to aripiprazole, which is its major advantage regarding extrapyramidal side effects?",
+    "options": [
+      "Brexpiprazole has higher D2 affinity leading to fewer EPS",
+      "Brexpiprazole has lower akathisia risk than aripiprazole due to balanced 5-HT1A and 5-HT2A activity",
+      "Brexpiprazole does not block D2 at all, eliminating all EPS risk",
+      "Brexpiprazole causes more tardive dyskinesia but less akathisia"
+    ],
+    "answer": 1,
+    "explanation": "Brexpiprazole (Rexulti) is a D2 partial agonist + 5-HT1A partial agonist + 5-HT2A antagonist. Compared to aripiprazole (which is also a D2 partial agonist), brexpiprazole has lower akathisia risk due to its more balanced serotonergic and dopaminergic modulation. It is FDA-approved for schizophrenia, as an adjunct in MDD, and for agitation associated with Alzheimer's dementia. It does have D2 activity (so EPS risk is not eliminated). The 5-HT1A partial agonism and 5-HT2A antagonism contribute to its more favorable tolerability profile compared to aripiprazole.",
+    "highYield": "Brexpiprazole vs aripiprazole: lower akathisia risk; D2 partial agonist + 5-HT1A partial agonist + 5-HT2A antagonist; approved for Alzheimer's agitation",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "Newer Antipsychotics",
+    "difficulty": "hard",
+    "stem": "An image shows a dopaminergic pathway diagram where a drug acts on 5-HT2A receptors, D1 receptors, D2 receptors, and the serotonin transporter simultaneously. The drug is described as a 'serotonin-dopamine activity modulator' with low metabolic side effects, approved for both schizophrenia and bipolar depression. Which drug is this?",
+    "options": [
+      "Cariprazine",
+      "Brexpiprazole",
+      "Lumateperone",
+      "Quetiapine"
+    ],
+    "answer": 2,
+    "explanation": "Lumateperone (Caplyta) is described as a serotonin-dopamine activity modulator that acts simultaneously on 5-HT2A receptors (antagonist), D1 receptors, D2 receptors, and the serotonin transporter. This unique multi-receptor profile results in low metabolic side effects (low weight gain, glucose, lipid changes) compared to other antipsychotics. It is approved for schizophrenia, bipolar depression, and (in 2025) as an adjunct in MDD. Cariprazine has preferential D3 affinity. Brexpiprazole has 5-HT1A partial agonism. Quetiapine has significant metabolic effects and is not described as a 'serotonin-dopamine activity modulator.'",
+    "highYield": "Lumateperone = serotonin-dopamine activity modulator; acts on 5-HT2A, D1, D2, serotonin transporter; low metabolic side effects; approved for schizophrenia + bipolar depression",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "ECT and Catatonia",
+    "difficulty": "medium",
+    "stem": "A 25-year-old man is brought in with mutism, waxy flexibility, posturing, and negativism for 5 days. He has a history of schizophrenia. IV lorazepam test is partially effective. What is the next best step in management?",
+    "options": [
+      "Start oral haloperidol immediately",
+      "Proceed to Electroconvulsive Therapy (ECT)",
+      "Increase IV lorazepam dose and add oral antipsychotic",
+      "Start clozapine for treatment-resistant schizophrenia"
+    ],
+    "answer": 1,
+    "explanation": "Catatonia is a neuropsychiatric syndrome characterized by mutism, waxy flexibility, posturing, and negativism. The first-line treatment is benzodiazepines (IV lorazepam is the preferred agent). If benzodiazepine response is partial or inadequate, ECT (Electroconvulsive Therapy) is indicated and is highly effective for catatonia. ECT is one of the primary indications for ECT, alongside treatment-resistant depression, severe suicidality, psychotic depression, and severe mania. Antipsychotics alone are not effective for catatonia and can worsen it (especially with NMS risk). Clozapine is for treatment-resistant schizophrenia, not catatonia per se.",
+    "highYield": "Catatonia: IV lorazepam (BZD) first-line; if inadequate response \u2192 ECT is next step; antipsychotics alone contraindicated in catatonia",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "Lithium and Bipolar Disorder",
+    "difficulty": "easy",
+    "stem": "A 35-year-old woman with Bipolar I disorder is started on lithium for long-term prophylaxis. Which of the following is the therapeutic serum level range for lithium in maintenance treatment?",
+    "options": [
+      "0.2-0.5 mEq/L",
+      "0.6-1.2 mEq/L",
+      "1.5-2.5 mEq/L",
+      "2.0-3.0 mEq/L"
+    ],
+    "answer": 1,
+    "explanation": "The therapeutic serum level for lithium in maintenance (prophylaxis) of bipolar disorder is 0.6-1.2 mEq/L. Levels above 1.5 mEq/L are associated with toxicity (tremor, ataxia, diarrhea, confusion), and levels above 2.0 mEq/L can be life-threatening. Lithium is the drug of choice for bipolar disorder prophylaxis and is the most evidence-based agent for reducing suicidality. It has a narrow therapeutic index. Monitoring thyroid function (hypothyroidism risk) and renal function is mandatory during lithium therapy. Lithium is a teratogen associated with Ebstein's anomaly.",
+    "highYield": "Lithium therapeutic range: 0.6-1.2 mEq/L; drug of choice for bipolar prophylaxis and suicide prevention; monitor thyroid and renal function",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "Lithium Toxicity",
+    "difficulty": "medium",
+    "stem": "A patient on lithium for bipolar disorder presents with coarse tremor, ataxia, polyuria, polydipsia, and confusion. Serum lithium level is 1.8 mEq/L. Which of the following adverse effects of lithium accounts for the polyuria and polydipsia in this patient?",
+    "options": [
+      "Lithium-induced SIADH",
+      "Nephrogenic Diabetes Insipidus (NDI)",
+      "Lithium-induced hypothyroidism causing water retention",
+      "Psychogenic polydipsia from the underlying bipolar disorder"
+    ],
+    "answer": 1,
+    "explanation": "Lithium causes nephrogenic diabetes insipidus (NDI) by inhibiting the action of ADH (antidiuretic hormone) on the collecting tubule, leading to reduced aquaporin-2 expression and inability to concentrate urine. This results in polyuria and compensatory polydipsia. It is distinct from SIADH, which would cause hyponatremia and reduced urine output. Lithium also causes hypothyroidism but this does not directly cause polyuria/polydipsia. This is a chronic effect of lithium even at therapeutic levels, worsening with toxicity. Amiloride can be used to treat lithium-induced NDI.",
+    "highYield": "Lithium causes nephrogenic DI (inhibits ADH action on collecting duct \u2192 polyuria/polydipsia); also causes hypothyroidism and Ebstein anomaly (teratogen)",
+    "pyqNote": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,648 @@
+[
+  {
+    "subject": "Pharmacology",
+    "topic": "SGLT2 inhibitors - mechanism",
+    "difficulty": "easy",
+    "stem": "A medical student asks about the site of action of dapagliflozin in the nephron. Which segment of the renal tubule does it primarily act on?",
+    "options": [
+      "S1/S2 segment of the proximal convoluted tubule",
+      "Thick ascending limb of loop of Henle",
+      "Distal convoluted tubule",
+      "Collecting duct principal cells"
+    ],
+    "answer": 0,
+    "explanation": "SGLT2 inhibitors block sodium-glucose cotransporter-2 (SGLT2) located in the S1/S2 segment of the proximal convoluted tubule, which normally reabsorbs approximately 90-97% of filtered glucose. The loop of Henle, distal convoluted tubule, and collecting duct are not sites of SGLT2 expression.",
+    "highYield": "SGLT2 inhibitors act on the S1/S2 segment of the proximal convoluted tubule, blocking ~90-97% of glucose reabsorption.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "SGLT2 inhibitors - renal glucose threshold",
+    "difficulty": "medium",
+    "stem": "A 55-year-old diabetic patient is started on empagliflozin. His physician explains that the drug lowers the renal threshold for glucose excretion. To what approximate level does SGLT2 inhibition reduce this threshold?",
+    "options": [
+      "180 mg/dL",
+      "120 mg/dL",
+      "40 mg/dL",
+      "80 mg/dL"
+    ],
+    "answer": 2,
+    "explanation": "SGLT2 inhibitors lower the renal threshold for glucose excretion from approximately 180 mg/dL (normal) to approximately 40 mg/dL. This causes 60-90g of glucose to be excreted in the urine daily, creating a caloric deficit that contributes to weight loss.",
+    "highYield": "SGLT2i lower renal glucose threshold from ~180 mg/dL to ~40 mg/dL, causing 60-90g/day glucosuria.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "SGLT2 inhibitors in heart failure",
+    "difficulty": "medium",
+    "stem": "A 62-year-old non-diabetic patient with heart failure and ejection fraction of 32% is being optimized on guideline-directed medical therapy. Which SGLT2 inhibitor has been proven in the DAPA-HF trial to reduce HF hospitalization and cardiovascular death in this patient?",
+    "options": [
+      "Canagliflozin",
+      "Dapagliflozin",
+      "Ertugliflozin",
+      "Ipragliflozin"
+    ],
+    "answer": 1,
+    "explanation": "Dapagliflozin (DAPA-HF trial) is approved for HFrEF (EF <40%) regardless of diabetes status. Empagliflozin (EMPEROR-Reduced) is the other approved agent. Canagliflozin was proven for ESKD reduction (CREDENCE trial), not HFrEF. Ertugliflozin and ipragliflozin do not have HF outcome data.",
+    "highYield": "Dapagliflozin (DAPA-HF) and empagliflozin (EMPEROR-Reduced) are approved for HFrEF independent of diabetes status.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "SGLT2 inhibitors in HFpEF",
+    "difficulty": "hard",
+    "stem": "A 70-year-old hypertensive woman presents with exertional dyspnea. Echo shows EF of 58% with Grade II diastolic dysfunction. Which of the following represents the most recent landmark development for her pharmacotherapy?",
+    "options": [
+      "Both empagliflozin and dapagliflozin are now approved for HFpEF",
+      "Only empagliflozin is approved for HFpEF via EMPEROR-Preserved trial",
+      "SGLT2 inhibitors are contraindicated in HFpEF",
+      "Only sacubitril-valsartan has proven mortality benefit in HFpEF"
+    ],
+    "answer": 0,
+    "explanation": "Both empagliflozin (EMPEROR-Preserved trial) and dapagliflozin (DELIVER trial) are now approved for heart failure with preserved ejection fraction (HFpEF, EF >40%). This is the most recent and exam-favorite addition to SGLT2i indications. SGLT2i are NOT contraindicated in HFpEF.",
+    "highYield": "Both empagliflozin (EMPEROR-Preserved) and dapagliflozin (DELIVER) are approved for HFpEF - newest SGLT2i indication.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "SGLT2 inhibitors in CKD",
+    "difficulty": "medium",
+    "stem": "A nephrologist plans to use an SGLT2 inhibitor for cardiorenal protection in a non-diabetic patient with CKD. The eGFR is 35 mL/min/1.73m2. What is the correct approach?",
+    "options": [
+      "Do not use; SGLT2i require eGFR above 45 for any indication",
+      "Can initiate for cardiorenal protection even at eGFR 20-45 despite no glycemic benefit",
+      "Contraindicated below eGFR 50 in non-diabetic patients",
+      "Only canagliflozin can be used below eGFR 45"
+    ],
+    "answer": 1,
+    "explanation": "SGLT2i should NOT be initiated for glycemic benefit if eGFR <45. However, for cardiorenal protection (CKD/HF indications), they can be initiated if eGFR is 20-45. Dapagliflozin (DAPA-CKD) and empagliflozin (EMPA-KIDNEY) are approved to slow CKD progression down to eGFR 20 even in non-diabetic patients. Absolute contraindication is below eGFR 20.",
+    "highYield": "For cardiorenal protection, SGLT2i can be used down to eGFR 20; eGFR <45 only precludes glycemic use.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "SGLT2 inhibitors - adverse effects",
+    "difficulty": "hard",
+    "stem": "A type 1 diabetic woman on insulin is started on empagliflozin as add-on therapy. Three days after an elective cholecystectomy, she presents with nausea, vomiting, and Kussmaul breathing. Her blood glucose is 148 mg/dL. Urine ketones are 3+. What is the most likely diagnosis?",
+    "options": [
+      "Diabetic ketoacidosis (classic hyperglycemic DKA)",
+      "Euglycemic diabetic ketoacidosis (SGLT2i-induced)",
+      "Lactic acidosis",
+      "Starvation ketosis"
+    ],
+    "answer": 1,
+    "explanation": "Euglycemic DKA is a serious adverse effect of SGLT2 inhibitors, especially in Type 1 DM and perioperatively. Glucose may be near-normal (hence 'euglycemic') because the drug causes glucosuria despite ongoing ketogenesis. The combination of normal/low glucose + positive ketones + metabolic acidosis is the classic presentation. SGLT2i should be held 3-4 days before surgery.",
+    "highYield": "Euglycemic DKA: SGLT2i adverse effect with normal glucose but raised ketones, especially in T1DM/perioperative setting.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "SGLT2 inhibitors - specific drug indications",
+    "difficulty": "medium",
+    "stem": "Which SGLT2 inhibitor was the FIRST to demonstrate reduction in end-stage kidney disease (ESKD) in the CREDENCE trial?",
+    "options": [
+      "Empagliflozin",
+      "Dapagliflozin",
+      "Canagliflozin",
+      "Ertugliflozin"
+    ],
+    "answer": 2,
+    "explanation": "Canagliflozin (CREDENCE trial) was the first SGLT2 inhibitor proven to reduce ESKD (end-stage kidney disease). Empagliflozin showed the first cardiovascular mortality benefit in EMPA-REG OUTCOME. Dapagliflozin was the first approved for HFrEF without requiring diabetes (DAPA-HF).",
+    "highYield": "Canagliflozin (CREDENCE) = first SGLT2i to reduce ESKD; each trial has a distinct 'first' for MCQs.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "GLP-1 receptor agonists - mechanism",
+    "difficulty": "easy",
+    "stem": "Semaglutide (Ozempic) mimics the action of GLP-1, an incretin hormone. From which intestinal cells is GLP-1 primarily secreted?",
+    "options": [
+      "K-cells of the duodenum",
+      "L-cells of the terminal ileum",
+      "G-cells of the stomach antrum",
+      "I-cells of the duodenum"
+    ],
+    "answer": 1,
+    "explanation": "GLP-1 is secreted from L-cells of the terminal ileum (and colon). GIP (glucose-dependent insulinotropic polypeptide) is secreted from K-cells of the duodenum/proximal jejunum. G-cells secrete gastrin, and I-cells secrete cholecystokinin.",
+    "highYield": "GLP-1 from L-cells (terminal ileum); GIP from K-cells (duodenum/proximal jejunum).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "GLP-1 agonists - cardiovascular outcomes",
+    "difficulty": "hard",
+    "stem": "The SELECT trial published in 2023 demonstrated a 20% reduction in MACE with semaglutide 2.4mg (Wegovy) in a specific population. Which of the following best describes this population?",
+    "options": [
+      "Type 2 diabetics with established cardiovascular disease and BMI above 30",
+      "Non-diabetic obese patients (BMI ≥27) with pre-existing cardiovascular disease",
+      "Patients with obesity and HFpEF regardless of diabetes status",
+      "Type 2 diabetics with HbA1c above 8% and recent MI"
+    ],
+    "answer": 1,
+    "explanation": "The SELECT trial enrolled non-diabetic obese patients (BMI ≥27) with pre-existing cardiovascular disease and showed a 20% MACE reduction with semaglutide 2.4mg. This was the first weight-loss drug proven to reduce CV events independent of diabetes. FDA approved this CV indication in March 2024.",
+    "highYield": "SELECT trial: semaglutide reduces MACE by 20% in NON-DIABETIC obese patients with CVD - first weight-loss drug with CV mortality benefit.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Tirzepatide - mechanism and comparison",
+    "difficulty": "medium",
+    "stem": "Tirzepatide (Mounjaro) differs from semaglutide primarily because it acts as a dual agonist. Which two receptors does it target?",
+    "options": [
+      "GLP-1 and glucagon receptors",
+      "GIP and GLP-1 receptors",
+      "GLP-1 and leptin receptors",
+      "GIP and glucagon receptors"
+    ],
+    "answer": 1,
+    "explanation": "Tirzepatide is a dual GIP (glucose-dependent insulinotropic polypeptide) + GLP-1 receptor agonist. GIP is secreted from K-cells of the duodenum/proximal jejunum. The dual agonism explains superior weight loss (~20-22% body weight) compared to semaglutide (~15%), as confirmed in the SURMOUNT-5 head-to-head trial.",
+    "highYield": "Tirzepatide = dual GIP + GLP-1 receptor agonist; superior weight loss (~20-22%) vs semaglutide (~15%) in SURMOUNT-5.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Tirzepatide - new indications 2024",
+    "difficulty": "hard",
+    "stem": "In 2024, tirzepatide became the first pharmacotherapy approved for a sleep disorder. Which condition was it approved for?",
+    "options": [
+      "Restless leg syndrome in obese adults",
+      "Obstructive sleep apnea in adults with obesity",
+      "Central sleep apnea in heart failure patients",
+      "Narcolepsy with obesity-related hypersomnia"
+    ],
+    "answer": 1,
+    "explanation": "Tirzepatide (Zepbound brand) received FDA approval in 2024 for obstructive sleep apnea (OSA) in adults with obesity - the first pharmacotherapy specifically approved for OSA. This was in addition to its earlier approvals for T2DM (Mounjaro, 2022) and obesity (Zepbound, November 2023).",
+    "highYield": "Tirzepatide = first drug approved for obstructive sleep apnea (2024); SUMMIT trial also showed benefit in HFpEF with obesity.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "GLP-1 agonists - adverse effects and contraindications",
+    "difficulty": "medium",
+    "stem": "A 45-year-old obese patient with a family history of medullary thyroid carcinoma is being evaluated for weight-loss pharmacotherapy. Which drug class is CONTRAINDICATED in this patient?",
+    "options": [
+      "SGLT2 inhibitors",
+      "GLP-1 receptor agonists",
+      "Orlistat",
+      "Topiramate-phentermine combination"
+    ],
+    "answer": 1,
+    "explanation": "GLP-1 receptor agonists (semaglutide, liraglutide, tirzepatide) are contraindicated in patients with personal or family history of medullary thyroid carcinoma (MTC) or MEN-2 syndrome due to C-cell tumor risk demonstrated in rodent studies. SGLT2 inhibitors, orlistat, and topiramate-phentermine do not carry this contraindication.",
+    "highYield": "GLP-1 agonists contraindicated in personal/family history of medullary thyroid carcinoma or MEN-2.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Cefiderocol - mechanism",
+    "difficulty": "medium",
+    "stem": "Cefiderocol is described as using a 'Trojan horse' mechanism to enter bacteria. Which of the following accurately describes this mechanism?",
+    "options": [
+      "It mimics folic acid to enter via folate transporters",
+      "It mimics iron using a chlorocatechol siderophore group to hijack TonB-dependent transporters",
+      "It mimics glucose to enter via GLUT transporters in bacterial membranes",
+      "It binds to transferrin to cross the outer membrane via transferrin receptors"
+    ],
+    "answer": 1,
+    "explanation": "Cefiderocol is a siderophore cephalosporin that uses a chlorocatechol group on its C-3 side chain to mimic iron, hijacking bacterial TonB-dependent iron-transport systems to enter the periplasmic space. This 'Trojan horse' mechanism allows it to bypass outer membrane barriers that other beta-lactams cannot overcome.",
+    "highYield": "Cefiderocol mimics iron via chlorocatechol group, uses TonB-dependent transporters - the 'Trojan horse' mechanism.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Cefiderocol vs other novel beta-lactams",
+    "difficulty": "hard",
+    "stem": "A patient in the ICU has ventilator-associated pneumonia caused by a carbapenem-resistant Klebsiella pneumoniae producing NDM-1 (a metallo-beta-lactamase). Which of the following antibiotic options would be ACTIVE against this organism?",
+    "options": [
+      "Ceftazidime-avibactam",
+      "Meropenem-vaborbactam",
+      "Imipenem-relebactam",
+      "Cefiderocol"
+    ],
+    "answer": 3,
+    "explanation": "NDM-1 is a class B metallo-beta-lactamase (MBL). Avibactam, vaborbactam, and relebactam are serine-based BLIs that do NOT inhibit class B MBLs (NDM, VIM, IMP). Only cefiderocol retains activity against all major carbapenemases including MBLs (NDM, VIM, IMP) as well as serine carbapenemases (KPC, OXA-48). For NDM producers, alternatives include cefiderocol or aztreonam-avibactam.",
+    "highYield": "Cefiderocol covers ALL carbapenemases including NDM/VIM/IMP (MBLs); avibactam/vaborbactam/relebactam do NOT cover MBLs.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Ceftazidime-avibactam - spectrum",
+    "difficulty": "medium",
+    "stem": "Ceftazidime-avibactam (CAZ-AVI) is the drug of choice for KPC-producing carbapenem-resistant Klebsiella. Avibactam inhibits which Ambler classes of beta-lactamases?",
+    "options": [
+      "Class A and class B only",
+      "Class A, class C, and some class D (OXA-48); not class B MBLs",
+      "All four Ambler classes (A, B, C, D)",
+      "Class B (metallo-beta-lactamases) and class C only"
+    ],
+    "answer": 1,
+    "explanation": "Avibactam is a non-beta-lactam BLI that inhibits Ambler class A (KPC, ESBL), class C (AmpC), and some class D (OXA-48) enzymes. Critically, it does NOT inhibit class B metallo-beta-lactamases (NDM, VIM, IMP). For NDM producers, CAZ-AVI + aztreonam is the combination used (aztreonam is MBL-stable; avibactam protects aztreonam from serine BLases).",
+    "highYield": "Avibactam covers class A+C+some D; DOES NOT cover class B MBLs (NDM, VIM, IMP).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Omadacycline",
+    "difficulty": "hard",
+    "stem": "Omadacycline, an aminomethylcycline tetracycline, overcomes both major tetracycline resistance mechanisms. Which two mechanisms does it bypass?",
+    "options": [
+      "Beta-lactamase production and porin loss",
+      "Ribosomal protection and efflux pumps",
+      "Enzymatic inactivation and target modification",
+      "Outer membrane impermeability and biofilm formation"
+    ],
+    "answer": 1,
+    "explanation": "Omadacycline is a novel aminomethylcycline tetracycline that overcomes both major tetracycline resistance mechanisms: ribosomal protection proteins (e.g., TetM, TetO) AND efflux pumps (e.g., TetA, TetB). It is indicated for CABP and ABSSSI and is being investigated as a linezolid replacement in drug-resistant TB regimens.",
+    "highYield": "Omadacycline overcomes both tetracycline resistance mechanisms: ribosomal protection AND efflux pumps.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Bedaquiline - mechanism",
+    "difficulty": "medium",
+    "stem": "Bedaquiline, used in XDR-TB, has a unique mechanism that makes it active against both replicating and dormant mycobacteria. What is its target?",
+    "options": [
+      "Mycobacterial RNA polymerase beta subunit",
+      "Mycobacterial ATP synthase subunit c (proton pump)",
+      "Mycobacterial dihydropteroate synthase",
+      "Mycobacterial InhA (enoyl-ACP reductase)"
+    ],
+    "answer": 1,
+    "explanation": "Bedaquiline inhibits mycobacterial ATP synthase (specifically subunit c/proton pump), blocking energy production. This unique mechanism makes it bactericidal against both actively dividing AND dormant (non-replicating) M. tuberculosis. Key side effect is QTc prolongation. It is part of the BPaL regimen for XDR-TB.",
+    "highYield": "Bedaquiline targets mycobacterial ATP synthase subunit c; active against BOTH replicating and dormant bacilli; causes QTc prolongation.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "BPaL regimen for XDR-TB",
+    "difficulty": "medium",
+    "stem": "The BPaL regimen, approved by FDA in 2019 for XDR-TB, stands for which combination of drugs?",
+    "options": [
+      "Bedaquiline, Pyrazinamide, Linezolid",
+      "Bedaquiline, Pretomanid, Linezolid",
+      "Bedaquiline, Pretomanid, Levofloxacin",
+      "Bedaquiline, Pyrazinamide, Levofloxacin"
+    ],
+    "answer": 1,
+    "explanation": "BPaL stands for Bedaquiline + Pretomanid + Linezolid. This fully oral 6-month regimen is approved for XDR-TB (and MDR-TB failure/intolerance) with >90% success rate in Nix-TB and ZeNix trials. BPaLM adds Moxifloxacin (WHO 2022-endorsed) for fluoroquinolone-susceptible cases.",
+    "highYield": "BPaL = Bedaquiline + Pretomanid + Linezolid for XDR-TB; BPaLM adds Moxifloxacin for pre-XDR cases.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "CAR-T cell therapy - types and costimulatory domains",
+    "difficulty": "hard",
+    "stem": "Two CAR-T products target CD19 for B-cell malignancies. Tisagenlecleucel (Kymriah) uses a 4-1BB (CD137) costimulatory domain. How does this differ functionally from the CD28 domain used in axicabtagene ciloleucel (Yescarta)?",
+    "options": [
+      "4-1BB gives faster peak expansion; CD28 gives greater memory T-cell persistence",
+      "4-1BB gives greater persistence and memory T-cell generation; CD28 gives faster expansion and peak response",
+      "Both domains produce identical functional outcomes with different manufacturing processes",
+      "4-1BB is used for B-ALL; CD28 is exclusively for DLBCL"
+    ],
+    "answer": 1,
+    "explanation": "The 4-1BB (CD137) costimulatory domain in tisagenlecleucel confers greater T-cell persistence and memory T-cell generation. The CD28 domain in axicabtagene ciloleucel gives faster expansion and a higher peak response. Both are CD19-targeted. Tisagenlecleucel is approved for B-ALL (age ≤25) and DLBCL; axicabtagene for DLBCL and follicular lymphoma.",
+    "highYield": "4-1BB (tisagenlecleucel) = better persistence/memory; CD28 (axicabtagene) = faster expansion/peak response.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "India's first CAR-T therapy",
+    "difficulty": "medium",
+    "stem": "India's first indigenous CAR-T cell therapy, developed by ImmunoACT/IIT Bombay and approved by CDSCO in October 2023, is known by what generic name?",
+    "options": [
+      "Axicabtagene ciloleucel",
+      "Tisagenlecleucel",
+      "Talicabtagene autoleucel (NexCAR19)",
+      "Varnimcabtagene autoleucel"
+    ],
+    "answer": 2,
+    "explanation": "Talicabtagene autoleucel (brand name NexCAR19) is India's first indigenous CAR-T therapy, developed by ImmunoACT in collaboration with IIT Bombay and approved by CDSCO in October 2023. It targets CD19 and is priced ~$50,000 (vs ~$500,000 globally). Varnimcabtagene autoleucel (var-cel) is India's second CAR-T approval (early 2025).",
+    "highYield": "NexCAR19 (talicabtagene autoleucel) = India's first CAR-T, CDSCO Oct 2023, CD19-targeted, ~$50,000.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Cytokine release syndrome - treatment",
+    "difficulty": "medium",
+    "stem": "A 28-year-old with B-ALL develops Grade 3 cytokine release syndrome (CRS) 48 hours after CAR-T infusion: temperature 39.8°C, BP 85/50 mmHg requiring vasopressors, and SpO2 94% on 4L O2. What is the FIRST-LINE treatment for this complication?",
+    "options": [
+      "Dexamethasone 10 mg IV",
+      "Tocilizumab 8 mg/kg IV",
+      "Infliximab 5 mg/kg IV",
+      "Intravenous immunoglobulin (IVIG)"
+    ],
+    "answer": 1,
+    "explanation": "Tocilizumab (anti-IL-6 receptor monoclonal antibody) is the first-line treatment for Grade 2+ CRS. It is FDA-approved specifically for CAR-T-induced CRS. IL-6 is the key mediator of CRS. Dexamethasone is added for refractory CRS but used cautiously as it can blunt CAR-T efficacy. Infliximab is used for immune-related colitis from checkpoint inhibitors.",
+    "highYield": "Tocilizumab (anti-IL-6R) is first-line for CRS Grade 2+; dexamethasone added for refractory cases.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "ICANS vs CRS management",
+    "difficulty": "hard",
+    "stem": "A patient receiving CAR-T therapy develops confusion, aphasia, and tremors on Day 7 post-infusion (after CRS had already resolved). Brain MRI shows diffuse white matter changes. Which statement about management of this complication is CORRECT?",
+    "options": [
+      "Tocilizumab is the treatment of choice as IL-6 is the key mediator",
+      "Dexamethasone is used; tocilizumab is ineffective as it does not cross the blood-brain barrier",
+      "Rituximab is the appropriate therapy targeting B cells in CNS",
+      "High-dose methylprednisolone plus plasmapheresis is first-line"
+    ],
+    "answer": 1,
+    "explanation": "This presentation describes ICANS (immune effector cell-associated neurotoxicity syndrome), a distinct complication from CRS. ICANS is treated with dexamethasone. Tocilizumab does NOT cross the blood-brain barrier and is therefore ineffective for ICANS. The key distinction for MCQs is: CRS = tocilizumab first-line; ICANS = dexamethasone.",
+    "highYield": "ICANS treated with dexamethasone; tocilizumab ineffective (does not cross BBB). CRS=tocilizumab; ICANS=dexamethasone.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Blinatumomab - mechanism and properties",
+    "difficulty": "medium",
+    "stem": "Blinatumomab (Blincyto) is a BiTE antibody used for relapsed/refractory B-ALL. Which of the following best describes its unique pharmacokinetic property that necessitates its mode of administration?",
+    "options": [
+      "Half-life of 7 days allowing once-weekly dosing",
+      "Half-life of approximately 2 hours requiring continuous IV infusion",
+      "Subcutaneous formulation with 2-week dosing interval",
+      "Monthly IV dosing with sustained plasma levels"
+    ],
+    "answer": 1,
+    "explanation": "Blinatumomab has an extremely short half-life of approximately 2 hours and must be administered by continuous IV infusion. It is a BiTE (Bispecific T-cell Engager) that binds CD3 on T cells and CD19 on B-lineage blasts, bringing them into proximity without requiring MHC presentation. CRS and neurotoxicity are major adverse effects.",
+    "highYield": "Blinatumomab half-life ~2 hours, requires continuous IV infusion; BiTE targeting CD3 (T cell) and CD19 (B cell).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Checkpoint inhibitors - classification",
+    "difficulty": "easy",
+    "stem": "Which of the following correctly pairs the checkpoint inhibitor with its target?",
+    "options": [
+      "Pembrolizumab targets PD-L1 on tumor cells",
+      "Atezolizumab targets PD-1 on T cells",
+      "Pembrolizumab targets PD-1 on T cells; atezolizumab targets PD-L1 on tumor cells",
+      "Ipilimumab targets PD-1; nivolumab targets CTLA-4"
+    ],
+    "answer": 2,
+    "explanation": "PD-1 inhibitors (pembrolizumab, nivolumab, cemiplimab, dostarlimab) block PD-1 receptor on T cells. PD-L1 inhibitors (atezolizumab, durvalumab, avelumab) block the ligand on tumor cells. Both pathways restore anti-tumor T-cell activity. Ipilimumab targets CTLA-4 (not PD-1).",
+    "highYield": "Pembrolizumab/nivolumab = anti-PD-1 (on T cells); atezolizumab/durvalumab = anti-PD-L1 (on tumor); ipilimumab = anti-CTLA4.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Checkpoint inhibitor adverse effects",
+    "difficulty": "medium",
+    "stem": "A 58-year-old receiving nivolumab for NSCLC develops severe watery diarrhea (8-10 stools/day) with blood and mucus. Colonoscopy shows diffuse colitis. Steroids are given but diarrhea persists at Grade 3 despite 3 days of IV methylprednisolone. What is the NEXT best treatment?",
+    "options": [
+      "Tocilizumab",
+      "Infliximab",
+      "Vedolizumab",
+      "Cyclophosphamide"
+    ],
+    "answer": 1,
+    "explanation": "Immune-related colitis from checkpoint inhibitors is managed with systemic corticosteroids as first-line. For steroid-refractory Grade 3-4 immune-related colitis, infliximab (anti-TNF) is the second-line treatment. Tocilizumab is used for CRS from CAR-T, not checkpoint inhibitor colitis. Vedolizumab is sometimes used but infliximab has the strongest evidence.",
+    "highYield": "Steroid-refractory checkpoint inhibitor colitis: infliximab is second-line treatment.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Checkpoint inhibitors - most dangerous irAE",
+    "difficulty": "hard",
+    "stem": "Among all endocrine immune-related adverse events (irAEs) from checkpoint inhibitors, which is considered the MOST DANGEROUS due to risk of life-threatening adrenal crisis?",
+    "options": [
+      "Hypothyroidism (most common irAE endocrinopathy)",
+      "Adrenal insufficiency",
+      "Type 1 diabetes mellitus (immune-related)",
+      "Hypophysitis"
+    ],
+    "answer": 1,
+    "explanation": "While hypothyroidism is the MOST COMMON endocrine irAE from checkpoint inhibitors, adrenal insufficiency is the MOST DANGEROUS because it can precipitate life-threatening adrenal crisis (hypotension, shock, hyponatremia, hyperkalemia). Anti-CTLA4 agents (ipilimumab) are more likely to cause hypophysitis, which can lead to secondary adrenal insufficiency.",
+    "highYield": "Most common irAE endocrinopathy = hypothyroidism; Most dangerous = adrenal insufficiency (risk of adrenal crisis).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Casgevy - first CRISPR therapy",
+    "difficulty": "easy",
+    "stem": "Casgevy (exagamglogene autotemcel) made medical history on December 8, 2023. What milestone does this drug represent?",
+    "options": [
+      "First CAR-T cell therapy ever approved",
+      "First siRNA-based therapy approved by FDA",
+      "First medicine approved using CRISPR/Cas9 gene-editing technology",
+      "First lentiviral gene therapy for sickle cell disease"
+    ],
+    "answer": 2,
+    "explanation": "Casgevy became the first-ever medicine approved using CRISPR/Cas9 gene-editing technology, approved by FDA on December 8, 2023 for sickle cell disease (SCD) in patients aged 12 years and older. It was also approved for transfusion-dependent beta-thalassemia on January 16, 2024.",
+    "highYield": "Casgevy = world's first CRISPR/Cas9-based approved therapy (Dec 8, 2023) for SCD; also approved for beta-thalassemia (Jan 2024).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Casgevy mechanism - BCL11A and fetal hemoglobin",
+    "difficulty": "medium",
+    "stem": "Casgevy treats sickle cell disease by editing the BCL11A gene in hematopoietic stem cells. How does this gene editing result in clinical benefit?",
+    "options": [
+      "It corrects the point mutation in the HBB gene directly, restoring normal adult hemoglobin",
+      "It disrupts BCL11A, which normally suppresses fetal hemoglobin (HbF), thereby raising HbF levels that do not sickle",
+      "It inserts a modified HbAT87Q gene that sterically prevents sickling of HbS",
+      "It upregulates gamma-globin synthesis via BCL11A activation"
+    ],
+    "answer": 1,
+    "explanation": "Casgevy edits the erythroid-specific enhancer of BCL11A gene using CRISPR/Cas9. BCL11A normally suppresses fetal hemoglobin (HbF); its disruption raises HbF levels. HbF does not sickle, so increasing its production compensates for the defective HbS. This is not a direct correction of the HBB mutation.",
+    "highYield": "Casgevy disrupts BCL11A (HbF suppressor) → raises HbF → HbF does not sickle; indirect correction of SCD.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Lyfgenia vs Casgevy for SCD",
+    "difficulty": "hard",
+    "stem": "On the same day Casgevy was approved (December 8, 2023), another gene therapy for sickle cell disease was also approved. Lyfgenia (lovotibeglogene autotemcel) differs from Casgevy in which key aspect?",
+    "options": [
+      "Lyfgenia uses a AAV9 vector; Casgevy uses a lentiviral vector",
+      "Lyfgenia uses a lentiviral vector delivering HbAT87Q gene; Casgevy uses CRISPR/Cas9",
+      "Lyfgenia targets BCL11A enhancer; Casgevy delivers functional HBB gene",
+      "Lyfgenia uses ex vivo CRISPR editing; Casgevy is an in vivo therapy"
+    ],
+    "answer": 1,
+    "explanation": "Lyfgenia (by bluebird bio) uses a lentiviral vector to transduce autologous CD34+ HSCs with a gene encoding HbAT87Q, a modified adult hemoglobin (threonine substituted by glutamine at position 87) that sterically inhibits sickling. Casgevy uses CRISPR/Cas9 editing of BCL11A. Both are ex vivo therapies.",
+    "highYield": "Casgevy=CRISPR/Cas9 disrupts BCL11A; Lyfgenia=lentiviral vector delivers HbAT87Q anti-sickling globin; both approved Dec 8, 2023.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Zolgensma for SMA",
+    "difficulty": "medium",
+    "stem": "Onasemnogene abeparvovec (Zolgensma) is approved for spinal muscular atrophy. Which vector is used and what is the age restriction for its FDA-approved indication?",
+    "options": [
+      "Lentiviral vector; approved for all ages",
+      "AAV5 vector; approved for children under 5 years",
+      "scAAV9 vector; approved for children under 2 years",
+      "AAV2 vector; approved for neonates only"
+    ],
+    "answer": 2,
+    "explanation": "Onasemnogene abeparvovec (Zolgensma) uses a self-complementary adeno-associated virus serotype 9 (scAAV9) vector to deliver a functional copy of the SMN1 gene. AAV9 crosses the blood-brain barrier enabling CNS delivery via a single IV infusion. It was FDA-approved in 2019 for SMA in children under 2 years.",
+    "highYield": "Zolgensma = scAAV9 vector, single IV dose, FDA approved for SMA in children under 2 years.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Idarucizumab - dabigatran reversal",
+    "difficulty": "easy",
+    "stem": "A 72-year-old on dabigatran for atrial fibrillation presents with an intracranial bleed. Which reversal agent should be administered?",
+    "options": [
+      "Andexanet alfa",
+      "Protamine sulfate",
+      "Idarucizumab",
+      "4-factor prothrombin complex concentrate (4F-PCC)"
+    ],
+    "answer": 2,
+    "explanation": "Idarucizumab is the specific reversal agent for dabigatran (direct thrombin inhibitor). It is a humanized monoclonal antibody fragment binding dabigatran with affinity 350x greater than dabigatran's affinity for thrombin. Dose: 5g IV (two 2.5g boluses). Andexanet alfa reverses factor Xa inhibitors (rivaroxaban, apixaban). 4F-PCC reverses warfarin.",
+    "highYield": "Dabigatran reversal = idarucizumab; Rivaroxaban/apixaban reversal = andexanet alfa.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Andexanet alfa spectrum",
+    "difficulty": "medium",
+    "stem": "Andexanet alfa is approved as a reversal agent for which class of anticoagulants?",
+    "options": [
+      "Direct thrombin inhibitors (dabigatran) only",
+      "Factor Xa inhibitors (rivaroxaban, apixaban) and low-molecular-weight heparin",
+      "Warfarin and vitamin K antagonists",
+      "All DOACs including both thrombin and factor Xa inhibitors"
+    ],
+    "answer": 1,
+    "explanation": "Andexanet alfa is a recombinant modified factor Xa decoy protein that reverses factor Xa inhibitors: rivaroxaban and apixaban (current FDA-approved indications), and also LMWH (enoxaparin). It competes with native factor Xa for binding the inhibitor without triggering coagulation. It does NOT reverse dabigatran (use idarucizumab).",
+    "highYield": "Andexanet alfa = recombinant factor Xa decoy; reverses rivaroxaban, apixaban, and LMWH.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Sugammadex mechanism",
+    "difficulty": "medium",
+    "stem": "A patient in the recovery room has residual neuromuscular blockade from rocuronium. Sugammadex is chosen over neostigmine. Which statement about sugammadex's mechanism is CORRECT?",
+    "options": [
+      "It inhibits acetylcholinesterase to increase ACh at the neuromuscular junction",
+      "It is a modified gamma-cyclodextrin that encapsulates rocuronium in a 1:1 complex without inhibiting acetylcholinesterase",
+      "It competes with rocuronium for nicotinic receptors at the motor end plate",
+      "It chelates the magnesium cofactor required for rocuronium binding to AChR"
+    ],
+    "answer": 1,
+    "explanation": "Sugammadex is a modified gamma-cyclodextrin that directly encapsulates rocuronium (and vecuronium) in a 1:1 ratio, forming an inactive water-soluble complex. It does NOT inhibit acetylcholinesterase, so atropine/glycopyrrolate is NOT required (unlike neostigmine). It does not reverse benzylisoquinolinium NMBAs (atracurium, cisatracurium).",
+    "highYield": "Sugammadex = modified gamma-cyclodextrin encapsulating rocuronium; no AChE inhibition so no atropine needed.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "PCSK9 inhibitors - inclisiran mechanism",
+    "difficulty": "hard",
+    "stem": "Inclisiran differs from monoclonal antibodies like evolocumab in its mechanism of reducing LDL-C. Which statement correctly describes inclisiran's unique mechanism?",
+    "options": [
+      "It is an antibody that binds circulating PCSK9 extracellularly, preventing LDL receptor degradation",
+      "It is a siRNA that inhibits PCSK9 synthesis inside hepatocytes, reducing intracellular PCSK9 production",
+      "It directly activates LDL receptors by phosphorylating the receptor recycling domain",
+      "It inhibits HMG-CoA reductase like statins but with greater selectivity for PCSK9 pathway"
+    ],
+    "answer": 1,
+    "explanation": "Inclisiran is a small interfering RNA (siRNA) that inhibits hepatic PCSK9 synthesis intracellularly. Unlike monoclonal antibodies (evolocumab, alirocumab) which block circulating PCSK9 outside the cell, inclisiran works inside the hepatocyte to prevent PCSK9 mRNA translation. Dosing: 284 mg SC once, then at 3 months, then every 6 months. LDL-C reduction ~50%.",
+    "highYield": "Inclisiran = siRNA, inhibits PCSK9 INSIDE hepatocytes (vs monoclonal Ab blocking extracellular PCSK9); twice-yearly dosing.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "SGLT2 inhibitors - unique dialyzable DOAC",
+    "difficulty": "medium",
+    "stem": "A 65-year-old with atrial fibrillation and end-stage renal disease on hemodialysis develops a major bleed while on anticoagulation. Which direct oral anticoagulant, if the patient had been on it, could potentially be removed by dialysis?",
+    "options": [
+      "Rivaroxaban",
+      "Apixaban",
+      "Dabigatran",
+      "Edoxaban"
+    ],
+    "answer": 2,
+    "explanation": "Dabigatran is the only DOAC that is dialyzable due to its low protein binding (~35%). All other DOACs (rivaroxaban, apixaban, edoxaban) have high protein binding (>87%) making them non-dialyzable. This is an important MCQ distinction. Idarucizumab is the specific antidote for dabigatran.",
+    "highYield": "Dabigatran = only dialyzable DOAC due to low protein binding (~35%); all others (rivaroxaban, apixaban, edoxaban) are NOT dialyzable.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "SGLT2 inhibitor cardioprotective mechanisms",
+    "difficulty": "hard",
+    "stem": "Beyond glucose-lowering, SGLT2 inhibitors provide cardiorenal protection through multiple mechanisms. An initial temporary decrease in eGFR seen after starting empagliflozin is due to which mechanism?",
+    "options": [
+      "Direct nephrotoxic effect requiring drug discontinuation",
+      "Hemodynamic effect from natriuresis reducing glomerular hyperfiltration - expected and should NOT prompt drug discontinuation",
+      "Immune complex deposition in glomeruli",
+      "Acute tubular necrosis from osmotic nephropathy"
+    ],
+    "answer": 1,
+    "explanation": "SGLT2 inhibitors cause an initial hemodynamic decrease in eGFR due to natriuresis reducing glomerular hyperfiltration (tubuloglomerular feedback mechanism). This is expected, benign, and does NOT warrant stopping the drug. Other cardioprotective mechanisms include: osmotic diuresis reducing preload, natriuresis reducing afterload, NHE1 inhibition improving myocardial energetics, and ketone body utilization as alternate fuel ('thrifty substrate' hypothesis).",
+    "highYield": "Initial eGFR dip with SGLT2i = hemodynamic, expected, does NOT warrant stopping the drug.",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Gene therapy vectors comparison",
+    "difficulty": "medium",
+    "stem": "A medical student is preparing a table of approved gene therapies. Which of the following correctly matches the gene therapy with its vector?",
+    "options": [
+      "Zolgensma (SMA) = lentiviral vector; Lyfgenia (SCD) = AAV9 vector",
+      "Roctavian (Hemophilia A) = AAV5; Zolgensma (SMA) = scAAV9; Lyfgenia (SCD) = lentiviral vector",
+      "Casgevy (SCD) = lentiviral vector; Roctavian (Hemophilia A) = AAV9 vector",
+      "Hemgenix (Hemophilia B) = AAV9 vector; Betibeglogene (beta-thal) = CRISPR/Cas9"
+    ],
+    "answer": 1,
+    "explanation": "Key vector assignments: Zolgensma (SMA) = scAAV9 (crosses BBB via IV); Roctavian (Hemophilia A) = AAV5 vector; Hemgenix (Hemophilia B) = AAV-based; Lyfgenia (SCD) = lentiviral vector; Betibeglogene/Zynteglo (beta-thal) = lentiviral vector; Casgevy (SCD + beta-thal) = CRISPR/Cas9 (no viral vector for delivery).",
+    "highYield": "Roctavian=AAV5; Zolgensma=scAAV9; Lyfgenia/Zynteglo=lentiviral; Casgevy=CRISPR/Cas9 (no viral delivery vector).",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Protamine sulfate and heparin reversal",
+    "difficulty": "easy",
+    "stem": "A patient on unfractionated heparin during cardiac surgery requires reversal. The dose of protamine sulfate is calculated as 1 mg per 100 units of heparin. What is the mechanism by which protamine reverses heparin?",
+    "options": [
+      "Protamine competitively inhibits heparin binding to antithrombin III",
+      "Protamine, being positively charged, forms an ionic complex with negatively charged heparin, rendering it inactive",
+      "Protamine activates heparinase enzymes that degrade heparin",
+      "Protamine stimulates thrombin generation overcoming heparin's anticoagulant effect"
+    ],
+    "answer": 1,
+    "explanation": "Protamine sulfate is a positively charged protein (derived from salmon sperm) that forms an inactive ionic complex with the negatively charged heparin. Dose: 1 mg neutralizes 100 units of UFH. It fully reverses UFH but only partially reverses LMWH (~60-70%) because LMWH has lower charge density.",
+    "highYield": "Protamine = positively charged protein neutralizing negatively charged heparin; 1mg per 100 units UFH; only ~60-70% reversal of LMWH.",
+    "pyqNote": "",
+    "tags": []
+  }
+]

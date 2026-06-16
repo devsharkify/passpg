@@ -1,0 +1,597 @@
+[
+  {
+    "subject": "Microbiology",
+    "topic": "Nipah Virus",
+    "difficulty": "easy",
+    "stem": "Nipah virus belongs to which family and genus of viruses?",
+    "options": [
+      "Family Filoviridae, Genus Ebolavirus",
+      "Family Paramyxoviridae, Genus Henipavirus",
+      "Family Flaviviridae, Genus Flavivirus",
+      "Family Rhabdoviridae, Genus Lyssavirus"
+    ],
+    "answer": 1,
+    "explanation": "Nipah virus belongs to the family Paramyxoviridae and genus Henipavirus. It is a negative-sense, single-stranded, enveloped RNA virus and a WHO Priority Pathogen. Filoviridae includes Ebola; Flaviviridae includes dengue and Japanese encephalitis; Rhabdoviridae includes rabies.",
+    "highYield": "Nipah = Paramyxoviridae, Henipavirus; negative-sense ssRNA, enveloped",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "Nipah Virus",
+    "difficulty": "easy",
+    "stem": "The natural reservoir host of Nipah virus responsible for Kerala outbreaks is?",
+    "options": [
+      "Pigs (Sus scrofa)",
+      "Fruit bats of genus Pteropus (Pteropus medius)",
+      "Rodents (Rattus norvegicus)",
+      "Horses (Equus caballus)"
+    ],
+    "answer": 1,
+    "explanation": "The natural reservoir of Nipah virus is fruit bats of genus Pteropus, specifically Pteropus medius in India/Kerala, also called flying foxes. Bats shed virus in urine, saliva, feces, and birthing fluids without showing disease. Pigs were the amplifying (intermediate) host in the 1999 Malaysia/Singapore outbreak, NOT in Kerala outbreaks.",
+    "highYield": "Reservoir = Pteropus medius (flying fox) in Kerala outbreaks; pigs were intermediate host only in Malaysia 1999",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "Nipah Virus",
+    "difficulty": "medium",
+    "stem": "During the 1999 Malaysia/Singapore Nipah virus outbreak, what was the role of pigs in the transmission chain?",
+    "options": [
+      "Natural reservoir host",
+      "Amplifying (intermediate) host",
+      "Dead-end host with no onward transmission",
+      "Vector for mechanical transmission"
+    ],
+    "answer": 1,
+    "explanation": "In the 1999 Malaysia/Singapore outbreak, pigs served as the amplifying (intermediate) host. They were not the natural reservoir (bats are), nor a dead-end host since they amplified and transmitted virus to humans. This is a critical distinction from Kerala outbreaks, where transmission was directly bat-to-human or human-to-human without pig involvement.",
+    "highYield": "Pigs = amplifying/intermediate host in Malaysia 1999 only; Kerala outbreaks had NO pig involvement",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Nipah Virus - Clinical",
+    "difficulty": "medium",
+    "stem": "A 35-year-old man from Malappuram, Kerala presents with high fever, headache, drowsiness, and disorientation for 5 days. He subsequently develops coma and seizures. He had consumed raw date palm sap 10 days ago. What is the most likely diagnosis and the hallmark clinical feature?",
+    "options": [
+      "Japanese Encephalitis presenting as viral encephalitis",
+      "Nipah virus infection presenting as febrile encephalitis",
+      "Herpes Simplex Encephalitis presenting as temporal lobe involvement",
+      "Tuberculous Meningitis presenting as subacute meningoencephalitis"
+    ],
+    "answer": 1,
+    "explanation": "The hallmark clinical presentation of Nipah virus is febrile encephalitis. The history of consuming raw date palm sap (contaminated with bat secretions) in Kerala with subsequent acute encephalitis syndrome (AES) is classic for Nipah. Incubation period of 4-14 days fits (10 days here). The 2024 Malappuram outbreak predominantly presented as acute encephalitis syndrome. HSE typically affects temporal lobes; TBM is subacute; JE is vector-borne (Culex mosquito).",
+    "highYield": "Nipah hallmark = febrile encephalitis; raw date palm sap = key transmission route; Malappuram 2024 = AES predominant",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "Nipah Virus - Diagnosis",
+    "difficulty": "medium",
+    "stem": "A patient is admitted on day 3 of Nipah virus illness with high fever and encephalitis. Which diagnostic test is the method of choice in the acute phase?",
+    "options": [
+      "IgM ELISA on serum",
+      "IgG ELISA on serum",
+      "RT-PCR from throat swab, nasal swab, CSF, urine, or blood",
+      "Viral culture on Vero cells"
+    ],
+    "answer": 2,
+    "explanation": "RT-PCR from throat swab, nasal swab, CSF, urine, or blood is the method of choice in the acute phase of Nipah virus infection. IgM ELISA appears early in convalescence (not acute phase), and IgG ELISA is for the late/recovery phase. Viral culture requires BSL-4 conditions and is not a routine diagnostic method.",
+    "highYield": "Acute Nipah diagnosis = RT-PCR; serology (IgM/IgG ELISA) used in late/convalescent phase",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Nipah Virus - Treatment",
+    "difficulty": "hard",
+    "stem": "During the 2023 Kerala Nipah outbreak, which antiviral was used on compassionate grounds in the early pre-encephalitic phase and is thought to have contributed to improved survival compared to prior outbreaks?",
+    "options": [
+      "Ribavirin",
+      "Favipiravir",
+      "Remdesivir",
+      "Acyclovir"
+    ],
+    "answer": 2,
+    "explanation": "During the 2023 Kerala Nipah outbreak, remdesivir was used on a compassionate use basis in the early pre-encephalitic phase and is thought to have contributed to the improved survival (CFR ~33% vs ~91% in 2018). Ribavirin was used in the original Malaysian outbreak with limited/uncertain benefit. Favipiravir has in vitro and animal data only. Acyclovir is for herpesvirus infections. Supportive care remains the mainstay of treatment.",
+    "highYield": "2023 Kerala Nipah: remdesivir used compassionately in pre-encephalitic phase; CFR dropped to ~33%",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "Nipah Virus - Treatment",
+    "difficulty": "hard",
+    "stem": "A human monoclonal antibody targeting the G glycoprotein of Nipah virus, used on compassionate basis in Australia and currently in clinical trials, is?",
+    "options": [
+      "Palivizumab",
+      "m102.4",
+      "Nirsevimab",
+      "Tecovirimat"
+    ],
+    "answer": 1,
+    "explanation": "m102.4 is a human monoclonal antibody targeting the G (glycoprotein attachment) protein of Nipah virus. It has been used on compassionate basis in Australia and is currently in clinical trials. Palivizumab and nirsevimab target RSV F protein. Tecovirimat (TPOXX) is an antiviral for mpox/smallpox targeting VP37 protein.",
+    "highYield": "Nipah monoclonal antibody = m102.4; targets G glycoprotein; used compassionately in Australia",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Nipah Virus - Unique Features",
+    "difficulty": "hard",
+    "stem": "Which of the following is a unique neurological feature of Nipah virus infection that distinguishes it from most other viral encephalitides?",
+    "options": [
+      "Permanent post-infectious cerebellar ataxia",
+      "Late-onset or relapsing encephalitis months to years after initial infection",
+      "Invariable progression to brain herniation",
+      "Exclusive limbic system involvement similar to HSE"
+    ],
+    "answer": 1,
+    "explanation": "A unique feature of Nipah virus is relapsing encephalitis - the virus can cause late-onset or relapsing encephalitis months to years after the initial infection. This is a distinctive feature not seen in most other viral encephalitides. It is not invariably fatal (some patients survive), and it does not exclusively affect the limbic system like HSE.",
+    "highYield": "Nipah unique feature = relapsing/late-onset encephalitis months-years after initial infection",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "Nipah Virus - Outbreak Statistics",
+    "difficulty": "medium",
+    "stem": "Regarding the Kerala Nipah outbreaks, which year recorded the largest Indian outbreak with approximately 23 cases and a case fatality rate of approximately 91%?",
+    "options": [
+      "2019",
+      "2021",
+      "2018",
+      "2023"
+    ],
+    "answer": 2,
+    "explanation": "The 2018 Kozhikode outbreak was the largest Indian Nipah outbreak with 23 cases and approximately 91% CFR (17 deaths). The 2019 outbreak had a single case that survived. The 2021 outbreak had a single case with 100% CFR. The 2023 Kozhikode outbreak had 6 cases with ~33% CFR, improved possibly due to early remdesivir use.",
+    "highYield": "2018 Kozhikode = largest Indian Nipah outbreak (23 cases, CFR ~91%, 17 deaths)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "Nipah Virus - Infection Control",
+    "difficulty": "easy",
+    "stem": "What level of infection control precautions is required for managing a confirmed Nipah virus patient in the hospital setting (non-aerosol-generating procedures)?",
+    "options": [
+      "Standard precautions only",
+      "Droplet and contact precautions with standard PPE",
+      "Airborne precautions with N95 respirator in a negative pressure room",
+      "Reverse isolation (protective isolation) for the patient"
+    ],
+    "answer": 1,
+    "explanation": "Nipah virus requires droplet and contact precautions with standard PPE (gown, gloves, mask, eye protection). It does NOT require airborne precautions as Nipah does not spread by true airborne route. Airborne precautions (N95, negative pressure room) are needed only during aerosol-generating procedures. Nipah is a BSL-4 pathogen in laboratory settings, but clinical isolation follows droplet/contact protocols.",
+    "highYield": "Nipah hospital precautions = droplet + contact; NOT airborne (unless aerosol-generating procedures); BSL-4 in lab",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "HMPV",
+    "difficulty": "easy",
+    "stem": "Human Metapneumovirus (HMPV) was first discovered in which year and country?",
+    "options": [
+      "1995, United States",
+      "2001, Netherlands",
+      "2003, China",
+      "2009, Australia"
+    ],
+    "answer": 1,
+    "explanation": "HMPV was first discovered in 2001 by van den Hoogen et al. in the Netherlands. It belongs to family Paramyxoviridae, genus Metapneumovirus, and is closely related to RSV (both in subfamily Pneumovirinae). This was a relatively late discovery given how common the virus is as a cause of respiratory illness.",
+    "highYield": "HMPV discovered 2001, Netherlands, by van den Hoogen; Paramyxoviridae, Metapneumovirus genus",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "HMPV",
+    "difficulty": "medium",
+    "stem": "Which protein of HMPV is the primary target for vaccine development and what is its function?",
+    "options": [
+      "G protein - attachment to host cell receptors",
+      "N protein - nucleocapsid encapsidation of viral RNA",
+      "F protein - fusion with host cell membrane",
+      "M protein - matrix assembly and budding"
+    ],
+    "answer": 2,
+    "explanation": "The fusion (F) protein of HMPV is the primary vaccine target, as it is with RSV (a closely related virus). The F protein mediates fusion of the viral envelope with the host cell membrane, enabling viral entry. The F and N (nucleocapsid) genes are also the most conserved and are used as RT-PCR targets for detection and genotyping. The G protein mediates attachment.",
+    "highYield": "HMPV F protein = primary vaccine target (same as RSV); F and N genes used for RT-PCR genotyping",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "HMPV - Clinical",
+    "difficulty": "medium",
+    "stem": "A 3-month-old infant from Bengaluru presents in January 2025 with wheeze, tachypnea, subcostal retractions, and oxygen saturation of 90%. Nasopharyngeal RT-PCR is positive for a Paramyxoviridae pathogen. No licensed antiviral or vaccine is available for this pathogen. Which virus is most likely responsible?",
+    "options": [
+      "Respiratory Syncytial Virus (RSV)",
+      "Human Metapneumovirus (HMPV)",
+      "Parainfluenza virus type 3",
+      "Human Coronavirus OC43"
+    ],
+    "answer": 1,
+    "explanation": "This describes HMPV bronchiolitis in an infant. ICMR confirmed India's first HMPV cases in January 2025, including a 3-month-old and 8-month-old in Bengaluru. HMPV belongs to Paramyxoviridae and has no licensed antiviral, vaccine, or monoclonal antibody. Clinically, it is indistinguishable from RSV bronchiolitis. RSV does have nirsevimab (monoclonal antibody) and a maternal vaccine available. The January 2025 India context points strongly to HMPV.",
+    "highYield": "India's first HMPV cases confirmed January 2025 by ICMR; infants in Bengaluru; no licensed antiviral/vaccine",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "HMPV - Treatment",
+    "difficulty": "easy",
+    "stem": "What is the mainstay of treatment for HMPV infection?",
+    "options": [
+      "Ribavirin + IVIG (standard of care)",
+      "Oseltamivir (neuraminidase inhibitor)",
+      "Supportive care (oxygen, hydration, bronchodilators)",
+      "Remdesivir (nucleotide analogue)"
+    ],
+    "answer": 2,
+    "explanation": "No licensed antiviral drug, vaccine, or monoclonal antibody exists for HMPV. Management is purely supportive care including oxygen supplementation, adequate hydration, and bronchodilators. Ribavirin and IVIG have been used off-label in immunocompromised patients but without robust evidence. Oseltamivir is for influenza. Remdesivir is used for COVID-19 and was used compassionately for Nipah.",
+    "highYield": "HMPV treatment = supportive care only; no licensed antiviral, vaccine, or monoclonal antibody exists",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "Mpox",
+    "difficulty": "easy",
+    "stem": "Mpox virus (MPXV) belongs to which family and genus?",
+    "options": [
+      "Family Paramyxoviridae, Genus Henipavirus",
+      "Family Poxviridae, Genus Orthopoxvirus",
+      "Family Herpesviridae, Genus Simplexvirus",
+      "Family Flaviviridae, Genus Orthoflavivirus"
+    ],
+    "answer": 1,
+    "explanation": "Mpox virus is an Orthopoxvirus belonging to the family Poxviridae. It is a DNA virus (unlike HMPV and Nipah which are RNA viruses). Two clades exist: Clade I (Central African/Congo Basin) with subclades Ia and Ib, and Clade II (West African) with subclades IIa and IIb. Clade IIb caused the 2022 global outbreak.",
+    "highYield": "Mpox = Poxviridae, Orthopoxvirus; DNA virus (key distinction from Nipah/HMPV which are RNA); two clades",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "Mpox - Clade Ib",
+    "difficulty": "hard",
+    "stem": "Mpox Clade Ib emerged in September 2023 in which province of DRC and what molecular evidence confirmed sustained human-to-human transmission?",
+    "options": [
+      "North Kivu province; G4T mutation signatures",
+      "South Kivu province; APOBEC3 enzyme mutation signatures",
+      "Kinshasa province; ADAR editing signatures",
+      "Katanga province; polymerase fidelity mutations"
+    ],
+    "answer": 1,
+    "explanation": "Mpox Clade Ib likely emerged in September 2023 in South Kivu province of the DRC. APOBEC3 enzyme mutation signatures in the viral genome confirmed sustained human-to-human transmission, as APOBEC3 editing occurs specifically during replication in human cells. The predominant transmission route was sexual (particularly among sex workers), unlike prior clade outbreaks.",
+    "highYield": "Clade Ib: South Kivu DRC, September 2023; APOBEC3 signatures = sustained human-to-human transmission",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "Mpox - PHEIC",
+    "difficulty": "medium",
+    "stem": "WHO declared a Public Health Emergency of International Concern (PHEIC) for mpox for the second time on which date and what was the primary driver?",
+    "options": [
+      "May 23, 2022; driven by global spread of Clade IIb",
+      "August 14, 2024; driven by rapid spread of Clade Ib across multiple African countries",
+      "January 30, 2023; driven by new Clade Ia emergence in Asia",
+      "March 11, 2024; driven by India detecting its first cases"
+    ],
+    "answer": 1,
+    "explanation": "WHO declared the second PHEIC for mpox on August 14, 2024, driven by rapid spread of Clade Ib in multiple African countries including DRC, Burundi, Rwanda, Uganda, and Kenya. The first PHEIC was declared in July 2022 driven by global spread of Clade IIb. The second PHEIC was specifically for Clade Ib, which is more transmissible with sexual transmission as the predominant route.",
+    "highYield": "Second mpox PHEIC = August 14, 2024; driver = Clade Ib spread in DRC, Burundi, Rwanda, Uganda, Kenya",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pharmacology",
+    "topic": "Mpox - Tecovirimat",
+    "difficulty": "hard",
+    "stem": "Tecovirimat (TPOXX), the first-line antiviral for severe mpox, acts by inhibiting which viral target?",
+    "options": [
+      "Viral DNA polymerase (UL30 homologue), preventing DNA replication",
+      "Viral envelope protein VP37, preventing extracellular enveloped virus formation",
+      "Viral thymidine kinase, blocking nucleoside phosphorylation",
+      "Viral capsid assembly protein D13, preventing immature virion formation"
+    ],
+    "answer": 1,
+    "explanation": "Tecovirimat inhibits the viral envelope protein VP37, which is required for wrapping intracellular mature virions with Golgi-derived membranes to form extracellular enveloped virus. Blocking VP37 prevents viral egress and cell-to-cell spread. It is the first licensed antiviral for smallpox/mpox. Cidofovir inhibits DNA polymerase. Brincidofovir is a prodrug of cidofovir. ACAM2000 and Jynneos are vaccines, not antivirals.",
+    "highYield": "Tecovirimat MOA = inhibits VP37 protein → blocks EEV (extracellular enveloped virus) formation → prevents viral egress",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Dermatology",
+    "topic": "Mpox - Clinical Features",
+    "difficulty": "medium",
+    "stem": "A patient presents with fever, marked lymphadenopathy, and a centrifugal rash (face and extremities first, then trunk). All skin lesions are in the same stage of development simultaneously. Which feature helps distinguish this condition from chickenpox?",
+    "options": [
+      "Presence of lymphadenopathy; chickenpox does not cause lymphadenopathy",
+      "Centrifugal distribution and synchronous lesion stages; chickenpox is centripetal with lesions in multiple stages",
+      "Fever precedes rash by 2-3 days; in chickenpox fever appears with the rash",
+      "Mucosal involvement is absent; chickenpox typically involves mucosae"
+    ],
+    "answer": 1,
+    "explanation": "Mpox is distinguished from chickenpox by: (1) prominent lymphadenopathy (chickenpox does not typically cause significant lymphadenopathy), (2) centrifugal rash distribution (face and extremities first; chickenpox is centripetal starting on trunk), and (3) synchronous lesion stages - all lesions are in the same stage simultaneously (chickenpox has lesions in multiple stages simultaneously, the 'starry sky' pattern). These are classic NEET PG discriminating features.",
+    "highYield": "Mpox vs Chickenpox: mpox = lymphadenopathy + centrifugal + synchronous stages; chickenpox = centripetal + different stages simultaneously",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "Mpox - India Cases",
+    "difficulty": "medium",
+    "stem": "India retrospectively identified mpox Clade Ib cases between December 2024 and March 2025. What was the epidemiological characteristic of all identified cases?",
+    "options": [
+      "All were healthcare workers with occupational exposure",
+      "All had travel history to Gulf countries or contact with Gulf travellers; no local transmission confirmed",
+      "All were identified in a single cluster in Mumbai",
+      "All had co-infection with HIV with CD4 count less than 200"
+    ],
+    "answer": 1,
+    "explanation": "India's retrospectively identified Clade Ib mpox cases (December 2024 to March 2025) all had either travel history to Gulf countries or contact with Gulf travellers. Crucially, no autochthonous (local/indigenous) transmission was confirmed. This is an important distinction - India detected 10 Clade Ib cases but these were all import-related, not sustained community transmission.",
+    "highYield": "India Clade Ib mpox: 10 cases Dec 2024-Mar 2025; all Gulf travel history; NO autochthonous transmission",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "Ayushman Bharat PM-JAY",
+    "difficulty": "easy",
+    "stem": "What is the annual health cover provided per family under the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)?",
+    "options": [
+      "Rs. 1 lakh per family per year",
+      "Rs. 2.5 lakh per family per year",
+      "Rs. 5 lakh per family per year",
+      "Rs. 10 lakh per family per year"
+    ],
+    "answer": 2,
+    "explanation": "PM-JAY provides Rs. 5 lakh per family per year for hospitalisation expenses on a cashless, paperless basis. The original scheme covered 12 crore vulnerable families (approximately 50 crore individuals) from the SECC 2011 database. As of late 2025, over 42 crore Ayushman cards have been issued and 8.19 crore people have received treatment.",
+    "highYield": "PM-JAY coverage = Rs. 5 lakh per family per year; original beneficiaries = 12 crore families (~50 crore individuals)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "Ayushman Bharat PM-JAY",
+    "difficulty": "medium",
+    "stem": "On October 29, 2024, PM-JAY was extended to a new category of beneficiaries. Which group was newly included and what is the special card issued to them?",
+    "options": [
+      "All BPL families below 25 years; Ayushman Yuva Card",
+      "All senior citizens aged 70 years and above irrespective of income; Ayushman Vay Vandana Card",
+      "All Anganwadi workers; Ayushman Seva Card",
+      "All ASHA workers and ANMs; Ayushman Swasthya Raksha Card"
+    ],
+    "answer": 1,
+    "explanation": "On October 29, 2024, PM-JAY was extended to all senior citizens aged 70 years and above, irrespective of income, covering approximately 6 crore senior citizens across 4.5 crore families. The new card issued is the Ayushman Vay Vandana Card. Seniors already enrolled under PM-JAY get an additional top-up of Rs. 5 lakh per year exclusively for themselves (over and above the family cover).",
+    "highYield": "October 29, 2024: PM-JAY extended to all seniors ≥70 years (income-neutral); Ayushman Vay Vandana Card; ~6 crore beneficiaries",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "Mission Indradhanush",
+    "difficulty": "medium",
+    "stem": "Mission Indradhanush was launched on December 25, 2014. What was the original target for full immunization coverage to be achieved by 2020?",
+    "options": [
+      "70% full immunization coverage",
+      "80% full immunization coverage",
+      "90% full immunization coverage",
+      "95% full immunization coverage"
+    ],
+    "answer": 2,
+    "explanation": "Mission Indradhanush was launched on December 25, 2014, with the original target of achieving 90% full immunization coverage by 2020. This was because Universal Immunization Programme (UIP) coverage was approximately 62% in 2014-15. By January 2026, full immunization coverage had risen to 98.4%, and zero-dose children had dropped from 0.11% (2023) to 0.06% (2024).",
+    "highYield": "Mission Indradhanush: launched Dec 25, 2014; target = 90% coverage by 2020; baseline was 62% in 2014-15",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "Mission Indradhanush 5.0",
+    "difficulty": "hard",
+    "stem": "Intensive Mission Indradhanush 5.0 (IMI 5.0) was conducted from August to October 2023. Which TWO features made IMI 5.0 uniquely different from all previous phases?",
+    "options": [
+      "First time conducted only in tribal districts; and first time including HPV vaccine",
+      "First time conducted across ALL districts of India; and age group extended to children up to 5 years (earlier campaigns covered up to 2 years)",
+      "First time using digital platform U-WIN; and first time including COVID-19 vaccination",
+      "First time including adult immunization; and first time with private sector partnership"
+    ],
+    "answer": 1,
+    "explanation": "IMI 5.0 (August-October 2023, 3 rounds) was uniquely: (1) the FIRST time conducted across ALL districts of India (previous phases targeted specific high-burden districts), and (2) the age group was extended to children up to 5 years (earlier campaigns covered only up to 2 years). Special focus was on Measles and Rubella elimination. By all 12 phases, 5.46 crore infants and 1.32 crore pregnant women had been vaccinated.",
+    "highYield": "IMI 5.0 unique features: first all-India (all districts); age extended to 5 years (from 2 years); Aug-Oct 2023",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "U-WIN Platform",
+    "difficulty": "medium",
+    "stem": "The U-WIN platform is India's digital vaccine registry. As of December 15, 2024, how many vaccine doses had been recorded on U-WIN?",
+    "options": [
+      "12.5 crore doses",
+      "19.4 crore doses",
+      "29.22 crore doses",
+      "42 crore doses"
+    ],
+    "answer": 2,
+    "explanation": "As of December 15, 2024, the U-WIN platform had recorded 29.22 crore vaccine doses, with 7.90 crore beneficiaries registered and 1.32 crore vaccination sessions held. An important associated fact is that the Td (Tetanus-Diphtheria) vaccine replaced TT (Tetanus Toxoid) vaccine in the immunization schedule, which is a high-yield MCQ point.",
+    "highYield": "U-WIN as of Dec 15, 2024: 7.90 crore beneficiaries, 29.22 crore doses recorded; Td replaced TT in schedule",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "NFHS-5 Nutrition",
+    "difficulty": "medium",
+    "stem": "NFHS-5 (2019-21) showed a paradoxical worsening in which nutritional indicator compared to NFHS-4 despite overall improvement in most child nutrition indices?",
+    "options": [
+      "Stunting (increased from 35.5% to 38.4%)",
+      "Wasting (increased from 19.3% to 21.0%)",
+      "Anaemia in children aged 6-59 months (increased from 58.6% to 67.1%)",
+      "Underweight (increased from 32.1% to 35.8%)"
+    ],
+    "answer": 2,
+    "explanation": "NFHS-5 showed the anaemia paradox: anaemia in children 6-59 months WORSENED to 67.1% (up from 58.6% in NFHS-4) despite improvements in stunting (35.5% down from 38.4%), wasting (19.3% down from 21.0%), and underweight (32.1% down from 35.8%). This anaemia paradox in children despite POSHAN Abhiyaan is a critical high-yield MCQ trap. Stunting, wasting, and underweight all improved.",
+    "highYield": "NFHS-5 anaemia paradox: child anaemia (6-59 months) WORSENED to 67.1% despite all other nutrition indicators improving",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "POSHAN 2.0",
+    "difficulty": "medium",
+    "stem": "POSHAN 2.0 was launched by merging which two programs and in which Union Budget year?",
+    "options": [
+      "ICDS + POSHAN Abhiyaan; Union Budget 2019-20",
+      "Supplementary Nutrition Programme + POSHAN Abhiyaan (National Nutrition Mission); Union Budget 2021-22",
+      "Mid-Day Meal Scheme + POSHAN Abhiyaan; Union Budget 2020-21",
+      "Janani Suraksha Yojana + POSHAN Abhiyaan; Union Budget 2022-23"
+    ],
+    "answer": 1,
+    "explanation": "POSHAN 2.0 was launched in Union Budget 2021-22 by merging the Supplementary Nutrition Programme (SNP) and POSHAN Abhiyaan (National Nutrition Mission, originally launched March 8, 2018). POSHAN 2.0 has four focus areas: Maternal nutrition, Infant and Young Child Feeding (IYCF) norms, SAM/MAM treatment protocols, and Wellness through AYUSH. Remember POSHAN Abhiyaan was launched on March 8, 2018 (International Women's Day).",
+    "highYield": "POSHAN 2.0 = SNP + POSHAN Abhiyaan merged in Budget 2021-22; original POSHAN Abhiyaan launched March 8, 2018",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "India Health Indicators - IMR",
+    "difficulty": "medium",
+    "stem": "According to NFHS-5 (2019-21), the Infant Mortality Rate (IMR) in India was?",
+    "options": [
+      "28 per 1,000 live births",
+      "35.2 per 1,000 live births",
+      "40.7 per 1,000 live births",
+      "41.9 per 1,000 live births"
+    ],
+    "answer": 1,
+    "explanation": "NFHS-5 (2019-21) IMR was 35.2 per 1,000 live births (down from 40.7 in NFHS-4). The SRS 2020 IMR was 28 per 1,000 live births (urban 19, rural 31). The NMR (NFHS-5) was 24.9 per 1,000 live births. The U5MR (NFHS-5) was 41.9 per 1,000 live births. These distinctions between NFHS and SRS figures are commonly tested.",
+    "highYield": "NFHS-5 IMR = 35.2; SRS 2020 IMR = 28; NFHS-4 IMR = 40.7; NMR (NFHS-5) = 24.9",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "India Health Indicators - MMR",
+    "difficulty": "medium",
+    "stem": "According to the SRS Special Bulletin 2020-22, what is India's Maternal Mortality Ratio (MMR)?",
+    "options": [
+      "113 per 100,000 live births",
+      "103 per 100,000 live births",
+      "97 per 100,000 live births",
+      "93 per 100,000 live births"
+    ],
+    "answer": 3,
+    "explanation": "The SRS Special Bulletin 2020-22 reported India's MMR as 93 per 100,000 live births. The SRS 2019-21 MMR was 97. The UN MMEIG 2020 report cited 103 per 100,000. The previous SRS (2016-18) figure was 113. India has shown remarkable MMR reduction from 384 in 2000, with an annual reduction rate of 6.36%, largely attributed to institutional deliveries (88.6% in NFHS-5, up from 78.9% in NFHS-4).",
+    "highYield": "MMR SRS 2020-22 = 93; SRS 2019-21 = 97; UN MMEIG 2020 = 103; SRS 2016-18 = 113 per 100,000 LB",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "India Health Indicators - TFR",
+    "difficulty": "easy",
+    "stem": "According to NFHS-5 (2019-21) and SRS 2023, India's Total Fertility Rate (TFR) is at what level, and what is its significance?",
+    "options": [
+      "TFR 2.5 - above replacement level, indicating population growth concern",
+      "TFR 2.2 - exactly at replacement level (2.1)",
+      "TFR 2.0 / 1.9 - at or below replacement level of 2.1",
+      "TFR 3.0 - significantly above replacement level requiring urgent action"
+    ],
+    "answer": 2,
+    "explanation": "India's TFR reached 2.0 in NFHS-5 (2019-21), down from 2.2 in NFHS-4, falling below the replacement level of 2.1 for the first time. The SRS 2021-22 confirmed TFR at 2.0, which further dropped to 1.9 by SRS 2023 - well below replacement level. This is a significant demographic transition milestone for India.",
+    "highYield": "India TFR = 2.0 (NFHS-5) / 1.9 (SRS 2023); below replacement level of 2.1; first time in NFHS-5",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "India Health Indicators - Sex Ratio",
+    "difficulty": "easy",
+    "stem": "What was India's population sex ratio as recorded in NFHS-5 (2019-21), and how did it compare to NFHS-4?",
+    "options": [
+      "991 females per 1,000 males (improved from 940 in NFHS-4)",
+      "1020 females per 1,000 males (improved from 991 in NFHS-4)",
+      "943 females per 1,000 males (worsened from 991 in NFHS-4)",
+      "1050 females per 1,000 males (worsened from 1020 in NFHS-4)"
+    ],
+    "answer": 1,
+    "explanation": "NFHS-5 (2019-21) showed India's population sex ratio at 1020 females per 1,000 males, a significant improvement from 991 females per 1,000 males in NFHS-4. This shift to above 1000 (more females than males per 1000) is a notable demographic positive. However, this is the overall sex ratio, not the sex ratio at birth, which remains a concern in some states.",
+    "highYield": "NFHS-5 sex ratio = 1020 females per 1000 males (up from 991 in NFHS-4); first time >1000 in NFHS",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "SRS 2020 - IMR Gender Parity",
+    "difficulty": "hard",
+    "stem": "SRS 2020 reported a historic milestone regarding infant mortality. Which finding was observed for the first time in 2020?",
+    "options": [
+      "Rural IMR fell below urban IMR for the first time",
+      "Male and female IMR equalized for the first time (no gender differential)",
+      "India's IMR fell below 20 for the first time",
+      "Neonatal mortality exceeded post-neonatal mortality for the first time"
+    ],
+    "answer": 1,
+    "explanation": "SRS 2020 recorded a historic milestone: male and female IMR equalized for the first time (both at 28 per 1,000 live births with urban at 19 and rural at 31 overall), with no gender differential in infant mortality. Historically, female IMR was higher than male IMR in India due to gender bias in healthcare. This equalization is a significant achievement. India's IMR of 28 has not yet fallen below 20.",
+    "highYield": "SRS 2020: male and female IMR equalized for the first time ever in India; overall IMR = 28",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "NFHS-5 Institutional Births",
+    "difficulty": "easy",
+    "stem": "According to NFHS-5 (2019-21), what percentage of births in India were institutional deliveries?",
+    "options": [
+      "78.9%",
+      "82.3%",
+      "88.6%",
+      "94.2%"
+    ],
+    "answer": 2,
+    "explanation": "NFHS-5 recorded 88.6% institutional births, a significant increase from 78.9% in NFHS-4. ANC 4+ visits also improved from 51% to 58%. This increase in institutional deliveries is a major contributor to India's declining MMR (from 113 in 2016-18 to 93 in 2020-22). Schemes like Janani Suraksha Yojana and Janani Shishu Suraksha Karyakram have contributed to this improvement.",
+    "highYield": "NFHS-5 institutional births = 88.6% (up from 78.9% in NFHS-4); contributes to declining MMR",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Nipah Virus - Transmission",
+    "difficulty": "medium",
+    "stem": "A health worker is treating a confirmed Nipah virus patient who requires endotracheal intubation. Which infection control measure should be added during this procedure?",
+    "options": [
+      "No additional measures needed beyond standard contact precautions",
+      "Add airborne precautions (N95 respirator) due to aerosol generation",
+      "Add reverse isolation to protect the patient from nosocomial infections",
+      "Discontinue all precautions as intubated patients cannot transmit virus"
+    ],
+    "answer": 1,
+    "explanation": "While Nipah virus routinely requires only droplet and contact precautions, aerosol-generating procedures (such as endotracheal intubation, bronchoscopy, suctioning) require the addition of airborne precautions (N95 or higher respirator). This is because aerosol-generating procedures create fine particles that can remain airborne. Standard Nipah precautions do NOT include routine airborne precautions, but these must be added for AGPs.",
+    "highYield": "Nipah: normally droplet + contact; ADD airborne precautions (N95) during aerosol-generating procedures like intubation",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Microbiology",
+    "topic": "Nipah Virus - Biosafety",
+    "difficulty": "medium",
+    "stem": "Nipah virus is classified at which Biosafety Level (BSL) for laboratory handling?",
+    "options": [
+      "BSL-2 (standard precautions + PPE)",
+      "BSL-3 (negative pressure room, respiratory protection)",
+      "BSL-4 (maximum containment, positive-pressure full-body suits)",
+      "BSL-1 (basic lab practices only)"
+    ],
+    "answer": 2,
+    "explanation": "Nipah virus is a BSL-4 pathogen, requiring maximum containment laboratories with positive-pressure full-body suits, air locks, and decontamination procedures. It is also classified as a potential bioterrorism agent (Category C by CDC). This is why confirmatory NiV testing in India is done only at designated high-containment laboratories like ICMR-NIV, Pune.",
+    "highYield": "Nipah virus = BSL-4 pathogen; also CDC Category C potential bioterrorism agent",
+    "pyqNote": "",
+    "tags": []
+  }
+]

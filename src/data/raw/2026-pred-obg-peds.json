@@ -1,0 +1,648 @@
+[
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "NIPT / Cell-free Fetal DNA",
+    "difficulty": "easy",
+    "stem": "A 32-year-old pregnant woman at 11 weeks gestation undergoes a blood test that detects fetal chromosomal aneuploidies by analysing fragments of fetal DNA in maternal circulation. Which of the following statements best describes this test?",
+    "options": [
+      "It is a diagnostic test that confirms chromosomal abnormality",
+      "It is a screening test that requires confirmatory invasive testing if positive",
+      "It cannot detect sex chromosome aneuploidies",
+      "It requires amniocentesis to be performed simultaneously"
+    ],
+    "answer": 1,
+    "explanation": "Non-Invasive Prenatal Testing (NIPT) uses cell-free fetal DNA (cffDNA) circulating in maternal blood and is a SCREENING test, not diagnostic. A positive (high-chance) result MUST be confirmed by invasive testing such as CVS (11-14 weeks) or amniocentesis (15-20 weeks). NIPT can detect trisomy 21, 18, 13, and sex chromosome aneuploidies, so option C is wrong. It does not require simultaneous amniocentesis.",
+    "highYield": "NIPT is a screening test — a positive result always requires confirmation by CVS or amniocentesis",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "NIPT / Cell-free Fetal DNA",
+    "difficulty": "easy",
+    "stem": "From what minimum gestational age can Non-Invasive Prenatal Testing (NIPT) be reliably performed due to adequate fetal fraction of cell-free fetal DNA in maternal circulation?",
+    "options": [
+      "8 weeks",
+      "10 weeks",
+      "14 weeks",
+      "16 weeks"
+    ],
+    "answer": 1,
+    "explanation": "NIPT can be performed from 10 weeks of gestation when the fetal fraction of cffDNA in maternal circulation is adequate for reliable analysis. Before 10 weeks, the fetal fraction is too low and may lead to test failure or inaccurate results. It should not be confused with CVS (11-14 weeks) or amniocentesis (15-20 weeks), which are diagnostic procedures.",
+    "highYield": "NIPT earliest at 10 weeks gestation — fetal fraction adequate from this point",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "NIPT / Cell-free Fetal DNA",
+    "difficulty": "medium",
+    "stem": "A 28-year-old woman at 13 weeks gestation receives a high-chance NIPT result for trisomy 21. She is counselled about the need for confirmatory testing. Which of the following procedures is most appropriate at this gestational age?",
+    "options": [
+      "Amniocentesis",
+      "Chorionic villus sampling",
+      "Repeat NIPT in 2 weeks",
+      "Cordocentesis"
+    ],
+    "answer": 1,
+    "explanation": "At 13 weeks gestation, Chorionic Villus Sampling (CVS) is the appropriate confirmatory invasive test. CVS is performed between 11-14 weeks. Amniocentesis is performed at 15-20 weeks and would not be done at 13 weeks. Repeat NIPT would not provide diagnostic certainty as NIPT remains a screening test. Cordocentesis is not the first-line confirmatory test for aneuploidy.",
+    "highYield": "CVS at 11-14 weeks; amniocentesis at 15-20 weeks — choose based on gestational age",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "NIPT / Cell-free Fetal DNA",
+    "difficulty": "medium",
+    "stem": "NIPT returns a high-chance result for trisomy 13 in a 35-year-old woman. Subsequent CVS reveals a normal fetal karyotype. What is the most likely explanation for this discordant result?",
+    "options": [
+      "Laboratory error in sequencing",
+      "Confined placental mosaicism",
+      "Sample contamination with maternal cells",
+      "Maternal trisomy 13"
+    ],
+    "answer": 1,
+    "explanation": "Confined placental mosaicism (CPM) is the most common cause of false-positive NIPT results. Because cffDNA in maternal blood is predominantly of placental (trophoblastic) origin rather than fetal origin, chromosomal abnormalities confined to the placenta can produce a discordant high-chance NIPT result with a normal fetal karyotype on CVS. This is a critical exam concept.",
+    "highYield": "False positive NIPT = confined placental mosaicism (CPM) — placental DNA, not true fetal DNA",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "NIPT / Cell-free Fetal DNA",
+    "difficulty": "hard",
+    "stem": "Which of the following chromosomal conditions is NOT routinely screened by standard Non-Invasive Prenatal Testing (NIPT)?",
+    "options": [
+      "Trisomy 21 (Down syndrome)",
+      "Trisomy 18 (Edwards syndrome)",
+      "Trisomy 16",
+      "Monosomy X (Turner syndrome)"
+    ],
+    "answer": 2,
+    "explanation": "Standard NIPT screens for trisomy 21 (Down syndrome), trisomy 18 (Edwards syndrome), trisomy 13 (Patau syndrome), and sex chromosome aneuploidies including monosomy X (Turner). Trisomy 16 is the most common trisomy in spontaneous abortions but is NOT part of standard NIPT panels. Extended NIPT panels may include microdeletions but trisomy 16 as a live-born entity is extremely rare and not in the standard screen.",
+    "highYield": "Standard NIPT screens: trisomy 21, 18, 13, and sex chromosome aneuploidies — NOT trisomy 16",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "Preterm Prevention / Cervical Length",
+    "difficulty": "easy",
+    "stem": "A transvaginal ultrasound at 22 weeks in a singleton pregnancy shows a cervical length of 22 mm. The patient has no prior history of preterm birth. What is the most appropriate management?",
+    "options": [
+      "Elective cervical cerclage",
+      "Vaginal progesterone 200 mg nightly",
+      "Intramuscular 17-OHPC weekly",
+      "Reassurance and routine follow-up"
+    ],
+    "answer": 1,
+    "explanation": "A cervical length of less than 25 mm on transvaginal ultrasound (TVUS) at 18-24 weeks is a major risk factor for spontaneous preterm birth. In a singleton pregnancy with cervical length <25 mm, vaginal progesterone (micronised, 200 mg/night) is the recommended intervention. Cervical cerclage is reserved for women with cervical length <25 mm who also have a prior history of preterm birth or cervical insufficiency. 17-OHPC is used in women with prior spontaneous preterm birth.",
+    "highYield": "Cervical length <25 mm at 18-24 weeks in singleton with no prior PTB = vaginal progesterone 200 mg/night",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "Preterm Prevention / Cervical Length",
+    "difficulty": "medium",
+    "stem": "A 26-year-old woman with a history of spontaneous preterm birth at 28 weeks in her previous pregnancy presents at 20 weeks of her current singleton pregnancy. Transvaginal ultrasound shows cervical length of 18 mm. What is the most appropriate management?",
+    "options": [
+      "Vaginal progesterone alone",
+      "Cervical cerclage",
+      "17-alpha hydroxyprogesterone caproate IM weekly",
+      "Bedrest and pelvic rest only"
+    ],
+    "answer": 1,
+    "explanation": "Cervical cerclage is indicated when cervical length is less than 25 mm in a patient with a prior history of spontaneous preterm birth or cervical insufficiency. This patient has both risk factors: a prior spontaneous preterm birth and a short cervix (18 mm). While vaginal progesterone is used for cervical shortening without prior PTB history, the combination of prior PTB plus short cervix makes cerclage the preferred intervention. 17-OHPC is used when cervical length is normal in patients with prior PTB.",
+    "highYield": "Cervical length <25 mm + prior PTB history = cervical cerclage (not just progesterone alone)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "Preterm Prevention",
+    "difficulty": "medium",
+    "stem": "17-alpha hydroxyprogesterone caproate (17-OHPC) is administered weekly by intramuscular injection to prevent preterm birth. Which patient profile best describes the correct indication for this drug?",
+    "options": [
+      "Twin pregnancy with cervical length 20 mm",
+      "Singleton pregnancy with no prior preterm birth and cervical length 18 mm",
+      "Singleton pregnancy with prior spontaneous preterm birth and normal cervical length",
+      "Cervical insufficiency detected on ultrasound for the first time"
+    ],
+    "answer": 2,
+    "explanation": "17-alpha hydroxyprogesterone caproate (17-OHPC) is specifically indicated for prevention of preterm birth in women with a singleton pregnancy who have a history of prior spontaneous preterm birth. It is given weekly IM starting at 16-20 weeks. It has NOT been shown effective in twin pregnancies. Vaginal progesterone, not 17-OHPC, is the intervention for short cervix without prior PTB. Cervical cerclage addresses cervical insufficiency.",
+    "highYield": "17-OHPC = singleton pregnancy + prior spontaneous preterm birth (not for twins, not first-line for short cervix alone)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "GnRH Antagonists — Uterine Fibroids",
+    "difficulty": "easy",
+    "stem": "Relugolix combination therapy (relugolix + estradiol + norethindrone acetate) is approved for treatment of heavy menstrual bleeding due to uterine fibroids. What is the mechanism of action of relugolix?",
+    "options": [
+      "GnRH agonist causing initial flare followed by down-regulation",
+      "Oral non-peptide GnRH antagonist causing immediate receptor blockade",
+      "Progestogen receptor modulator reducing fibroid size",
+      "Selective oestrogen receptor modulator"
+    ],
+    "answer": 1,
+    "explanation": "Relugolix is an oral non-peptide GnRH antagonist. It acts by immediate competitive blockade of GnRH receptors in the pituitary, rapidly suppressing LH and FSH without an initial flare. This is the key distinction from GnRH agonists (e.g., leuprolide) which cause an initial testosterone/estrogen surge (flare) before desensitisation. The combination formulation adds estradiol and norethindrone acetate to manage vasomotor symptoms and protect bone mineral density.",
+    "highYield": "Relugolix = oral GnRH antagonist, immediate blockade, NO flare — approved for uterine fibroids as Myfembree",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "GnRH Antagonists",
+    "difficulty": "medium",
+    "stem": "A 38-year-old woman with symptomatic uterine fibroids and heavy menstrual bleeding is started on an oral medication that requires no injections, immediately suppresses gonadotropins without an initial hormonal surge, and is co-administered with estradiol and norethindrone to preserve bone density. Which drug is she most likely receiving?",
+    "options": [
+      "Leuprolide acetate",
+      "Elagolix",
+      "Relugolix combination therapy",
+      "Mifepristone"
+    ],
+    "answer": 2,
+    "explanation": "The described drug profile exactly matches relugolix combination therapy (Myfembree): oral administration (no injections, unlike leuprolide), immediate GnRH receptor blockade without a flare, and co-administration with estradiol + norethindrone acetate for add-back therapy. Leuprolide is injectable and causes an initial flare. Elagolix is an oral GnRH antagonist approved for endometriosis, not fibroids primarily, and does not require add-back therapy in its standard formulation. Mifepristone is a progesterone receptor antagonist.",
+    "highYield": "Relugolix (Myfembree) = oral, no injection, no flare, add-back estradiol+norethindrone, for uterine fibroids",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "GnRH Antagonists — Endometriosis",
+    "difficulty": "medium",
+    "stem": "Elagolix (Orilissa) 200 mg twice daily is prescribed for endometriosis-associated pain. A patient asks why the higher dose is limited to only 6 months. What is the primary reason for this duration restriction?",
+    "options": [
+      "Risk of hepatotoxicity with prolonged use",
+      "Risk of bone mineral density loss with prolonged hypoestrogenic state",
+      "Tachyphylaxis and loss of efficacy after 6 months",
+      "Risk of thromboembolism with long-term use"
+    ],
+    "answer": 1,
+    "explanation": "Elagolix causes hypoestrogenism by suppressing GnRH-mediated gonadotropin release, which results in reduced estrogen production. Prolonged hypoestrogenic state leads to bone mineral density (BMD) loss. The 200 mg twice-daily dose causes greater suppression and is therefore limited to 6 months to prevent significant BMD loss. The lower dose (150 mg once daily) causes partial suppression and can be used for up to 24 months. This is why duration limits differ between the two doses.",
+    "highYield": "Elagolix 200 mg BD = max 6 months; 150 mg OD = max 24 months; duration limited by bone mineral density loss",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "GnRH Antagonists",
+    "difficulty": "hard",
+    "stem": "Which of the following correctly differentiates GnRH antagonists from GnRH agonists in clinical practice?",
+    "options": [
+      "GnRH antagonists cause an initial flare of LH and testosterone before suppression",
+      "GnRH agonists work by immediate competitive receptor blockade without initial surge",
+      "GnRH antagonists provide immediate gonadotropin suppression without an initial hormonal flare",
+      "Both GnRH agonists and antagonists produce identical patterns of gonadotropin suppression"
+    ],
+    "answer": 2,
+    "explanation": "GnRH antagonists (e.g., relugolix, elagolix, ganirelix, cetrorelix) work by immediate competitive blockade of GnRH receptors, suppressing LH and FSH rapidly without any initial hormonal surge (flare). In contrast, GnRH agonists (e.g., leuprolide, buserelin) initially stimulate GnRH receptors causing a flare (surge of LH, FSH, testosterone/estrogen) before receptor down-regulation leads to suppression. This flare can cause tumour flare in prostate cancer or worsening symptoms initially in endometriosis.",
+    "highYield": "GnRH antagonist = immediate suppression, NO flare; GnRH agonist = initial flare then suppression",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "GnRH Antagonists",
+    "difficulty": "medium",
+    "stem": "A gynaecologist is choosing between elagolix and relugolix for a patient. The key differentiating indication is the primary diagnosis. Elagolix is approved for which condition while relugolix is approved for which condition respectively?",
+    "options": [
+      "Uterine fibroids; Endometriosis",
+      "Endometriosis; Uterine fibroids",
+      "PCOS; Adenomyosis",
+      "Adenomyosis; Premature ovarian insufficiency"
+    ],
+    "answer": 1,
+    "explanation": "Both elagolix and relugolix are oral non-peptide GnRH antagonists, but they have different primary FDA approvals. Elagolix (Orilissa) is approved for endometriosis-associated pain. Relugolix combination therapy (Myfembree) is approved for heavy menstrual bleeding due to uterine fibroids. This is a high-yield differentiating fact frequently tested in pharmacology and gynaecology exams.",
+    "highYield": "Elagolix = endometriosis; Relugolix = uterine fibroids — both are oral GnRH antagonists",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "ART / IVF",
+    "difficulty": "medium",
+    "stem": "In assisted reproductive technology, which embryo transfer strategy is currently preferred in good-prognosis IVF patients to minimise multiple pregnancy risk without significantly reducing cumulative live birth rates?",
+    "options": [
+      "Double embryo transfer to maximise success per cycle",
+      "Elective single embryo transfer (eSET)",
+      "Triple embryo transfer in women over 38 years",
+      "Transfer of all available embryos in the fresh cycle"
+    ],
+    "answer": 1,
+    "explanation": "Elective single embryo transfer (eSET) is the preferred strategy in good-prognosis IVF patients (young age, good-quality blastocyst available). While single cycle success may be slightly lower, cumulative live birth rates with vitrified-warmed frozen embryo transfer cycles are comparable, while multiple pregnancy rates (and associated risks) are dramatically reduced. Double or triple embryo transfer significantly increases twin/triplet rates with associated maternal and neonatal morbidity.",
+    "highYield": "eSET (elective single embryo transfer) = preferred in good-prognosis IVF to reduce multiples without reducing cumulative success",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "ART / IVF",
+    "difficulty": "easy",
+    "stem": "Following oocyte retrieval in an IVF cycle, which hormonal supplementation is mandatory to support the luteal phase and ensure endometrial receptivity for embryo implantation?",
+    "options": [
+      "Estrogen supplementation alone",
+      "Progesterone luteal phase support",
+      "hCG injections every alternate day",
+      "GnRH agonist for luteal support"
+    ],
+    "answer": 1,
+    "explanation": "Progesterone luteal phase support is mandatory in all IVF cycles after oocyte retrieval. Oocyte retrieval removes granulosa cells which normally produce progesterone, creating a luteal phase defect. Exogenous progesterone (vaginal, intramuscular, or oral micronised) is given to support endometrial receptivity and early embryo implantation. Estrogen alone is insufficient. hCG can be used but has a higher risk of OHSS. GnRH agonist for luteal support is used in specific protocols.",
+    "highYield": "Progesterone luteal support is mandatory in ALL IVF cycles after oocyte retrieval",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Obstetrics & Gynaecology",
+    "topic": "ART / IVF — GnRH Antagonist Protocol",
+    "difficulty": "hard",
+    "stem": "The GnRH antagonist protocol for controlled ovarian stimulation in IVF offers which advantage over the long GnRH agonist protocol?",
+    "options": [
+      "Superior number of oocytes retrieved",
+      "Avoidance of the initial hormonal flare and flexible scheduling",
+      "Lower cost due to fewer monitoring visits",
+      "Elimination of the need for luteal phase progesterone support"
+    ],
+    "answer": 1,
+    "explanation": "The GnRH antagonist protocol (using ganirelix or cetrorelix) offers the advantage of immediate pituitary suppression without an initial hormonal flare, and allows flexible scheduling as antagonists are started mid-stimulation (usually on day 5-6 or when the leading follicle reaches 13-14 mm). In contrast, the long GnRH agonist protocol requires a prolonged down-regulation phase and causes an initial flare. Oocyte numbers are comparable. Luteal support is still mandatory in both protocols. Cost may actually be higher due to antagonist medication costs.",
+    "highYield": "GnRH antagonist IVF protocol = no flare, flexible start, ganirelix/cetrorelix used mid-stimulation",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Spinal Muscular Atrophy — Gene Therapy",
+    "difficulty": "easy",
+    "stem": "Onasemnogene abeparvovec (Zolgensma) is a gene therapy approved for spinal muscular atrophy (SMA). Which viral vector is used to deliver the functional SMN1 gene in this therapy?",
+    "options": [
+      "Adenovirus type 5",
+      "Lentivirus",
+      "Adeno-associated virus serotype 9 (AAV9)",
+      "Herpes simplex virus vector"
+    ],
+    "answer": 2,
+    "explanation": "Onasemnogene abeparvovec (Zolgensma) uses AAV9 (adeno-associated virus serotype 9) as the viral vector to deliver a functional copy of the SMN1 gene. AAV9 is chosen because of its ability to cross the blood-brain barrier and transduce motor neurons effectively. It is given as a single intravenous infusion. This is a one-time gene replacement therapy — it replaces the defective SMN1 gene but does not modify SMN2.",
+    "highYield": "Zolgensma (onasemnogene abeparvovec) = AAV9 vector, single IV infusion, replaces SMN1 gene",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Spinal Muscular Atrophy — Gene Therapy",
+    "difficulty": "medium",
+    "stem": "A 14-month-old child with SMA Type 1 is being considered for onasemnogene abeparvovec (Zolgensma). Which pre-treatment prerequisite is mandatory before administering this gene therapy?",
+    "options": [
+      "Intrathecal nusinersen loading doses must be completed first",
+      "Prednisolone cover must be given to prevent hepatotoxicity",
+      "Anti-AAV9 antibody titre must be >1:50 to confirm seroconversion",
+      "MRI spine must confirm normal cord morphology"
+    ],
+    "answer": 1,
+    "explanation": "Prednisolone (corticosteroid) cover is mandatory before and after onasemnogene abeparvovec infusion to prevent hepatotoxicity, which is a known serious adverse effect of AAV9 gene therapy. Liver function tests are monitored closely. The drug is contraindicated if anti-AAV9 antibody titre is greater than 1:50 (not indicated by high titre — high titre means the patient already has neutralising antibodies that will destroy the vector). Nusinersen pretreatment is not required.",
+    "highYield": "Zolgensma pre-treatment: prednisolone mandatory (hepatotoxicity prevention); contraindicated if anti-AAV9 titre >1:50",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Spinal Muscular Atrophy — Drug Comparison",
+    "difficulty": "medium",
+    "stem": "Risdiplam (Evrysdi) is an oral liquid approved for SMA from 2 months of age. What is its mechanism of action?",
+    "options": [
+      "Delivers a functional SMN1 gene copy via AAV9 vector",
+      "Blocks pre-mRNA splicing of SMN2 exon 7 to reduce toxic protein",
+      "Small molecule that promotes SMN2 exon 7 inclusion in mRNA to increase functional SMN protein",
+      "Antisense oligonucleotide delivered intrathecally to modify SMN2 splicing"
+    ],
+    "answer": 2,
+    "explanation": "Risdiplam is a small molecule SMN2 splicing modifier. It stabilises the U1:5'ss duplex at SMN2 exon 7, promoting inclusion of exon 7 in the mRNA transcript. This increases production of full-length, functional SMN protein from the SMN2 backup gene. Unlike nusinersen (intrathecal antisense oligonucleotide), risdiplam is taken orally and distributes systemically, reaching both CNS and peripheral motor neurons. Onasemnogene abeparvovec is the AAV9 gene therapy.",
+    "highYield": "Risdiplam = oral small molecule, promotes SMN2 exon 7 inclusion, systemic distribution — approved from 2 months",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Spinal Muscular Atrophy — Drug Comparison",
+    "difficulty": "hard",
+    "stem": "Before switching from nusinersen to onasemnogene abeparvovec gene therapy in a child with SMA, what is the minimum recommended washout period for nusinersen?",
+    "options": [
+      "2 weeks",
+      "4 weeks",
+      "4 months",
+      "12 months"
+    ],
+    "answer": 2,
+    "explanation": "The recommended washout period before switching from nusinersen (intrathecal ASO) to onasemnogene abeparvovec (gene therapy) is greater than 4 months. This is important because nusinersen persists in the CNS tissue. In contrast, the washout for risdiplam (oral) before switching to gene therapy is only greater than 15 days, reflecting its shorter systemic half-life. This distinction is frequently tested in pharmacology and paediatrics papers.",
+    "highYield": "Washout before switching to gene therapy: nusinersen >4 months; risdiplam >15 days",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Spinal Muscular Atrophy — Genetics",
+    "difficulty": "medium",
+    "stem": "A child is diagnosed with SMA Type 2. She can sit independently but has never walked. Which of the following correctly describes the genetic and clinical profile of SMA Type 2?",
+    "options": [
+      "Onset before 6 months, autosomal dominant, child never sits",
+      "Onset 6-18 months, autosomal recessive 5q13 deletion, can sit but never walks",
+      "Onset after 18 months, autosomal recessive, can walk but loses ability later",
+      "Onset at birth, X-linked recessive, child has respiratory failure at birth"
+    ],
+    "answer": 1,
+    "explanation": "SMA is autosomal recessive, caused by deletion/mutation of SMN1 on chromosome 5q13. SMA Type 2 has onset between 6-18 months; children can sit independently but never walk. SMA Type 1 (Werdnig-Hoffmann) has onset before 6 months with the child never achieving unsupported sitting. SMA Type 3 (Kugelberg-Welander) has onset after 18 months with the child achieving walking. Higher SMN2 copy number correlates with milder phenotype.",
+    "highYield": "SMA Type 2: onset 6-18 months, can sit, never walks, 5q13 autosomal recessive",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Spinal Muscular Atrophy — Genetics",
+    "difficulty": "easy",
+    "stem": "In Spinal Muscular Atrophy, the SMN2 gene is a backup gene. Why does SMN2 produce insufficient functional SMN protein under normal circumstances?",
+    "options": [
+      "SMN2 has a promoter mutation preventing transcription",
+      "SMN2 exon 7 is predominantly skipped during splicing, producing truncated unstable protein",
+      "SMN2 encodes a protein with a single amino acid substitution making it hyperactive",
+      "SMN2 is located on the X chromosome and subject to lyonisation"
+    ],
+    "answer": 1,
+    "explanation": "SMN2 differs from SMN1 by a single nucleotide change in exon 7. This change causes exon 7 to be predominantly skipped during pre-mRNA splicing, resulting in a truncated, unstable SMN protein (SMND7) from about 90% of transcripts. Only approximately 10% of SMN2 transcripts include exon 7 and produce full-length functional SMN protein. Both nusinersen and risdiplam work by promoting exon 7 inclusion in SMN2 transcripts. SMN2 is on chromosome 5q, not X-linked.",
+    "highYield": "SMN2 normally skips exon 7 → only ~10% full-length protein; nusinersen and risdiplam promote exon 7 inclusion",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "RSV Prophylaxis — Nirsevimab",
+    "difficulty": "easy",
+    "stem": "Nirsevimab (Beyfortus) has been introduced for RSV prophylaxis in infants. What is the most important distinction between nirsevimab and palivizumab?",
+    "options": [
+      "Nirsevimab is an active vaccine requiring 3 doses while palivizumab is passive",
+      "Nirsevimab is a single-dose long-acting monoclonal antibody for ALL infants, while palivizumab required monthly injections only for high-risk infants",
+      "Nirsevimab targets RSV-A only while palivizumab targets both RSV-A and RSV-B",
+      "Nirsevimab is an antiviral drug while palivizumab is a polyclonal immunoglobulin"
+    ],
+    "answer": 1,
+    "explanation": "Nirsevimab (Beyfortus) is a long-acting monoclonal antibody given as a single IM injection per RSV season for ALL infants under 8 months entering their first RSV season (not just high-risk). It has an extended half-life due to YTE modification (87-117 days), allowing a single dose to cover the entire season. Palivizumab required monthly injections (x5 per season) and was restricted to high-risk infants only (prematurity, CHD, CLD). Both are passive immunisation, not vaccines.",
+    "highYield": "Nirsevimab = single dose per season, all infants; palivizumab = monthly x5, only high-risk — nirsevimab has replaced palivizumab",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "RSV Prophylaxis — Nirsevimab",
+    "difficulty": "medium",
+    "stem": "What molecular modification in nirsevimab extends its half-life to 87-117 days, allowing a single dose to provide protection for an entire RSV season?",
+    "options": [
+      "PEGylation of the antibody Fc region",
+      "YTE (triple amino acid substitution) modification of the Fc region",
+      "Addition of a polyethylene glycol tail to the Fab fragment",
+      "Bispecific antibody design targeting two RSV epitopes simultaneously"
+    ],
+    "answer": 1,
+    "explanation": "Nirsevimab has a YTE modification (Met-429-Tyr, Thr-250-Tyr, Met-428-Leu — triple amino acid substitution) in the Fc region of the monoclonal antibody. This modification increases binding to neonatal Fc receptor (FcRn), reducing lysosomal degradation and dramatically extending the half-life from the standard 21-28 days of conventional IgG1 antibodies (like palivizumab) to 87-117 days. This allows a single dose to cover the entire RSV season.",
+    "highYield": "Nirsevimab's extended half-life (87-117 days) = YTE triple amino acid Fc modification increasing FcRn binding",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "RSV Prophylaxis — Nirsevimab",
+    "difficulty": "medium",
+    "stem": "A 4-month-old infant weighing 4.2 kg is about to enter the RSV season. What is the appropriate dose of nirsevimab for this infant?",
+    "options": [
+      "25 mg IM single dose",
+      "50 mg IM single dose",
+      "100 mg IM single dose",
+      "200 mg IM (two 100 mg injections)"
+    ],
+    "answer": 1,
+    "explanation": "Nirsevimab dosing is weight-based: 50 mg IM for infants weighing less than 5 kg, and 100 mg IM for infants weighing 5 kg or more. For high-risk infants entering a second RSV season, the dose is 200 mg (given as two separate 100 mg injections). This infant weighs 4.2 kg (less than 5 kg), so the correct dose is 50 mg IM as a single injection.",
+    "highYield": "Nirsevimab dose: <5 kg = 50 mg IM; >=5 kg = 100 mg IM; high-risk 2nd season = 200 mg (2x100 mg)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "RSV Prophylaxis — Nirsevimab",
+    "difficulty": "hard",
+    "stem": "Nirsevimab targets RSV prefusion F protein at site O (also called antigenic site zero). What is the significance of targeting this specific epitope compared to the site targeted by palivizumab?",
+    "options": [
+      "Site O is present on both prefusion and postfusion F protein, providing broader coverage",
+      "Site O is a highly conserved epitope present only on prefusion F protein, providing greater potency and breadth",
+      "Site O is on postfusion F protein only; nirsevimab acts after viral fusion has occurred",
+      "Palivizumab also targets site O with identical potency but higher cost"
+    ],
+    "answer": 1,
+    "explanation": "Nirsevimab binds to site O (antigenic site zero), a highly conserved epitope present only on the prefusion conformation of RSV F protein. By locking the F protein in its prefusion conformation, nirsevimab prevents viral-cell membrane fusion and viral entry. Site O is more conserved across RSV strains and is more accessible on prefusion F protein, conferring greater potency. Palivizumab, by contrast, binds site II on both prefusion and postfusion F protein — an epitope that is less potently targeted and present on a structurally less active conformation.",
+    "highYield": "Nirsevimab = targets prefusion F protein site O (highly conserved); palivizumab = targets site II on prefusion + postfusion F",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "IAP Vaccine Schedule 2024",
+    "difficulty": "easy",
+    "stem": "The IAP-ACVIP 2024 updated immunisation schedule now recommends 9-valent HPV vaccine (Gardasil-9) for boys as well as girls. What is the recommended dosing schedule for a 12-year-old boy with no prior HPV vaccination?",
+    "options": [
+      "Single dose only, as boys need less protection than girls",
+      "Two doses 6 months apart (2-dose schedule)",
+      "Three doses at 0, 1, and 6 months",
+      "Annual boosters after a single priming dose"
+    ],
+    "answer": 1,
+    "explanation": "IAP-ACVIP 2024 recommends 9vHPV (Gardasil-9) for both boys and girls. For ages 9-14 years, a 2-dose schedule with doses 6 months apart is recommended. For age 15 years and above, or immunocompromised individuals, a 3-dose schedule (0, 2, 6 months) is required. This 12-year-old falls in the 9-14 year age group, so the 2-dose schedule applies.",
+    "highYield": "IAP 2024 HPV vaccine: 9-14 years = 2 doses 6 months apart; >=15 years or immunocompromised = 3 doses (0,2,6 months)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "IAP Vaccine Schedule 2024 — HPV Extension to Boys",
+    "difficulty": "medium",
+    "stem": "IAP 2024 extended HPV vaccination to boys. Which of the following is a correct reason supporting HPV vaccination in males?",
+    "options": [
+      "HPV causes cervical cancer in males requiring early detection",
+      "HPV causes oropharyngeal cancer, anal cancer, penile cancer, and genital warts in males",
+      "HPV vaccination in boys provides herd immunity benefit to other boys only",
+      "HPV vaccination in boys replaces the need for vaccination in girls"
+    ],
+    "answer": 1,
+    "explanation": "HPV vaccination in males is recommended because HPV causes cancers in males including oropharyngeal (throat/tongue) cancer, anal cancer, and penile cancer, as well as genital warts. HPV 16 and 18 are responsible for the majority of HPV-related cancers in both sexes, while HPV 6 and 11 cause genital warts (all covered by 9vHPV Gardasil-9). Vaccination in boys also provides indirect herd immunity benefit to female partners. Cervical cancer occurs only in females.",
+    "highYield": "HPV in males causes: oropharyngeal cancer, anal cancer, penile cancer, genital warts — rationale for IAP 2024 boys recommendation",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topic": "IAP Vaccine Schedule 2024 — Influenza",
+    "difficulty": "medium",
+    "stem": "The IAP 2025 influenza vaccination update recommends switching from quadrivalent to trivalent influenza vaccine. Which influenza B lineage has been excluded from the updated vaccine formulation?",
+    "options": [
+      "B/Victoria lineage",
+      "B/Yamagata lineage",
+      "B/Texas lineage",
+      "B/Brisbane lineage"
+    ],
+    "answer": 1,
+    "explanation": "The B/Yamagata lineage of influenza B was declared globally extinct as of 2024. The last confirmed B/Yamagata isolation was in early 2020. As a result, IAP 2025 recommends switching from the quadrivalent influenza vaccine (which covered both B/Victoria and B/Yamagata) to a trivalent formulation (A/H1N1, A/H3N2, and B/Victoria only). Including a vaccine component for an extinct strain is unnecessary and the trivalent formulation allows greater antigen concentration for remaining strains.",
+    "highYield": "B/Yamagata declared extinct 2024 → trivalent influenza vaccine (drop B/Yamagata); IAP 2025 update",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Neonatal Jaundice",
+    "difficulty": "easy",
+    "stem": "A 3-day-old term neonate develops yellowish discolouration. Total serum bilirubin is 12 mg/dL, direct bilirubin is 0.6 mg/dL. The neonate is feeding well. Which type of jaundice does this most likely represent?",
+    "options": [
+      "Pathological jaundice due to ABO incompatibility",
+      "Physiological jaundice",
+      "Breast milk jaundice",
+      "Biliary atresia-related conjugated hyperbilirubinaemia"
+    ],
+    "answer": 1,
+    "explanation": "Physiological jaundice in term neonates appears after 24 hours (typically day 2-3), peaks on days 3-5, and resolves by days 10-14. The direct bilirubin of 0.6 mg/dL is within normal limits (less than 1 mg/dL). The neonate is clinically well and feeding normally. Pathological jaundice would appear in the first 24 hours, rise at more than 5 mg/dL/day, or have elevated direct bilirubin. Breast milk jaundice is a late onset (after day 7 to week 2-12) phenomenon.",
+    "highYield": "Physiological jaundice: appears >24 hours, peaks day 3-5 (term), indirect predominant, well baby",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Neonatal Jaundice — Types",
+    "difficulty": "medium",
+    "stem": "A 10-day-old exclusively breastfed neonate is brought with persistent jaundice. Total bilirubin is 14 mg/dL, direct bilirubin 0.5 mg/dL. Mother reports good milk supply and neonate is gaining weight appropriately. Which mechanism explains this condition?",
+    "options": [
+      "Inadequate breastfeeding causing dehydration and increased enterohepatic circulation",
+      "Beta-glucuronidase and pregnanediol in breast milk inhibiting hepatic bilirubin conjugation",
+      "ABO incompatibility causing haemolysis",
+      "Biliary atresia causing conjugated hyperbilirubinaemia"
+    ],
+    "answer": 1,
+    "explanation": "This is breast milk jaundice: late-onset (after day 7, persisting to weeks 2-12), predominantly unconjugated (indirect) hyperbilirubinaemia in a well, appropriately feeding, weight-gaining neonate. Breast milk contains beta-glucuronidase (deconjugates bilirubin in intestine increasing reabsorption) and pregnanediol (inhibits hepatic UDP-glucuronyl transferase), both contributing to raised unconjugated bilirubin. This is benign and breastfeeding should be continued. Breastfeeding jaundice occurs earlier (days 2-5) due to inadequate intake.",
+    "highYield": "Breast milk jaundice: week 2-12, unconjugated, well baby, beta-glucuronidase/pregnanediol in milk — continue breastfeeding",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Malnutrition — SAM Criteria",
+    "difficulty": "easy",
+    "stem": "A 2-year-old child is brought to a health centre. MUAC is measured at 108 mm. There is no bilateral pitting oedema. According to WHO/IAP criteria, how is this child classified?",
+    "options": [
+      "Normal nutrition",
+      "Moderate acute malnutrition (MAM)",
+      "Severe acute malnutrition (SAM)",
+      "Stunted but not acutely malnourished"
+    ],
+    "answer": 2,
+    "explanation": "In children aged 6-59 months, a MUAC (mid-upper arm circumference) of less than 115 mm indicates Severe Acute Malnutrition (SAM). This child has a MUAC of 108 mm, which is below the SAM threshold of 115 mm. MUAC 115-125 mm indicates Moderate Acute Malnutrition (MAM). MUAC above 125 mm is normal. Bilateral pitting oedema alone also classifies a child as SAM (kwashiorkor), regardless of MUAC.",
+    "highYield": "MUAC <115 mm in 6-59 months = SAM; 115-125 mm = MAM; >125 mm = normal",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Kawasaki Disease",
+    "difficulty": "medium",
+    "stem": "A 4-year-old child presents with 6 days of fever, bilateral non-purulent conjunctival injection, strawberry tongue, diffuse erythematous rash, and erythema of the palms. Echocardiography is normal. What is the treatment of choice?",
+    "options": [
+      "Aspirin alone at anti-inflammatory dose for 14 days",
+      "IVIG 2 g/kg single infusion plus aspirin",
+      "Prednisolone 2 mg/kg/day for 2 weeks",
+      "Infliximab 5 mg/kg IV single infusion"
+    ],
+    "answer": 1,
+    "explanation": "Kawasaki disease (KD) is diagnosed by fever for 5 or more days plus at least 4 of 5 criteria: bilateral conjunctival injection, oral changes (strawberry tongue, cracked lips), polymorphous rash, extremity changes (erythema/oedema/desquamation), and cervical lymphadenopathy. This child meets full criteria. First-line treatment is IVIG 2 g/kg as a single infusion plus high-dose aspirin (anti-inflammatory phase). Echocardiogram is mandatory at diagnosis, 2 weeks, and 6-8 weeks to screen for coronary artery aneurysms. Infliximab is reserved for IVIG-refractory cases.",
+    "highYield": "Kawasaki treatment: IVIG 2 g/kg single dose + aspirin (high dose anti-inflammatory then low-dose antiplatelet)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Antibiotic Drug of Choice",
+    "difficulty": "easy",
+    "stem": "A 6-week-old neonate presents with whooping cough confirmed on nasopharyngeal PCR. What is the drug of choice for treatment of pertussis in this neonate?",
+    "options": [
+      "Amoxicillin-clavulanate",
+      "Azithromycin",
+      "Trimethoprim-sulfamethoxazole",
+      "Ampicillin"
+    ],
+    "answer": 1,
+    "explanation": "Azithromycin is the drug of choice (DOC) for pertussis (whooping cough, Bordetella pertussis infection) in neonates and children. Macrolides are the treatment of choice. Azithromycin is preferred over erythromycin in neonates due to a lower risk of infantile hypertrophic pyloric stenosis (IHPS) associated with erythromycin. Treatment clears the organism and modifies disease severity if given early in the catarrhal phase. Trimethoprim-sulfamethoxazole is an alternative for macrolide-intolerant patients over 2 months.",
+    "highYield": "Pertussis DOC = Azithromycin (macrolide); preferred over erythromycin in neonates (IHPS risk with erythromycin)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Developmental Milestones",
+    "difficulty": "easy",
+    "stem": "At which age does a normal infant first demonstrate a social smile in response to a face or voice?",
+    "options": [
+      "2 months",
+      "6 weeks",
+      "10 weeks",
+      "3 months"
+    ],
+    "answer": 1,
+    "explanation": "The earliest social smile (responsive smile to a face or voice) appears at 6 weeks of age. This is a high-yield exam fact because many candidates confuse this with 2 months. The social smile at 6 weeks is a key early social milestone. By 3 months, the smile is well established and the infant vocalises in response to social interaction. A smile not present by 3 months is a red flag.",
+    "highYield": "Earliest social smile = 6 weeks (NOT 2 months as commonly mistaken)",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Developmental Milestones",
+    "difficulty": "medium",
+    "stem": "A 20-month-old child is brought by parents who are concerned he is not walking yet. He can stand holding furniture but falls when he lets go. He says 5 words with meaning. On examination, there is mild hypotonia. Which of the following is the correct interpretation?",
+    "options": [
+      "Normal variant — walking may be delayed up to 24 months",
+      "Red flag — failure to walk independently by 18 months requires evaluation",
+      "Red flag only if language is also delayed beyond 30 words by 18 months",
+      "Normal as long as the child can cruise along furniture at 20 months"
+    ],
+    "answer": 1,
+    "explanation": "Independent walking is expected by 18 months. Failure to walk independently by 18 months is a red flag warranting evaluation. This child at 20 months is still not walking independently, which requires investigation for neuromuscular causes (hypotonia noted on examination could indicate SMA, cerebral palsy, or other myopathies). While 15-18 months is the normal range for walking, 18 months is the cut-off red flag. The presence of hypotonia makes this more concerning and not a normal variant.",
+    "highYield": "No independent walking by 18 months = developmental red flag requiring evaluation",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Vitamin D Deficiency — Rickets",
+    "difficulty": "medium",
+    "stem": "An X-ray of the wrist of a 2-year-old child with bowed legs shows widening, cupping, and fraying of the metaphysis. Blood tests show low calcium, elevated PTH, low phosphate, and very high alkaline phosphatase. What is the correct sequence of biochemical events in nutritional rickets?",
+    "options": [
+      "Low PO4 → Low 25-OH-VitD3 → High PTH → Low Ca2+ → High ALP",
+      "Low 25-OH-VitD3 → Low Ca2+ → High PTH → Phosphaturia → Low PO4 → High ALP",
+      "High PTH → Low Ca2+ → Low 25-OH-VitD3 → Low PO4 → High ALP",
+      "Low Ca2+ → Low PTH → Low 25-OH-VitD3 → High ALP → Low PO4"
+    ],
+    "answer": 1,
+    "explanation": "The correct biochemical cascade in nutritional rickets (vitamin D deficiency) is: (1) Low 25-OH-VitD3 → (2) Reduced intestinal calcium absorption → Low Ca2+ → (3) PTH rises (secondary hyperparathyroidism) → (4) PTH causes phosphaturia (urinary phosphate loss) → Low PO4 → (5) Impaired mineralisation → Elevated ALP (alkaline phosphatase). X-ray shows widening, cupping, and fraying of the metaphysis at wrist (most commonly at distal radius/ulna) and knee.",
+    "highYield": "Rickets sequence: Low VitD → Low Ca2+ → High PTH → Phosphaturia → Low PO4 → High ALP; X-ray shows metaphyseal cupping/fraying",
+    "pyqNote": "",
+    "tags": []
+  },
+  {
+    "subject": "Pediatrics",
+    "topic": "Nusinersen — Spinal Muscular Atrophy",
+    "difficulty": "hard",
+    "stem": "Nusinersen (Spinraza) is an antisense oligonucleotide administered intrathecally for SMA. A child begins nusinersen therapy. After the loading phase, how frequently are maintenance doses administered?",
+    "options": [
+      "Monthly (every 4 weeks) indefinitely",
+      "Every 4 months indefinitely after 4 loading doses",
+      "Every 6 months after the first year of treatment",
+      "Annually after the initial loading phase"
+    ],
+    "answer": 1,
+    "explanation": "Nusinersen (Spinraza) is administered as 4 loading doses: at day 0, day 14, day 28, and day 63. After the loading phase, maintenance doses are given every 4 months (approximately every 16 weeks) indefinitely. This is an important practical detail for exam purposes. There is no upper age limit for nusinersen — it is approved for all SMA types and all ages, including adults.",
+    "highYield": "Nusinersen schedule: loading at days 0, 14, 28, 63; then maintenance every 4 months — no age limit",
+    "pyqNote": "",
+    "tags": []
+  }
+]
