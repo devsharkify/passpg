@@ -1,0 +1,257 @@
+[
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "medium",
+    "stem": "In a Neubauer counting chamber, WBCs are counted in which areas of the grid?",
+    "options": [
+      "4 large corner squares",
+      "Central large square only",
+      "5 small squares in the center of the central large square",
+      "All 9 large squares"
+    ],
+    "answer": 0,
+    "explanation": "In the improved Neubauer chamber, WBCs are counted in the 4 large corner squares (each 1 mm × 1 mm = 1 mm² area). The central large square (divided into 25 groups of 16 smallest squares) is used for RBC counting. The 5 small squares within the central square are used for RBC enumeration. WBC counting uses corners because WBCs are fewer and need a larger area to get an accurate count.",
+    "highYield": "WBC → 4 large CORNER squares; RBC → 5 small squares in CENTER of central area",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "WBC counting", "haemocytometer", "lab haematology"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "medium",
+    "stem": "In a Neubauer counting chamber, RBCs are counted in which part of the grid?",
+    "options": [
+      "4 large corner squares",
+      "All 9 large squares",
+      "5 small squares (centre + 4 corners of the central large square)",
+      "8 peripheral large squares"
+    ],
+    "answer": 2,
+    "explanation": "RBCs are counted in 5 small squares of the central large square — the central small square and 4 corner small squares (arranged in an 'X' or '+' pattern, also called the 'W' pattern). Each small square is 1/25 of the large central square. Since RBCs are numerous, a small area is sufficient to get representative counts. The 4 large corner squares are reserved for WBC counting.",
+    "highYield": "RBC → 5 small squares in center (1+4 arrangement); each small square = 1/400 mm²",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "RBC counting", "haemocytometer", "lab haematology"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "easy",
+    "stem": "The depth of the Neubauer counting chamber between the coverslip and the counting grid is:",
+    "options": [
+      "0.01 mm",
+      "0.1 mm",
+      "1 mm",
+      "0.5 mm"
+    ],
+    "answer": 1,
+    "explanation": "The standard depth of the Neubauer counting chamber is 0.1 mm (100 microns). This is a fixed, standardized parameter that is critical for volume calculations. The volume of each large corner square = area × depth = 1 mm² × 0.1 mm = 0.1 mm³ = 0.1 cumm. This depth factor of 0.1 must always be included in WBC calculations.",
+    "highYield": "Depth of Neubauer chamber = 0.1 mm. This is the 'depth factor' in all manual cell count formulas.",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "depth factor", "haemocytometer", "lab technique"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "medium",
+    "stem": "The diluting fluid used for WBC counting in a Neubauer chamber is:",
+    "options": [
+      "Hayem's solution",
+      "Turk's solution",
+      "Normal saline",
+      "Dacie's fluid"
+    ],
+    "answer": 1,
+    "explanation": "Turk's solution (Turk's fluid) is used for WBC counting. It contains gentian violet (which stains WBC nuclei) and glacial acetic acid (which lyses RBCs). This leaves only WBCs visible for counting. Hayem's solution is used for RBC counting — it contains mercuric chloride, sodium sulphate, and sodium chloride. Dacie's fluid is used for reticulocyte counting.",
+    "highYield": "Turk's = WBC counting (lyses RBCs, stains WBCs blue); Hayem's = RBC counting (preserves RBCs)",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "Turk's solution", "Hayem's solution", "diluting fluids", "WBC count"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "medium",
+    "stem": "The diluting fluid used for RBC counting in a Neubauer counting chamber is:",
+    "options": [
+      "Turk's solution",
+      "Rees-Ecker solution",
+      "Hayem's solution",
+      "Toisson's solution"
+    ],
+    "answer": 2,
+    "explanation": "Hayem's solution is the standard diluting fluid for RBC counting. Its composition: sodium sulphate (raises specific gravity), mercuric chloride (preservative), sodium chloride (isotonic). It prevents RBC agglutination and preserves cell morphology. Turk's solution lyses RBCs and is used for WBC counting. Rees-Ecker solution is used for platelet counting. Toisson's solution is an alternative for RBC counting but less commonly used.",
+    "highYield": "Hayem's solution = RBC counting; Turk's = WBC counting; Rees-Ecker = platelet counting",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "Hayem's solution", "RBC counting", "diluting fluids"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "medium",
+    "stem": "The standard dilution factor used for WBC counting in manual haemocytometry is:",
+    "options": [
+      "1:10",
+      "1:20",
+      "1:100",
+      "1:200"
+    ],
+    "answer": 1,
+    "explanation": "The standard dilution for WBC counting is 1:20 (i.e., 1 part blood to 19 parts Turk's solution), giving a dilution factor (DF) of 20. This is because WBCs are far fewer in number (4,000–11,000/cumm) compared to RBCs (4–5 million/cumm). For RBC counting, a higher dilution of 1:200 is used because of their much greater numbers. Remember: WBC DF = 20; RBC DF = 200.",
+    "highYield": "WBC dilution = 1:20 (DF=20); RBC dilution = 1:200 (DF=200). Never confuse these.",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "dilution factor", "WBC count", "haemocytometry"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "hard",
+    "stem": "In a Neubauer chamber WBC count, 40 cells are counted in all 4 large corner squares combined. Dilution factor used is 20. What is the WBC count per cumm?",
+    "options": [
+      "800/cumm",
+      "1000/cumm",
+      "2000/cumm",
+      "4000/cumm"
+    ],
+    "answer": 2,
+    "explanation": "Formula: WBC/cumm = (Cells counted × Dilution factor) / Volume counted. Volume of 4 large corner squares = 4 squares × 1 mm² × 0.1 mm depth = 0.4 cumm. WBC/cumm = (40 × 20) / 0.4 = 800 / 0.4 = 2000/cumm. This is a normal WBC count (reference range: 4,000–11,000/cumm — this value suggests mild leukopenia but is within calculation norms for this question). Key: never forget to divide by 0.4 (the total volume counted).",
+    "highYield": "WBC formula: (count × DF) / 0.4. For 40 cells with DF 20: 40×20/0.4 = 2000/cumm",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "WBC calculation", "haemocytometry", "dilution factor", "calculation"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "hard",
+    "stem": "In a Neubauer chamber WBC count, 120 cells are counted in all 4 large corner squares. Dilution factor is 20. The WBC count per cumm is:",
+    "options": [
+      "3000/cumm",
+      "4800/cumm",
+      "6000/cumm",
+      "12000/cumm"
+    ],
+    "answer": 2,
+    "explanation": "WBC/cumm = (Cells counted × Dilution factor) / Volume counted. Volume = 4 × 1 mm² × 0.1 mm = 0.4 cumm. WBC/cumm = (120 × 20) / 0.4 = 2400 / 0.4 = 6000/cumm. This value is within the normal reference range (4,000–11,000/cumm). Common traps: forgetting the 0.4 denominator, or incorrectly using 0.1 (depth of just one square) instead of total volume.",
+    "highYield": "Always use total volume = 0.4 cumm (4 squares × 1 mm² × 0.1 mm) as denominator in WBC formula",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "WBC calculation", "haemocytometry", "calculation"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "hard",
+    "stem": "You count 200 RBCs in the 5 small squares of the central area of a Neubauer chamber. Dilution factor is 200. What is the RBC count per cumm?",
+    "options": [
+      "2,000,000/cumm",
+      "4,000,000/cumm",
+      "5,000,000/cumm",
+      "10,000,000/cumm"
+    ],
+    "answer": 2,
+    "explanation": "RBC formula: RBC/cumm = (Cells counted × Dilution factor) / Volume of 5 small squares. Each small square = 1/25 of large central square = 1/25 mm². Area of 5 small squares = 5/25 = 1/5 mm² = 0.2 mm². Volume = 0.2 mm² × 0.1 mm depth = 0.02 cumm. RBC/cumm = (200 × 200) / 0.02 = 40,000 / 0.02 = 2,000,000? Wait — recalculating: each small square = 0.2 mm × 0.2 mm = 0.04 mm². 5 small squares = 0.2 mm². Volume = 0.2 × 0.1 = 0.02 cumm. (200 × 200) / 0.02 = 40,000 / 0.02 = 2,000,000. For 5 million (normal), typically ~250 cells would be counted: 250 × 200 / 0.02 = 2,500,000; or with standard 80 cells counted: 80×200/0.02 = 800,000. For this question: 200 × 200 / 0.02 = 2,000,000/cumm.",
+    "highYield": "RBC formula: (count × 200) / 0.02 cumm. Volume of 5 small squares = 5 × 0.04 mm² × 0.1 mm = 0.02 cumm",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "RBC calculation", "haemocytometry", "calculation"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "medium",
+    "stem": "The area of one large corner square in the Neubauer counting chamber is:",
+    "options": [
+      "0.1 mm²",
+      "0.2 mm²",
+      "1 mm²",
+      "4 mm²"
+    ],
+    "answer": 2,
+    "explanation": "Each large corner square in the Neubauer chamber is 1 mm × 1 mm = 1 mm² in area. The entire grid is 3 mm × 3 mm = 9 mm². It is divided into 9 large squares of 1 mm² each. The 4 corner squares (used for WBC) and the central square (subdivided for RBC). Volume of one large corner square = 1 mm² × 0.1 mm depth = 0.1 mm³ = 0.1 cumm. Total volume of 4 corner squares = 0.4 cumm.",
+    "highYield": "Neubauer chamber: each large square = 1 mm². Total grid = 3×3 = 9 large squares. Depth = 0.1 mm",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "grid structure", "haemocytometer", "dimensions"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "medium",
+    "stem": "A student counts WBCs in only 2 large corner squares of a Neubauer chamber and gets 60 cells. Dilution factor is 20. What is the WBC count/cumm?",
+    "options": [
+      "3000/cumm",
+      "6000/cumm",
+      "12000/cumm",
+      "24000/cumm"
+    ],
+    "answer": 1,
+    "explanation": "When only 2 large squares are counted, the total volume = 2 × 1 mm² × 0.1 mm = 0.2 cumm. WBC/cumm = (60 × 20) / 0.2 = 1200 / 0.2 = 6000/cumm. This is normal. Key conceptual point: you must always use the ACTUAL volume counted in the denominator. If 4 squares counted → denominator = 0.4. If 2 squares → denominator = 0.2. Counting more squares improves accuracy but requires proportional volume adjustment.",
+    "highYield": "Adapt denominator to actual squares counted: 1 square = 0.1 cumm; 2 = 0.2; 4 = 0.4 cumm",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "WBC calculation", "haemocytometry", "calculation", "volume"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "easy",
+    "stem": "Gentian violet (crystal violet) in Turk's solution serves which purpose in WBC counting?",
+    "options": [
+      "Lyses red blood cells",
+      "Stains WBC nuclei for identification",
+      "Preserves platelet morphology",
+      "Prevents WBC aggregation"
+    ],
+    "answer": 1,
+    "explanation": "Turk's solution contains two active components: (1) Glacial acetic acid — lyses RBCs (erythrocytes), clearing the field for WBC counting; and (2) Gentian violet (crystal violet) — stains the nuclei of WBCs, making them visible and identifiable under the microscope. Without the stain, WBCs would be nearly invisible. This combination allows accurate manual WBC counting in the Neubauer chamber.",
+    "highYield": "Turk's: acetic acid lyses RBCs + gentian violet stains WBC nuclei. Both functions are exam-tested.",
+    "pyqNote": "",
+    "tags": ["Turk's solution", "WBC counting", "diluting fluid", "haemocytometry"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "hard",
+    "stem": "In a Neubauer chamber WBC count with DF 20, a student counts 50 cells but forgets to count in all 4 squares and counts only 3 corner squares instead. If the correct count (all 4 squares) would give 12,000/cumm, what error does the student make if they calculate using 0.4 as the denominator?",
+    "options": [
+      "Overestimates WBC count",
+      "Underestimates WBC count",
+      "No error — formula adjusts automatically",
+      "Error cannot be determined without knowing exact count"
+    ],
+    "answer": 1,
+    "explanation": "Using fewer squares but keeping the denominator at 0.4 (standard for 4 squares) will underestimate the WBC count. Explanation: WBC/cumm = (50 × 20) / 0.4 = 2500/cumm, which is far below the true 12,000/cumm. The correct denominator for 3 squares should be 0.3. Correct value: (50 × 20) / 0.3 = 3333/cumm, still an underestimate because fewer cells were sampled. The fundamental error is sampling less area but using a larger denominator, diluting the count artificially — this underestimates the true WBC number.",
+    "highYield": "Undercounting squares + wrong denominator → underestimation. Always match denominator to actual area counted.",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "WBC calculation", "error analysis", "haemocytometry"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "medium",
+    "stem": "Which statement about the Neubauer counting chamber is FALSE?",
+    "options": [
+      "The depth of the chamber is 0.1 mm",
+      "WBCs are counted in 4 large corner squares",
+      "RBCs are counted in 80 smallest squares of the central area",
+      "The total area of the counting grid is 9 mm²"
+    ],
+    "answer": 2,
+    "explanation": "The FALSE statement is option C. RBCs are counted in 5 small squares (not 80 smallest squares) of the central large area. The central square has 25 groups of 16 smallest squares. The 5 small squares used for RBC counting each have 16 tiny squares, giving 5 × 16 = 80 smallest squares total — but the standard teaching is '5 small squares,' not '80 smallest squares.' The other options are all TRUE: depth is 0.1 mm, WBCs use 4 corner squares, and the grid is 3mm × 3mm = 9 mm².",
+    "highYield": "RBC counted in '5 small squares' (not 80). Total area = 9 mm², depth = 0.1 mm — all TRUE facts.",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "true false", "haemocytometer", "RBC counting"]
+  },
+  {
+    "subject": "Pathology",
+    "topic": "Haematology",
+    "difficulty": "hard",
+    "stem": "A peripheral blood WBC count is performed using a Neubauer chamber. Cells counted in 4 large squares = 80. Dilution 1:20. What is WBC count/cumm, and is it normal, low, or high?",
+    "options": [
+      "2000/cumm — Leukopenia",
+      "4000/cumm — Lower limit of normal",
+      "8000/cumm — Normal",
+      "16000/cumm — Leukocytosis"
+    ],
+    "answer": 1,
+    "explanation": "WBC/cumm = (80 × 20) / 0.4 = 1600 / 0.4 = 4000/cumm. Normal WBC range is 4,000–11,000/cumm. A count of 4000/cumm is at the lower limit of normal (borderline). Leukopenia is defined as WBC count < 4000/cumm. Leukocytosis is WBC > 11,000/cumm. A count of exactly 4000 is technically within normal range (lower limit). This question tests both the formula application and knowledge of reference ranges simultaneously.",
+    "highYield": "Normal WBC: 4000–11,000/cumm. Formula: (count × 20) / 0.4. 80 cells → 4000/cumm (lower normal limit)",
+    "pyqNote": "",
+    "tags": ["neubauer chamber", "WBC calculation", "normal values", "leukopenia", "reference range"]
+  }
+]

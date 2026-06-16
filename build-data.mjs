@@ -132,6 +132,10 @@ const sources = [
   { name: 'spm-fringe-direct', load: () => loadJson('src/data/raw/spm-fringe-direct.json') },
   { name: 'frontier-physio-direct', load: () => loadJson('src/data/raw/frontier-physio-direct.json') },
   { name: 'rare-tox-fungi-direct', load: () => loadJson('src/data/raw/rare-tox-fungi-direct.json') },
+  // Mock Test 1 gap fill — 2 MISSes + 29 PARTIALs
+  { name: 'mock1-miss-neubauer', load: () => loadJson('src/data/raw/mock1-miss-neubauer.json') },
+  { name: 'mock1-miss-eog', load: () => loadJson('src/data/raw/mock1-miss-eog.json') },
+  { name: 'mock1-partials-fill', load: () => loadJson('src/data/raw/mock1-partials-fill.json') },
 ];
 
 const all = [];

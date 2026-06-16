@@ -1,0 +1,206 @@
+[
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "easy",
+    "stem": "The normal value of the Arden ratio (Light peak to Dark trough ratio) in electrooculogram (EOG) is:",
+    "options": [
+      "Less than 1.5",
+      "More than 1.5",
+      "Exactly 1.0",
+      "More than 3.0"
+    ],
+    "answer": 1,
+    "explanation": "The Arden ratio = Light peak / Dark trough × 100 (or expressed simply as LP/DT). Normal Arden ratio is MORE than 1.5 (or >150%, also expressed as >185% in some texts using a slightly different formula). A value of less than 1.5 is ABNORMAL and indicates disease. This is one of the most commonly tested EOG values in NEET PG. The trap in exams is listing 'Less than 1.5' as the correct answer — this is the ABNORMAL value.",
+    "highYield": "Arden ratio >1.5 = NORMAL EOG. <1.5 = ABNORMAL. This exact value is a classic exam target.",
+    "pyqNote": "",
+    "tags": ["EOG", "Arden ratio", "electrooculogram", "normal values", "ophthalmology electrophysiology"]
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "medium",
+    "stem": "Electrooculogram (EOG) primarily measures the integrity of which ocular structure?",
+    "options": [
+      "Ganglion cell layer of the retina",
+      "Photoreceptor layer (rods and cones) only",
+      "Retinal pigment epithelium (RPE) and its interaction with photoreceptors",
+      "Optic nerve conduction"
+    ],
+    "answer": 2,
+    "explanation": "EOG measures the standing potential that exists between the cornea (positive) and the back of the eye (negative), which is generated primarily by the retinal pigment epithelium (RPE). The light-rise (light peak) reflects the RPE response to light stimulation, which is dependent on intact photoreceptors signaling the RPE. Therefore EOG tests RPE integrity + photoreceptor-RPE interaction. It does NOT test ganglion cells or optic nerve (those are tested by VEP — visual evoked potential).",
+    "highYield": "EOG = RPE standing potential + photoreceptor-RPE interaction. VEP = optic nerve/cortex. ERG = photoreceptors/inner retina.",
+    "pyqNote": "",
+    "tags": ["EOG", "RPE", "retinal pigment epithelium", "standing potential", "electrophysiology"]
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "medium",
+    "stem": "In an electrooculogram (EOG) recording, the 'dark trough' refers to:",
+    "options": [
+      "Minimum amplitude of the standing potential during dark adaptation",
+      "Maximum amplitude during light adaptation",
+      "Baseline amplitude before the test begins",
+      "Amplitude measured immediately after light onset"
+    ],
+    "answer": 0,
+    "explanation": "In EOG recording: the patient alternates between dark and light conditions. During dark adaptation (~8-12 minutes), the standing potential falls to its minimum value — this is the 'dark trough' (DT). When lights are turned on, after ~8-12 minutes of light adaptation, the potential rises to its maximum — this is the 'light peak' (LP). The Arden ratio = LP/DT. Normal LP/DT > 1.5 means the eye responds well to light, indicating healthy RPE function.",
+    "highYield": "Dark trough = minimum potential in dark; Light peak = maximum in light. Arden ratio = LP/DT > 1.5 normal.",
+    "pyqNote": "",
+    "tags": ["EOG", "dark trough", "light peak", "Arden ratio", "electrophysiology"]
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "medium",
+    "stem": "Best's vitelliform macular dystrophy classically shows which electrodiagnostic pattern?",
+    "options": [
+      "Abnormal EOG, Abnormal ERG",
+      "Normal EOG, Abnormal ERG",
+      "Abnormal EOG, Normal ERG",
+      "Normal EOG, Normal ERG"
+    ],
+    "answer": 2,
+    "explanation": "Best's vitelliform macular dystrophy (caused by BEST1/VMD2 gene mutation affecting bestrophin protein in RPE) shows the cardinal pattern: Abnormal EOG + Normal ERG. Since EOG reflects RPE function, and the defective bestrophin is a RPE chloride channel, the EOG is consistently abnormal (Arden ratio <1.5) even in carriers. The ERG is normal because the photoreceptors themselves are structurally intact (the disease is an RPE ion-channel disorder). This dissociation is pathognomonic and the most tested fact about Best disease.",
+    "highYield": "Best disease = Abnormal EOG + Normal ERG. This is the CLASSIC CARDINAL pattern. BESTROPHIN (RPE chloride channel) mutation.",
+    "pyqNote": "",
+    "tags": ["Best disease", "vitelliform macular dystrophy", "EOG", "ERG", "BEST1 gene", "electrophysiology"]
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "medium",
+    "stem": "Stargardt disease (fundus flavimaculatus) shows which electrodiagnostic pattern?",
+    "options": [
+      "Abnormal EOG, Normal ERG",
+      "Normal EOG, Abnormal ERG",
+      "Abnormal EOG, Abnormal ERG",
+      "Normal EOG, Normal ERG"
+    ],
+    "answer": 1,
+    "explanation": "Stargardt disease (ABCA4 mutation) primarily affects photoreceptors (rods and cones), leading to progressive macular degeneration. Because the photoreceptors are primarily affected, ERG is abnormal (especially cone ERG). The RPE is secondarily affected, and EOG may be normal or only mildly abnormal in early disease. The classic teaching pattern is: Stargardt = Normal EOG + Abnormal ERG. This contrasts with Best disease (Abnormal EOG + Normal ERG). This high-yield distinction is frequently tested.",
+    "highYield": "Stargardt = Normal EOG + Abnormal ERG (vs Best = Abnormal EOG + Normal ERG). Opposite pattern — very high yield.",
+    "pyqNote": "",
+    "tags": ["Stargardt disease", "fundus flavimaculatus", "EOG", "ERG", "ABCA4", "electrophysiology"]
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "hard",
+    "stem": "A patient has an Arden ratio of 1.2 on EOG testing, with a normal ERG. The most likely diagnosis is:",
+    "options": [
+      "Stargardt disease",
+      "Retinitis pigmentosa",
+      "Best's vitelliform macular dystrophy",
+      "Leber's congenital amaurosis"
+    ],
+    "answer": 2,
+    "explanation": "Arden ratio of 1.2 = abnormal EOG (normal > 1.5). A normal ERG rules out photoreceptor-predominant diseases like Stargardt and retinitis pigmentosa (which have abnormal ERG). Best's vitelliform macular dystrophy is the only major condition with ABNORMAL EOG + NORMAL ERG. It is caused by BEST1 gene mutation causing defective bestrophin chloride channel in RPE. Leber's congenital amaurosis has severely abnormal or flat ERG with markedly reduced vision from birth.",
+    "highYield": "Abnormal EOG + Normal ERG = Best disease until proven otherwise. Classic high-yield diagnostic pattern.",
+    "pyqNote": "",
+    "tags": ["EOG", "Arden ratio", "Best disease", "ERG", "differential diagnosis", "electrophysiology"]
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "medium",
+    "stem": "Electroretinogram (ERG) primarily tests the function of which retinal layers?",
+    "options": [
+      "Retinal pigment epithelium only",
+      "Ganglion cells and optic nerve",
+      "Photoreceptors (rods and cones) and inner retinal neurons",
+      "Only the macula and fovea"
+    ],
+    "answer": 2,
+    "explanation": "ERG records the electrical response of the retina (primarily photoreceptors and inner retinal neurons) to light stimulation. The 'a-wave' reflects photoreceptor (rod and cone) response. The 'b-wave' reflects bipolar cell/Muller cell (inner retinal) activity. ERG is abnormal in diseases primarily affecting photoreceptors: retinitis pigmentosa, Stargardt disease, cone dystrophies. ERG is NORMAL in Best disease (RPE disorder) and optic nerve diseases. VEP (Visual Evoked Potential) is used to test optic nerve and visual cortex.",
+    "highYield": "ERG: a-wave = photoreceptors; b-wave = bipolar/inner retina. Abnormal in RP, Stargardt. VEP = optic nerve.",
+    "pyqNote": "",
+    "tags": ["ERG", "electroretinogram", "a-wave", "b-wave", "photoreceptors", "electrophysiology"]
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "hard",
+    "stem": "A 35-year-old presents with a 'scrambled egg' yellow lesion at the macula since childhood, which has now partially resorbed ('sunny-side up' stage). EOG shows Arden ratio 1.1. His ERG is normal. What gene is mutated in this condition?",
+    "options": [
+      "ABCA4",
+      "BEST1 (VMD2)",
+      "RPGR",
+      "CNGB3"
+    ],
+    "answer": 1,
+    "explanation": "This is Best's vitelliform macular dystrophy. Classic stages: I - premacular stage (abnormal EOG, no lesion), II - vitelliform ('egg yolk' yellow lesion at macula), IIa - pseudohypopyon stage, III - vitelliruptive ('scrambled egg'), IV - atrophic/RPE scar, IIb - 'sunny-side up' stage (partial resorption with fluid level). Arden ratio 1.1 (abnormal) + normal ERG = pathognomonic. BEST1 (VMD2) gene encodes bestrophin (RPE chloride channel). ABCA4 = Stargardt; RPGR = X-linked retinitis pigmentosa; CNGB3 = achromatopsia.",
+    "highYield": "Best disease stages + BEST1 gene. Arden ratio <1.5 + normal ERG = Best disease. Classic scrambled egg fundus appearance.",
+    "pyqNote": "",
+    "tags": ["Best disease", "BEST1 gene", "bestrophin", "vitelliform", "EOG", "Arden ratio"]
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "medium",
+    "stem": "Visual Evoked Potential (VEP) is most useful in diagnosing disease of which part of the visual pathway?",
+    "options": [
+      "Retinal pigment epithelium",
+      "Photoreceptors",
+      "Optic nerve and visual cortex",
+      "Vitreous"
+    ],
+    "answer": 2,
+    "explanation": "VEP (Visual Evoked Potential) measures the electrical response of the visual cortex (occipital lobe) to visual stimuli. It is most useful for testing the integrity of the optic nerve (demyelination in multiple sclerosis causes delayed P100 latency) and the visual cortex. VEP is the test of choice for: optic neuritis, multiple sclerosis, amblyopia assessment, cortical blindness. EOG = RPE; ERG = photoreceptors/inner retina; VEP = optic nerve/cortex. Together these three tests cover the entire visual pathway.",
+    "highYield": "VEP = optic nerve + visual cortex (delayed P100 in MS/optic neuritis). EOG = RPE. ERG = photoreceptors.",
+    "pyqNote": "",
+    "tags": ["VEP", "visual evoked potential", "optic nerve", "multiple sclerosis", "P100", "electrophysiology"]
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "hard",
+    "stem": "A child with severely reduced vision from birth has a flat ERG, normal EOG, and no obvious fundal pathology on routine examination. The most likely diagnosis is:",
+    "options": [
+      "Best's vitelliform macular dystrophy",
+      "Leber's congenital amaurosis",
+      "Stargardt disease",
+      "Cone dystrophy"
+    ],
+    "answer": 1,
+    "explanation": "Leber's congenital amaurosis (LCA) presents with: severely reduced/absent vision from birth or early infancy, nystagmus, roving eye movements, absent or flat ERG (severe photoreceptor dysfunction), and may have normal/near-normal fundus early in life. The flat ERG in a child with congenital blindness and no obvious fundal changes is the hallmark. EOG may be abnormal in later stages. LCA is caused by mutations in >25 genes (CEP290, GUCY2D, RPE65, CRB1 most common). Best disease does not cause congenital blindness. Stargardt presents in childhood/adolescence, not at birth.",
+    "highYield": "Leber's congenital amaurosis = flat ERG + congenital blindness + normal fundus early. RPE65 mutation is treatable (Luxturna).",
+    "pyqNote": "",
+    "tags": ["Leber's congenital amaurosis", "LCA", "flat ERG", "congenital blindness", "RPE65", "electrophysiology"]
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "medium",
+    "stem": "EOG (Electrooculogram) is recorded by placing electrodes near which structures?",
+    "options": [
+      "On the corneal surface directly",
+      "On the skin at the medial and lateral canthi of each eye",
+      "On the scalp over the occipital cortex",
+      "On the conjunctiva with a contact lens electrode"
+    ],
+    "answer": 1,
+    "explanation": "EOG is recorded using surface skin electrodes placed at the medial (inner) and lateral (outer) canthi of the eye. As the eye moves, the corneoretinal potential (standing potential) sweeps past the electrodes, generating recordable signals. The patient is asked to make saccadic horizontal eye movements between two fixation lights. This is different from ERG (which uses a corneal contact lens/DTL electrode) and VEP (which uses scalp electrodes over the occipital cortex).",
+    "highYield": "EOG electrodes = medial + lateral canthi (skin). ERG = corneal contact lens. VEP = scalp (occipital). Know the recording sites.",
+    "pyqNote": "",
+    "tags": ["EOG", "recording technique", "electrode placement", "electrophysiology", "canthi"]
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Electrophysiology",
+    "difficulty": "hard",
+    "stem": "Which of the following conditions is associated with an ABNORMAL EOG?",
+    "options": [
+      "Stargardt disease",
+      "Central serous chorioretinopathy (CSCR)",
+      "Best's vitelliform macular dystrophy",
+      "Diabetic macular edema"
+    ],
+    "answer": 2,
+    "explanation": "Best's vitelliform macular dystrophy is the classic condition with an abnormal EOG (Arden ratio <1.5) because it is an RPE disorder (bestrophin chloride channel defect). Stargardt disease has normal or near-normal EOG with abnormal ERG. CSCR (Central Serous Chorioretinopathy) is a choroidal/RPE leakage disorder, and while RPE function may be mildly impaired, the EOG is generally normal or only mildly subnormal and not a defining feature. Diabetic macular edema does not characteristically produce EOG abnormalities. The key rule: abnormal EOG = RPE disease, and Best disease is the prototype RPE genetic disease tested in exams.",
+    "highYield": "Abnormal EOG diseases: Best disease (prototype), diffuse choroidal diseases, retinal detachment, toxic retinopathy. Best = most tested.",
+    "pyqNote": "",
+    "tags": ["EOG", "abnormal EOG", "Best disease", "RPE disease", "differential diagnosis", "electrophysiology"]
+  }
+]
