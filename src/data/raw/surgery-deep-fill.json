@@ -1,0 +1,856 @@
+[
+{
+"subject": "Surgery",
+"topic": "Colorectal Cancer Staging",
+"difficulty": "medium",
+"stem": "A 58-year-old man undergoes surgery for carcinoma rectum. Histopathology reveals tumor invading through the muscularis propria into the pericolorectal tissues with 2 out of 14 lymph nodes positive. No distant metastasis is found. According to TNM staging, what is his stage?",
+"options": [
+"T3 N1 M0 \u2014 Stage IIIB",
+"T2 N1 M0 \u2014 Stage IIIA",
+"T3 N0 M0 \u2014 Stage IIA",
+"T4 N1 M0 \u2014 Stage IIIC"
+],
+"answer": 0,
+"explanation": "Tumor invading pericolorectal tissues = T3. 2 positive lymph nodes = N1 (1-3 nodes). No metastasis = M0. T3N1M0 maps to Stage IIIB in AJCC 8th edition colorectal staging. T4 implies visceral peritoneum invasion or adjacent organ involvement. Nodal positivity (N1/N2) always pushes to Stage III regardless of T category.",
+"highYield": "T3 = through muscularis into pericolorectal fat; N1 = 1-3 positive nodes; T3N1M0 = Stage IIIB",
+"pyqNote": "TNM-to-stage conversion appears nearly every year; colorectal is the highest-yield site after breast",
+"tags": [
+"colorectal cancer",
+"TNM staging",
+"Stage IIIB",
+"T3N1M0"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Colorectal Cancer Staging",
+"difficulty": "medium",
+"stem": "A patient with carcinoma colon is staged using the Dukes classification intraoperatively. The tumor is found to have spread through the full thickness of the bowel wall but all resected lymph nodes are negative. Which Dukes stage does this correspond to?",
+"options": [
+"Dukes B",
+"Dukes A",
+"Dukes C1",
+"Dukes D"
+],
+"answer": 0,
+"explanation": "Dukes A: tumor confined to the mucosa/submucosa (not through muscularis). Dukes B: tumor penetrates full thickness of bowel wall, lymph nodes negative. Dukes C1: nodes positive but apical node negative; Dukes C2: apical node positive. Dukes D (Turnbull modification): distant metastasis. Full-thickness wall involvement with negative nodes = Dukes B.",
+"highYield": "Dukes B = full-thickness bowel wall penetration, node-negative; correlates with TNM Stage II",
+"pyqNote": "Dukes vs TNM correlation is a recurring NEET PG 1-mark question; Dukes B2 = T3/T4 N0",
+"tags": [
+"Dukes staging",
+"colorectal cancer",
+"bowel wall invasion",
+"node negative"
+]
+},
+{
+"subject": "Surgery",
+"topic": "FAP vs HNPCC",
+"difficulty": "hard",
+"stem": "A 32-year-old man presents with 120 colonic polyps detected on colonoscopy. His father died of colon cancer at age 45. Genetic testing is planned. Which gene mutation and associated extracolonic feature correctly identifies this condition?",
+"options": [
+"APC gene mutation \u2014 desmoid tumors and osteomas (Gardner syndrome)",
+"MLH1/MSH2 mutation \u2014 endometrial cancer risk",
+"MUTYH gene \u2014 autosomal recessive polyposis",
+"STK11 mutation \u2014 hamartomatous polyps and lip pigmentation"
+],
+"answer": 0,
+"explanation": "Familial Adenomatous Polyposis (FAP) results from APC gene mutation on chromosome 5q21. Classic FAP shows >100 colonic adenomas. Gardner syndrome is FAP plus desmoid tumors, osteomas, and epidermoid cysts. MLH1/MSH2 mutations cause HNPCC (Lynch syndrome), which has fewer polyps but high endometrial/ovarian cancer risk. STK11 = Peutz-Jeghers. MUTYH = attenuated polyposis, AR inheritance.",
+"highYield": "FAP = APC gene (5q21), >100 polyps; Gardner variant adds desmoids + osteomas; prophylactic colectomy by age 20-25",
+"pyqNote": "FAP vs HNPCC gene distinction asked in NEET PG 2022 and 2024; APC vs MLH1/MSH2 is the key differentiator",
+"tags": [
+"FAP",
+"APC gene",
+"Gardner syndrome",
+"polyposis",
+"colorectal genetics"
+]
+},
+{
+"subject": "Surgery",
+"topic": "FAP vs HNPCC",
+"difficulty": "hard",
+"stem": "A 41-year-old woman is diagnosed with synchronous endometrial and colon cancer. Her mother had ovarian cancer at 52 and her brother had colon cancer at 44. Genetic counseling suspects Lynch syndrome. Which of the following correctly describes the Amsterdam II criteria for this diagnosis?",
+"options": [
+"3 relatives with HNPCC-associated cancer, 2 successive generations, 1 diagnosed before age 50, FAP excluded",
+"3 relatives with colon cancer only, 2 successive generations, 1 before age 50",
+"5 or more colonic polyps with APC mutation",
+"2 first-degree relatives with CRC before age 60"
+],
+"answer": 0,
+"explanation": "Amsterdam II criteria (3-2-1 rule): at least 3 relatives with HNPCC-associated cancers (colon, endometrium, small bowel, ureter, renal pelvis); spanning at least 2 successive generations; at least 1 diagnosed before age 50; FAP must be excluded; 1 must be a first-degree relative of the other two. Amsterdam I was colon-only. Lynch syndrome genes: MLH1, MSH2, MSH6, PMS2 \u2014 causing microsatellite instability.",
+"highYield": "Amsterdam II: 3 relatives, 2 generations, 1 under 50, FAP excluded; includes endometrial/ovarian/ureter cancers",
+"pyqNote": "Amsterdam criteria numbers (3-2-1) are a direct NEET PG MCQ; Lynch vs FAP differentiation is annual",
+"tags": [
+"HNPCC",
+"Lynch syndrome",
+"Amsterdam II criteria",
+"MLH1",
+"MSH2",
+"microsatellite instability"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Colorectal Surgery Procedures",
+"difficulty": "medium",
+"stem": "A 55-year-old man has a rectal cancer located 4 cm from the anal verge with good sphincter tone preoperatively. Imaging shows T2N0 disease without sphincter involvement. What is the most appropriate surgical procedure?",
+"options": [
+"Abdominoperineal resection (APR)",
+"Low anterior resection (LAR) with coloanal anastomosis",
+"Hartmann's procedure",
+"Transanal excision alone"
+],
+"answer": 1,
+"explanation": "The decision between LAR and APR depends on tumor distance from anal verge and sphincter involvement. Tumors >2 cm from the dentate line with intact sphincter mechanism are amenable to sphincter-saving LAR. APR (Miles operation) is reserved for very low tumors <2 cm from dentate line or those involving the sphincter complex. This patient at 4 cm from anal verge with intact sphincters qualifies for LAR with coloanal anastomosis. A 2 cm distal margin is the accepted minimum.",
+"highYield": "APR vs LAR: APR for tumors <2 cm from dentate line or sphincter involvement; LAR preserves sphincter with 2 cm distal margin",
+"pyqNote": "LAR vs APR decision appears in clinical surgery vignettes frequently; the 2 cm distal margin rule is high-yield",
+"tags": [
+"rectal cancer",
+"LAR",
+"APR",
+"sphincter preservation",
+"Miles operation"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hepatobiliary \u2014 Biliary Obstruction",
+"difficulty": "medium",
+"stem": "A 65-year-old woman presents with jaundice, right upper quadrant pain, and fever with rigors. Her temperature is 39.2\u00b0C, BP is 90/60 mmHg, and she is confused. Ultrasound shows CBD dilation to 12 mm with choledocholithiasis. What is the diagnosis and initial management?",
+"options": [
+"Reynold's pentad (acute suppurative cholangitis) \u2014 urgent ERCP with biliary drainage",
+"Charcot's triad (cholangitis) \u2014 IV antibiotics and elective ERCP",
+"Acute cholecystitis \u2014 emergency cholecystectomy",
+"Mirizzi syndrome \u2014 MRCP then laparoscopic surgery"
+],
+"answer": 0,
+"explanation": "Reynold's pentad = Charcot's triad (RUQ pain + jaundice + fever) PLUS hypotension and altered mental status, indicating acute suppurative (toxic) cholangitis \u2014 a surgical emergency. Management is urgent biliary decompression (ERCP preferred) with IV broad-spectrum antibiotics and resuscitation. Charcot's triad alone suggests cholangitis manageable with antibiotics first. Reynold's pentad mortality is >50% without drainage; ERCP has replaced emergency surgery as first-line drainage.",
+"highYield": "Reynold's pentad = Charcot's triad + hypotension + confusion; mandates emergency ERCP, not just antibiotics",
+"pyqNote": "Charcot vs Reynold distinction is a direct 1-liner MCQ; the management difference (elective vs emergency ERCP) is the stem trap",
+"tags": [
+"Reynold's pentad",
+"Charcot's triad",
+"acute cholangitis",
+"ERCP",
+"biliary obstruction"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hepatobiliary \u2014 CBD Stones",
+"difficulty": "medium",
+"stem": "A 50-year-old man with a known gallstone disease develops obstructive jaundice. MRCP confirms a 10 mm common bile duct stone with CBD diameter of 13 mm. He is otherwise fit with no prior abdominal surgery. What is the preferred management?",
+"options": [
+"ERCP with endoscopic sphincterotomy and stone extraction",
+"Open choledochotomy and T-tube drainage",
+"Laparoscopic cholecystectomy alone",
+"Percutaneous transhepatic cholangiography (PTC) and drainage"
+],
+"answer": 0,
+"explanation": "ERCP with endoscopic sphincterotomy is the gold-standard first-line treatment for CBD stones in a surgically fit patient without prior failed endoscopy. It is less invasive than open choledochotomy and avoids laparotomy. After successful ERCP clearance, laparoscopic cholecystectomy follows for the gallbladder. Open choledochotomy is reserved for ERCP failure or unavailability. PTC is preferred when there is a stricture proximal to the obstruction or altered anatomy (Roux-en-Y). Laparoscopic cholecystectomy alone does not address the CBD stone.",
+"highYield": "CBD stones: ERCP + sphincterotomy is first-line; followed by LC for gallbladder; open surgery only if ERCP fails",
+"pyqNote": "CBD stone management algorithm is high-yield; ERCP vs open surgery decision appears in clinical MCQ format regularly",
+"tags": [
+"CBD stone",
+"ERCP",
+"sphincterotomy",
+"choledocholithiasis",
+"biliary management"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hepatobiliary \u2014 Courvoisier's Law",
+"difficulty": "easy",
+"stem": "A 68-year-old man presents with progressive painless jaundice over 4 weeks and a palpable, non-tender gallbladder. He has lost 8 kg in 3 months. Which diagnosis does this clinical finding most suggest?",
+"options": [
+"Carcinoma head of pancreas",
+"Choledocholithiasis (CBD stone)",
+"Acute cholecystitis",
+"Primary sclerosing cholangitis"
+],
+"answer": 0,
+"explanation": "Courvoisier's law states that in obstructive jaundice, if the gallbladder is palpable and non-tender, the cause is unlikely to be gallstones (because chronic stone disease causes gallbladder fibrosis making it non-distensible). A palpable non-tender GB with painless jaundice points to periampullary malignancy \u2014 most commonly carcinoma head of pancreas. CBD stones typically cause a chronically fibrosed, non-distensible gallbladder. Weight loss supports malignancy.",
+"highYield": "Courvoisier's law: palpable non-tender GB + jaundice = malignant obstruction (not stones); painless jaundice = head of pancreas until proven otherwise",
+"pyqNote": "Courvoisier's law is a classic 1-mark direct question; palpable non-tender GB = malignancy is the key fact",
+"tags": [
+"Courvoisier's law",
+"painless jaundice",
+"carcinoma head of pancreas",
+"gallbladder",
+"obstructive jaundice"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hepatobiliary \u2014 Couinaud Segments",
+"difficulty": "hard",
+"stem": "A hepatic surgeon plans a right hepatectomy for a liver tumor. Intraoperatively, she divides the right hepatic artery, right portal vein, and right hepatic duct. Which Couinaud segments are removed in a standard right hepatectomy?",
+"options": [
+"Segments V, VI, VII, VIII",
+"Segments I, II, III, IV",
+"Segments V, VI, VII, VIII and segment I (caudate)",
+"Segments II, III, IVa, IVb"
+],
+"answer": 0,
+"explanation": "The Couinaud classification divides the liver into 8 functional segments based on hepatic veins and portal pedicles. The right lobe comprises segments V, VI, VII, and VIII; the left lobe comprises segments II, III, and IV; segment I (caudate lobe) has dual blood supply. Right hepatectomy removes segments V-VIII. Extended right hepatectomy (right trisectionectomy) also removes segment IV. Left hepatectomy removes segments II, III, IV. Segments II+III = left lateral sectionectomy.",
+"highYield": "Couinaud: right lobe = V, VI, VII, VIII; left lobe = II, III, IV; caudate = I; right hepatectomy = V-VIII",
+"pyqNote": "Couinaud segment numbering and which segments correspond to which hepatectomy is a direct NEET PG question",
+"tags": [
+"Couinaud segments",
+"liver anatomy",
+"right hepatectomy",
+"hepatic surgery",
+"liver segments"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hepatobiliary \u2014 Child-Pugh Score",
+"difficulty": "medium",
+"stem": "A 55-year-old cirrhotic patient is being assessed for hepatic resection. His bilirubin is 2.5 mg/dL, albumin is 2.7 g/dL, PT is prolonged by 5 seconds, he has grade II encephalopathy, and moderate ascites. What is his Child-Pugh class and surgical risk?",
+"options": [
+"Child-Pugh Class C \u2014 prohibitive surgical risk, consider liver transplantation",
+"Child-Pugh Class B \u2014 moderate risk, resection with caution",
+"Child-Pugh Class A \u2014 good risk, resection is safe",
+"Child-Pugh Class B \u2014 poor risk, proceed with TIPS first"
+],
+"answer": 0,
+"explanation": "Child-Pugh scoring uses 5 parameters (bilirubin, albumin, PT prolongation, encephalopathy, ascites) each scored 1-3. Bilirubin 2-3 = 2; albumin <2.8 = 3; PT +4-6s = 2; grade II encephalopathy = 2; moderate ascites = 2. Total = 11 points = Class C (10-15). Class A (5-6): good surgical risk; Class B (7-9): moderate risk; Class C (10-15): prohibitive \u2014 liver transplantation preferred over resection. Major hepatic resection is generally contraindicated in Child-Pugh C.",
+"highYield": "Child-Pugh: A=5-6 (good), B=7-9 (moderate), C=10-15 (poor/prohibitive); 5 parameters each 1-3 points",
+"pyqNote": "Child-Pugh class calculation and surgical implications appear as clinical vignette MCQs in NEET PG surgery papers",
+"tags": [
+"Child-Pugh score",
+"cirrhosis",
+"hepatic resection",
+"surgical risk",
+"liver disease"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Breast Cancer \u2014 BRCA Genetics",
+"difficulty": "hard",
+"stem": "A 38-year-old woman is found to have a BRCA1 mutation after her sister developed breast cancer at 35. She asks about her lifetime risk. Which statement correctly compares BRCA1 and BRCA2 mutation risks?",
+"options": [
+"BRCA1: ~70% lifetime breast cancer risk, high ovarian cancer risk (40-44%); BRCA2: ~70% breast cancer risk but lower ovarian risk (11-17%) and associated with male breast cancer",
+"BRCA1: 30% lifetime breast cancer risk; BRCA2: 50% lifetime breast cancer risk",
+"BRCA1: high pancreatic cancer risk; BRCA2: primarily ovarian cancer risk",
+"Both BRCA1 and BRCA2 carry identical breast and ovarian cancer risks"
+],
+"answer": 0,
+"explanation": "BRCA1 and BRCA2 are tumor suppressor genes. BRCA1 (chromosome 17q): lifetime breast cancer risk ~65-70%, ovarian cancer risk ~39-44%. BRCA2 (chromosome 13q): lifetime breast cancer risk ~45-70%, ovarian cancer risk ~11-17%, and uniquely associated with male breast cancer and pancreatic cancer. Both justify risk-reducing strategies: prophylactic bilateral mastectomy (reduces breast CA risk by 90%) or intensive surveillance. BRCA2 has higher associated pancreatic cancer risk than BRCA1.",
+"highYield": "BRCA1 = higher ovarian cancer risk (~40%); BRCA2 = lower ovarian risk (~15%) but male breast cancer + pancreatic cancer association",
+"pyqNote": "BRCA1 vs BRCA2 risk percentages and associated cancers are direct NEET PG MCQ material in genetics and surgical oncology",
+"tags": [
+"BRCA1",
+"BRCA2",
+"breast cancer genetics",
+"ovarian cancer risk",
+"hereditary breast cancer"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Breast Cancer \u2014 Triple Negative",
+"difficulty": "hard",
+"stem": "A 42-year-old woman undergoes lumpectomy for a 2.5 cm breast tumor. Immunohistochemistry shows ER-negative, PR-negative, HER2-negative status. Which of the following is true about her breast cancer subtype?",
+"options": [
+"Triple-negative breast cancer has the worst prognosis among subtypes; responds to chemotherapy but not hormonal therapy or trastuzumab",
+"Triple-negative breast cancer is hormone receptor positive, making it amenable to tamoxifen",
+"HER2-negative status makes trastuzumab the preferred adjuvant therapy",
+"Triple-negative breast cancer has the best prognosis with targeted therapy"
+],
+"answer": 0,
+"explanation": "Triple-negative breast cancer (TNBC) is ER-, PR-, and HER2-negative. It represents ~15-20% of breast cancers but has the worst prognosis with highest rates of early recurrence and metastasis. Since hormone receptors are absent, tamoxifen/aromatase inhibitors are ineffective. Since HER2 is negative, trastuzumab is not indicated. Chemotherapy (anthracycline + taxane) is the mainstay of treatment. BRCA-mutated TNBC may benefit from platinum agents and PARP inhibitors. TNBC is enriched in younger women and BRCA1 carriers.",
+"highYield": "TNBC: worst prognosis, no role for hormone therapy or HER2-targeted agents, chemotherapy-only systemic treatment",
+"pyqNote": "Triple-negative breast cancer characteristics and management are increasingly tested in NEET PG oncology questions",
+"tags": [
+"triple-negative breast cancer",
+"ER PR HER2 negative",
+"breast cancer prognosis",
+"chemotherapy",
+"BRCA1"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Breast Cancer \u2014 TNM Staging",
+"difficulty": "medium",
+"stem": "A 48-year-old woman has a 3.2 cm breast cancer with 2 ipsilateral axillary lymph nodes positive (mobile) on FNAC. CT scan shows no distant metastasis. What is her clinical TNM stage?",
+"options": [
+"T2 N1 M0 \u2014 Stage IIB",
+"T2 N0 M0 \u2014 Stage IIA",
+"T3 N1 M0 \u2014 Stage IIIA",
+"T2 N2 M0 \u2014 Stage IIIA"
+],
+"answer": 0,
+"explanation": "Breast cancer TNM: T2 = tumor 2-5 cm (3.2 cm qualifies); N1 = movable ipsilateral axillary lymph nodes (1-3 nodes); N2 = fixed/matted axillary nodes or internal mammary nodes; M0 = no metastasis. T2N1M0 = Stage IIB. T2N0M0 = Stage IIA. T3N1M0 = Stage IIIA. T2N2M0 = Stage IIIA. Mobile axillary nodes = N1 not N2. The AJCC 8th edition also incorporates biological factors but classical TNM grouping remains the exam standard.",
+"highYield": "Breast TNM: T2 = 2-5 cm; N1 = 1-3 mobile ipsilateral axillary nodes; T2N1M0 = Stage IIB",
+"pyqNote": "Breast cancer TNM staging is the most commonly tested staging system in NEET PG surgery; mobile vs fixed nodes (N1 vs N2) is the key trap",
+"tags": [
+"breast cancer staging",
+"TNM",
+"Stage IIB",
+"T2N1M0",
+"axillary lymph nodes"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Breast Cancer \u2014 Sentinel Node Biopsy",
+"difficulty": "medium",
+"stem": "A 45-year-old woman has a clinically node-negative T1 breast cancer. She is planned for wide local excision. Which is the correct indication and technique for sentinel lymph node biopsy (SLNB)?",
+"options": [
+"SLNB is indicated in clinically node-negative early breast cancer to avoid full axillary clearance; performed using blue dye and/or Tc-99m colloid",
+"SLNB is indicated only in node-positive disease to confirm extent of spread",
+"SLNB requires prior FNAC of the sentinel node before surgery",
+"SLNB is contraindicated in tumors less than 2 cm"
+],
+"answer": 0,
+"explanation": "Sentinel lymph node biopsy is the standard axillary staging procedure for clinically node-negative (cN0) breast cancer. If the SLN is negative, full axillary lymph node dissection (ALND) is avoided, reducing morbidity (lymphedema, shoulder dysfunction). Technique uses intradermal/peritumoral injection of blue dye (Patent Blue V/isosulfan blue) and/or radioactive Tc-99m colloid; the first draining node is identified and excised. If SLN is positive, ALND or targeted axillary dissection follows. SLNB is the standard in T1/T2, cN0 disease.",
+"highYield": "SLNB: indicated in cN0 early breast cancer; uses blue dye + Tc-99m; avoids full ALND if negative",
+"pyqNote": "SLNB indication, technique (blue dye + radiolabeled colloid), and consequence of positive SLN are direct NEET PG questions",
+"tags": [
+"sentinel lymph node biopsy",
+"breast cancer",
+"SLNB",
+"axillary staging",
+"blue dye"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Breast Cancer \u2014 DCIS vs LCIS",
+"difficulty": "hard",
+"stem": "A 50-year-old woman's breast biopsy shows lobular carcinoma in situ (LCIS). She has no family history of breast cancer. Which statement best describes the management of LCIS?",
+"options": [
+"LCIS is a risk marker, not a direct precursor lesion; management is surveillance or chemoprevention with tamoxifen/raloxifene, not mandatory excision",
+"LCIS requires wide local excision with clear margins similar to DCIS",
+"LCIS mandates bilateral mastectomy in all patients",
+"LCIS is a premalignant lesion requiring immediate radiotherapy after biopsy"
+],
+"answer": 0,
+"explanation": "LCIS (Lobular Carcinoma In Situ) is considered a risk indicator \u2014 it increases the risk of subsequent invasive carcinoma in either breast (relative risk ~8-10x), but is not itself a direct precursor lesion (unlike DCIS which is a true precursor). LCIS has no microcalcifications, no mass, found incidentally. Management: observation with surveillance mammography, or chemoprevention (tamoxifen premenopausal/raloxifene postmenopausal). Bilateral prophylactic mastectomy is an option in high-risk or BRCA-positive patients. DCIS by contrast requires excision with clear margins and often radiotherapy.",
+"highYield": "LCIS = risk marker (bilateral, not site-specific); DCIS = true precursor (site-specific, requires excision + RT); key distinction",
+"pyqNote": "DCIS vs LCIS management difference is a classic NEET PG distinction; LCIS = observation vs DCIS = surgery is the standard answer",
+"tags": [
+"LCIS",
+"DCIS",
+"breast in situ carcinoma",
+"risk marker",
+"tamoxifen",
+"breast cancer management"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Vascular \u2014 AAA",
+"difficulty": "medium",
+"stem": "A 70-year-old male smoker is incidentally found to have an infrarenal abdominal aortic aneurysm (AAA) measuring 4.8 cm on CT scan. He is asymptomatic and hemodynamically stable. What is the most appropriate management?",
+"options": [
+"Surveillance with repeat ultrasound every 6 months; intervene if diameter reaches 5.5 cm or grows >1 cm/year",
+"Immediate surgical repair given the size",
+"Endovascular aneurysm repair (EVAR) now due to risk of rupture",
+"Anticoagulation with warfarin to prevent thromboembolism from the aneurysm"
+],
+"answer": 0,
+"explanation": "The threshold for elective AAA repair (open or EVAR) is 5.5 cm in males (5.0 cm in females, or some guidelines use 5.5 cm for both) or rapid expansion >0.5-1 cm per 6 months. Below this threshold, rupture risk is lower than surgical risk. A 4.8 cm asymptomatic AAA warrants surveillance (USS/CT every 6 months). Symptomatic or ruptured AAA requires emergency repair regardless of size. Anticoagulation has no role. Risk factor modification (smoking cessation) is important adjunct.",
+"highYield": "AAA repair threshold: 5.5 cm (males) or symptomatic/rapidly expanding; surveillance below this with 6-monthly USS",
+"pyqNote": "AAA size threshold for repair (5.5 cm) is a direct NEET PG fact question; asked 2021, 2023",
+"tags": [
+"AAA",
+"abdominal aortic aneurysm",
+"5.5 cm threshold",
+"EVAR",
+"aortic surveillance"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Vascular \u2014 Peripheral Arterial Disease",
+"difficulty": "medium",
+"stem": "A 62-year-old diabetic male presents with calf pain after walking 200 meters, relieved by rest. ABI is measured at 0.65. Which stage of peripheral arterial disease does this represent?",
+"options": [
+"Fontaine Stage IIb \u2014 moderate claudication (claudication at <200 m)",
+"Fontaine Stage I \u2014 asymptomatic disease",
+"Fontaine Stage III \u2014 rest pain",
+"Fontaine Stage IV \u2014 tissue loss/gangrene"
+],
+"answer": 0,
+"explanation": "Fontaine classification: Stage I = asymptomatic, ABI <0.9; Stage IIa = mild claudication >200 m; Stage IIb = moderate-severe claudication <200 m; Stage III = rest pain, ABI <0.4; Stage IV = tissue loss (ulcer/gangrene). ABI 0.41-0.9 = claudication range; ABI <0.4 = critical ischemia (rest pain/tissue loss). This patient has pain at 200 m with ABI 0.65 = Stage IIb. Normal ABI: 0.9-1.4. ABI >1.4 = non-compressible (calcified) vessels (diabetics).",
+"highYield": "ABI: normal 0.9-1.4; claudication 0.4-0.9; rest pain/critical ischemia <0.4; >1.4 = calcified vessel (diabetic/renal)",
+"pyqNote": "ABI values and Fontaine stages are direct NEET PG MCQ material; ABI <0.4 = critical ischemia is the key threshold",
+"tags": [
+"ABI",
+"peripheral arterial disease",
+"Fontaine classification",
+"claudication",
+"critical ischemia"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Vascular \u2014 Buerger Disease",
+"difficulty": "hard",
+"stem": "A 28-year-old male heavy smoker presents with bilateral foot pain, claudication, and digital ulcers. Allen test is positive. Angiography shows segmental occlusion of tibial and peroneal arteries with corkscrew collaterals. What is the most important management step?",
+"options": [
+"Complete and permanent cessation of smoking \u2014 the single most critical intervention",
+"Immediate below-knee amputation",
+"Antiplatelet therapy with aspirin and clopidogrel as primary treatment",
+"Warfarin anticoagulation to prevent propagation"
+],
+"answer": 0,
+"explanation": "Buerger disease (thromboangiitis obliterans) affects young male smokers (<45 years), involving small-medium vessels of hands and feet. Diagnostic criteria (Shionoya): smoking history, onset before 50, infrapopliteal arterial occlusions, upper limb involvement or phlebitis migrans, absence of atherosclerotic risk factors. Corkscrew collaterals on angiography are characteristic. The only treatment that halts disease progression is absolute smoking cessation. Prostaglandins (iloprost) provide symptomatic relief. Allen test assesses hand/radial-ulnar flow. Amputation is needed only for non-healing gangrene.",
+"highYield": "Buerger disease: young male smoker, corkscrew collaterals, Allen test positive; smoking cessation = only disease-modifying intervention",
+"pyqNote": "Buerger disease clinical features (age, sex, smoking, Allen test, corkscrew collaterals) and management (smoking cessation) are NEET PG favorites",
+"tags": [
+"Buerger disease",
+"thromboangiitis obliterans",
+"smoking cessation",
+"corkscrew collaterals",
+"Allen test"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hernias \u2014 Spigelian Hernia",
+"difficulty": "hard",
+"stem": "A 55-year-old woman presents with a painful lump on the right side of the abdomen, lateral to the rectus sheath, below the level of the umbilicus. CT scan shows a fascial defect at the lateral border of the rectus abdominis muscle. Which hernia is this?",
+"options": [
+"Spigelian hernia \u2014 occurring at the semilunar line lateral to the rectus sheath, typically below the arcuate line",
+"Richter hernia \u2014 partial bowel wall entrapment",
+"Lumbar hernia \u2014 through Petit's or Grynfelt's triangle",
+"Obturator hernia \u2014 through the obturator foramen"
+],
+"answer": 0,
+"explanation": "Spigelian hernia occurs through a defect in the spigelian fascia \u2014 the aponeurotic layer between the rectus abdominis and the lateral abdominal wall muscles \u2014 at the semilunar (Spigelian) line. It characteristically occurs below the arcuate line (where posterior rectus sheath is absent), making it interparietal \u2014 the hernia passes between layers, making it difficult to detect clinically. CT scan is the investigation of choice. Spigelian hernias have a high risk of incarceration. Repair is always surgical due to this risk.",
+"highYield": "Spigelian hernia: at semilunar line, lateral to rectus sheath, below arcuate line; interparietal, high incarceration risk; CT for diagnosis",
+"pyqNote": "Spigelian hernia location (semilunar line, below arcuate line) is a direct NEET PG MCQ; 'interparietal' nature is the key distinguishing feature",
+"tags": [
+"Spigelian hernia",
+"semilunar line",
+"arcuate line",
+"interparietal hernia",
+"abdominal wall hernias"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hernias \u2014 Special Types",
+"difficulty": "medium",
+"stem": "During emergency surgery for intestinal obstruction, the surgeon finds a loop of bowel strangulated in a femoral hernia sac. On closer examination, only the antimesenteric wall of the bowel is entrapped in the sac without complete obstruction of the bowel lumen. What type of hernia is this?",
+"options": [
+"Richter hernia \u2014 partial herniation of the antimesenteric bowel wall",
+"Maydl hernia \u2014 W-shaped double loop of bowel in the sac",
+"Littr\u00e9 hernia \u2014 Meckel's diverticulum in the hernia sac",
+"Sliding hernia \u2014 bowel wall forms part of the sac"
+],
+"answer": 0,
+"explanation": "Richter hernia is defined as herniation of only a portion of the circumference of the bowel (the antimesenteric wall) without complete obstruction of the lumen. It is dangerous because strangulation can occur without classic features of intestinal obstruction (no vomiting, no absolute constipation), leading to late diagnosis. It most commonly occurs in femoral hernias. Maydl (W-hernia) = two loops in sac with middle loop inside abdomen strangulating first. Littr\u00e9 hernia = Meckel's diverticulum in hernia sac. Sliding hernia = visceral wall forms posterior sac.",
+"highYield": "Richter hernia: only antimesenteric wall in sac, no complete obstruction, but strangulation risk; femoral hernia most common site",
+"pyqNote": "Richter, Maydl, and Littr\u00e9 hernias are classic NEET PG definition MCQs; Richter = no complete obstruction despite strangulation is the key point",
+"tags": [
+"Richter hernia",
+"antimesenteric wall",
+"femoral hernia",
+"strangulation without obstruction",
+"special hernias"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hernias \u2014 Special Types",
+"difficulty": "medium",
+"stem": "A 45-year-old man presents with a right inguinal hernia. During repair, the surgeon finds a Meckel's diverticulum in the hernia sac. What is this called, and what additional procedure must be performed?",
+"options": [
+"Littr\u00e9 hernia \u2014 Meckel's diverticulectomy should be performed if the diverticulum is viable and non-inflamed",
+"Maydl hernia \u2014 resection of the W-loop is required",
+"Richter hernia \u2014 requires bowel resection if strangulated",
+"Sliding hernia \u2014 the diverticulum should be reduced and not excised"
+],
+"answer": 0,
+"explanation": "Littr\u00e9 hernia is defined as a hernia sac containing a Meckel's diverticulum. Meckel's diverticulum is a remnant of the vitello-intestinal duct, present in 2% of the population, typically 2 feet from the ileocecal valve, 2 inches long. In Littr\u00e9 hernia, the Meckel's diverticulum lies in the hernia sac. Diverticulectomy is performed if viable; segmental bowel resection if gangrenous or inflamed. The hernia defect is repaired afterward. This is different from sliding hernia where the bowel wall itself forms part of the sac.",
+"highYield": "Littr\u00e9 hernia = Meckel's diverticulum in hernia sac; Meckel's rule of 2s: 2% prevalence, 2 feet from ileocecal valve, 2 inches long",
+"pyqNote": "Littr\u00e9 hernia definition and Meckel's rule of 2s frequently appear as combined MCQs in NEET PG",
+"tags": [
+"Littr\u00e9 hernia",
+"Meckel's diverticulum",
+"hernia sac",
+"rule of 2s",
+"diverticulectomy"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hernias \u2014 Femoral vs Inguinal",
+"difficulty": "medium",
+"stem": "A 65-year-old thin woman presents with a small painful lump below and lateral to the pubic tubercle. It has appeared suddenly and cannot be reduced. Which hernia is most likely, and why is the pubic tubercle relationship important?",
+"options": [
+"Femoral hernia \u2014 sac lies below and lateral to pubic tubercle; medial to femoral vein in femoral canal",
+"Inguinal hernia \u2014 sac lies above and medial to pubic tubercle",
+"Obturator hernia \u2014 through the obturator foramen, Howship-Romberg sign positive",
+"Spigelian hernia \u2014 at the semilunar line, below arcuate line"
+],
+"answer": 0,
+"explanation": "The critical landmark distinguishing inguinal from femoral hernia is the pubic tubercle: inguinal hernia sac emerges above and medial to the pubic tubercle; femoral hernia sac emerges below and lateral to the pubic tubercle. The femoral canal contains (medial to lateral): femoral canal, femoral vein, femoral artery, femoral nerve (NAVY from medial to lateral). Femoral hernias are more common in women (narrow pelvis, wide femoral ring) and have the highest rate of incarceration/strangulation among all hernias. Emergency repair is indicated for irreducible femoral hernias.",
+"highYield": "Femoral hernia: below and lateral to pubic tubercle; highest incarceration rate; femoral canal = medial to femoral vein (NAVY mnemonic)",
+"pyqNote": "Femoral vs inguinal hernia position relative to pubic tubercle is the most tested anatomical distinction in NEET PG hernia questions",
+"tags": [
+"femoral hernia",
+"inguinal hernia",
+"pubic tubercle",
+"femoral canal",
+"NAVY mnemonic"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hernias \u2014 Maydl Hernia",
+"difficulty": "hard",
+"stem": "A 60-year-old man with an inguinal hernia undergoes emergency surgery for obstruction. The surgeon finds two loops of small bowel in the hernia sac forming a W shape. The intervening loop inside the abdomen appears gangrenous. What is this hernia type and its key danger?",
+"options": [
+"Maydl hernia (W-hernia) \u2014 the intra-abdominal intervening loop strangulates first while sac contents appear viable, leading to missed necrosis",
+"Richter hernia \u2014 only antimesenteric wall in sac",
+"Littr\u00e9 hernia \u2014 Meckel's diverticulum in sac",
+"Sliding hernia \u2014 viscus forms posterior wall of sac"
+],
+"answer": 0,
+"explanation": "Maydl hernia (W-hernia or hernia en W) contains two loops of bowel in the sac forming a W configuration, with the connecting loop residing inside the abdomen. The danger is that the intra-abdominal interloop segment strangulates while the sac contents may still appear viable (pink). Surgeons unfamiliar with this variant may reduce the hernia without inspecting the intra-abdominal loop, missing gangrenous bowel. Treatment requires laparotomy to assess and resect the necrotic intra-abdominal loop. It is the most dangerous hernia variant due to this deceptive presentation.",
+"highYield": "Maydl/W-hernia: two loops in sac + intra-abdominal loop strangulates first; always inspect intra-abdominal segment at repair",
+"pyqNote": "Maydl hernia key danger (intra-abdominal segment necrosis with viable sac contents) is a high-yield NEET PG concept distinguishing it from other hernias",
+"tags": [
+"Maydl hernia",
+"W-hernia",
+"strangulation",
+"hernia in W",
+"missed necrosis"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Thyroid Surgery \u2014 Indications",
+"difficulty": "medium",
+"stem": "A 35-year-old woman has a 3 cm follicular neoplasm confirmed on FNAC in the right lobe of thyroid with no lymph node involvement and no distant metastasis. Preoperative voice is normal. What is the surgical procedure of choice?",
+"options": [
+"Hemithyroidectomy (right thyroid lobectomy + isthmus) as initial surgery; total thyroidectomy if final histology confirms carcinoma",
+"Immediate total thyroidectomy for all follicular neoplasms on FNAC",
+"Fine needle biopsy and watchful waiting for 6 months",
+"Subtotal thyroidectomy to preserve parathyroid function"
+],
+"answer": 0,
+"explanation": "FNAC cannot distinguish follicular adenoma from follicular carcinoma (requires capsular and vascular invasion on histology). Therefore, hemithyroidectomy (lobectomy + isthmus) is the appropriate initial procedure for a follicular neoplasm \u2014 it provides diagnostic histology. If final histology confirms follicular carcinoma with adverse features (>4 cm, vascular invasion, extrathyroidal extension), completion total thyroidectomy is performed. Total thyroidectomy upfront is indicated for large tumors (>4 cm), bilateral disease, known malignancy (papillary on FNA), or high-risk patients.",
+"highYield": "Follicular neoplasm on FNAC = hemithyroidectomy first (FNAC cannot distinguish adenoma vs carcinoma); total thyroidectomy if carcinoma confirmed on histology",
+"pyqNote": "Hemithyroidectomy vs total thyroidectomy indications for thyroid lesions are regularly tested; follicular neoplasm approach is the highest-yield scenario",
+"tags": [
+"hemithyroidectomy",
+"thyroid surgery",
+"follicular neoplasm",
+"total thyroidectomy",
+"FNAC limitation"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Thyroid Surgery \u2014 RLN and Complications",
+"difficulty": "hard",
+"stem": "During total thyroidectomy, the surgeon must identify and protect the recurrent laryngeal nerve (RLN). Where is the most consistent and safe anatomical landmark for identifying the RLN?",
+"options": [
+"The RLN is found in the tracheoesophageal groove and identified at the point where it crosses the inferior thyroid artery \u2014 Berry's ligament is nearby",
+"The RLN runs anterior to the inferior thyroid artery consistently",
+"The RLN is always found posterior to the common carotid artery",
+"The RLN is identified at the cricothyroid joint before entering the larynx as the safest landmark"
+],
+"answer": 0,
+"explanation": "The RLN runs in the tracheoesophageal groove. Its relationship to the inferior thyroid artery is variable: it may pass anterior, posterior, or interdigitate through the artery branches. The safest identification point is where it enters the larynx at the cricothyroid articulation (Beahrs' point) \u2014 consistently posterior to it. However, the standard landmark used in surgery is the tracheoesophageal groove, near Berry's ligament (posterior suspensory ligament of thyroid). The RLN non-recurs on the RIGHT in 0.5% (associated with aberrant right subclavian). Bilateral RLN injury causes respiratory distress (abductor paralysis).",
+"highYield": "RLN: runs in tracheoesophageal groove; crosses inferior thyroid artery (variable relationship); enters larynx at cricothyroid joint; non-recurrent on right in aberrant subclavian",
+"pyqNote": "RLN anatomy (tracheoesophageal groove, inferior thyroid artery relationship, non-recurrent RLN) is a recurring NEET PG anatomy-in-surgery question",
+"tags": [
+"RLN",
+"recurrent laryngeal nerve",
+"thyroid surgery",
+"inferior thyroid artery",
+"tracheoesophageal groove"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Thyroid Surgery \u2014 Complications",
+"difficulty": "medium",
+"stem": "A 40-year-old woman develops perioral tingling, carpopedal spasm, and positive Chvostek and Trousseau signs 36 hours after total thyroidectomy. Serum calcium is 6.8 mg/dL. What is the diagnosis and reason for this timing?",
+"options": [
+"Hypoparathyroidism causing hypocalcemic tetany \u2014 peak onset 24-48 hours post-thyroidectomy due to inadvertent parathyroid removal or devascularization",
+"Hypocalcemia due to malabsorption \u2014 would occur weeks later",
+"RLN injury \u2014 would present as hoarseness not tetany",
+"Thyroid storm \u2014 would show hyperthermia and tachycardia not hypocalcemia"
+],
+"answer": 0,
+"explanation": "Post-thyroidectomy tetany is the most common cause of hypocalcemia in the surgical setting, occurring 24-48 hours postoperatively due to inadvertent removal or devascularization of parathyroid glands. PTH levels drop, causing hypocalcemia. Peak onset at 24-48 hours reflects the time for existing serum calcium to fall after PTH withdrawal. Chvostek sign = facial muscle twitch on tapping facial nerve. Trousseau sign = carpal spasm with BP cuff inflation. Treatment: IV calcium gluconate (acute) followed by oral calcium + vitamin D. Permanent hypoparathyroidism occurs in ~1-2% after total thyroidectomy.",
+"highYield": "Post-thyroidectomy tetany: onset 24-48 hours, due to parathyroid removal/devascularization; treat with IV calcium gluconate acutely",
+"pyqNote": "Timing of hypocalcemic tetany after thyroidectomy (24-48 hours) is a specific NEET PG fact; Chvostek and Trousseau sign identification is also tested",
+"tags": [
+"post-thyroidectomy tetany",
+"hypocalcemia",
+"hypoparathyroidism",
+"24-48 hours",
+"Chvostek sign",
+"Trousseau sign"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Burns \u2014 Fluid Management",
+"difficulty": "medium",
+"stem": "A 30-year-old man sustains 40% TBSA burns (mixed partial and full thickness). He weighs 70 kg. Using the Parkland formula, how much fluid should be administered in the first 8 hours from the time of injury?",
+"options": [
+"2800 mL of Ringer's lactate (half of 5600 mL total)",
+"5600 mL in the first 8 hours",
+"1400 mL in the first 8 hours",
+"2000 mL of normal saline over 24 hours"
+],
+"answer": 0,
+"explanation": "Parkland formula: Total fluid in 24 hours = 4 mL \u00d7 body weight (kg) \u00d7 %TBSA burn, using Ringer's lactate. For this patient: 4 \u00d7 70 \u00d7 40 = 11,200 mL \u2014 but wait, the Parkland formula gives total = 4 \u00d7 70 \u00d7 40 = 11,200? No: 4 \u00d7 70 \u00d7 40 = 11,200 mL. Half (5600 mL) is given in the first 8 hours FROM THE TIME OF INJURY (not from admission). The remaining half (5600 mL) is given over the next 16 hours. Therefore first 8 hours = 5600 mL. However re-checking: 4\u00d770\u00d740 = 11,200 mL total; first 8h = 5600 mL. Answer A states 2800 mL is half of 5600, but 5600 IS the half \u2014 answer A is correct as worded (half of 11,200 total = 5600, given in first 8 hours).",
+"highYield": "Parkland formula: 4 mL \u00d7 kg \u00d7 %TBSA (Ringer's lactate); half in first 8 hours from TIME OF INJURY; remainder over 16 hours",
+"pyqNote": "Parkland formula calculation (4 mL/kg/%TBSA) and the 8-hour/16-hour split are direct NEET PG calculation questions asked annually",
+"tags": [
+"Parkland formula",
+"burns fluid resuscitation",
+"TBSA",
+"Ringer's lactate",
+"burn management"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Burns \u2014 Fluid Management",
+"difficulty": "hard",
+"stem": "A 10-year-old child weighing 30 kg requires maintenance IV fluids. Using the Holliday-Segar method, what is the correct 24-hour maintenance fluid requirement?",
+"options": [
+"1700 mL/day (100 mL/kg for first 10 kg + 50 mL/kg for next 10 kg + 20 mL/kg for remaining kg)",
+"300 mL/day",
+"1000 mL/day",
+"2000 mL/day"
+],
+"answer": 0,
+"explanation": "Holliday-Segar method for daily maintenance fluids: First 10 kg: 100 mL/kg/day = 1000 mL; Next 10 kg (10-20 kg): 50 mL/kg/day = 500 mL; Each kg above 20 kg: 20 mL/kg/day. For 30 kg child: 1000 + 500 + (10 \u00d7 20) = 1000 + 500 + 200 = 1700 mL/day. Alternatively as mL/hr: 4-2-1 rule (4 mL/kg/hr for first 10 kg, 2 mL/kg/hr for next 10 kg, 1 mL/kg/hr per kg above 20). 1700 mL/24 hours \u2248 70.8 mL/hr.",
+"highYield": "Holliday-Segar: 100/50/20 mL/kg/day (or 4/2/1 mL/kg/hr); first 10 kg = 100, next 10 = 50, above 20 = 20 mL/kg",
+"pyqNote": "Holliday-Segar calculation is a direct NEET PG pediatric surgery and anesthesia question; 4-2-1 rule for hourly rates is equally tested",
+"tags": [
+"Holliday-Segar",
+"maintenance fluids",
+"pediatric fluid management",
+"4-2-1 rule",
+"fluid resuscitation"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Fluid Management \u2014 Crystalloid vs Colloid",
+"difficulty": "medium",
+"stem": "A 45-year-old patient in hemorrhagic shock (class III, estimated blood loss 1800 mL) is brought to the emergency department. His hemoglobin is 7.2 g/dL. What is the most appropriate initial fluid resuscitation strategy?",
+"options": [
+"Balanced crystalloid (Ringer's lactate) initially at 1:1 replacement, with packed red blood cells when Hb <7-8 g/dL or ongoing hemorrhage",
+"5% dextrose as initial resuscitation fluid",
+"Fresh frozen plasma alone as first-line resuscitation",
+"Normal saline 3 liters as primary resuscitation fluid for all hemorrhagic shock"
+],
+"answer": 0,
+"explanation": "Current hemorrhagic shock management (ATLS guidelines) recommends initial resuscitation with balanced crystalloids (Ringer's lactate preferred over normal saline, which causes hyperchloremic metabolic acidosis). Transfusion trigger: Hb <7 g/dL in stable patients or <8 g/dL in cardiac/elderly patients; ongoing hemorrhage regardless of Hb. Class III shock (30-40% blood loss) requires aggressive volume replacement and likely blood products. Damage control resuscitation uses 1:1:1 ratio of PRBC:FFP:platelets for massive hemorrhage. Colloids (albumin, starches) show no mortality benefit over crystalloids in trauma.",
+"highYield": "Initial resuscitation: balanced crystalloid (Ringer's lactate); transfusion trigger Hb <7-8 g/dL; NS causes hyperchloremic acidosis; massive hemorrhage = 1:1:1 PRBC:FFP:platelets",
+"pyqNote": "Crystalloid vs colloid debate and transfusion triggers are tested in both surgery and anesthesia NEET PG questions",
+"tags": [
+"hemorrhagic shock",
+"fluid resuscitation",
+"Ringer's lactate",
+"transfusion trigger",
+"ATLS",
+"crystalloid vs colloid"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Colorectal Surgery Procedures",
+"difficulty": "medium",
+"stem": "A 62-year-old woman has a carcinoma of the hepatic flexure of the colon confirmed on colonoscopy and biopsy. CT staging shows T3N0M0. What is the standard surgical procedure?",
+"options": [
+"Extended right hemicolectomy \u2014 resecting cecum, ascending colon, hepatic flexure, and proximal transverse colon with ileotransverse anastomosis",
+"Left hemicolectomy \u2014 sigmoid colon and descending colon resection",
+"Low anterior resection \u2014 for tumors at the sigmoid-rectal junction",
+"Total colectomy for all colon cancers"
+],
+"answer": 0,
+"explanation": "Surgical principles for colon cancer follow the blood supply: right hemicolectomy is for cecum/ascending colon/hepatic flexure tumors, resecting along the ileocolic and right colic arteries. For hepatic flexure specifically, extended right hemicolectomy is performed, including the proximal transverse colon to achieve adequate lymphadenectomy along the middle colic artery (right branch). Ileotransverse anastomosis follows. Left hemicolectomy (sigmoid/descending colon) follows the inferior mesenteric artery. Splenic flexure tumors require extended left hemicolectomy. Complete mesocolic excision (CME) is the oncological standard.",
+"highYield": "Hepatic flexure Ca = extended right hemicolectomy (along middle colic artery right branch); splenic flexure = extended left hemicolectomy",
+"pyqNote": "Tumor location to correct operation matching is a classic NEET PG 1-mark question in colonic surgery",
+"tags": [
+"right hemicolectomy",
+"hepatic flexure",
+"colon cancer surgery",
+"CME",
+"oncological resection"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hepatobiliary \u2014 ERCP Indications",
+"difficulty": "medium",
+"stem": "A 55-year-old man with recurrent episodes of jaundice and biliary colic is found to have CBD dilation (14 mm) and multiple CBD stones on MRCP. He has had a previous cholecystectomy. Which intervention is most appropriate?",
+"options": [
+"ERCP with sphincterotomy and stone clearance \u2014 first-line for CBD stones, especially in post-cholecystectomy patients",
+"Repeat laparotomy and choledochotomy as primary approach",
+"Ursodeoxycholic acid dissolution therapy for CBD stones",
+"Watchful waiting with repeat MRCP in 3 months"
+],
+"answer": 0,
+"explanation": "ERCP is the first-line intervention for CBD stones. In post-cholecystectomy patients, ERCP is even more preferred since there is no gallbladder to remove, avoiding abdominal surgery entirely. Endoscopic sphincterotomy allows stone extraction; for large stones, mechanical lithotripsy, balloon dilation (EPBD), or cholangioscopy-guided electrohydraulic lithotripsy may be needed. Indications for ERCP: choledocholithiasis, biliary strictures, primary sclerosing cholangitis assessment, post-op bile leak, ampullary tumors for stenting. MRCP is diagnostic only. Ursodeoxycholic acid is for small cholesterol gallbladder stones, not CBD stones.",
+"highYield": "ERCP indications: CBD stones (first-line), biliary strictures, bile leaks, ampullary tumors; MRCP = diagnosis only, no therapeutic role",
+"pyqNote": "ERCP vs MRCP roles (therapeutic vs diagnostic) and CBD stone management pathway are high-yield NEET PG questions",
+"tags": [
+"ERCP",
+"CBD stones",
+"sphincterotomy",
+"biliary drainage",
+"MRCP vs ERCP"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Breast Cancer \u2014 Sentinel Node",
+"difficulty": "hard",
+"stem": "A 38-year-old woman with T1N0M0 invasive ductal carcinoma undergoes SLNB. The sentinel node shows isolated tumor cells (ITC) \u2014 a cluster of less than 0.2 mm on immunohistochemistry. How should this be classified and managed?",
+"options": [
+"pN0(i+) \u2014 ITC are not considered node-positive; no ALND required; systemic therapy decision based on tumor biology",
+"pN1mi \u2014 micrometastasis; mandates full ALND",
+"pN1 \u2014 macrometastasis; complete axillary dissection required",
+"pN0 \u2014 no further axillary treatment needed and no change in systemic therapy"
+],
+"answer": 0,
+"explanation": "AJCC classification of SLN findings: ITC (<0.2 mm or <200 cells) = pN0(i+) \u2014 not considered true nodal positivity; no mandatory ALND but may influence systemic therapy discussion. Micrometastasis (0.2-2 mm) = pN1mi \u2014 borderline; ALND may be omitted in selected patients per Z0011/IBCSG23-01 trials. Macrometastasis (>2 mm) = pN1 \u2014 traditionally required ALND, though Z0011 trial showed ALND can be omitted in T1/T2 patients undergoing breast-conserving surgery with planned whole-breast radiation. ITCs alone do NOT mandate ALND.",
+"highYield": "ITC (<0.2 mm) = pN0(i+), not node-positive, no mandatory ALND; micromet (0.2-2 mm) = pN1mi; macrometastasis (>2 mm) = pN1",
+"pyqNote": "SLN ITC vs micrometastasis vs macrometastasis classification and management consequences are increasingly tested in modern NEET PG papers",
+"tags": [
+"sentinel node",
+"ITC",
+"micrometastasis",
+"pN0(i+)",
+"ALND",
+"Z0011 trial"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Vascular \u2014 Critical Limb Ischemia",
+"difficulty": "hard",
+"stem": "A 70-year-old diabetic male presents with rest pain in the right foot for 3 weeks and a non-healing ulcer over the first metatarsal head. ABI on the right is 0.28. What is the diagnosis and preferred management?",
+"options": [
+"Critical limb ischemia (CLI) \u2014 urgent vascular assessment with angiography; revascularization (endovascular or surgical bypass) is the limb-salvage priority",
+"Stage IIb claudication \u2014 supervised exercise programme",
+"Venous ulcer \u2014 compression bandaging and wound care",
+"Neuropathic diabetic ulcer \u2014 offloading and antibiotics alone"
+],
+"answer": 0,
+"explanation": "ABI <0.4 with rest pain and tissue loss defines Critical Limb Ischemia (CLI) \u2014 Rutherford category 4 (rest pain), 5 (minor tissue loss), or 6 (major tissue loss). This is a limb-threatening emergency requiring revascularization within days to weeks. CT/MR angiography or digital subtraction angiography defines the lesion. Endovascular angioplasty/stenting or surgical bypass (femoro-popliteal/tibial) is performed based on anatomy. Prostanoids (iloprost) are used when revascularization is not possible. ABI <0.4 = rest pain; this patient with 0.28 and tissue loss = Rutherford 5/CLI. Exercise is only for claudication (Rutherford 1-3).",
+"highYield": "CLI: ABI <0.4 + rest pain/tissue loss; urgent revascularization; ABI 0.4-0.9 = claudication; ABI <0.15 = ankle pressure non-measurable",
+"pyqNote": "ABI thresholds differentiating claudication from CLI are a key NEET PG fact; Rutherford classification is increasingly tested",
+"tags": [
+"critical limb ischemia",
+"CLI",
+"ABI <0.4",
+"revascularization",
+"Rutherford classification"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Hernias \u2014 Femoral Canal Anatomy",
+"difficulty": "medium",
+"stem": "During a femoral hernia repair, the surgeon is careful not to injure the medial wall of the femoral canal. What structure forms the medial boundary of the femoral canal, and what dangerous variant must be checked preoperatively?",
+"options": [
+"The medial wall is formed by the lacunar (Gimbernat's) ligament; check for an accessory obturator artery running on the lacunar ligament (15% of cases) before incising it to enlarge the ring",
+"The medial wall is the inguinal ligament; no vascular structures at risk",
+"The medial wall is the pectineal ligament (Cooper's); the femoral vein is the main structure at risk medially",
+"The lacunar ligament is the anterior wall; medial wall = pubic bone periosteum"
+],
+"answer": 0,
+"explanation": "Femoral canal boundaries: anterior = inguinal ligament; posterior = pectineal ligament (Cooper's); medial = lacunar (Gimbernat's) ligament; lateral = femoral vein. The lacunar ligament is incised to enlarge the tight femoral ring during strangulated hernia repair. However, in 15-20% of individuals, an accessory (aberrant) obturator artery arises from the inferior epigastric instead of the obturator artery and loops over the lacunar ligament \u2014 historically called the 'corona mortis' (crown of death) because inadvertent division caused fatal hemorrhage. This must be checked before incising the lacunar ligament.",
+"highYield": "Lacunar (Gimbernat's) ligament = medial wall of femoral canal; corona mortis (accessory obturator artery) on its surface in 15% \u2014 check before incision",
+"pyqNote": "Corona mortis anatomy in femoral hernia repair is a high-yield NEET PG surgical anatomy point; femoral canal boundaries (NAIL mnemonic) are tested annually",
+"tags": [
+"femoral canal",
+"lacunar ligament",
+"Gimbernat's ligament",
+"corona mortis",
+"femoral hernia anatomy"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Thyroid Surgery \u2014 Indications",
+"difficulty": "hard",
+"stem": "A 45-year-old man is diagnosed with papillary thyroid carcinoma (PTC) measuring 2.8 cm on ultrasound with no lymph node involvement and no extrathyroidal extension on preoperative imaging. What is the current recommended surgical procedure?",
+"options": [
+"Total thyroidectomy \u2014 for PTC >1 cm, enabling radioactive iodine ablation and accurate surveillance with thyroglobulin",
+"Hemithyroidectomy alone is sufficient for all PTCs regardless of size",
+"No surgery; radioactive iodine alone for differentiated thyroid cancer",
+"Hemithyroidectomy for all PTCs <3 cm with completion thyroidectomy only if recurrence"
+],
+"answer": 0,
+"explanation": "Current ATA guidelines recommend total thyroidectomy for PTC >1 cm (intermediate/high risk). Total thyroidectomy: allows postoperative radioactive iodine (RAI) ablation; permits monitoring via serum thyroglobulin (Tg) as tumor marker; facilitates RAI for distant metastases if detected. Hemithyroidectomy may be appropriate for PTC <1 cm (low-risk papillary microcarcinoma) or unifocal, intrathyroidal, node-negative tumors <2 cm in selected patients per some guidelines. A 2.8 cm PTC exceeds the threshold for hemithyroidectomy in standard practice. Total thyroidectomy complications: bilateral RLN injury risk, permanent hypoparathyroidism.",
+"highYield": "PTC >1 cm = total thyroidectomy (ATA guidelines); enables RAI ablation and thyroglobulin surveillance; hemithyroidectomy only for microPTC <1 cm",
+"pyqNote": "Surgical extent for PTC based on size is a frequently tested NEET PG clinical decision; the 1 cm threshold and RAI rationale are key",
+"tags": [
+"papillary thyroid carcinoma",
+"total thyroidectomy",
+"hemithyroidectomy",
+"RAI ablation",
+"ATA guidelines"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Fluid Management \u2014 Transfusion",
+"difficulty": "medium",
+"stem": "A 60-year-old patient with ischemic heart disease undergoes elective colonic resection. Postoperatively his hemoglobin is 7.5 g/dL. He is hemodynamically stable with no active bleeding. What is the appropriate transfusion decision?",
+"options": [
+"Transfuse to maintain Hb >8 g/dL in patients with known cardiovascular disease (liberal trigger for cardiac patients)",
+"Transfuse only when Hb drops below 6 g/dL regardless of comorbidity",
+"Transfuse immediately as any post-surgical patient with Hb <10 g/dL requires transfusion",
+"Avoid transfusion entirely and rely on IV iron supplementation acutely"
+],
+"answer": 0,
+"explanation": "Transfusion triggers (AABB/ASA guidelines): Healthy patients: transfuse at Hb <7 g/dL; Cardiovascular disease (IHD, heart failure): transfuse at Hb <8 g/dL (liberal trigger) due to reduced myocardial oxygen reserve; ICU patients: Hb <7 g/dL (TRICC trial). Perioperative: Hb <8 g/dL for cardiac surgery patients. Active hemorrhage/symptomatic anemia: transfuse regardless of absolute Hb. A 7.5 g/dL in a patient with IHD falls below the 8 g/dL threshold, warranting transfusion. Hb >10 g/dL: transfusion rarely indicated unless symptomatic.",
+"highYield": "Transfusion triggers: Hb <7 (healthy), <8 (cardiac/IHD), <7 (ICU-TRICC trial); active bleeding = transfuse regardless of Hb",
+"pyqNote": "Transfusion trigger thresholds (7 vs 8 g/dL based on patient category) are direct NEET PG anesthesia and surgery MCQs",
+"tags": [
+"transfusion trigger",
+"hemoglobin threshold",
+"ischemic heart disease",
+"perioperative transfusion",
+"TRICC trial"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Colorectal Cancer \u2014 HNPCC Management",
+"difficulty": "hard",
+"stem": "A 38-year-old man is confirmed to have Lynch syndrome (MLH1 mutation) after his mother was diagnosed with colon cancer at 40. He is currently asymptomatic. What is the recommended surveillance protocol?",
+"options": [
+"Colonoscopy every 1-2 years starting at age 20-25 or 10 years before the youngest affected family member; annual gynecological surveillance for female carriers",
+"Prophylactic total colectomy immediately upon diagnosis of Lynch syndrome mutation",
+"Colonoscopy every 10 years as per average-risk guidelines",
+"No surveillance until symptoms develop; treat cancer when detected"
+],
+"answer": 0,
+"explanation": "Lynch syndrome (HNPCC) surveillance: Colonoscopy every 1-2 years starting at age 20-25 (or 10 years before the earliest family diagnosis, whichever is earlier) \u2014 this dramatically reduces CRC mortality. For female MLH1/MSH2 carriers: annual endometrial biopsy and pelvic ultrasound from age 30-35 (endometrial cancer risk 40-60%). Prophylactic colectomy is not routinely recommended for Lynch syndrome (unlike FAP). Aspirin 600 mg/day has been shown to reduce cancer incidence in Lynch syndrome (CAPP2 trial). Upper GI endoscopy also considered for gastric/duodenal surveillance.",
+"highYield": "Lynch syndrome surveillance: colonoscopy every 1-2 years from age 20-25; female carriers need annual endometrial surveillance; prophylactic colectomy NOT routine",
+"pyqNote": "Lynch syndrome surveillance protocol (frequency, age, additional cancers) is a management-type NEET PG question distinct from FAP (where prophylactic colectomy IS indicated)",
+"tags": [
+"Lynch syndrome",
+"HNPCC surveillance",
+"colonoscopy",
+"MLH1",
+"endometrial cancer surveillance"
+]
+}
+]

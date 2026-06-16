@@ -1,0 +1,845 @@
+[
+{
+"subject": "Social and Preventive Medicine",
+"topic": "National Health Programs - PMSMA",
+"difficulty": "medium",
+"stem": "A 28-year-old pregnant woman attends a government health facility on the 9th of the month for antenatal care. Under the Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA), which of the following services is she entitled to receive FREE OF COST at this visit?",
+"options": [
+"Blood grouping, urine culture, and obstetric ultrasound",
+"Complete physical examination, haemoglobin estimation, urine examination, and ultrasound",
+"Only ultrasound and iron-folic acid supplementation",
+"Nutritional supplementation and immunisation only"
+],
+"answer": 1,
+"explanation": "PMSMA guarantees comprehensive ANC on the 9th of every month including physical examination, abdominal examination, haemoglobin, urine albumin/sugar, blood group, and ultrasound \u2014 all free of cost. It targets women at or after 4 months (2nd/3rd trimester). Option A is incomplete; options C and D miss the core clinical examination component.",
+"highYield": "PMSMA is held on the 9th of every month; provides comprehensive FREE ANC in 2nd and 3rd trimester including ultrasound.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"PMSMA",
+"ANC",
+"national health programs",
+"maternal health"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "National Health Programs - Mission Indradhanush",
+"difficulty": "medium",
+"stem": "Mission Indradhanush was intensified (iMI) to cover children who had missed vaccination. Which of the following vaccines was ADDED to the Universal Immunisation Programme under Mission Indradhanush that was NOT previously in the schedule?",
+"options": [
+"DPT and OPV",
+"Rotavirus vaccine and Inactivated Polio Vaccine (IPV)",
+"BCG and Hepatitis B",
+"Measles and Vitamin A"
+],
+"answer": 1,
+"explanation": "Mission Indradhanush (2014 onwards) aimed to achieve 90% full immunisation coverage. Key NEW additions under this initiative and the expanded UIP include Rotavirus vaccine (5 doses at 6, 10, 14 weeks and 9, 16-24 months initially, later revised) and IPV (introduced 2015). DPT, OPV, BCG, Hepatitis B, and Measles were already in the UIP before Mission Indradhanush.",
+"highYield": "Mission Indradhanush target = 90% full immunisation by 2020; new vaccines added include Rotavirus, IPV, PCV, and MR.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"Mission Indradhanush",
+"UIP",
+"vaccination",
+"Rotavirus",
+"IPV"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "National Health Programs - RBSK",
+"difficulty": "medium",
+"stem": "Under Rashtriya Bal Swasthya Karyakram (RBSK), mobile health teams screen children for '4 Ds'. A 6-year-old child attending an Anganwadi is found to have a congenital heart defect. Which component of the 4 Ds does this fall under, and what is the age group targeted by RBSK?",
+"options": [
+"Deficiency \u2014 0 to 6 years only",
+"Defect \u2014 0 to 18 years",
+"Disease \u2014 6 to 18 years only",
+"Developmental delay \u2014 0 to 6 years only"
+],
+"answer": 1,
+"explanation": "RBSK targets children from 0 to 18 years of age and screens for 4 Ds: Defects at birth (e.g., congenital heart disease, cleft lip/palate), Deficiencies (anaemia, vitamin A, iodine), Diseases (skin conditions, dental, ear/vision), and Developmental delays. Congenital heart defect = Defect at birth. The age range 0-18 years covers both Anganwadi (0-6) and school-age children (6-18).",
+"highYield": "RBSK: 4 Ds = Defects, Deficiencies, Diseases, Developmental delays; targets 0-18 years; mobile health teams screen at Anganwadis and schools.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"RBSK",
+"child health",
+"4 Ds",
+"national health programs"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "National Health Programs - JSSK",
+"difficulty": "medium",
+"stem": "A woman delivers at a government district hospital under Janani Shishu Suraksha Karyakram (JSSK). Which of the following benefits is she NOT entitled to under JSSK?",
+"options": [
+"Free normal and caesarean delivery",
+"Free transport from home to facility and back",
+"Free diet for 3 days after normal delivery and 7 days after caesarean",
+"Cash incentive of Rs. 1400 for institutional delivery"
+],
+"answer": 3,
+"explanation": "JSSK (launched 2011) entitles pregnant women to free delivery (normal and C-section), free drugs and diagnostics, free diet (3 days normal, 7 days CS), free blood, and free transport. The cash incentive of Rs. 1400 for institutional delivery is part of JSSY (Janani Suraksha Yojana), NOT JSSK. JSSK is a cashless entitlement scheme, not a cash transfer scheme.",
+"highYield": "JSSK = cashless entitlements (free delivery, drugs, diet, transport); JSY = cash incentive (Rs. 1400 rural, Rs. 1000 urban for institutional delivery).",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"JSSK",
+"JSY",
+"maternal health",
+"national health programs"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Vaccine Cold Chain",
+"difficulty": "hard",
+"stem": "A health worker at a PHC notices that the Vaccine Vial Monitor (VVM) on a BCG vial shows the inner square is DARKER than the outer circle. What action should the health worker take?",
+"options": [
+"Use the vaccine immediately as it is still potent",
+"Discard the vaccine as it has been exposed to excessive heat",
+"Return it to the cold chain for 24 hours and reassess",
+"Shake the vial and use it if the colour reverses"
+],
+"answer": 1,
+"explanation": "A VVM shows the vaccine has been heat-exposed when the inner square becomes DARKER than or matches the outer circle \u2014 this is Stage 3 (do not use) or Stage 4 (discard). When the inner square is darker than the outer circle, the cold chain has been irreversibly broken and the vaccine must be DISCARDED. The colour change is irreversible and cannot reverse on cooling. VVM monitors cumulative heat exposure using a chemical reaction.",
+"highYield": "VVM: discard when inner square = same colour or DARKER than outer circle; colour change is irreversible.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"VVM",
+"cold chain",
+"vaccine storage",
+"BCG"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Vaccine Cold Chain - ILR Temperatures",
+"difficulty": "medium",
+"stem": "At the Primary Health Centre level, vaccines are stored in an Ice Lined Refrigerator (ILR). What is the correct storage temperature range for vaccines in an ILR, and which vaccine should NOT be stored in the freezer compartment of the ILR?",
+"options": [
+"+2\u00b0C to +8\u00b0C; Hepatitis B vaccine should not be frozen",
+"0\u00b0C to +4\u00b0C; OPV should not be stored here",
+"-15\u00b0C to -25\u00b0C; BCG should not be frozen",
+"+2\u00b0C to +8\u00b0C; OPV must always be stored in deep freeze"
+],
+"answer": 0,
+"explanation": "ILR maintains +2\u00b0C to +8\u00b0C for storage of most vaccines. Hepatitis B, DPT, DT, TT, and liquid formulations of Hib MUST NOT be frozen as freezing destroys their potency. OPV requires freezing (-15 to -25\u00b0C) and is stored in deep freezers. BCG is freeze-dried and can tolerate freezing. The freeze-sensitive vaccines are remembered by 'Hep B, DPT, TT, DT' \u2014 all inactivated adsorbed vaccines.",
+"highYield": "ILR = +2\u00b0C to +8\u00b0C; freeze-sensitive vaccines = Hepatitis B, DPT, TT, DT (freezing destroys aluminium-adsorbed vaccines); OPV needs deep freeze (-20\u00b0C).",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"ILR",
+"cold chain",
+"vaccine storage temperature",
+"Hepatitis B"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Vaccine Schedule - Rotavirus",
+"difficulty": "medium",
+"stem": "The Rotavirus vaccine has been included in India's Universal Immunisation Programme. A mother brings her 10-week-old infant for vaccination. According to the current UIP schedule, which doses of Rotavirus vaccine should the child receive today?",
+"options": [
+"First dose at 6 weeks, second dose at 10 weeks \u2014 so give the second dose today",
+"First dose at 10 weeks \u2014 give the first dose today",
+"Rotavirus vaccine is not given before 14 weeks",
+"Single dose at 9 months along with measles vaccine"
+],
+"answer": 0,
+"explanation": "In India's UIP, oral Rotavirus vaccine is given at 6, 10, and 14 weeks of age (3 doses) along with DPT and OPV. A 10-week-old infant would already have received the first dose at 6 weeks and is now due for the SECOND dose. The Rotavirus vaccine currently in UIP is the pentavalent RV5 or monovalent RV1 schedule. It is not given at 9 months.",
+"highYield": "Rotavirus vaccine in UIP India: 3 doses at 6, 10, 14 weeks (same schedule as DPT/OPV).",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"Rotavirus vaccine",
+"UIP",
+"immunisation schedule",
+"infant vaccination"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Vaccine Schedule - MR and PCV",
+"difficulty": "hard",
+"stem": "A child receives MR vaccine at 9 months. According to the revised UIP schedule, when should the SECOND dose of MR vaccine be given, and at what age is Pneumococcal Conjugate Vaccine (PCV) primary series completed?",
+"options": [
+"MR 2nd dose at 16-24 months; PCV primary series completed at 14 weeks",
+"MR 2nd dose at 5 years; PCV primary series completed at 6 months",
+"MR 2nd dose at 2 years; PCV given only once at 9 months",
+"MR 2nd dose at 16-24 months; PCV primary series at 14 weeks with booster at 9 months"
+],
+"answer": 3,
+"explanation": "In the current UIP schedule: MR vaccine is given at 9-12 months (1st dose) and 16-24 months (2nd dose). PCV is given as primary series at 6 weeks, 10 weeks, and 14 weeks (3 doses), with a booster at 9 months. PCV was introduced in UIP India in select states. The 2nd MR dose at 16-24 months replaced the earlier measles booster schedule.",
+"highYield": "MR schedule: 9 months + 16-24 months; PCV: 6, 10, 14 weeks (primary) + 9 months (booster).",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"MR vaccine",
+"PCV",
+"UIP schedule",
+"immunisation"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Biostatistics - Sensitivity and Specificity",
+"difficulty": "hard",
+"stem": "A new screening test for tuberculosis is evaluated. Among 200 confirmed TB cases, the test is positive in 160. Among 300 non-TB controls, the test is negative in 270. Calculate the SENSITIVITY and SPECIFICITY of this test.",
+"options": [
+"Sensitivity 80%, Specificity 90%",
+"Sensitivity 90%, Specificity 80%",
+"Sensitivity 80%, Specificity 70%",
+"Sensitivity 70%, Specificity 90%"
+],
+"answer": 0,
+"explanation": "From the 2x2 table: TP = 160, FN = 40 (200-160), TN = 270, FP = 30 (300-270). Sensitivity = TP/(TP+FN) = 160/200 = 80%. Specificity = TN/(TN+FP) = 270/300 = 90%. Option B reverses the values. Sensitivity measures how well the test identifies true positives; specificity measures how well it identifies true negatives.",
+"highYield": "Sensitivity = TP/(TP+FN) = true positive rate; Specificity = TN/(TN+FP) = true negative rate.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"sensitivity",
+"specificity",
+"2x2 table",
+"biostatistics",
+"screening"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Biostatistics - PPV and NPV",
+"difficulty": "hard",
+"stem": "Using the same TB screening test data: 200 confirmed TB patients (160 test positive, 40 test negative) and 300 non-TB controls (30 test positive, 270 test negative). What is the Positive Predictive Value (PPV) of this test?",
+"options": [
+"160/190 = approximately 84.2%",
+"160/200 = 80%",
+"270/300 = 90%",
+"270/310 = approximately 87.1%"
+],
+"answer": 0,
+"explanation": "PPV = TP / (TP + FP) = 160 / (160 + 30) = 160/190 \u2248 84.2%. FP = 30 (non-TB patients who test positive). NPV = TN / (TN + FN) = 270 / (270 + 40) = 270/310 \u2248 87.1%. Option B is sensitivity, option C is specificity, option D is NPV. PPV answers: 'If positive, what is the probability of having disease?'",
+"highYield": "PPV = TP/(TP+FP); NPV = TN/(TN+FN); both depend on prevalence unlike sensitivity/specificity.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"PPV",
+"NPV",
+"biostatistics",
+"2x2 table",
+"predictive value"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Biostatistics - Likelihood Ratio",
+"difficulty": "hard",
+"stem": "A diagnostic test for a disease has a sensitivity of 85% and specificity of 75%. What is the Positive Likelihood Ratio (LR+) of this test?",
+"options": [
+"LR+ = 3.4",
+"LR+ = 0.2",
+"LR+ = 5.67",
+"LR+ = 1.13"
+],
+"answer": 0,
+"explanation": "LR+ = Sensitivity / (1 - Specificity) = 0.85 / (1 - 0.75) = 0.85 / 0.25 = 3.4. LR- = (1 - Sensitivity) / Specificity = 0.15 / 0.75 = 0.2. Option B is the LR-. A LR+ > 10 rules in disease; LR- < 0.1 rules out disease. LR+ of 3.4 provides moderate evidence for the disease.",
+"highYield": "LR+ = Sensitivity / (1-Specificity); LR- = (1-Sensitivity) / Specificity; LR+ >10 rules IN, LR- <0.1 rules OUT.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"likelihood ratio",
+"LR+",
+"LR-",
+"biostatistics",
+"diagnostic test"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Biostatistics - Number Needed to Treat",
+"difficulty": "medium",
+"stem": "In a clinical trial, a new antihypertensive drug reduces the risk of stroke from 8% in the control group to 4% in the treatment group over 5 years. What is the Number Needed to Treat (NNT) to prevent one stroke?",
+"options": [
+"NNT = 12",
+"NNT = 25",
+"NNT = 50%",
+"NNT = 2"
+],
+"answer": 1,
+"explanation": "Absolute Risk Reduction (ARR) = Risk in control - Risk in treatment = 8% - 4% = 4% = 0.04. NNT = 1/ARR = 1/0.04 = 25. So 25 patients must be treated for 5 years to prevent 1 stroke. Option C gives relative risk reduction (50%), not NNT. Option D (2) would be the NNT if ARR were 50%. NNT is the most clinically useful measure of treatment effect.",
+"highYield": "NNT = 1/ARR (Absolute Risk Reduction); lower NNT = more effective treatment; NNT = 1 means every patient benefits.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"NNT",
+"number needed to treat",
+"ARR",
+"biostatistics",
+"clinical trial"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Biostatistics - Attributable Risk",
+"difficulty": "hard",
+"stem": "In a cohort study of smokers and non-smokers, the incidence of lung cancer is 250 per 100,000 per year in smokers and 10 per 100,000 per year in non-smokers. What is the Attributable Risk (AR) and Attributable Risk Percent (AR%) for smoking?",
+"options": [
+"AR = 240/100,000; AR% = 96%",
+"AR = 260/100,000; AR% = 96%",
+"AR = 240/100,000; AR% = 4%",
+"AR = 25; AR% = 40%"
+],
+"answer": 0,
+"explanation": "Attributable Risk (AR) = Incidence in exposed - Incidence in unexposed = 250 - 10 = 240 per 100,000 per year. AR% = (AR / Incidence in exposed) \u00d7 100 = (240/250) \u00d7 100 = 96%. This means 96% of lung cancer in smokers is attributable to smoking. Option B incorrectly adds rates. Option D is incorrect formula application. AR is used to estimate the public health burden of an exposure.",
+"highYield": "AR = Incidence(exposed) - Incidence(unexposed); AR% = AR/Incidence(exposed) \u00d7 100; measures excess risk due to exposure.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"attributable risk",
+"AR%",
+"cohort study",
+"biostatistics",
+"smoking"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Epidemiology - Study Designs",
+"difficulty": "medium",
+"stem": "A researcher wants to study the association between consumption of processed meat and colorectal cancer. Patients already diagnosed with colorectal cancer are identified, and their past dietary history is compared with matched controls. What type of study is this?",
+"options": [
+"Prospective cohort study",
+"Case-control study",
+"Cross-sectional study",
+"Randomised controlled trial"
+],
+"answer": 1,
+"explanation": "This is a CASE-CONTROL study: cases (colorectal cancer patients) and controls (without cancer) are identified, and PAST exposure (processed meat consumption) is compared retrospectively. Cohort studies follow exposure forward to outcome. Cross-sectional studies measure exposure and outcome simultaneously. RCTs randomly allocate to exposure. Case-control studies are ideal for rare diseases and generate Odds Ratio (OR), not Relative Risk.",
+"highYield": "Case-control study: start with outcome (disease), look BACK for exposure; measures ODDS RATIO; best for rare diseases.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"case-control study",
+"study design",
+"epidemiology",
+"odds ratio"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Epidemiology - Bradford Hill Criteria",
+"difficulty": "hard",
+"stem": "Multiple studies from different countries consistently show that smokers have a relative risk of 15-25 for developing lung cancer compared to non-smokers. Animal studies confirm the carcinogenic effects of tobacco smoke. Which Bradford Hill criterion is BEST demonstrated by the fact that the association is seen across different study designs, populations, and time periods?",
+"options": [
+"Specificity",
+"Consistency",
+"Coherence",
+"Biological gradient"
+],
+"answer": 1,
+"explanation": "CONSISTENCY refers to the association being replicated across different studies, populations, study designs, and time periods \u2014 exactly described here. Specificity means one exposure causes one disease (weak criterion). Coherence means the association is consistent with known biology/natural history. Biological gradient (dose-response) means increasing exposure leads to increasing disease \u2014 not what is described. Consistency is one of the strongest Bradford Hill criteria.",
+"highYield": "Bradford Hill: CONSISTENCY = same association found across different studies, populations, and time; strongest evidence for causality.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"Bradford Hill criteria",
+"causality",
+"consistency",
+"epidemiology"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Epidemiology - Confounding",
+"difficulty": "hard",
+"stem": "A study finds that coffee drinking is associated with lung cancer (OR = 2.5). However, when the analysis is stratified by smoking status, the association between coffee and lung cancer disappears in both strata. What does this indicate?",
+"options": [
+"Smoking is an effect modifier of the coffee-lung cancer association",
+"Smoking is a confounder of the coffee-lung cancer association",
+"Coffee and smoking have a synergistic interaction",
+"The study had selection bias"
+],
+"answer": 1,
+"explanation": "When stratification removes the association (OR becomes ~1.0 in both strata), the third variable (smoking) is a CONFOUNDER, not an effect modifier. A confounder is associated with both exposure (coffee \u2014 smokers drink more coffee) and outcome (lung cancer) and is not on the causal pathway. Effect modification would show DIFFERENT ORs in each stratum (interaction). Confounding can be controlled by randomisation, restriction, matching, or statistical adjustment.",
+"highYield": "CONFOUNDER: association disappears on stratification (Mantel-Haenszel); EFFECT MODIFIER: different effects in different strata (interaction).",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"confounding",
+"effect modification",
+"stratification",
+"epidemiology",
+"bias"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Water Quality - MPN and Chlorine",
+"difficulty": "medium",
+"stem": "A water sample from a municipal supply is tested using the Most Probable Number (MPN) method for coliform bacteria. The result is 4 coliforms per 100 mL. The residual chlorine is 0.1 mg/L. What is the correct interpretation?",
+"options": [
+"Water is safe; both coliform count and chlorine are within acceptable limits",
+"Water is unsafe; MPN should be zero and residual chlorine should be at least 0.2 mg/L",
+"Water is safe for drinking but not for cooking",
+"Coliform count is acceptable but chlorine level is adequate"
+],
+"answer": 1,
+"explanation": "WHO/Indian standards require: MPN coliform count = 0 per 100 mL for treated piped water supplies. Any coliform detection indicates faecal contamination. Minimum residual chlorine should be 0.2 mg/L (some guidelines 0.5 mg/L at source); 0.1 mg/L is INSUFFICIENT. Both values are abnormal \u2014 water is UNSAFE. Coliform count of 4/100 mL is clearly a violation of drinking water standards.",
+"highYield": "Safe drinking water: MPN coliforms = 0/100 mL; residual chlorine \u2265 0.2 mg/L; turbidity < 1 NTU (acceptable up to 5 NTU).",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"MPN",
+"coliform",
+"water quality",
+"chlorination",
+"environmental health"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Environmental Health - Water Quality Turbidity",
+"difficulty": "medium",
+"stem": "A water sample from a rural hand pump shows turbidity of 8 NTU, MPN coliform count of 2/100 mL, and pH 7.5. Which parameter makes this water UNSAFE for consumption according to IS 10500 standards?",
+"options": [
+"pH of 7.5 is too alkaline",
+"Both turbidity (>5 NTU) and coliform count (>0/100 mL)",
+"Only the coliform count exceeds safe limits",
+"Turbidity of 8 NTU is acceptable; only coliform is the concern"
+],
+"answer": 1,
+"explanation": "IS 10500 (Indian Drinking Water Standards): Turbidity acceptable limit = 1 NTU (permissible up to 5 NTU); 8 NTU EXCEEDS the permissible limit. Coliform count for treated supply = 0/100 mL; 2/100 mL exceeds this. pH 7.5 is within the acceptable range (6.5-8.5). BOTH turbidity and coliform count make this water unsafe. Option D incorrectly dismisses turbidity.",
+"highYield": "IS 10500: turbidity acceptable = 1 NTU, permissible = 5 NTU; coliform = 0/100 mL for treated water; pH acceptable = 6.5-8.5.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"turbidity",
+"NTU",
+"IS 10500",
+"water quality",
+"coliform"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Environmental Health - Lead Poisoning",
+"difficulty": "medium",
+"stem": "A 5-year-old child presents with abdominal pain, constipation, developmental regression, and anaemia. Blood lead level is 45 mcg/dL. Which of the following is the MOST LIKELY source of lead exposure in an urban Indian household?",
+"options": [
+"Contaminated drinking water from lead-free PVC pipes",
+"Lead-based paints on walls and toys, and leaded petrol residue in soil",
+"Fluoride in toothpaste",
+"Iron deficiency from poor nutrition"
+],
+"answer": 1,
+"explanation": "In India, major sources of lead poisoning in children include: lead-based paint (especially old paint in peeling condition), contaminated soil (from leaded petrol history), certain ayurvedic/herbal medicines, kohl (kajal), and artisanal crafts. PVC pipes are typically lead-free. Fluoride causes fluorosis, not lead poisoning. Iron deficiency increases lead absorption but is not a source. Blood lead level \u2265 10 mcg/dL requires intervention; \u2265 45 mcg/dL requires chelation therapy.",
+"highYield": "Lead poisoning in children: main sources = lead paint, contaminated soil, kohl (kajal), certain ayurvedic medicines; BLL \u2265 45 mcg/dL = chelation therapy.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"lead poisoning",
+"plumbism",
+"environmental health",
+"children",
+"blood lead level"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Environmental Health - Air Quality",
+"difficulty": "hard",
+"stem": "NAAQS (National Ambient Air Quality Standards) of India sets the annual average standard for PM2.5. A city records an annual average PM2.5 of 52 mcg/m\u00b3. Which of the following correctly describes the situation?",
+"options": [
+"Within limits; NAAQS annual standard for PM2.5 is 60 mcg/m\u00b3",
+"Exceeds limits; NAAQS annual standard for PM2.5 is 40 mcg/m\u00b3",
+"Within limits; PM2.5 standard is 100 mcg/m\u00b3 annually",
+"Exceeds WHO limits only; Indian NAAQS allows 60 mcg/m\u00b3"
+],
+"answer": 1,
+"explanation": "NAAQS India (revised 2009): Annual average standard for PM2.5 = 40 mcg/m\u00b3; 24-hour standard = 60 mcg/m\u00b3. Annual average PM2.5 of 52 mcg/m\u00b3 EXCEEDS the annual standard of 40 mcg/m\u00b3. WHO guideline is even stricter (5 mcg/m\u00b3 annual, revised 2021). PM2.5 (fine particles <2.5 micrometres) penetrate deep into lungs and are associated with cardiovascular and respiratory disease.",
+"highYield": "NAAQS India PM2.5: annual = 40 mcg/m\u00b3, 24-hour = 60 mcg/m\u00b3; PM10: annual = 60 mcg/m\u00b3, 24-hour = 100 mcg/m\u00b3.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"NAAQS",
+"PM2.5",
+"air quality standards",
+"environmental health",
+"air pollution"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Nutrition - POSHAN 2.0",
+"difficulty": "medium",
+"stem": "POSHAN 2.0 (Saksham Anganwadi and POSHAN 2.0) was launched in 2021 by merging several existing schemes. Which of the following scheme pairs were merged to form POSHAN 2.0?",
+"options": [
+"ICDS + National Nutrition Mission (NNM/POSHAN Abhiyaan) + National Creche Scheme",
+"Mid-Day Meal Scheme + Janani Suraksha Yojana + RBSK",
+"National Food Security Act + PM Garib Kalyan Yojana",
+"NHM + ASHA scheme + Village Health Nutrition Day"
+],
+"answer": 0,
+"explanation": "POSHAN 2.0 was formed by merging: (1) ICDS (Integrated Child Development Services), (2) POSHAN Abhiyaan (National Nutrition Mission), (3) National Creche Scheme, and (4) Kishori Shakti Yojana/Scheme for Adolescent Girls. It aims for a holistic approach to nutrition across the life cycle from conception to adolescence. Mid-Day Meal, JSY, and RBSK are separate programmes.",
+"highYield": "POSHAN 2.0 = ICDS + POSHAN Abhiyaan + National Creche Scheme + Kishori Shakti Yojana; launched 2021; Saksham Anganwadis.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"POSHAN 2.0",
+"nutrition programs",
+"ICDS",
+"national health programs"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Nutrition - SAM vs MAM",
+"difficulty": "hard",
+"stem": "A 2-year-old child presents to an AWC. MUAC measures 10.5 cm, weight-for-height Z-score is -3.5, and bilateral pitting oedema is present. How should this child be classified, and where should management be initiated?",
+"options": [
+"Moderate Acute Malnutrition (MAM) \u2014 manage at AWC with supplementary feeding",
+"Severe Acute Malnutrition (SAM) with complications \u2014 admit to Nutrition Rehabilitation Centre (NRC)",
+"Severe Acute Malnutrition (SAM) without complications \u2014 manage with RUTF at home via CMAM",
+"Normal weight \u2014 oedema suggests nephrotic syndrome"
+],
+"answer": 1,
+"explanation": "This child has SAM: MUAC < 11.5 cm (SAM threshold is <11.5 cm; this child has 10.5 cm), WHZ < -3 SD, AND bilateral pitting oedema (kwashiorkor/oedematous SAM). Presence of bilateral pitting oedema = ALWAYS SAM regardless of MUAC or weight. Bilateral oedema is a COMPLICATION requiring inpatient management at NRC (Nutrition Rehabilitation Centre). CMAM (Community-based Management) is for SAM WITHOUT medical complications.",
+"highYield": "SAM criteria: MUAC <11.5 cm OR WHZ <-3 SD OR bilateral pitting oedema; oedema = always SAM, always inpatient management.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"SAM",
+"MAM",
+"MUAC",
+"acute malnutrition",
+"nutrition",
+"NRC"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Nutrition - MUAC Cutoffs",
+"difficulty": "medium",
+"stem": "A community health worker measures MUAC in a 30-year-old pregnant woman and gets a reading of 21 cm. In the CMAM programme, which MUAC threshold indicates Moderate Acute Malnutrition (MAM) in pregnant/lactating women?",
+"options": [
+"MUAC < 18.5 cm = MAM; < 17 cm = SAM",
+"MUAC < 23 cm = MAM; < 21 cm = SAM",
+"MUAC < 21 cm = MAM; < 19 cm = SAM",
+"MUAC is not used in pregnant women; use BMI only"
+],
+"answer": 1,
+"explanation": "MUAC thresholds for ADULTS and pregnant/lactating women (CMAM/WHO): MUAC < 21 cm = SAM (Severe Acute Malnutrition); MUAC 21-23 cm = MAM (Moderate Acute Malnutrition); MUAC \u2265 23 cm = Normal. A reading of 21 cm in a pregnant woman = BORDERLINE SAM/MAM, specifically SAM. Note: For CHILDREN 6-59 months: MUAC < 11.5 cm = SAM; 11.5-12.5 cm = MAM; \u2265 12.5 cm = normal.",
+"highYield": "MUAC adults/PLW: <21 cm = SAM, 21-23 cm = MAM, \u226523 cm = normal; Children: <11.5 cm = SAM, 11.5-12.5 cm = MAM.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"MUAC",
+"MAM",
+"SAM",
+"CMAM",
+"pregnant women",
+"nutrition"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Epidemiology - Cohort Study",
+"difficulty": "medium",
+"stem": "A group of 5,000 workers in an asbestos factory and 5,000 matched workers from a different factory with no asbestos exposure are followed for 20 years to study lung cancer development. This study design is BEST described as:",
+"options": [
+"Case-control study",
+"Prospective cohort study",
+"Cross-sectional study",
+"Ecological study"
+],
+"answer": 1,
+"explanation": "A prospective cohort study selects participants based on EXPOSURE (asbestos vs no asbestos) and follows them forward in time to assess OUTCOME (lung cancer). It calculates Relative Risk (RR) directly. Case-control studies start with disease/no disease and look backwards. Cross-sectional studies measure exposure and outcome at one point in time. Ecological studies use group-level data. Cohort studies are best for common outcomes and calculating incidence.",
+"highYield": "Cohort study: start with EXPOSURE, follow forward for OUTCOME; calculates RELATIVE RISK; best for common outcomes and incidence.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"cohort study",
+"prospective",
+"relative risk",
+"study design",
+"occupational health"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Screening - Wilson Jungner Criteria",
+"difficulty": "hard",
+"stem": "A health ministry proposes mass screening for Type 2 diabetes using fasting blood glucose in the general population. Which of the following is the MOST IMPORTANT criterion that must be satisfied for this to be a justified population-level screening programme?",
+"options": [
+"The test must have 100% sensitivity",
+"The condition must be an important health problem with an acceptable and effective treatment available",
+"The disease must be rare in the population",
+"Screening must be a one-time event, not repeated"
+],
+"answer": 1,
+"explanation": "Wilson and Jungner (1968) criteria for screening: The condition should be an important health problem; there should be an accepted TREATMENT or intervention; facilities for diagnosis and treatment must be available; there should be a recognisable latent/early stage; a suitable test should exist; the test should be acceptable; the natural history should be understood; agreed policy on who to treat; case-finding should be continuous. The most fundamental criterion is that effective treatment must exist \u2014 otherwise, early diagnosis causes harm without benefit.",
+"highYield": "Wilson Jungner: screening justified only if EFFECTIVE TREATMENT exists and is available; condition must be important health problem with recognisable early stage.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"Wilson Jungner",
+"screening criteria",
+"diabetes",
+"public health",
+"secondary prevention"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Disease Surveillance",
+"difficulty": "medium",
+"stem": "Under the Integrated Disease Surveillance Programme (IDSP), which of the following is classified as a 'P' (Presumptive) case reportable on a weekly basis from health facilities?",
+"options": [
+"Confirmed cholera by stool culture",
+"Clinically suspected dengue based on fever and thrombocytopenia",
+"Laboratory-confirmed HIV from ICTC",
+"Confirmed tuberculosis on sputum smear"
+],
+"answer": 1,
+"explanation": "IDSP uses a three-tier reporting system: 'S' forms (Syndromic/community level by ASHA/ANM), 'P' forms (Presumptive cases based on clinical diagnosis by healthcare providers), and 'L' forms (Laboratory-confirmed cases). Clinically suspected dengue (fever + thrombocytopenia without lab confirmation) = 'P' form. Confirmed cholera and lab-confirmed cases = 'L' forms. IDSP monitors 20+ diseases for early warning and outbreak detection.",
+"highYield": "IDSP reporting: S = syndromic (community), P = presumptive (clinical), L = laboratory-confirmed; weekly reporting from health facilities.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"IDSP",
+"disease surveillance",
+"reporting",
+"P form",
+"S form",
+"L form"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Demography - Fertility Rates",
+"difficulty": "medium",
+"stem": "The Total Fertility Rate (TFR) of India as per NFHS-5 (2019-21) is 2.0. Which of the following statements about TFR is CORRECT?",
+"options": [
+"TFR of 2.0 means India has achieved below-replacement fertility level",
+"TFR of 2.0 means India has exactly achieved replacement-level fertility (2.1)",
+"TFR of 2.0 means India is below replacement fertility level of 2.1",
+"TFR measures fertility only in women aged 20-35 years"
+],
+"answer": 2,
+"explanation": "Total Fertility Rate (TFR) = average number of children a woman would have during her reproductive life (15-49 years). Replacement level fertility = 2.1 (accounting for sex ratio at birth and childhood mortality). India's TFR of 2.0 (NFHS-5) is BELOW replacement level of 2.1. This means India's population will eventually start declining if this continues. TFR covers all women aged 15-49 years, not just 20-35.",
+"highYield": "TFR India (NFHS-5) = 2.0; replacement level = 2.1; India is now BELOW replacement fertility; TFR covers women 15-49 years.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"TFR",
+"NFHS-5",
+"demography",
+"fertility",
+"replacement level"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Maternal Mortality",
+"difficulty": "medium",
+"stem": "The Maternal Mortality Ratio (MMR) is different from the Maternal Mortality Rate. As per the Sample Registration System (SRS) 2018-20, India's MMR is 97 per 100,000 live births. How is MMR calculated?",
+"options": [
+"Number of maternal deaths / Total female deaths \u00d7 100,000",
+"Number of maternal deaths / Total live births \u00d7 100,000",
+"Number of maternal deaths / Total pregnancies \u00d7 1,000",
+"Number of maternal deaths / Women of reproductive age \u00d7 100,000"
+],
+"answer": 1,
+"explanation": "MMR (Maternal Mortality Ratio) = (Number of maternal deaths during pregnancy/childbirth/42 days postpartum / Total live births) \u00d7 100,000. Note: It is a RATIO, not a rate (denominator is live births, not women). India's MMR target under SDG3 is \u2264 70 by 2030. SRS 2018-20 MMR = 97. Option D describes Maternal Mortality RATE (denominator = women of reproductive age).",
+"highYield": "MMR = maternal deaths / live births \u00d7 100,000; India MMR (SRS 2018-20) = 97; SDG target = <70 by 2030.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"MMR",
+"maternal mortality",
+"SRS",
+"demography",
+"SDG"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Infant Mortality Rate",
+"difficulty": "medium",
+"stem": "Which of the following is the CORRECT formula for calculating the Infant Mortality Rate (IMR), and what is India's current IMR as per SRS 2020?",
+"options": [
+"Deaths under 1 year / Live births \u00d7 1000; IMR = 28",
+"Deaths under 1 year / Total births \u00d7 1000; IMR = 15",
+"Deaths under 5 years / Live births \u00d7 1000; IMR = 28",
+"Deaths under 1 year / Population \u00d7 1000; IMR = 35"
+],
+"answer": 0,
+"explanation": "IMR = (Deaths of children under 1 year in a given year / Total live births in same year) \u00d7 1000. Per SRS 2020, India's IMR = 28 per 1000 live births. Under-5 mortality rate (U5MR) is a separate indicator. The denominator for IMR is LIVE BIRTHS, not total births or population. IMR is one of the most sensitive indicators of socioeconomic development and healthcare quality.",
+"highYield": "IMR = deaths under 1 year / live births \u00d7 1000; India IMR (SRS 2020) = 28; neonatal deaths account for ~68% of IMR.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"IMR",
+"infant mortality",
+"SRS 2020",
+"demography",
+"child health"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Primary Health Care - Sub-Centre",
+"difficulty": "easy",
+"stem": "As per revised 2022 norms, a Sub-Centre (SC) is established for a population of what size in plains and hilly/tribal/difficult areas?",
+"options": [
+"Plains: 5000; Hilly/Tribal: 3000",
+"Plains: 3000; Hilly/Tribal: 1500",
+"Plains: 10,000; Hilly/Tribal: 5000",
+"Plains: 5000; Hilly/Tribal: 5000"
+],
+"answer": 0,
+"explanation": "As per revised Health and Wellness Centre norms (Indian Public Health Standards 2022): Sub-Centre = 1 per 5000 population in plains and 1 per 3000 in hilly/tribal/difficult areas. PHC = 1 per 30,000 (plains) and 1 per 20,000 (hilly). CHC = 1 per 1,20,000 (plains) and 1 per 80,000 (hilly). Sub-Centres are staffed by one Male and one Female Multipurpose Worker (MPW) and now function as Health and Wellness Centres.",
+"highYield": "Sub-Centre: plains = 5000 population, hilly/tribal = 3000; staffed by MPW (M) + MPW (F)/ANM; now Health and Wellness Centres.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"sub-centre",
+"PHC",
+"population norms",
+"primary health care",
+"IPHS"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "National Programs - ASHA",
+"difficulty": "medium",
+"stem": "An ASHA worker in a village reports 12 pregnant women to the ANM. Under the JSY incentive structure, what is the minimum cash incentive an ASHA receives for facilitating an institutional delivery in a LOW-PERFORMING STATE (LPS) rural area?",
+"options": [
+"Rs. 200 per delivery",
+"Rs. 600 per delivery",
+"Rs. 1000 per delivery",
+"Rs. 1400 per delivery"
+],
+"answer": 1,
+"explanation": "Under JSY (Janani Suraksha Yojana): In Low-Performing States (LPS = EAG states + Assam + J&K + HP + Uttarakhand): ASHA incentive = Rs. 600 per institutional delivery facilitated. In High-Performing States (HPS): ASHA incentive = Rs. 200 per delivery. The mother receives: Rural Rs. 1400 (LPS) or Rs. 700 (HPS); Urban Rs. 1000 (LPS) or Rs. 600 (HPS). This question asks specifically about ASHA incentive, not the mother's incentive.",
+"highYield": "JSY ASHA incentive: LPS rural = Rs. 600; HPS rural = Rs. 200; Mother's incentive LPS rural = Rs. 1400; HPS rural = Rs. 700.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"JSY",
+"ASHA",
+"incentive",
+"maternal health",
+"low performing states"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Epidemiology - R0 and Herd Immunity",
+"difficulty": "hard",
+"stem": "The basic reproduction number (R0) of measles is estimated at 12-18. Using R0 = 15, what percentage of the population needs to be immune (herd immunity threshold) to stop measles transmission?",
+"options": [
+"83.3%",
+"93.3%",
+"75%",
+"66.7%"
+],
+"answer": 1,
+"explanation": "Herd Immunity Threshold (HIT) = 1 - (1/R0). For measles with R0 = 15: HIT = 1 - (1/15) = 1 - 0.067 = 0.933 = 93.3%. This means 93.3% of the population must be immune to stop measles transmission. Measles has one of the highest R0 values of any infectious disease, requiring very high vaccination coverage. This is why measles elimination requires >95% vaccination coverage with 2 doses.",
+"highYield": "Herd immunity threshold = 1 - 1/R0; Measles R0 = 12-18; HIT \u2248 92-95%; highest vaccine coverage required for measles elimination.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"R0",
+"herd immunity",
+"measles",
+"epidemiology",
+"vaccination coverage"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Occupational Health",
+"difficulty": "medium",
+"stem": "A 45-year-old coal miner presents with progressive dyspnoea on exertion for 3 years. Chest X-ray shows bilateral small rounded opacities in upper lung zones (ILO category 2/1). He has worked in coal mines for 20 years. What is the MOST LIKELY diagnosis?",
+"options": [
+"Silicosis",
+"Coal Workers Pneumoconiosis (CWP)",
+"Asbestosis",
+"Byssinosis"
+],
+"answer": 1,
+"explanation": "Coal Workers Pneumoconiosis (CWP) occurs due to inhalation of coal dust in miners. Chest X-ray shows bilateral small rounded opacities (ILO classification p/q/r) predominantly in upper zones. Silicosis also shows upper zone opacities but in silica-exposed workers (quarry, sandblasting). Asbestosis shows lower zone fibrosis with pleural plaques. Byssinosis occurs in cotton textile workers with Monday morning tightness. 20-year exposure to coal = CWP.",
+"highYield": "CWP = coal dust; upper zone rounded opacities; Silicosis = silica dust + eggshell calcification; Asbestosis = lower zone + pleural plaques + mesothelioma.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"CWP",
+"pneumoconiosis",
+"occupational disease",
+"coal miner",
+"ILO classification"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Health Indicators - HDI",
+"difficulty": "medium",
+"stem": "The Human Development Index (HDI) combines three dimensions of development. Which of the following CORRECTLY lists all three components used to calculate HDI?",
+"options": [
+"Per capita income, literacy rate, and infant mortality rate",
+"Life expectancy at birth, mean/expected years of schooling, and Gross National Income per capita (PPP)",
+"Life expectancy, maternal mortality ratio, and GDP per capita",
+"Education index, health expenditure per capita, and employment rate"
+],
+"answer": 1,
+"explanation": "UNDP's HDI (since 2010 revision) uses three dimensions: (1) HEALTH = Life expectancy at birth; (2) EDUCATION = Mean years of schooling (adults) + Expected years of schooling (children); (3) STANDARD OF LIVING = GNI per capita (PPP in USD). IMR, MMR, and health expenditure are NOT components of HDI. India's HDI rank in 2023 Human Development Report = 134 out of 193 countries.",
+"highYield": "HDI = Life expectancy + Education (mean + expected years schooling) + GNI per capita (PPP); India HDI rank = 134 (2023 HDR).",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"HDI",
+"human development index",
+"health indicators",
+"UNDP",
+"GNI"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Biostatistics - Study Bias",
+"difficulty": "hard",
+"stem": "In a case-control study on mobile phone use and brain tumours, patients with brain tumours are asked to recall their mobile phone usage 10 years ago, while controls are asked the same. Which type of bias is MOST LIKELY to affect this study?",
+"options": [
+"Selection bias due to non-representative sampling",
+"Recall bias \u2014 cases likely to over-report mobile phone use compared to controls",
+"Interviewer bias \u2014 the researcher influences both groups equally",
+"Confounding by age and gender"
+],
+"answer": 1,
+"explanation": "RECALL BIAS is the most prominent bias in case-control studies asking about past exposures. Cases (brain tumour patients) are more motivated to search their memory and may OVER-REPORT past mobile phone exposure because they seek a cause for their illness. Controls may not recall as carefully. This differential recall between cases and controls is classic recall bias. It is a form of information bias, not selection bias. Blinding of the interviewer can reduce interviewer bias but not recall bias.",
+"highYield": "Recall bias: cases over-report past exposure in case-control studies; inherent limitation of retrospective studies; cannot be eliminated by blinding.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"recall bias",
+"information bias",
+"case-control study",
+"bias",
+"biostatistics"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "National Programs - POSHAN Abhiyaan",
+"difficulty": "medium",
+"stem": "POSHAN Abhiyaan (National Nutrition Mission) set specific targets to be achieved by 2022. Which of the following was the TARGET annual reduction in stunting under POSHAN Abhiyaan?",
+"options": [
+"1% per year reduction in stunting",
+"2% per year reduction in stunting",
+"3% per year reduction in stunting",
+"5% per year reduction in stunting"
+],
+"answer": 1,
+"explanation": "POSHAN Abhiyaan (launched 2018) set annual reduction targets: Stunting reduction = 2% per year; Undernutrition (underweight) reduction = 2% per year; Low birth weight reduction = 2% per year; Anaemia reduction in children/adolescents/women = 3% per year. The overall goal was to reduce stunting from 38.4% (NFHS-4) to 25% by 2022. NFHS-5 showed stunting at 35.5%, indicating slower-than-targeted progress.",
+"highYield": "POSHAN Abhiyaan targets: stunting/underweight/LBW = -2%/year; anaemia = -3%/year; goal = stunting <25% by 2022.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"POSHAN Abhiyaan",
+"stunting",
+"nutrition targets",
+"national nutrition mission"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Epidemiology - P-value and Confidence Interval",
+"difficulty": "hard",
+"stem": "A study finds that a new drug reduces hospital readmission with OR = 0.6 (95% CI: 0.3 to 0.9, p = 0.02). Which of the following BEST interprets this result?",
+"options": [
+"The drug increases readmission risk; p < 0.05 confirms statistical significance",
+"The drug statistically significantly reduces readmission risk; the CI excludes 1.0 confirming significance",
+"The result is not significant because OR of 0.6 is close to 1.0",
+"The confidence interval including values below 0.5 makes the result unreliable"
+],
+"answer": 1,
+"explanation": "OR = 0.6 means the drug REDUCES readmission by 40% (protective). p = 0.02 < 0.05 = statistically significant. 95% CI (0.3 to 0.9) does NOT include 1.0 \u2014 which independently confirms statistical significance (if CI excludes 1.0 for OR/RR, the result is significant). OR < 1 = protective; OR > 1 = harmful; OR = 1 = no effect. Option A incorrectly says increases risk. The CI not including 1.0 always confirms statistical significance for ratio measures.",
+"highYield": "For OR/RR: 95% CI excluding 1.0 = statistically significant; OR <1 = protective; p <0.05 and CI excluding 1.0 always agree.",
+"pyqNote": "PSM \u2014 high frequency topic",
+"tags": [
+"confidence interval",
+"p-value",
+"odds ratio",
+"statistical significance",
+"biostatistics"
+]
+}
+]

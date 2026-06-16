@@ -1,0 +1,830 @@
+[
+{
+"subject": "Anatomy",
+"topic": "Brachial Plexus",
+"difficulty": "medium",
+"stem": "During dissection of the axilla, a nerve is traced from the posterior cord of the brachial plexus. It is seen passing through the quadrangular space along with the posterior circumflex humeral artery, winding around the surgical neck of the humerus deep to the deltoid muscle. Injury to this nerve at this site would result in:",
+"options": [
+"Loss of flexion at the elbow and wasting of biceps",
+"Weakness of shoulder abduction, loss of sensation over the regimental badge area, and flattening of the deltoid",
+"Wrist drop and loss of sensation over the dorsum of the hand",
+"Weakness of elbow extension and loss of sensation over the posterior arm"
+],
+"answer": 1,
+"explanation": "The nerve passing through the quadrangular space with the posterior circumflex humeral artery and winding around the surgical neck of humerus is the axillary nerve (C5, C6). It supplies deltoid and teres minor. Injury causes flattening of shoulder contour (deltoid wasting), weakness of shoulder abduction (especially 15-90 degrees), and sensory loss over the lower half of deltoid \u2014 the 'regimental badge area'. Wrist drop indicates radial nerve injury; elbow flexion loss indicates musculocutaneous nerve.",
+"highYield": "Axillary nerve injury at surgical neck of humerus: regimental badge area sensory loss + deltoid wasting; from posterior cord (C5, C6).",
+"pyqNote": "Appeared in NEET PG 2023 and AIIMS 2019; surgical neck of humerus lesion is a perennial favourite.",
+"tags": [
+"axillary nerve",
+"brachial plexus",
+"posterior cord",
+"quadrangular space",
+"surgical neck humerus"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Brachial Plexus",
+"difficulty": "hard",
+"stem": "A newborn shows a characteristic posture where the right upper limb hangs limply by the side in medial rotation with the forearm pronated and wrist flexed \u2014 described as the 'waiter's tip' position. Obstetric forceps delivery had been complicated. Which roots of the brachial plexus are injured?",
+"options": [
+"C8, T1",
+"C5, C6",
+"C5, C6, C7",
+"C7, C8"
+],
+"answer": 1,
+"explanation": "The 'waiter's tip' posture (arm adducted, medially rotated, forearm pronated, wrist flexed) is classic for Erb's palsy (Erb-Duchenne palsy) involving C5 and C6 roots. These roots are injured at the Erb's point (superior trunk). The muscles paralysed include deltoid, biceps, brachialis, brachioradialis, and supinator. The arm hangs due to loss of abduction, flexion, and supination. C8-T1 injury causes Klumpke's palsy (claw hand).",
+"highYield": "Erb's palsy: C5-C6 roots, waiter's tip posture; Klumpke's palsy: C8-T1, claw hand with Horner's syndrome.",
+"pyqNote": "One of the most repeated brachial plexus questions across NEET PG, AIIMS, and DNB over 10 years.",
+"tags": [
+"Erb's palsy",
+"waiter's tip",
+"C5 C6",
+"brachial plexus",
+"obstetric palsy"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Brachial Plexus",
+"difficulty": "hard",
+"stem": "On dissection of the arm, a slender nerve is identified arising from the lateral cord of the brachial plexus (C5, C6, C7) and is seen piercing the coracobrachialis muscle before descending between biceps and brachialis. Near the elbow it continues as a purely sensory nerve on the lateral side of the forearm. A stab wound at the level of the coracobrachialis would most likely produce:",
+"options": [
+"Loss of wrist extension and finger extension",
+"Weakness of elbow flexion, supination, and sensory loss over the lateral forearm",
+"Weakness of elbow flexion with preserved supination",
+"Sensory loss over the medial forearm only"
+],
+"answer": 1,
+"explanation": "The nerve piercing coracobrachialis, running between biceps and brachialis, and continuing as the lateral cutaneous nerve of the forearm is the musculocutaneous nerve (C5-C7) from the lateral cord. It supplies coracobrachialis, biceps brachii (flexion + supination), and brachialis (flexion). Its continuation \u2014 lateral cutaneous nerve of the forearm \u2014 provides sensation to the lateral forearm. Injury here causes loss of elbow flexion, supination, and lateral forearm sensation; the biceps jerk is lost.",
+"highYield": "Musculocutaneous nerve: lateral cord, pierces coracobrachialis, continues as lateral cutaneous nerve of forearm; loss = elbow flexion + supination + lateral forearm sensation.",
+"pyqNote": "Musculocutaneous nerve course and its continuation tested in NEET PG 2022 pattern papers.",
+"tags": [
+"musculocutaneous nerve",
+"lateral cord",
+"coracobrachialis",
+"lateral cutaneous nerve forearm",
+"elbow flexion"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Brachial Plexus",
+"difficulty": "medium",
+"stem": "A patient presents with inability to flex the fingers at the MCP joints, loss of sensation over the medial one-and-a-half fingers and the medial palm, and a classic 'claw hand' deformity more pronounced in the ring and little fingers. On examination, interossei and hypothenar muscles are wasted. Which nerve is injured, and at what level?",
+"options": [
+"Median nerve at the wrist",
+"Ulnar nerve at the wrist",
+"Ulnar nerve at the elbow",
+"Median nerve at the elbow"
+],
+"answer": 1,
+"explanation": "Ulnar nerve injury at the wrist (distal to the branch for flexor carpi ulnaris and medial half of flexor digitorum profundus) spares those muscles. The patient shows the full ulnar claw pattern (all intrinsics lost), with hypothenar wasting and interosseous wasting. Sensory loss is over the medial 1.5 fingers and medial palm. Injury at the elbow would also paralyse FCU and FDP medial half but paradoxically produces less clawing because FDP is also paralysed (Ulnar paradox). Wrist-level injury = more pronounced claw.",
+"highYield": "Ulnar paradox: wrist-level injury produces more claw than elbow-level injury because FDP is functioning at wrist level.",
+"pyqNote": "Ulnar paradox is tested almost every year in NEET PG and DNB CET.",
+"tags": [
+"ulnar nerve",
+"claw hand",
+"ulnar paradox",
+"intrinsic muscles",
+"hypothenar"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Brachial Plexus",
+"difficulty": "medium",
+"stem": "During carpal tunnel decompression surgery, a nerve is inadvertently cut just distal to the flexor retinaculum. Post-operatively the patient cannot oppose the thumb, abduct it, or flex the MCP joint of the thumb and index finger. Sensation is lost over the lateral 3.5 fingers on the palmar aspect. Which nerve was cut?",
+"options": [
+"Deep branch of ulnar nerve",
+"Recurrent (thenar) branch of median nerve",
+"Anterior interosseous nerve",
+"Palmar cutaneous branch of median nerve"
+],
+"answer": 1,
+"explanation": "The recurrent (thenar) branch of the median nerve arises just distal to the flexor retinaculum and supplies the thenar muscles (abductor pollicis brevis, opponens pollicis, flexor pollicis brevis superficial head). Injury abolishes opposition, abduction, and partial flexion of thumb MCP. The palmar cutaneous branch (sensory) arises proximal to the carpal tunnel. The anterior interosseous nerve is purely motor in the forearm. The clinical picture fits thenar branch injury combined with the main trunk's sensory territory.",
+"highYield": "Recurrent (thenar) branch of median nerve arises just distal to flexor retinaculum; supplies APB, OP, FPB \u2014 the 'LOAF' thenar muscles.",
+"pyqNote": "Carpal tunnel and thenar branch anatomy tested in AIIMS 2020 and NEET PG 2024 pattern.",
+"tags": [
+"median nerve",
+"thenar branch",
+"carpal tunnel",
+"opposition thumb",
+"recurrent branch"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Base of Skull Foramina",
+"difficulty": "hard",
+"stem": "In a cadaveric dissection of the middle cranial fossa, a foramen is identified on the greater wing of the sphenoid bone. The dissector notes a small artery and a nerve entering it. The nerve is described as the largest branch of the trigeminal nerve. The artery is a branch of the maxillary artery and is the main artery supplying the dura mater. Which foramen is this, and what passes through it?",
+"options": [
+"Foramen ovale: V3 (mandibular nerve) and accessory meningeal artery",
+"Foramen spinosum: middle meningeal artery and recurrent meningeal branch of V3",
+"Foramen rotundum: V2 (maxillary nerve) and artery of foramen rotundum",
+"Foramen lacerum: internal carotid artery and deep petrosal nerve"
+],
+"answer": 1,
+"explanation": "Foramen spinosum transmits the middle meningeal artery (branch of maxillary artery, the main dural artery) and the recurrent meningeal branch of V3 (nervus spinosus). It is located posterolateral to foramen ovale on the greater wing of sphenoid. Foramen ovale carries V3, lesser petrosal nerve, and accessory meningeal artery. Foramen rotundum carries only V2. Extradural haematoma from middle meningeal artery injury follows trauma over the pterion.",
+"highYield": "Foramen spinosum: middle meningeal artery + recurrent meningeal branch of V3; posterior to foramen ovale on greater wing of sphenoid.",
+"pyqNote": "Middle cranial fossa foramina and their contents are high-yield for NEET PG; appeared 2021 and 2023.",
+"tags": [
+"foramen spinosum",
+"middle meningeal artery",
+"base of skull",
+"middle cranial fossa",
+"V3"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Base of Skull Foramina",
+"difficulty": "hard",
+"stem": "A radiologist describes an abnormal soft-tissue mass in the jugular foramen on MRI. The surgical team is planning decompression and needs to know all structures at risk. Which of the following set of structures correctly identifies the contents of the jugular foramen?",
+"options": [
+"CN IX, X, XI (cranial root), and sigmoid sinus becoming internal jugular vein",
+"CN VII, VIII, and internal auditory artery",
+"CN V3, otic ganglion, and middle meningeal artery",
+"CN XII and vertebral artery"
+],
+"answer": 0,
+"explanation": "The jugular foramen transmits: glossopharyngeal nerve (CN IX), vagus nerve (CN X), accessory nerve cranial root (CN XI), and the sigmoid sinus transitioning to the internal jugular vein. A glomus jugulare tumour at this site causes Vernet's syndrome \u2014 paralysis of CN IX, X, XI. CN VII and VIII pass through the internal acoustic meatus. CN XII passes through the hypoglossal canal. Vertebral arteries enter through the foramen magnum.",
+"highYield": "Jugular foramen: CN IX, X, XI + sigmoid/internal jugular vein; Vernet's syndrome = all three CNs paralysed.",
+"pyqNote": "Jugular foramen contents and associated jugular foramen syndrome tested repeatedly across PG entrance exams.",
+"tags": [
+"jugular foramen",
+"CN IX X XI",
+"Vernet syndrome",
+"sigmoid sinus",
+"base of skull"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Base of Skull Foramina",
+"difficulty": "medium",
+"stem": "A patient presents with anhydrosis of the face (loss of facial sweating), ptosis, and miosis \u2014 without any exophthalmos \u2014 following a surgical procedure near the base of the skull. The surgeon had worked around a fibrocartilaginous-filled foramen through which the internal carotid artery passes. Which foramen was the operative site?",
+"options": [
+"Foramen ovale",
+"Foramen lacerum",
+"Carotid canal",
+"Foramen magnum"
+],
+"answer": 1,
+"explanation": "The foramen lacerum is a jagged foramen on the base of skull that is filled with fibrocartilage in life. The internal carotid artery passes over (not through) it, and the deep petrosal nerve and greater petrosal nerve traverse the fibrocartilage. Sympathetic fibres travelling with the internal carotid artery at this region, when damaged, cause Horner's syndrome (ptosis, miosis, anhydrosis without enophthalmos in post-ganglionic lesions). The carotid canal transmits the artery entering the petrous temporal bone.",
+"highYield": "Foramen lacerum is filled with fibrocartilage in life; ICA runs over it; damage here can affect peri-carotid sympathetic plexus causing Horner's syndrome.",
+"pyqNote": "Foramen lacerum contents are a classic distracter question in AIIMS and NEET PG.",
+"tags": [
+"foramen lacerum",
+"internal carotid artery",
+"Horner's syndrome",
+"base of skull",
+"fibrocartilage"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Spinal Cord Cross-Sections",
+"difficulty": "hard",
+"stem": "A cross-section through the cervical spinal cord of a patient who suffered a unilateral penetrating knife wound shows damage limited to the right half of the cord at C6. The patient demonstrates: right-sided loss of motor power below the lesion, right-sided loss of proprioception and vibration, and left-sided loss of pain and temperature starting two segments below the lesion. This pattern is called:",
+"options": [
+"Anterior cord syndrome",
+"Brown-S\u00e9quard syndrome",
+"Central cord syndrome",
+"Posterior cord syndrome"
+],
+"answer": 1,
+"explanation": "Brown-S\u00e9quard syndrome results from hemisection of the spinal cord. The ipsilateral (right) side shows: UMN signs (corticospinal tract damage), loss of proprioception/vibration/discriminative touch (dorsal column damage). The contralateral (left) side shows loss of pain and temperature starting 1-2 segments below the lesion (because spinothalamic fibres cross within 1-2 segments of entry). Anterior cord syndrome spares dorsal columns. Central cord syndrome causes arm > leg weakness. Posterior cord syndrome spares motor and pain/temperature.",
+"highYield": "Brown-S\u00e9quard: ipsilateral motor loss + proprioception loss; contralateral pain/temperature loss 2 segments below. Best prognosis among incomplete cord injuries.",
+"pyqNote": "Brown-S\u00e9quard syndrome pattern is a perennial question in NEET PG neurology and anatomy sections.",
+"tags": [
+"Brown-S\u00e9quard",
+"spinal cord hemisection",
+"spinothalamic",
+"dorsal column",
+"spinal cord cross section"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Spinal Cord Cross-Sections",
+"difficulty": "hard",
+"stem": "A spinal cord cross-section stained with myelin stain shows bilateral pallor (demyelination) in the posterior columns AND lateral corticospinal tracts, while the spinothalamic tracts appear relatively normal. A 45-year-old patient with this histological finding also has a serum B12 level of 60 pg/mL (normal >200). What is the clinical diagnosis and the expected neurological deficits?",
+"options": [
+"Friedreich's ataxia: posterior columns + spinocerebellar tracts affected",
+"Subacute combined degeneration of cord: posterior column signs + UMN signs; spinothalamic spared",
+"Multiple sclerosis: random demyelination patches in white matter",
+"Tabes dorsalis: selective posterior column degeneration"
+],
+"answer": 1,
+"explanation": "Subacute combined degeneration (SCD) of the spinal cord is caused by Vitamin B12 deficiency. It affects the posterior columns (loss of proprioception, vibration, ataxia) and the lateral corticospinal tracts (UMN signs: spasticity, hyperreflexia, extensor plantar). The spinothalamic tracts are typically spared, so pain and temperature sensation remain. The combination of posterior column + lateral column disease = 'combined' degeneration. Tabes dorsalis (syphilis) only affects posterior columns. Friedreich's involves posterior columns + spinocerebellar tracts.",
+"highYield": "SCD of cord: B12 deficiency, posterior + lateral column demyelination; posterior columns (proprioception loss) + lateral columns (UMN signs); spinothalamic spared.",
+"pyqNote": "SCD of cord is asked almost every year; the cross-section pattern is the most tested way to present it.",
+"tags": [
+"subacute combined degeneration",
+"B12 deficiency",
+"posterior column",
+"lateral corticospinal",
+"spinal cord"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Spinal Cord Cross-Sections",
+"difficulty": "hard",
+"stem": "A cross-section through the cervical spinal cord at C8 shows a central, roughly oval zone of softening and cavitation. The lesion expands the central canal region and involves the anterior commissure where spinothalamic fibres cross. The lateral and posterior columns are intact. A patient with this lesion would show:",
+"options": [
+"Spastic paraplegia with preserved all sensations",
+"Bilateral loss of pain and temperature in a 'cape' distribution with preserved proprioception; lower motor neuron signs at the level",
+"Unilateral loss of all sensations below the lesion",
+"Loss of proprioception and vibration bilaterally with intact pain sensation"
+],
+"answer": 1,
+"explanation": "Syringomyelia is a cavitation within the spinal cord expanding from the central canal. At the level of the cavity, crossing spinothalamic fibres in the anterior commissure are disrupted, causing bilateral loss of pain and temperature in a 'cape' or 'shawl' distribution (over shoulders and arms). The dorsal columns (proprioception, vibration) and motor tracts are initially spared \u2014 this is the hallmark dissociated sensory loss. LMN signs (wasting, weakness) appear at the level of the lesion as anterior horn cells are involved. UMN signs develop later as the cavity expands.",
+"highYield": "Syringomyelia: cape distribution dissociated sensory loss; crossing spinothalamic fibres in anterior commissure disrupted; dorsal columns spared initially.",
+"pyqNote": "Syringomyelia cross-section pattern with 'dissociated sensory loss' is a favourite in NEET PG and AIIMS anatomy.",
+"tags": [
+"syringomyelia",
+"central cord",
+"anterior commissure",
+"dissociated sensory loss",
+"cape distribution"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Cranial Nerves",
+"difficulty": "medium",
+"stem": "During a posterior cranial fossa dissection, a nerve is identified emerging from the pontomedullary junction at the level of the olive, running anterolaterally to exit the skull through the jugular foramen. Just below the skull it passes between the internal carotid artery and the internal jugular vein, then curves anteriorly over the stylopharyngeus muscle. Which nerve is this, and what is its function?",
+"options": [
+"Vagus nerve (CN X): motor to pharyngeal muscles and parasympathetic to viscera",
+"Glossopharyngeal nerve (CN IX): taste from posterior 1/3 tongue, sensation from pharynx, motor to stylopharyngeus, parasympathetic to parotid",
+"Hypoglossal nerve (CN XII): motor to all intrinsic and extrinsic tongue muscles",
+"Accessory nerve (CN XI): motor to sternocleidomastoid and trapezius"
+],
+"answer": 1,
+"explanation": "The nerve emerging at the pontomedullary junction near the olive, exiting through the jugular foramen, and winding around stylopharyngeus is the glossopharyngeal nerve (CN IX). It is the only nerve to supply stylopharyngeus. Its functions include: taste from posterior 1/3 of tongue, general sensation from pharynx and middle ear (tympanic branch = Jacobson's nerve), parasympathetic secretomotor to parotid gland (via lesser petrosal nerve and otic ganglion), and carotid sinus/body chemoreceptor afferents.",
+"highYield": "CN IX: only nerve to stylopharyngeus; taste posterior 1/3 tongue; Jacobson's nerve (tympanic) = branch; parasympathetic to parotid via otic ganglion.",
+"pyqNote": "CN IX course and its branch Jacobson's nerve are recurring topics in NEET PG cranial nerve questions.",
+"tags": [
+"glossopharyngeal nerve",
+"CN IX",
+"stylopharyngeus",
+"Jacobson's nerve",
+"jugular foramen"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Cranial Nerves",
+"difficulty": "hard",
+"stem": "A patient presents with inability to elevate the right eyeball above the midline and the eye is deviated downward and outward. There is also fixed dilation of the right pupil and ptosis. On examination, the left eye moves normally. A lesion is localized to the right oculomotor nerve (CN III). The parasympathetic fibres of CN III that constrict the pupil run:",
+"options": [
+"In the core of the nerve, protected from external compression",
+"On the periphery (outer surface) of the nerve, making them vulnerable to compression first",
+"In the cavernous sinus portion only",
+"Together with sympathetic fibres in the nasociliary nerve"
+],
+"answer": 1,
+"explanation": "The parasympathetic (pupilloconstrictor) fibres of CN III run on the outer periphery of the nerve. This is clinically crucial: compressive lesions (posterior communicating artery aneurysm, uncal herniation) compress the outer fibres first, causing 'surgical' third nerve palsy with a dilated, fixed pupil. In contrast, ischaemic lesions (diabetes, hypertension) damage the inner core (motor fibres) first, causing 'medical' third nerve palsy with a spared (reactive) pupil. This distinction is a critical emergency differentiator.",
+"highYield": "CN III: parasympathetic pupilloconstrictor fibres are peripheral \u2192 compressed first in surgical palsy; central fibres = motor \u2192 affected first in medical (ischaemic) palsy.",
+"pyqNote": "Surgical vs medical third nerve palsy distinction is asked in NEET PG, AIIMS, and ophthalmology PG exams regularly.",
+"tags": [
+"CN III",
+"oculomotor nerve",
+"parasympathetic",
+"surgical third nerve palsy",
+"posterior communicating artery"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Cranial Nerves",
+"difficulty": "medium",
+"stem": "At autopsy, the brainstem is sectioned horizontally and a small nucleus is identified in the floor of the fourth ventricle at the level of the facial colliculus. The facial colliculus is a surface bulge created by CN VII fibres looping over this nucleus. This nucleus belongs to which cranial nerve?",
+"options": [
+"Facial nerve (CN VII) nucleus",
+"Abducens nerve (CN VI) nucleus",
+"Trigeminal motor nucleus",
+"Hypoglossal nucleus"
+],
+"answer": 1,
+"explanation": "The facial colliculus is a surface elevation on the floor of the fourth ventricle (rhomboid fossa) in the pons. It is formed by the fibres of the facial nerve (CN VII) looping over the abducens nucleus (CN VI). Therefore, a lesion producing a facial colliculus syndrome affects both CN VI (lateral gaze palsy) and CN VII (facial palsy) on the same side. The abducens nucleus is the anatomical reason for this surface bulge, not the facial nucleus itself (which is more anterior in the pons).",
+"highYield": "Facial colliculus = CN VII fibres over CN VI nucleus; Foville's syndrome = CN VI + CN VII palsy + ipsilateral horizontal gaze palsy from pontine lesion.",
+"pyqNote": "Facial colliculus anatomy and Foville's syndrome are tested in NEET PG neuro-anatomy.",
+"tags": [
+"facial colliculus",
+"abducens nucleus",
+"CN VI",
+"CN VII",
+"fourth ventricle floor"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Cranial Nerves",
+"difficulty": "hard",
+"stem": "A patient presents with loss of taste from the anterior two-thirds of the tongue, hyperacusis (painful sensitivity to sounds), and loss of lacrimation on the right side, but facial muscle movements are intact. Where is the lesion in the course of the right facial nerve?",
+"options": [
+"At the stylomastoid foramen",
+"In the facial canal proximal to the geniculate ganglion (proximal to the branch to stapedius and chorda tympani)",
+"Between the origin of the nerve to stapedius and the chorda tympani",
+"Distal to the origin of the chorda tympani in the facial canal"
+],
+"answer": 1,
+"explanation": "To lose lacrimation, the greater petrosal nerve (parasympathetic to lacrimal gland) must be affected \u2014 this branches at the geniculate ganglion. To lose taste from anterior 2/3 (chorda tympani), stapedius function (hyperacusis), AND lacrimation \u2014 while sparing motor fibres \u2014 the lesion must be proximal to all these branches, i.e., proximal to the geniculate ganglion in the petrous part of the facial canal. If motor fibres are spared, the lesion is pre-motor-nucleus or in the internal acoustic meatus segment. This correlates with lesions in herpes zoster oticus or petrous temporal fractures at the meatal segment.",
+"highYield": "Facial nerve branch order: greater petrosal (at geniculate ganglion) \u2192 nerve to stapedius \u2192 chorda tympani \u2192 motor branches at stylomastoid. Proximal lesion = more deficits.",
+"pyqNote": "Facial nerve topographic diagnosis (localizing the lesion from clinical deficits) is a very high-yield NEET PG topic.",
+"tags": [
+"facial nerve",
+"geniculate ganglion",
+"chorda tympani",
+"greater petrosal nerve",
+"facial canal"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Lower Limb Nerves",
+"difficulty": "medium",
+"stem": "On dissection of the anterior compartment of the thigh, a nerve is identified descending lateral to the femoral artery, giving branches to the quadriceps femoris, and continuing as the saphenous nerve at the adductor canal. It enters the thigh by passing under the inguinal ligament lateral to the femoral vessels. A patient with injury to this nerve at the level of the inguinal ligament would show:",
+"options": [
+"Inability to adduct the thigh and sensory loss over the medial thigh",
+"Loss of knee extension, absent knee jerk, and sensory loss over the medial leg and foot",
+"Loss of plantarflexion and inversion of the foot",
+"Weakness of hip flexion and lateral thigh sensory loss"
+],
+"answer": 1,
+"explanation": "The nerve entering below the inguinal ligament lateral to the femoral vessels, supplying quadriceps, and continuing as saphenous nerve is the femoral nerve (L2, L3, L4). Injury results in: loss of knee extension (quadriceps paralysis), absent knee jerk, and sensory loss over anterior thigh and medial leg and foot (saphenous nerve territory). Hip flexion (iliopsoas) is also lost since the nerve to iliopsoas often comes from the femoral nerve. Adductor loss indicates obturator nerve injury. Plantarflexion loss indicates tibial nerve injury.",
+"highYield": "Femoral nerve (L2-L4): under inguinal ligament lateral to artery; supplies quadriceps; continues as saphenous nerve (medial leg and foot sensation); knee jerk = L4.",
+"pyqNote": "Femoral nerve injury findings and its continuation as saphenous nerve are frequently tested in NEET PG.",
+"tags": [
+"femoral nerve",
+"quadriceps",
+"saphenous nerve",
+"knee jerk",
+"inguinal ligament"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Lower Limb Nerves",
+"difficulty": "hard",
+"stem": "During dissection of the popliteal fossa, a nerve is traced from its origin as the larger terminal branch of the sciatic nerve. It is seen winding around the neck of the fibula to divide into the superficial and deep peroneal nerves. A patient who fractured the neck of the fibula shows foot drop, inability to evert the foot, and sensory loss. What is the sensory area affected?",
+"options": [
+"Sole of the foot and medial leg",
+"Dorsum of the foot and anterolateral leg",
+"Medial two-thirds of the dorsal foot only",
+"Posterior leg and lateral foot"
+],
+"answer": 1,
+"explanation": "The common peroneal nerve (common fibular nerve, L4-S2) winds around the neck of the fibula \u2014 a site highly vulnerable to injury with fibular neck fractures. Injury causes foot drop (loss of dorsiflexion \u2014 deep peroneal), loss of foot eversion (loss of eversion by peronei \u2014 superficial peroneal), and sensory loss over the dorsum of the foot and anterolateral leg. The superficial peroneal nerve supplies the anterolateral leg and dorsum of foot (except the first web space). The deep peroneal supplies the first dorsal web space only.",
+"highYield": "Common peroneal nerve winds around fibular neck; injury = foot drop + loss of eversion + dorsal foot sensory loss; first web space = deep peroneal only.",
+"pyqNote": "Common peroneal nerve at fibular neck is the single most tested lower limb nerve injury in NEET PG.",
+"tags": [
+"common peroneal nerve",
+"fibular neck",
+"foot drop",
+"foot eversion",
+"dorsum of foot"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Lower Limb Nerves",
+"difficulty": "medium",
+"stem": "A patient presents after a posterior hip dislocation with the right lower limb in flexion, adduction, and medial rotation. Over the next few weeks, they develop difficulty walking with a high-stepping gait and inability to plantarflex or invert the foot. Sensation is lost over the posterior thigh, leg, and the entire foot. Which nerve is injured?",
+"options": [
+"Femoral nerve",
+"Obturator nerve",
+"Sciatic nerve",
+"Superior gluteal nerve"
+],
+"answer": 2,
+"explanation": "The sciatic nerve (L4-S3) exits the pelvis through the greater sciatic foramen below piriformis and descends in the posterior thigh. Posterior hip dislocation commonly injures it. Total sciatic nerve palsy causes: loss of all movements below the knee (foot drop + loss of plantarflexion and inversion), weakness of knee flexion (hamstrings), and sensory loss over the posterior thigh (posterior cutaneous nerve of thigh \u2014 travels with sciatic), the entire leg (except medial), and foot. In practice, the common peroneal division is more vulnerable.",
+"highYield": "Sciatic nerve injury in posterior hip dislocation: foot drop + plantarflexion loss + sensory loss posterior thigh, leg, and foot; common peroneal division more vulnerable.",
+"pyqNote": "Sciatic nerve injury in hip dislocation and its distinction from common peroneal alone is tested in NEET PG.",
+"tags": [
+"sciatic nerve",
+"posterior hip dislocation",
+"foot drop",
+"plantarflexion",
+"high-stepping gait"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Lower Limb Nerves",
+"difficulty": "hard",
+"stem": "In a dissection of the medial thigh, a nerve is found emerging from the obturator foramen, dividing into anterior and posterior divisions. The anterior division lies in front of adductor brevis; the posterior division lies behind it. A patient with an obturator hernia or obturator nerve injury would show:",
+"options": [
+"Weakness of knee extension and loss of sensation over the medial thigh",
+"Weakness of thigh adduction and sensory loss over the medial thigh (Howship-Romberg sign)",
+"Weakness of hip abduction and gluteus medius wasting",
+"Loss of ankle jerk and weakness of plantarflexion"
+],
+"answer": 1,
+"explanation": "The obturator nerve (L2, L3, L4) exits through the obturator foramen, supplies adductors of the thigh (adductor longus, brevis, magnus medial part, gracilis), and provides sensory supply to the medial thigh. Obturator hernia compresses this nerve causing medial thigh pain radiating to the knee when the hip is extended and internally rotated \u2014 Howship-Romberg sign. Injury causes weakness of adduction and medial thigh sensory loss. Hip abduction weakness indicates superior gluteal nerve damage.",
+"highYield": "Obturator nerve: L2-L4, exits obturator foramen, supplies adductors; Howship-Romberg sign = medial thigh pain in obturator hernia.",
+"pyqNote": "Obturator nerve and Howship-Romberg sign are classically tested in both anatomy and surgery NEET PG papers.",
+"tags": [
+"obturator nerve",
+"thigh adduction",
+"Howship-Romberg sign",
+"obturator hernia",
+"medial thigh"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Abdomen \u2014 Hepatic Blood Supply and Portal Hypertension",
+"difficulty": "medium",
+"stem": "A radiologist reviewing a hepatic angiogram notes that the liver receives blood from two sources. During hepatic surgery, the cystic artery must be ligated. In 75% of dissections, the cystic artery is a branch of which artery, and where is this relationship relevant surgically?",
+"options": [
+"Left hepatic artery; relevant at the porta hepatis",
+"Right hepatic artery; relevant in Calot's triangle",
+"Gastroduodenal artery; relevant at the first part of duodenum",
+"Left gastric artery; relevant at the lesser curvature"
+],
+"answer": 1,
+"explanation": "The cystic artery supplies the gallbladder and in approximately 75% of individuals arises from the right hepatic artery within Calot's triangle (cholecystohepatic triangle). Calot's triangle is bounded by the common hepatic duct medially, the cystic duct inferiorly, and the inferior surface of the liver superiorly. Safe cholecystectomy requires identification and ligation of the cystic artery within this triangle to avoid injury to the right hepatic artery. Variations (origin from gastroduodenal, left hepatic, or directly from proper hepatic) must be recognized.",
+"highYield": "Cystic artery: 75% from right hepatic artery within Calot's triangle; Calot's triangle = cystic duct + common hepatic duct + liver surface.",
+"pyqNote": "Calot's triangle and cystic artery origin are among the most repeated abdominal anatomy questions in NEET PG.",
+"tags": [
+"cystic artery",
+"Calot's triangle",
+"right hepatic artery",
+"cholecystectomy",
+"gallbladder"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Abdomen \u2014 Hepatic Blood Supply and Portal Hypertension",
+"difficulty": "hard",
+"stem": "On endoscopy, a patient with known liver cirrhosis is found to have dilated, tortuous veins at the lower end of the oesophagus and around the umbilicus ('caput medusae'). These represent porto-systemic collaterals. The oesophageal varices at the lower 2-3 cm of oesophagus form between which portal and systemic veins?",
+"options": [
+"Left gastric (coronary) vein (portal) and azygos/hemiazygos veins (systemic)",
+"Superior mesenteric vein (portal) and inferior vena cava (systemic)",
+"Splenic vein (portal) and renal vein (systemic)",
+"Right gastric vein (portal) and internal mammary artery (systemic)"
+],
+"answer": 0,
+"explanation": "At the lower oesophagus, the left gastric vein (coronary vein) \u2014 a tributary of the portal system \u2014 anastomoses with the oesophageal tributaries of the azygos and hemiazygos veins (systemic). In portal hypertension, this anastomosis becomes engorged, producing oesophageal varices, which bleed catastrophically. Caput medusae forms at the paraumbilical veins (portal) anastomosing with superficial epigastric veins (systemic). Other important sites: haemorrhoidal anastomoses (superior rectal [portal] with middle/inferior rectal [systemic]), and the bare area of liver.",
+"highYield": "Porto-systemic anastomoses: (1) lower oesophagus \u2014 left gastric + azygos; (2) umbilicus \u2014 paraumbilical + epigastric; (3) rectum \u2014 superior rectal + middle/inferior rectal.",
+"pyqNote": "Porto-systemic anastomoses and sites of varices are classic NEET PG surgery-anatomy overlap questions.",
+"tags": [
+"portal hypertension",
+"oesophageal varices",
+"left gastric vein",
+"azygos vein",
+"porto-systemic anastomosis"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Abdomen \u2014 Retroperitoneal Structures",
+"difficulty": "medium",
+"stem": "During a left nephrectomy, the surgeon must carefully identify the structures crossing anterior to the left renal vein. On cadaveric dissection, the left renal vein is noted to cross anterior to the aorta and posterior to the superior mesenteric artery. Which additional vessel specifically crosses the anterior surface of the left renal vein (and is at risk during retroperitoneal surgery)?",
+"options": [
+"Left suprarenal vein which drains into the inferior vena cava",
+"The left gonadal (testicular or ovarian) artery which crosses anterior to the left renal vein before descending to the gonad",
+"Left gastric artery which descends from the aorta",
+"Splenic artery which runs posterior to the left renal vein"
+],
+"answer": 1,
+"explanation": "The left gonadal artery (testicular or ovarian) arises from the aorta just below the renal artery and crosses anterior to the left renal vein as it descends toward the gonad. This is an important surgical landmark. On the right side, the right gonadal artery crosses anterior to the right ureter. The left renal vein also receives: left suprarenal vein (superiorly), left gonadal vein (inferiorly), and left inferior phrenic vein. The SMA presses on the left renal vein from above \u2014 relevant in nutcracker syndrome.",
+"highYield": "Left renal vein receives left suprarenal vein and left gonadal vein; the left gonadal artery crosses anterior to it; SMA can compress it (nutcracker syndrome).",
+"pyqNote": "Left renal vein relations and tributaries are tested in NEET PG urology-anatomy sections.",
+"tags": [
+"left renal vein",
+"gonadal artery",
+"retroperitoneal",
+"nutcracker syndrome",
+"nephrectomy"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Abdomen \u2014 Retroperitoneal Structures",
+"difficulty": "medium",
+"stem": "A medical student identifying retroperitoneal structures in a cadaver lists the following: right and left kidneys with their ureters, suprarenal glands, abdominal aorta with its branches, inferior vena cava, pancreas (except tail), duodenum (except first 2 cm), and the ascending and descending colon. Which mnemonic helps recall all primary retroperitoneal structures?",
+"options": [
+"RAPE \u2014 Rectum, Aorta, Pancreas, Esophagus",
+"SAD PUCKER \u2014 Suprarenal glands, Aorta, Duodenum (2nd\u20134th parts), Pancreas (except tail), Ureters, Colon (ascending and descending), Kidneys, Esophagus, Rectum",
+"HELPSS \u2014 Hepatic flexure, Esophagus, Liver, Pancreas, Sigmoid, Spleen",
+"DUCKS \u2014 Duodenum, Ureter, Colon, Kidneys, Stomach"
+],
+"answer": 1,
+"explanation": "The SAD PUCKER mnemonic covers all primary retroperitoneal structures: Suprarenal glands, Aorta and IVC, Duodenum (2nd-4th parts), Pancreas (except tail), Ureters, Colon (ascending and descending), Kidneys, Esophagus (abdominal part), Rectum. Secondary retroperitoneal structures (ascending colon, descending colon, sigmoid colon, and duodenum 2nd-4th parts) were initially intraperitoneal and became retroperitoneal during development. This distinction matters for surgical access and tumour staging.",
+"highYield": "Primary retroperitoneal structures: SAD PUCKER (Suprarenal, Aorta/IVC, Duodenum 2-4, Pancreas except tail, Ureter, Colon asc/desc, Kidneys, Esophagus, Rectum).",
+"pyqNote": "Retroperitoneal structure identification is a standard NEET PG anatomy question recurring in multiple formats.",
+"tags": [
+"retroperitoneal",
+"SAD PUCKER",
+"duodenum",
+"pancreas",
+"kidneys"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Heart \u2014 Coronary Circulation",
+"difficulty": "hard",
+"stem": "A cardiology fellow is reviewing the anatomy of coronary arteries. The sinoatrial (SA) node, located at the junction of the right atrium and the superior vena cava, receives its blood supply from a nodal artery. In what percentage of individuals does this nodal artery arise from the right coronary artery?",
+"options": [
+"40%",
+"55%",
+"60%",
+"80%"
+],
+"answer": 2,
+"explanation": "The SA node artery arises from the right coronary artery in approximately 60% of individuals and from the left circumflex artery in about 40%. This is clinically significant because occlusion of the proximal right coronary artery in inferior MI can damage the SA node, causing sinus bradycardia, sinus arrest, or varying degrees of AV block. The AV node is supplied by the right coronary artery in 90% of individuals (posterior descending artery). Coronary dominance is defined by which artery gives the posterior descending artery \u2014 right dominant in 70%, left in 15%, co-dominant in 15%.",
+"highYield": "SA node artery: RCA in 60%, LCx in 40%; AV node artery: RCA in 90%; right coronary dominance in 70% of individuals.",
+"pyqNote": "SA node blood supply percentage is one of the most tested cardiac anatomy facts in NEET PG and AIIMS.",
+"tags": [
+"SA node",
+"right coronary artery",
+"coronary dominance",
+"AV node",
+"nodal artery"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Heart \u2014 Coronary Circulation",
+"difficulty": "hard",
+"stem": "In a right-dominant coronary circulation, the posterior interventricular (posterior descending) artery runs in the posterior interventricular groove. A patient with a 90% occlusion of the right coronary artery proximal to the origin of the acute marginal branch develops an inferior myocardial infarction. Which part of the conduction system is most at risk?",
+"options": [
+"Bundle of His (His bundle) only",
+"SA node and AV node both",
+"Left bundle branch only",
+"Right bundle branch only"
+],
+"answer": 1,
+"explanation": "In a right-dominant system, the right coronary artery gives the SA nodal artery (60% of individuals), the acute marginal branch, and terminates as the posterior descending artery which gives the AV nodal artery (90% of individuals). A proximal RCA occlusion therefore places both the SA node (sinus bradycardia, sinus arrest) and the AV node (first, second, or third degree AV block) at risk. This explains why inferior MI (right coronary territory) classically presents with bradyarrhythmias that may require temporary pacing.",
+"highYield": "Proximal RCA occlusion in right-dominant heart: inferior MI + SA node ischemia + AV node ischemia \u2192 bradyarrhythmias and AV blocks.",
+"pyqNote": "RCA territory and conduction system blood supply is a bridge question between anatomy and cardiology in NEET PG.",
+"tags": [
+"right coronary artery",
+"SA node",
+"AV node",
+"inferior MI",
+"coronary dominance"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Brachial Plexus",
+"difficulty": "hard",
+"stem": "During axillary dissection, a flat nerve is identified running on the subscapularis and teres major muscles, then curving around the lower border of subscapularis to enter the forearm between the two heads of pronator teres. It passes deep to the flexor retinaculum. Injury to this nerve at the elbow (medial epicondyle fracture in a child) produces:",
+"options": [
+"Loss of all finger and wrist flexion with claw hand involving all fingers",
+"Loss of flexion of the lateral three-and-a-half fingers, inability to oppose the thumb, ape thumb deformity",
+"Wrist drop and finger drop",
+"Loss of intrinsic hand muscles with no flexion deficit at the forearm"
+],
+"answer": 1,
+"explanation": "The nerve running between the two heads of pronator teres and deep to the flexor retinaculum is the median nerve. Injury at the elbow (medial epicondyle fracture, supracondylar fracture) causes loss of: pronation, wrist flexion (partial), lateral 3.5 finger flexion (FDS, lateral FDP), thenar muscles (opposition, abduction of thumb \u2014 APB, OP, FPB superficial head). This produces 'ape thumb' (thenar wasting, thumb in same plane as palm) with 'pointing index' (Benedict's hand/hand of benediction) when the patient tries to clench the fist. Intrinsic muscles are spared (ulnar nerve territory).",
+"highYield": "Median nerve at elbow: ape thumb (thenar wasting), hand of benediction (index and middle finger cannot flex), loss of pronation and lateral 3.5 finger flexion.",
+"pyqNote": "Median nerve injury at elbow and resulting deformities are classic NEET PG and AIIMS questions, especially in paediatric context.",
+"tags": [
+"median nerve",
+"ape thumb",
+"hand of benediction",
+"medial epicondyle",
+"pronator teres"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Spinal Cord Cross-Sections",
+"difficulty": "hard",
+"stem": "A T8 spinal cord cross-section shows selective degeneration of the posterior and anterolateral (spinocerebellar) columns. A 20-year-old patient with this finding on MRI presents with progressive ataxia, absent ankle and knee jerks, extensor plantar response, cardiomyopathy, and pes cavus. What is the diagnosis?",
+"options": [
+"Multiple sclerosis",
+"Friedreich's ataxia",
+"Syringomyelia",
+"Tabes dorsalis"
+],
+"answer": 1,
+"explanation": "Friedreich's ataxia is an autosomal recessive spinocerebellar ataxia (GAA trinucleotide repeat in frataxin gene) affecting: posterior columns (loss of proprioception, vibration, Romberg positive), spinocerebellar tracts (cerebellar ataxia), and corticospinal tracts (extensor plantar). It produces the paradoxical combination of absent jerks (dorsal root ganglion involvement) with extensor plantar (corticospinal tract loss). Associated features include hypertrophic cardiomyopathy, pes cavus, kyphoscoliosis, and diabetes. Onset before age 25.",
+"highYield": "Friedreich's ataxia: AR, GAA repeat, frataxin; posterior column + spinocerebellar + corticospinal tracts; absent jerks + extensor plantar; cardiomyopathy + pes cavus.",
+"pyqNote": "Friedreich's ataxia clinical and anatomical features are repeatedly tested in NEET PG neurology-anatomy section.",
+"tags": [
+"Friedreich's ataxia",
+"spinocerebellar",
+"posterior column",
+"absent jerks",
+"cardiomyopathy"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Cranial Nerves",
+"difficulty": "medium",
+"stem": "A neurosurgeon exposing the posterior fossa identifies a nerve emerging from the junction of the pons and the medulla just lateral to the pyramid, hooking backward around the inferior cerebellar peduncle and passing through the internal acoustic meatus with the facial nerve. The nerve carries special sensory fibres. Which nerve is this?",
+"options": [
+"Trochlear nerve (CN IV)",
+"Vestibulocochlear nerve (CN VIII)",
+"Glossopharyngeal nerve (CN IX)",
+"Abducens nerve (CN VI)"
+],
+"answer": 1,
+"explanation": "The vestibulocochlear nerve (CN VIII) emerges at the pontomedullary junction lateral to CN VII and enters the internal acoustic meatus alongside CN VII and the internal auditory artery. It carries special sensory (SSA) fibres for hearing (cochlear division) and balance (vestibular division). Its nuclei are in the pons and medulla. Acoustic neuroma (vestibular schwannoma) arises from the vestibular division of CN VIII within the internal acoustic canal, compressing CN VII in the canal and later compressing the brainstem.",
+"highYield": "CN VIII: pontomedullary junction, internal acoustic meatus with CN VII; vestibular schwannoma (acoustic neuroma) is the commonest CPA angle tumour.",
+"pyqNote": "CN VIII course and acoustic neuroma are tested in NEET PG and ENT entrance examinations.",
+"tags": [
+"vestibulocochlear nerve",
+"CN VIII",
+"internal acoustic meatus",
+"acoustic neuroma",
+"pontomedullary junction"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Lower Limb Nerves",
+"difficulty": "hard",
+"stem": "On dissection of the sole of the foot, two terminal branches of the tibial nerve are identified at the level of the flexor retinaculum of the ankle (tarsal tunnel). The medial plantar nerve supplies sensation to the medial 3.5 toes and intrinsic muscles analogous to the median nerve in the hand. The lateral plantar nerve functions like the ulnar nerve. A tarsal tunnel syndrome compressing both divisions would cause:",
+"options": [
+"Foot drop and loss of ankle dorsiflexion",
+"Burning pain, paraesthesia, and intrinsic muscle weakness in the foot, worse at night",
+"Loss of ankle jerk and weakness of plantarflexion",
+"Loss of eversion of the foot with dorsal foot numbness"
+],
+"answer": 1,
+"explanation": "Tarsal tunnel syndrome is compression of the posterior tibial nerve (or its divisions) beneath the flexor retinaculum of the ankle. It manifests as burning pain, paraesthesia, and tingling in the sole and plantar aspect of the toes \u2014 worse at night and relieved by removing shoes (similar to carpal tunnel). Intrinsic foot muscle weakness (interossei, lumbricals) may cause splaying. Tinel's sign is positive at the tarsal tunnel. Ankle jerk (gastrocnemius-soleus, S1) is mediated by the tibial nerve proximal to the tunnel, so it is usually preserved.",
+"highYield": "Tarsal tunnel syndrome: posterior tibial nerve under flexor retinaculum; burning sole pain worse at night; Tinel's positive; intrinsic foot muscle weakness.",
+"pyqNote": "Tarsal tunnel syndrome and its analogy to carpal tunnel syndrome are tested in NEET PG orthopaedic-anatomy papers.",
+"tags": [
+"tarsal tunnel",
+"posterior tibial nerve",
+"medial plantar nerve",
+"lateral plantar nerve",
+"paraesthesia"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Abdomen \u2014 Hepatic Blood Supply and Portal Hypertension",
+"difficulty": "hard",
+"stem": "A surgically resected hepatic specimen shows the portal triad at histology: portal vein branch, hepatic artery branch, and bile duct. The liver receives approximately 75-80% of its blood from the portal vein and 20-25% from the hepatic artery, yet the hepatic artery provides about 50% of the oxygen. A surgeon ligating the common hepatic artery proximal to the gastroduodenal artery will the liver survive? Why?",
+"options": [
+"No, because the hepatic artery is the only oxygen supply and ligation is universally fatal",
+"Yes, because collateral arterial supply via the gastroduodenal artery from the superior mesenteric artery can maintain hepatic oxygenation",
+"No, because the portal vein provides only 10% of oxygen and cannot compensate",
+"Yes, but only the left lobe survives through the left gastric artery collaterals"
+],
+"answer": 1,
+"explanation": "Ligation of the proper hepatic artery proximal to the gastroduodenal artery can be tolerated in many cases because of collateral arterialisation. The gastroduodenal artery (from common hepatic artery) can receive retrograde flow from the superior mesenteric artery via the inferior pancreaticoduodenal arteries, maintaining hepatic artery flow. Additionally, the portal vein provides 50% of the liver's oxygen. However, ligation of the proper hepatic artery distal to the gastroduodenal artery eliminates these collaterals and is more dangerous. This principle underlies the safe ligation during right hepatic lobectomy.",
+"highYield": "Common hepatic artery ligation proximal to gastroduodenal: liver may survive via SMA collaterals; portal vein provides 75% flow but 50% oxygen.",
+"pyqNote": "Hepatic dual blood supply and consequences of arterial ligation are tested in NEET PG surgical anatomy.",
+"tags": [
+"hepatic artery",
+"portal vein",
+"gastroduodenal artery",
+"dual blood supply",
+"hepatic ligation"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Cranial Nerves",
+"difficulty": "hard",
+"stem": "During a pterygomaxillary fossa dissection, a nerve is identified entering the fossa through the foramen rotundum from the middle cranial fossa. It is the second division of the trigeminal nerve (V2). Within the pterygopalatine fossa, a ganglion is suspended from it. The parasympathetic fibres of this ganglion originate from which nerve and reach the ganglion via which route?",
+"options": [
+"CN IX (glossopharyngeal) via lesser petrosal nerve to otic ganglion",
+"CN VII (facial) via greater petrosal nerve to pterygopalatine ganglion",
+"CN VII (facial) via chorda tympani to submandibular ganglion",
+"CN X (vagus) via auricular branch to pterygopalatine ganglion"
+],
+"answer": 1,
+"explanation": "The pterygopalatine ganglion (Meckel's ganglion or sphenopalatine ganglion) hangs from V2 in the pterygopalatine fossa. Its pre-ganglionic parasympathetic fibres come from the facial nerve (CN VII) via the greater petrosal nerve, which joins the deep petrosal nerve (sympathetic) to form the nerve of the pterygoid canal (Vidian nerve) entering the pterygopalatine fossa. Post-ganglionic parasympathetic fibres supply the lacrimal gland (via zygomaticotemporal and lacrimal nerves), nasal mucosa, and palatal glands. Sensory fibres are from V2 (pass through without synapsing).",
+"highYield": "Pterygopalatine ganglion: parasympathetic input from CN VII via greater petrosal nerve + deep petrosal (sympathetic) = Vidian nerve; supplies lacrimal gland and nasal glands.",
+"pyqNote": "Pterygopalatine ganglion connections are a classic and high-yield NEET PG head and neck anatomy question.",
+"tags": [
+"pterygopalatine ganglion",
+"greater petrosal nerve",
+"Vidian nerve",
+"CN VII",
+"foramen rotundum"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Base of Skull Foramina",
+"difficulty": "medium",
+"stem": "In a cadaveric dissection of the posterior cranial fossa, a canal is identified on the anterior surface of the occipital condyle, transmitting a nerve that exits the skull and runs forward between the internal carotid artery and the internal jugular vein, then lateral to the external carotid artery, finally entering the tongue to supply all intrinsic and most extrinsic tongue muscles. What is this canal and nerve?",
+"options": [
+"Jugular foramen transmitting CN XI (accessory nerve)",
+"Hypoglossal canal transmitting CN XII (hypoglossal nerve)",
+"Foramen magnum transmitting the vertebral artery",
+"Condylar canal transmitting an emissary vein"
+],
+"answer": 1,
+"explanation": "The hypoglossal canal transmits the hypoglossal nerve (CN XII), which supplies all intrinsic tongue muscles and all extrinsic tongue muscles EXCEPT palatoglossus (supplied by CN X via pharyngeal plexus). Injury causes tongue deviation to the ipsilateral (same) side of the lesion due to the unopposed action of the contralateral genioglossus. The nucleus of CN XII lies in the medulla (hypoglossal triangle on the floor of the fourth ventricle). LMN lesion = ipsilateral deviation + wasting.",
+"highYield": "CN XII: hypoglossal canal; supplies all tongue muscles except palatoglossus (CN X); LMN lesion = tongue deviates to the SAME side; UMN = to opposite side.",
+"pyqNote": "Tongue deviation rule (LMN vs UMN) and hypoglossal canal are tested every few years in NEET PG.",
+"tags": [
+"hypoglossal nerve",
+"CN XII",
+"hypoglossal canal",
+"tongue deviation",
+"genioglossus"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Brachial Plexus",
+"difficulty": "hard",
+"stem": "A 30-year-old motorcyclist presents with right upper limb hanging limply at the side. On examination: deltoid, biceps, and brachioradialis are weak (C5, C6 territory), but triceps is normal. Wrist and finger extensors are partially weak, wrist and finger flexors are intact. Intrinsic hand muscles are preserved. The lateral cord of the brachial plexus appears normal on MRI. Where is the lesion?",
+"options": [
+"Upper trunk of the brachial plexus (C5-C6) only",
+"Middle trunk of the brachial plexus (C7) only",
+"Both the upper and middle trunks (C5, C6, C7) of the brachial plexus",
+"Posterior cord of the brachial plexus"
+],
+"answer": 2,
+"explanation": "Upper trunk (C5, C6) injury explains the deltoid, biceps, and brachioradialis weakness. Middle trunk (C7) injury explains the partial wrist and finger extensor weakness (radial nerve receives C7). The combination (C5, C6, C7) produces extended Erb's palsy. The hand intrinsics are normal because C8-T1 (lower trunk, medial cord) are intact. The lateral cord being normal on MRI suggests the trunks themselves are injured at Erb's point rather than at the cords. This pattern is common in motorcycle accidents causing traction injuries at the brachial plexus trunks.",
+"highYield": "Extended Erb's palsy: C5, C6, C7; upper + middle trunk injury; deltoid + biceps + wrist extensors weak; hand intrinsics spared (C8, T1 intact).",
+"pyqNote": "Brachial plexus trunk localisation from clinical deficits is a high-level NEET PG question seen in NBE pattern papers.",
+"tags": [
+"brachial plexus",
+"upper trunk",
+"middle trunk",
+"extended Erb's palsy",
+"C5 C6 C7"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Cranial Nerves",
+"difficulty": "medium",
+"stem": "A patient presents with loss of all ipsilateral facial sensation (all three divisions of V), weakness of mastication muscles (jaw deviates to the affected side on opening), loss of corneal reflex, and absent jaw jerk. On MRI a mass is found in the Meckel's cave region. Which cranial nerve is affected at which specific site?",
+"options": [
+"CN VII at the stylomastoid foramen",
+"CN V (trigeminal nerve) at its ganglion in Meckel's cave",
+"CN IX at the jugular foramen",
+"CN VI in the cavernous sinus"
+],
+"answer": 1,
+"explanation": "Meckel's cave (cavum trigeminale) is a dural recess in the petrous temporal bone housing the trigeminal ganglion (Gasserian ganglion). A mass here compresses all three divisions of CN V simultaneously: V1 (ophthalmic \u2014 corneal reflex afferent), V2 (maxillary \u2014 mid-face sensation), V3 (mandibular \u2014 mastication muscles, jaw jerk). Jaw deviates to the side of the lesion (ipsilateral pterygoids are weak). Common masses here include epidermoid cysts, trigeminal schwannomas, and meningiomas. The jaw jerk (pons) tests V3 motor.",
+"highYield": "Meckel's cave = trigeminal ganglion location; all three V divisions affected simultaneously; jaw deviation toward the lesion side; commonest mass = epidermoid/schwannoma.",
+"pyqNote": "Trigeminal neuralgia anatomy and Meckel's cave are recurrent NEET PG topics in cranial nerve sections.",
+"tags": [
+"trigeminal nerve",
+"Meckel's cave",
+"Gasserian ganglion",
+"jaw deviation",
+"corneal reflex"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Heart \u2014 Coronary Circulation",
+"difficulty": "medium",
+"stem": "On a cardiac dissection specimen, the coronary sulcus is examined. The right coronary artery is traced from its origin in the anterior (right) aortic sinus, running in the coronary sulcus, giving the acute marginal branch, and reaching the posterior interventricular groove. In a left-dominant coronary circulation, the posterior descending artery (PDA) arises from which vessel?",
+"options": [
+"Right coronary artery",
+"Left circumflex artery",
+"Left anterior descending artery",
+"Ramus intermedius"
+],
+"answer": 1,
+"explanation": "Coronary dominance is determined by which coronary artery gives origin to the posterior descending artery (PDA) that runs in the posterior interventricular groove. In right-dominant circulation (70% of individuals), the RCA gives the PDA. In left-dominant circulation (15%), the left circumflex artery (LCx) extends beyond the crux of the heart and gives the PDA. In co-dominant circulation (15%), both arteries contribute. Left dominance is important clinically because LCx occlusion in these individuals causes posterior and inferior MI plus SA and AV node ischemia.",
+"highYield": "Coronary dominance: right dominant 70% (RCA gives PDA), left dominant 15% (LCx gives PDA), co-dominant 15%; PDA = posterior interventricular groove artery.",
+"pyqNote": "Coronary dominance definition and percentages are tested every year in NEET PG cardiology-anatomy.",
+"tags": [
+"coronary dominance",
+"posterior descending artery",
+"left circumflex",
+"right coronary artery",
+"left dominant"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Abdomen \u2014 Retroperitoneal Structures",
+"difficulty": "hard",
+"stem": "A surgical resident is performing an appendicectomy via a gridiron incision. After identifying the appendix, they note the blood supply. The appendicular artery, a branch of the ileocolic artery, runs in the free edge of the mesoappendix. The ileocolic artery is a branch of the superior mesenteric artery. During this procedure, a structure running retroperitoneally on the psoas major directly posterior to the caecum must be identified to avoid injury. What is this structure?",
+"options": [
+"Left ureter crossing over the left iliac vessels",
+"Right ureter crossing over the right iliac vessels at the pelvic brim",
+"Right gonadal vein draining directly into the right renal vein",
+"Inferior mesenteric artery at the aortic bifurcation"
+],
+"answer": 1,
+"explanation": "The right ureter descends retroperitoneally on psoas major and crosses the right common iliac artery (or its bifurcation into external and internal iliac arteries) at the pelvic brim. It lies directly posterior to the caecum and appendix. During appendicectomy and right hemicolectomy, the right ureter is at risk of inadvertent ligation or transection. Identification is aided by visualising its characteristic peristalsis. The left ureter crosses the left iliac vessels on the left side. The right gonadal vein drains into the IVC directly (unlike the left, which drains into the left renal vein).",
+"highYield": "Right ureter: crosses right common iliac artery at pelvic brim, runs retroperitoneally on psoas, posterior to caecum \u2014 at risk during appendicectomy and right hemicolectomy.",
+"pyqNote": "Ureter course and its relationships during pelvic surgery are tested across surgery and anatomy NEET PG papers.",
+"tags": [
+"right ureter",
+"pelvic brim",
+"appendicectomy",
+"psoas major",
+"common iliac artery"
+]
+}
+]

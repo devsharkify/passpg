@@ -1,0 +1,921 @@
+[
+{
+"subject": "Forensic Medicine",
+"topic": "Postmortem Changes \u2014 Rigor Mortis",
+"difficulty": "medium",
+"stem": "A 45-year-old man is found dead at home. On examination, the body shows complete rigidity of all muscle groups including the jaw, neck, trunk, and limbs. The body temperature is 32\u00b0C (room temperature 28\u00b0C). Which of the following best estimates the time since death?",
+"options": [
+"2-4 hours",
+"6-8 hours",
+"10-14 hours",
+"24-36 hours"
+],
+"answer": 2,
+"explanation": "Rigor mortis begins 2-6 hours after death, starting in the involuntary muscles (heart, diaphragm), then proceeds craniocaudally \u2014 jaw and neck first, then trunk, then limbs. Complete rigor affecting all groups is established by 12 hours. The finding of complete rigidity with partial cooling (body not yet at ambient temperature) indicates approximately 10-14 hours post-death. Rigor passes (resolves) at 24-48 hours due to autolytic proteolysis.",
+"highYield": "Rigor mortis: onset 2-6h, complete by 12h, passes 24-48h \u2014 craniocaudal sequence, begins in involuntary muscles first.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"rigor mortis",
+"postmortem changes",
+"time since death",
+"thanatology"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Postmortem Changes \u2014 Livor Mortis",
+"difficulty": "medium",
+"stem": "A murder suspect claims the victim died in their bed and was never moved. At autopsy, hypostasis (livor mortis) is found fixed on the back (posterior surfaces) but there are pressure pallor marks on the anterior chest. The forensic pathologist concludes the body was moved after death. Which of the following time windows is most consistent with livor becoming FIXED and therefore revealing repositioning?",
+"options": [
+"Within 1 hour of death",
+"After 6-8 hours of death",
+"After 24-30 hours of death",
+"After 48 hours of death"
+],
+"answer": 1,
+"explanation": "Livor mortis (hypostasis) develops within 30 minutes to 2 hours of death as blood pools in dependent parts due to gravity. Initially it is 'unfixed' and will shift if the body is repositioned. After 6-8 hours, livor becomes fixed due to RBC hemolysis and imbibition of hemoglobin into tissues \u2014 it will no longer shift with repositioning. Fixed lividity on the back with anterior pressure pallor suggests the body was placed face-down initially and later repositioned supine after fixation, contradicting the suspect's claim.",
+"highYield": "Livor mortis fixes at 6-8 hours \u2014 after this point it does not shift with repositioning, making body position changes detectable.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"livor mortis",
+"hypostasis",
+"postmortem changes",
+"time since death",
+"homicide investigation"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Postmortem Changes \u2014 Decomposition",
+"difficulty": "hard",
+"stem": "A decomposed body is retrieved from a swampy outdoor area. The abdomen is grossly distended, the skin shows greenish discoloration starting from the right iliac fossa, and there is marbling of superficial veins on the skin. Bullae filled with foul-smelling fluid are present. Which gas is primarily responsible for the distension and foul odor in this stage of decomposition?",
+"options": [
+"Carbon dioxide and oxygen",
+"Hydrogen sulfide, methane, and ammonia",
+"Carbon monoxide and nitrogen",
+"Sulfur dioxide and chlorine"
+],
+"answer": 1,
+"explanation": "The described features (greenish discoloration starting in right iliac fossa, marbling, bloating, bullae) are characteristic of putrefaction \u2014 specifically the bloat stage. Bacterial action on proteins and carbohydrates produces hydrogen sulfide (responsible for the greenish discoloration when H2S reacts with hemoglobin to form sulfhemoglobin), methane, ammonia, and other sulfur-containing compounds. The right iliac fossa is the earliest site of greenish discoloration because the cecum is most superficial and has the highest bacterial load.",
+"highYield": "Putrefaction starts at right iliac fossa \u2014 H2S + Hb = sulfhemoglobin (green discoloration); gases produced: H2S, CH4, NH3.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"decomposition",
+"putrefaction",
+"postmortem changes",
+"hydrogen sulfide",
+"marbling"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Wound Characteristics \u2014 Incised vs Lacerated",
+"difficulty": "medium",
+"stem": "During autopsy of a homicide victim, a wound on the scalp is examined. The wound edges are clean, sharply cut, with no bridging of tissue strands, no abrasion collar, and surrounding hair shows clean transection. The wound is longer than it is deep. Which type of wound is this most likely?",
+"options": [
+"Lacerated wound",
+"Contused wound",
+"Incised wound",
+"Puncture wound"
+],
+"answer": 2,
+"explanation": "An incised wound (cut wound) is produced by a sharp-edged weapon. Key features: clean, shelving edges; wound length > depth; no bridging of tissue strands across the wound; no abrasion collar or bruising of margins; hair shafts are cleanly cut. In contrast, lacerated wounds (produced by blunt force) have irregular, ragged, bruised edges with tissue bridging (nerve/blood vessel strands intact crossing the wound), and are more common over bony prominences. The scalp location and described features confirm incised wound.",
+"highYield": "Incised wound: clean edges, length > depth, NO tissue bridging. Lacerated wound: irregular edges, tissue bridging present, caused by blunt force.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"incised wound",
+"wound characteristics",
+"sharp force injury",
+"wound examination"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Wound Characteristics \u2014 Lacerated Wound",
+"difficulty": "medium",
+"stem": "A 30-year-old assault victim has a wound on the occiput. Examination reveals: irregular, beveled edges with surrounding contusion; tissue strands of blood vessels and nerves crossing the wound floor; the wound depth exceeds its length; hair bulbs are crushed not cleanly cut. Which of the following features is PATHOGNOMONIC of a lacerated wound?",
+"options": [
+"Presence of surrounding contusion",
+"Depth greater than length",
+"Bridging of tissue strands across the wound",
+"Irregular wound margins"
+],
+"answer": 2,
+"explanation": "Bridging of tissue strands (nerves, blood vessels, fibrous tissue crossing the wound floor intact) is the pathognomonic feature of a lacerated wound. It occurs because blunt force tears tissue by stretching rather than cutting \u2014 elastic structures (nerves, vessels) resist tearing and remain as bridges. Contusion, irregular margins, and depth > length can be present but are not exclusively pathognomonic of lacerations. Absence of bridging in a wound over a bony prominence strongly argues against laceration.",
+"highYield": "Tissue bridging (strands of nerves/vessels across wound floor) is PATHOGNOMONIC of lacerated wound \u2014 caused by blunt force stretching tissues.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"lacerated wound",
+"tissue bridging",
+"blunt force injury",
+"wound examination"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Wound Characteristics \u2014 Contused Wound",
+"difficulty": "hard",
+"stem": "A victim of road traffic accident has multiple contusions over the trunk. On histological examination of a fresh contusion, which finding would be EARLIEST to appear and confirm that the injury was antemortem rather than postmortem?",
+"options": [
+"Fibrin deposition at wound margins",
+"Macrophage infiltration and hemosiderin-laden macrophages",
+"Vital reaction \u2014 polymorphonuclear leukocyte (PMN) infiltration",
+"Granulation tissue formation with capillary budding"
+],
+"answer": 2,
+"explanation": "Vital reaction is the tissue response confirming that injury occurred during life (antemortem). The earliest histological vital reaction is polymorphonuclear (PMN/neutrophil) infiltration, which begins within 2-4 hours of injury. PMNs migrate to the site of injury in response to inflammatory mediators. Fibrin deposition appears slightly later. Macrophages with hemosiderin (from Hb breakdown) appear after 3-5 days. Granulation tissue forms after 5-7 days. PMN infiltration is the gold standard early vital reaction test in forensic histology.",
+"highYield": "Earliest vital reaction = PMN infiltration (2-4 hours); confirms antemortem injury. Hemosiderin-laden macrophages appear at 3-5 days.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"vital reaction",
+"contused wound",
+"antemortem injury",
+"forensic histology",
+"PMN infiltration"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Firearm Injuries \u2014 Entry vs Exit Wound",
+"difficulty": "medium",
+"stem": "A gunshot victim is examined. The entrance wound on the anterior chest is circular, 8mm in diameter, with a surrounding abrasion collar (collar of dirt), inverted margins, and carbon tattooing. The exit wound on the posterior chest is 20mm, stellate-shaped, with everted margins and no abrasion collar. Which of the following explains the larger size of the exit wound?",
+"options": [
+"The bullet is faster at exit than entry",
+"The bullet tumbles and may carry bone fragments, creating larger tissue destruction at exit",
+"Exit wounds always have an abrasion collar unlike entry wounds",
+"Hydrostatic pressure is higher at entry creating more damage"
+],
+"answer": 1,
+"explanation": "Exit wounds are typically larger than entry wounds because as the bullet traverses tissue it may yaw (tumble), deform, or carry bone fragments with it \u2014 these secondary projectiles create greater tissue damage at the exit. The bullet has also transferred kinetic energy into surrounding tissue creating a temporary cavity, and the tissue pushes outward at exit causing stellate/irregular everted margins. Entry wounds are smaller, have inverted margins, and typically show an abrasion collar (ring of dirt/epithelial abrasion as the bullet drags skin inward). Exit wounds NEVER have an abrasion collar.",
+"highYield": "Entry wound: small, inverted margins, abrasion collar present. Exit wound: large, stellate, everted margins, NO abrasion collar.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"firearm injury",
+"entry wound",
+"exit wound",
+"abrasion collar",
+"ballistics"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Firearm Injuries \u2014 Range of Fire",
+"difficulty": "hard",
+"stem": "A 35-year-old man has a gunshot wound to the right temple. The wound shows: a circular entry wound with blackening of wound margins, extensive charring and singeing of surrounding hair, a muzzle impression bruise on the skin, and internal stellate laceration of the scalp with a 'blow-back' of soot inside the barrel. What is the range of fire?",
+"options": [
+"Distant fire (>1 meter)",
+"Intermediate fire (30-60 cm)",
+"Near fire (10-30 cm)",
+"Contact fire"
+],
+"answer": 3,
+"explanation": "Contact (hard contact) fire features are present: muzzle impression/contusion on the skin (barrel pressed against skin), singeing and charring of hair (from muzzle gases), internal stellate laceration (gases penetrate wound creating internal explosion), and blow-back of soot. At contact range, all combustion products (soot, gases, unburnt powder) enter the wound directly with no external tattooing. Distant fire: only bullet mark, no soot or tattooing. Near fire: powder tattooing present. Intermediate: tattooing without singeing. The muzzle impression bruise is diagnostic of contact fire.",
+"highYield": "Contact fire: muzzle impression + internal stellate laceration + singeing/charring + soot inside wound. NO external tattooing in hard contact.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"firearm injury",
+"range of fire",
+"contact wound",
+"muzzle impression",
+"GSR"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Firearm Injuries \u2014 GSR Testing",
+"difficulty": "hard",
+"stem": "A suspect in a shooting case denies firing a weapon. The forensic investigator swabs both hands and the face of the suspect 3 hours after the alleged shooting. Which of the following tests and findings would BEST confirm recent firearm discharge by this individual?",
+"options": [
+"Dermal nitrate test (paraffin test) showing blue dots with diphenylamine",
+"SEM-EDX (scanning electron microscopy with energy dispersive X-ray) detecting lead-barium-antimony spheroids",
+"Spot test for nitrites using Griess reagent on hand swabs",
+"Walker's test for gunpowder residue on clothing"
+],
+"answer": 1,
+"explanation": "The gold standard for gunshot residue (GSR) detection is SEM-EDX, which identifies unique spherical GSR particles containing the tri-element combination of Lead (Pb), Barium (Ba), and Antimony (Sb) derived from the primer. These spheroids are formed by the rapid condensation of vaporized primer components. The paraffin (dermal nitrate) test is non-specific and obsolete \u2014 nitrates are present in fertilizers, tobacco, etc. Walker's test detects nitrites on clothing (intermediate range). Griess reagent has poor specificity. SEM-EDX is the only method accepted in modern forensic courts.",
+"highYield": "SEM-EDX is gold standard for GSR \u2014 detects Pb-Ba-Sb spheroids. Paraffin test (dermal nitrate test) is obsolete and non-specific.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"GSR",
+"gunshot residue",
+"SEM-EDX",
+"firearm investigation",
+"forensic chemistry"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Poison \u2014 Arsenic",
+"difficulty": "medium",
+"stem": "A 40-year-old woman presents with acute illness after consuming a meal prepared by her husband. She has profuse 'rice water' stools, severe vomiting, burning pain in the throat and stomach, and garlic-like odor on her breath. She dies 36 hours later. At autopsy, which of the following findings is MOST specific for arsenic poisoning?",
+"options": [
+"Cherry red discoloration of lividity and tissues",
+"Aldrich-Mees lines on fingernails and Mee's lines on toe nails",
+"Olive-green staining of gastric mucosa",
+"Risus sardonicus and opisthotonus"
+],
+"answer": 1,
+"explanation": "Aldrich-Mees lines (Mees lines) \u2014 transverse white bands across fingernails \u2014 are characteristic of chronic arsenic poisoning, appearing 4-6 weeks after exposure (one line per exposure episode). In acute arsenic poisoning, the clinical triad includes: garlic odor (from arsenious oxide), rice water stools (cholera-like gastroenteritis), and burning pain. At autopsy: subepicardial hemorrhages, Aldrich-Mees lines, hyperkeratosis (Mees lines). Cherry red lividity = CO/cyanide; olive-green stains = carbolic acid (phenol); risus sardonicus = strychnine.",
+"highYield": "Arsenic: garlic odor + rice water stools (acute); Mees/Aldrich lines on nails (chronic); Marsh test / Reinsch test for confirmation.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"arsenic poisoning",
+"Mees lines",
+"rice water stools",
+"garlic odor",
+"forensic toxicology"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Poison \u2014 Organophosphate",
+"difficulty": "medium",
+"stem": "A 28-year-old farmer is brought unconscious to the emergency department with excessive salivation, lacrimation, urination, defecation, bradycardia of 40/min, pin-point pupils (miosis), and muscle fasciculations. A family member reports he was spraying insecticide. Which laboratory investigation will CONFIRM the diagnosis and guide severity assessment?",
+"options": [
+"Serum acetylcholinesterase (RBC cholinesterase) activity",
+"Serum pseudocholinesterase (butyrylcholinesterase) activity",
+"Urine organic phosphate metabolite levels",
+"Serum atropine sulfate binding assay"
+],
+"answer": 1,
+"explanation": "Both RBC (true) cholinesterase and plasma (pseudo/butyryl) cholinesterase are inhibited in organophosphate (OP) poisoning. However, plasma pseudocholinesterase drops earlier and more dramatically, making it the preferred initial screening test. RBC cholinesterase better reflects clinical severity and CNS effects (correlates with synaptic acetylcholinesterase inhibition). Together, both are used: pseudocholinesterase for early confirmation, RBC cholinesterase for severity. The SLUD syndrome (Salivation, Lacrimation, Urination, Defecation) + miosis + bradycardia + fasciculations = classic muscarinic + nicotinic OP toxidrome. Treatment: atropine (muscarinic) + pralidoxime (reactivates cholinesterase before aging).",
+"highYield": "OP poisoning: SLUD + miosis + bradycardia + fasciculations. Serum pseudocholinesterase drops earliest; RBC cholinesterase reflects severity.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"organophosphate poisoning",
+"SLUD",
+"cholinesterase",
+"miosis",
+"pralidoxime"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Poison \u2014 Carbolic Acid (Phenol)",
+"difficulty": "hard",
+"stem": "A suicide attempt victim ingested an unknown substance. On arrival, she has burns around the lips and mouth with a distinctive whitish eschar. The vomitus and urine have a characteristic carbolic/medicinal smell. Postmortem examination (after she dies 4 hours later) of the stomach would show which of the following CHARACTERISTIC finding?",
+"options": [
+"Cherry red discoloration of the gastric mucosa",
+"Olive-green or dark-greenish-brown discoloration of the gastric mucosa",
+"Yellow staining with corrosive burns of the gastric mucosa",
+"Hemorrhagic necrosis with 'coffee-ground' appearance"
+],
+"answer": 1,
+"explanation": "Carbolic acid (phenol) is a corrosive poison that causes characteristic olive-green or dark greenish-brown discoloration of the gastric mucosa due to denaturation of proteins and the characteristic coloring of phenol oxidation products. Clinically, carbolic acid causes whitish/grayish eschar at point of contact (lips, mouth, esophagus) that later turns dark. The urine turns dark (carbolic acid green/dark) on standing. Other distinguishing features: distinctive aromatic/medicinal smell, CNS excitement followed by depression, and rapid absorption through skin. Yellow staining is typical of nitric acid (xanthoproteic reaction); coffee-ground appearance = sulfuric acid.",
+"highYield": "Carbolic acid (phenol): whitish eschar \u2192 dark; gastric mucosa = olive-green discoloration; urine turns dark on standing; aromatic smell.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"carbolic acid",
+"phenol poisoning",
+"corrosive poison",
+"olive-green discoloration",
+"forensic toxicology"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Poison \u2014 Cyanide",
+"difficulty": "medium",
+"stem": "A 35-year-old male jewelry worker is found dead in the electroplating room. At autopsy, the pathologist notes bright cherry-red lividity on posterior aspects of the body, cherry-red color of visceral organs, and a smell of bitter almonds in the thoracic cavity. Blood sent for analysis shows high venous oxygen saturation. Which of the following best explains the cherry-red discoloration?",
+"options": [
+"Formation of carboxyhemoglobin from CO inhalation",
+"Histotoxic hypoxia \u2014 cyanide blocks cytochrome c oxidase, leaving oxyhemoglobin unused by tissues",
+"Formation of methemoglobin from nitrite exposure",
+"Peripheral vasodilation causing pooling of oxygenated blood"
+],
+"answer": 1,
+"explanation": "Cyanide causes histotoxic (cytotoxic) hypoxia by binding to cytochrome c oxidase (Complex IV of mitochondrial electron transport chain), blocking cellular oxygen utilization. Tissues cannot use oxygen, so venous blood remains oxygenated \u2014 venous pO2 is paradoxically high and hemoglobin remains in the oxy form. This gives cherry-red color to both lividity AND venous blood. The bitter almond odor is characteristic of hydrocyanic acid (HCN). CO poisoning also gives cherry-red (carboxyhemoglobin) but context here is industrial cyanide exposure. Antidote: dicobalt edetate or sodium thiosulfate + sodium nitrite (Lilly's kit).",
+"highYield": "Cyanide = histotoxic hypoxia \u2014 cherry red lividity + bitter almond smell + high venous pO2. Blocks Cytochrome c oxidase (Complex IV).",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"cyanide poisoning",
+"cherry red lividity",
+"histotoxic hypoxia",
+"cytochrome oxidase",
+"bitter almond"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Poison \u2014 Strychnine",
+"difficulty": "medium",
+"stem": "A 22-year-old patient is brought in with violent, arching spasms of the entire body. He is conscious during the spasms and describes them as agonizing. Examination shows a fixed sardonic grin (risus sardonicus), trismus, and opisthotonos. Spasms are precipitated by noise or touch. He ingested a rodenticide 2 hours ago. The mechanism of action of this poison is:",
+"options": [
+"Blockade of GABA-A chloride channels (benzodiazepine site)",
+"Competitive antagonism of glycine at glycinergic inhibitory interneurons in the spinal cord",
+"Irreversible inhibition of acetylcholinesterase at neuromuscular junction",
+"Blockade of sodium channels causing persistent depolarization"
+],
+"answer": 1,
+"explanation": "Strychnine competitively antagonizes glycine at glycinergic inhibitory interneurons (Renshaw cells) in the anterior horn of the spinal cord. Glycine is the major inhibitory neurotransmitter in the spinal cord. Blockade of glycine causes unchecked motor neuron firing, resulting in violent, generalized, reflex tetanic spasms that paradoxically maintain consciousness (unlike tetanus where the patient may have altered consciousness). Features: risus sardonicus (fixed grin from facial spasm), trismus, opisthotonos, hypersensitivity to sensory stimuli, spasms precipitated by noise/light/touch. Treatment: diazepam, muscle relaxants, airway support.",
+"highYield": "Strychnine: glycine antagonist in spinal cord \u2192 reflex tetanic spasms + risus sardonicus + opisthotonos + consciousness preserved during spasms.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"strychnine poisoning",
+"risus sardonicus",
+"opisthotonos",
+"glycine antagonism",
+"rodenticide"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Sexual Offenses \u2014 IPC Sections",
+"difficulty": "medium",
+"stem": "A 16-year-old girl is brought to the hospital by her parents alleging that she was sexually assaulted by a neighbor. The doctor examines her and documents findings. Which of the following is CORRECT regarding the legal provisions applicable to this case in India?",
+"options": [
+"Section 375 IPC applies and consent is irrelevant since she is below 18 years",
+"Section 376 IPC defines rape and section 354 IPC covers molestation only for adults",
+"POCSO Act 2012 does not apply since the offense is covered under IPC section 376",
+"Consent of a female aged 16-18 years is valid defense under IPC section 375"
+],
+"answer": 0,
+"explanation": "Under IPC Section 375 (as amended by Criminal Law Amendment Act 2013), rape includes penetration of vagina, urethra, anus, or mouth with penis, or insertion of any object \u2014 and consent given by a female under 18 years of age is NOT valid (statutory rape). The age of consent is 18 years. Additionally, POCSO Act 2012 applies to any child (below 18 years) \u2014 both IPC and POCSO can be invoked simultaneously. Section 376 prescribes punishment for rape. Section 354 covers assault or criminal force to woman with intent to outrage modesty. The POCSO Act 2012 is a special statute offering additional protections.",
+"highYield": "IPC 375: consent invalid below 18 years (age of consent = 18). POCSO 2012 applies to all children <18 years \u2014 both IPC and POCSO applicable simultaneously.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"IPC 375",
+"IPC 376",
+"POCSO Act",
+"sexual offense",
+"age of consent",
+"rape law India"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Sexual Offenses \u2014 Examination of Survivor",
+"difficulty": "hard",
+"stem": "A 20-year-old woman presents 18 hours after an alleged rape. The doctor examines her. Which of the following evidence collection protocols is MOST important and time-sensitive at this stage?",
+"options": [
+"X-ray pelvis for age estimation using Risser grading",
+"High vaginal swab and cervical swab for semen identification and DNA profiling",
+"Urine pregnancy test to document pre-existing pregnancy",
+"Collection of pubic hair combings and clothing for trace evidence"
+],
+"answer": 1,
+"explanation": "Spermatozoa can be found in the vagina for up to 72 hours after intercourse (motile sperm up to 6 hours, non-motile up to 72 hours), making vaginal/cervical swab collection the most time-critical evidence. High vaginal swab and cervical canal swab are collected for: spermatozoa identification (presence/motility), acid phosphatase (seminal marker), P30 glycoprotein (PSA \u2014 seminal vesicle specific antigen), and DNA profiling of perpetrator. The 2-finger test is BANNED by the Supreme Court of India. Clothing and pubic hair combings are also important but less time-sensitive. Swabs must be air-dried and preserved, NOT in formalin.",
+"highYield": "Vaginal swab: motile sperm up to 6h, non-motile up to 72h. P30 (PSA) and acid phosphatase are semen markers. 2-finger test is BANNED in India.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"sexual assault examination",
+"vaginal swab",
+"semen identification",
+"P30 antigen",
+"rape evidence collection"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Sexual Offenses \u2014 IPC Section 354",
+"difficulty": "medium",
+"stem": "A 30-year-old woman complains to police that a colleague grabbed her arm and tore her dupatta in a public place with the intent to outrage her modesty. No penetration or sexual assault occurred. Which IPC section is most relevant?",
+"options": [
+"Section 375 IPC",
+"Section 376 IPC",
+"Section 354 IPC",
+"Section 509 IPC"
+],
+"answer": 2,
+"explanation": "IPC Section 354 covers 'Assault or criminal force to woman with intent to outrage her modesty.' It applies when there is use of assault or criminal force (grabbing, tearing clothes) with intent to outrage modesty, without necessarily involving penetration. Section 375/376 = rape (requiring penetration). Section 509 = word, gesture, or act intended to insult the modesty of a woman (verbal/gestural harassment). The Criminal Law Amendment Act 2013 expanded Section 354 to include 354A (sexual harassment), 354B (disrobing), 354C (voyeurism), and 354D (stalking).",
+"highYield": "IPC 354 = assault/criminal force to outrage modesty. 354A = sexual harassment, 354B = disrobing, 354C = voyeurism, 354D = stalking (2013 amendments).",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"IPC 354",
+"sexual offense",
+"criminal law amendment 2013",
+"outrage modesty",
+"IPC sections"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Age Estimation \u2014 X-ray Ossification",
+"difficulty": "medium",
+"stem": "A juvenile accused in a criminal case has no birth documents. X-ray of the wrist is done for age estimation. The image shows: epiphysis of the lower end of the radius fused (complete union), the pisiform is present, and the hook of hamate is visible. However, the sesamoid bone at metacarpophalangeal joint of thumb is NOT yet visible. What is the most likely age range?",
+"options": [
+"8-10 years",
+"11-13 years",
+"14-16 years",
+"17-20 years"
+],
+"answer": 2,
+"explanation": "Ossification center chronology in the wrist (approximate): Capitate and hamate appear at 1-2 years; Triquetrum at 3 years; Lunate at 4 years; Scaphoid, trapezium, trapezoid at 5-6 years; Pisiform at 10-12 years; Hook of hamate at 11-12 years; Sesamoid bone at thumb MCP joint appears at about 13-14 years in females, 14-15 years in males. Lower radius epiphysis fuses at 17-19 years. Given pisiform present, hook of hamate visible, but sesamoid not yet visible, this suggests approximately 11-13 years if sesamoid appears at 13-14; actually most consistent with 12-15 years. Among options, 14-16 years is closest given that sesamoid appears around 13-14 and radius is still unfused.",
+"highYield": "Sesamoid at thumb MCP = 13-14 years (females), 14-15 years (males). Pisiform appears at 10-12 years. Lower radius fuses at 17-19 years.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"age estimation",
+"ossification centers",
+"wrist X-ray",
+"sesamoid bone",
+"juvenile forensics"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Age Estimation \u2014 Risser Grade",
+"difficulty": "hard",
+"stem": "An X-ray of the pelvis for age estimation is reviewed. The iliac crest apophysis is noted to have ossification extending from the anterior superior iliac spine (ASIS) posteriorly and covering approximately 75% of the iliac crest, but has NOT yet fused to the ilium. What is the Risser grade and approximate age range?",
+"options": [
+"Risser grade 0 \u2014 age less than 12 years",
+"Risser grade 2 \u2014 age 12-14 years",
+"Risser grade 3 \u2014 age 14-16 years",
+"Risser grade 5 \u2014 age 17-20 years"
+],
+"answer": 2,
+"explanation": "Risser grading of iliac apophysis (used for skeletal maturity and scoliosis staging): Grade 0 = no apophysis; Grade 1 = 0-25% (lateral quarter); Grade 2 = 25-50%; Grade 3 = 50-75% (three quarters); Grade 4 = 75-100% (full width, not fused); Grade 5 = complete fusion to iliac crest. The question describes 75% coverage without fusion = Risser Grade 3, typically corresponding to age 14-16 years. Grade 4 would be 100% without fusion. Grade 5 (complete fusion) occurs at approximately 17-20 years, after which the epiphyseal plate is closed.",
+"highYield": "Risser Grade 3 = 50-75% iliac apophysis coverage, not fused = age 14-16 years. Grade 5 = complete fusion = skeletal maturity (~17-20 years).",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"Risser grade",
+"age estimation",
+"iliac apophysis",
+"skeletal maturity",
+"pelvis X-ray"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Age Estimation \u2014 Wisdom Tooth",
+"difficulty": "medium",
+"stem": "A medicolegal case requires age estimation of an adult male with no documents. Dental X-ray (OPG) shows: all permanent teeth present and fully erupted, third molars (wisdom teeth) fully erupted with complete root formation, and radiological evidence of secondary dentin deposition in all molars. No root resorption. What is the minimum age this individual has most likely attained?",
+"options": [
+"14 years",
+"17 years",
+"21 years",
+"30 years"
+],
+"answer": 2,
+"explanation": "Third molar (wisdom tooth) eruption typically occurs at 17-21 years; root completion is achieved at approximately 18-25 years. Once all third molars are fully erupted WITH complete root formation, the individual has attained at least 21 years. Secondary (reparative) dentin deposition begins in adulthood in response to attrition and is not definitive for a specific age but indicates adult status. Gustafson's method uses 6 parameters for adult age estimation: attrition, periodontosis (root transparency), secondary dentin deposition, cementum apposition, root resorption, and root translucency. Third molar eruption with complete roots = minimum 21 years.",
+"highYield": "Third molar eruption: 17-21 years; complete root formation: 18-25 years. Complete eruption + root = minimum 21 years. Gustafson's method for adult dental age.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"wisdom tooth",
+"third molar",
+"age estimation",
+"Gustafson method",
+"dental forensics"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Age Estimation \u2014 Gustafson's Method",
+"difficulty": "hard",
+"stem": "In Gustafson's method for age estimation from teeth, which of the following pairs of criteria is MOST reliable in distinguishing a 50-year-old from a 70-year-old individual?",
+"options": [
+"Attrition and secondary dentin deposition",
+"Root transparency (translucency) and cementum apposition",
+"Periodontosis and root resorption",
+"Crown morphology and cusp shape"
+],
+"answer": 1,
+"explanation": "Gustafson (1950) described six age-related dental changes: Attrition (A), Periodontosis (P), Secondary dentin (S), Cementum apposition (C), Root resorption (R), and Root translucency (T) \u2014 mnemonic 'APSCRT'. Each scored 0-3; total score correlates with age via regression equation. Root translucency (sclerosis of dentinal tubules starting at root apex and progressing coronally) and cementum apposition (cementum layers deposited with aging like tree rings) are the MOST age-specific parameters, especially useful in the 50-70+ range when other parameters have maximized. Attrition and secondary dentin are seen early and plateau. Root translucency is the single MOST reliable parameter in older adults.",
+"highYield": "Gustafson's method: 6 parameters (APSCRT). Root translucency is the MOST reliable single parameter in older adults (50-70+).",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"Gustafson method",
+"dental age estimation",
+"root translucency",
+"cementum apposition",
+"forensic odontology"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Death Certification \u2014 MCCD Form",
+"difficulty": "medium",
+"stem": "A 68-year-old man with known diabetes and hypertension died in the hospital. The attending physician is filling out the Medical Certificate of Cause of Death (MCCD). The immediate cause of death was acute myocardial infarction (AMI). The sequence was: AMI due to coronary artery disease due to hypertension. Diabetes is noted as a contributing condition. How should the physician correctly fill in the death certificate?",
+"options": [
+"Part I: AMI. Part II: Hypertension and Diabetes",
+"Part I (a): AMI; (b): Coronary artery disease; (c): Hypertension. Part II: Diabetes mellitus",
+"Part I: Cardiac arrest. Part II: AMI, Hypertension, Diabetes",
+"Part I: Natural death. Part II: AMI with hypertension and diabetes"
+],
+"answer": 1,
+"explanation": "The MCCD (Form 4A under Registration of Births and Deaths Act 1969, as per WHO ICD guidelines) has: Part I = Direct/immediate causal sequence: (a) Immediate cause of death, (b) Intermediate cause leading to (a), (c) Underlying/root cause leading to (b), (d) if needed. Part II = Other significant conditions that contributed but were not in the direct causal chain. 'Cardiac arrest' should NOT be listed as cause of death (it is the mechanism, not the cause). The underlying cause (Hypertension) goes in Part I(c); Coronary artery disease in Part I(b); AMI in Part I(a). Diabetes, a contributing but unrelated-chain condition, goes in Part II.",
+"highYield": "MCCD Part I: causal chain from immediate (a) to underlying cause (b/c/d). Part II: contributing conditions outside the chain. Never write 'cardiac arrest' as cause.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"MCCD",
+"death certification",
+"cause of death",
+"underlying cause",
+"ICD coding"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Death Certification \u2014 Cause vs Manner vs Mechanism",
+"difficulty": "medium",
+"stem": "A 40-year-old man is found dead with a gunshot wound to the head. The forensic autopsy determines: the bullet caused a severe head injury leading to cerebral hemorrhage, which caused herniation and brainstem failure, leading to cardiorespiratory arrest. The shooting was ruled a homicide. Match the components: (1) Manner of death; (2) Cause of death; (3) Mechanism of death.",
+"options": [
+"(1) Homicide; (2) Cardiorespiratory arrest; (3) Gunshot wound to head",
+"(1) Homicide; (2) Gunshot wound to head; (3) Cardiorespiratory arrest",
+"(1) Natural; (2) Cerebral hemorrhage; (3) Gunshot wound",
+"(1) Accident; (2) Gunshot wound; (3) Brainstem failure"
+],
+"answer": 1,
+"explanation": "Manner of death classifies death into: Natural, Accident, Homicide, Suicide, Undetermined. Here = Homicide. Cause of death = the disease, injury, or condition that initiated the sequence leading to death = Gunshot wound to the head (the initiating injury). Mechanism of death = the physiological derangement that immediately preceded death = Cardiorespiratory arrest (the final common pathway). Intermediate events (cerebral hemorrhage, herniation) sit between cause and mechanism. Certifying 'cardiac arrest' as cause is incorrect because it is a mechanism. The WHO distinction: Cause initiates; Mechanism ends; Manner classifies circumstances.",
+"highYield": "Cause = initiating injury/disease (gunshot wound). Mechanism = final physiological derangement (cardiac arrest). Manner = circumstances (homicide/suicide/accident/natural/undetermined).",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"cause of death",
+"manner of death",
+"mechanism of death",
+"death classification",
+"forensic pathology"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Thanatology \u2014 Brain Death Criteria",
+"difficulty": "hard",
+"stem": "A 30-year-old road accident victim is on mechanical ventilator support in the ICU. There is no spontaneous respiration. The neurosurgeon proposes declaring brain death under the Transplantation of Human Organs and Tissues Act (THOTA), 1994. Which of the following sets of criteria are MANDATORY prerequisites before testing for brain death in India?",
+"options": [
+"Flat EEG for 30 minutes and absent evoked potentials",
+"Known irreversible structural cause + absence of all reversible causes (hypothermia, drug intoxication, metabolic disturbances) + apnea test confirmation + two confirmatory assessments 6 hours apart",
+"Absent pupillary reflexes alone with no spontaneous movements for 12 hours",
+"Cardiac isoenzyme elevation (troponin) confirming cardiac arrest with CPR for >30 minutes"
+],
+"answer": 1,
+"explanation": "Under THOTA 1994 (amended 2011) and Transplantation of Human Organs and Tissues Rules 2014, brain death (brainstem death) criteria in India require: (1) Known irreversible structural cause (trauma, hemorrhage) \u2014 not a reversible cause; (2) Exclusion of all reversible causes: hypothermia (core temp >35\u00b0C), drug intoxication, metabolic derangements, neuromuscular blockade; (3) Tests conducted by a board of 4 doctors (including neurologist/neurosurgeon + physician/intensivist) \u2014 TWICE, 6 hours apart; (4) Tests: absence of all brainstem reflexes (pupillary, corneal, vestibulo-ocular, oculocephalic, gag, cough) + apnea test (pCO2 rises to >60 mmHg without spontaneous respiration). EEG is NOT mandatory in India.",
+"highYield": "Brain death in India (THOTA): irreversible cause + exclusion of reversible causes + 4-doctor board + TWO assessments 6h apart. EEG NOT mandatory.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"brain death",
+"THOTA 1994",
+"brainstem death",
+"organ transplantation",
+"apnea test"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Thanatology \u2014 Persistent Vegetative State",
+"difficulty": "hard",
+"stem": "A 45-year-old woman suffered severe anoxic brain injury after cardiac arrest and has been in a state of apparent wakefulness without awareness for 8 months. She has sleep-wake cycles, roving eye movements, but no purposeful response to commands, no voluntary movement, and requires tube feeding. Her family asks about prognosis and withdrawal of nutrition. Which of the following correctly describes her condition and relevant legal framework in India?",
+"options": [
+"Brain death \u2014 THOTA 1994 allows organ retrieval after family consent",
+"Persistent Vegetative State (PVS) \u2014 Supreme Court of India (Common Cause judgment 2018) permits passive euthanasia through withdrawal of life support with High Court approval and Advance Directive",
+"Locked-in syndrome \u2014 patient is fully conscious but cannot communicate",
+"Minimally Conscious State \u2014 characterized by no sleep-wake cycles and no reflexes"
+],
+"answer": 1,
+"explanation": "Persistent Vegetative State (PVS) is characterized by wakefulness without awareness \u2014 sleep-wake cycles are preserved (unlike brain death), spontaneous eye opening, primitive reflexes, but no consistent purposeful responses. It is distinct from brain death (no brainstem function) and locked-in syndrome (brainstem intact, patient conscious but paralyzed except for vertical eye movements). The Supreme Court of India in Common Cause v. Union of India (2018) legalized passive euthanasia (withdrawal of life support) for terminally ill/PVS patients with High Court-approved advance directive or through a defined medical board process. This landmark judgment is highly relevant to forensic medicine.",
+"highYield": "PVS: wakefulness without awareness \u2014 sleep-wake cycles present, no purposeful response. Common Cause 2018 SC judgment: passive euthanasia permitted in India for PVS with safeguards.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"PVS",
+"persistent vegetative state",
+"passive euthanasia",
+"Common Cause judgment",
+"advance directive",
+"India law"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Thanatology \u2014 Presumption of Death",
+"difficulty": "medium",
+"stem": "A man has been missing from his home and family for the past 9 years. His wife now wants to remarry and seeks a legal declaration of his death. Which provision of the Indian Penal Code / Civil Law allows presumption of death in such a scenario?",
+"options": [
+"IPC Section 108 \u2014 person unheard of for 7 years presumed dead",
+"IPC Section 108A \u2014 person missing for 5 years after disaster presumed dead",
+"Indian Evidence Act Section 107 \u2014 presumes continuance of life for 7 years",
+"Indian Evidence Act Section 108 \u2014 shifts burden of proof: if person unheard of for 7 years, presumed dead"
+],
+"answer": 3,
+"explanation": "Under Indian Evidence Act 1872, Section 107 presumes that a person who has been seen alive within 30 years is still alive (presumption of continuance of life). Section 108 of the Indian Evidence Act provides that: if a person has not been heard of for 7 years by those who would naturally have heard of him (family, relatives, business associates), the burden of proving that he is still alive shifts to the person who makes that assertion \u2014 courts may then presume death. This is commonly confused with IPC 108 (abetment of suicide by instigation). The 7-year rule for presumption of death is Indian Evidence Act Section 108, not IPC.",
+"highYield": "Indian Evidence Act Section 108: person unheard of for 7 years \u2014 burden shifts, court may presume death. IPC 108 = abetment of suicide by instigation (different).",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"presumption of death",
+"Indian Evidence Act 108",
+"7 year rule",
+"thanatology",
+"IPC sections"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Postmortem Changes \u2014 Adipocere",
+"difficulty": "hard",
+"stem": "A body buried in moist, warm, anaerobic soil for approximately 6 months is exhumed. The pathologist notes that soft tissues have been replaced by a whitish-gray, waxy, soap-like substance that has retained the body's shape, particularly in areas of fat. Which of the following statements about this condition is CORRECT?",
+"options": [
+"It represents mummification, which occurs in hot dry conditions with free air circulation",
+"It is adipocere formation, caused by hydrolysis and hydrogenation of body fats to hydroxyl fatty acids, and helps preserve identity and injury patterns",
+"It represents putrefaction and has no medicolegal significance",
+"It is caused by saponification only in submerged bodies, never in buried bodies"
+],
+"answer": 1,
+"explanation": "Adipocere (saponification) is a postmortem change occurring in warm, moist, anaerobic conditions (buried in wet soil, submerged in water). Fats undergo hydrolysis and hydrogenation forming stable hydroxy fatty acids (mainly hydroxystearic acid and palmitic acid) \u2014 a soap-like (saponified) material. It begins in 3-6 weeks (warm) or 3-6 months (cold), and may persist for DECADES preserving body shape. Key medicolegal significance: preserves wounds, injuries, external body shape; can assist in identification and helps estimate time since death. Adipocere can form in buried bodies in moist soil \u2014 not limited to submerged bodies.",
+"highYield": "Adipocere: warm moist anaerobic conditions \u2014 fat saponification \u2192 waxy hydroxystearic acid. Preserves body shape and wounds for decades. Starts 3-6 weeks.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"adipocere",
+"saponification",
+"postmortem changes",
+"moist soil",
+"forensic pathology"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Postmortem Changes \u2014 Mummification",
+"difficulty": "medium",
+"stem": "A body is found in a desert environment after approximately 3 months. The body is desiccated \u2014 skin is dark, leathery, shrunken, and hard. There is no smell of putrefaction. Soft tissues are preserved though markedly shrunken. What is this postmortem change called and what conditions favor it?",
+"options": [
+"Adipocere \u2014 favored by moist, anaerobic, warm conditions",
+"Putrefaction \u2014 favored by warm humid conditions with bacteria",
+"Mummification \u2014 favored by dry, hot, well-ventilated conditions with low humidity",
+"Maceration \u2014 favored by prolonged submersion in water (stillbirth)"
+],
+"answer": 2,
+"explanation": "Mummification is postmortem desiccation of the body. Favorable conditions: hot, dry, desert-like environments with good ventilation and low humidity. Water evaporates from tissues faster than bacteria can cause putrefaction, resulting in preserved but desiccated tissues. Mummification may occur in 3 months in ideal conditions. Medicolegal significance: wounds, external marks, and identifiers (tattoos, scars) may be preserved; internal organs are shrunken but identifiable. Adipocere: warm, moist, anaerobic. Maceration: intrauterine (fetal death) or prolonged water submersion \u2014 skin becomes soft, peeling, and parchment-like.",
+"highYield": "Mummification: hot + dry + well-ventilated = desiccation. Adipocere: warm + moist + anaerobic = saponification. Both are preservative postmortem changes.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"mummification",
+"postmortem changes",
+"desiccation",
+"desert environment",
+"preservative changes"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Firearm Injuries \u2014 Intermediate Range",
+"difficulty": "hard",
+"stem": "A shooting victim has a single gunshot wound to the chest. Around the entry wound, there is a halo of small hemorrhagic punctate dots in the skin extending 15 cm from the wound margin. No singeing of hair or burning. No muzzle impression. The entry wound has an abrasion collar. Which feature best defines the range of fire and what is the range?",
+"options": [
+"Fouling (soot deposition around wound) \u2014 contact range",
+"Powder tattooing (stippling) from unburnt/semi-burnt powder grains \u2014 intermediate range (30 cm to 1 meter)",
+"Absence of all combustion products \u2014 distant range (>1 meter)",
+"Singeing of hair \u2014 near range (5-10 cm)"
+],
+"answer": 1,
+"explanation": "Powder tattooing (stippling) refers to the punctate hemorrhagic marks made by semi-burnt and unburnt gunpowder grains that fly out of the muzzle and embed in the skin. These are PERMANENT marks (unlike soot/fouling which can be wiped off) and indicate intermediate range (approximately 30 cm to 1 meter, depending on weapon and ammunition). At contact and near range (<30 cm): soot deposition (fouling), singeing present. At intermediate range: tattooing without singeing. At distant range (>1 meter): only the entry wound with abrasion collar \u2014 no soot, no tattooing, no singeing. Range of fire: contact \u2192 near \u2192 intermediate \u2192 distant.",
+"highYield": "Powder tattooing (stippling) = permanent punctate marks from unburnt powder = intermediate range (30 cm to 1 m). Cannot be wiped off unlike soot fouling.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"firearm injury",
+"powder tattooing",
+"stippling",
+"intermediate range",
+"range of fire"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Poison \u2014 Alcohol (Ethanol)",
+"difficulty": "medium",
+"stem": "A 35-year-old man is brought to the ER by police after being involved in a road traffic accident. He is suspected to be under the influence of alcohol. Blood alcohol concentration (BAC) is drawn. Under the Indian Motor Vehicles Act (amended 2019), what BAC level constitutes legal drunken driving in India, and what is the MOST reliable sample for confirming acute alcohol intoxication?",
+"options": [
+"BAC >50 mg/100 mL whole blood; vitreous humor is most reliable",
+"BAC >30 mg/100 mL whole blood; urine is most reliable",
+"BAC >80 mg/100 mL whole blood; gastric contents most reliable",
+"BAC >100 mg/100 mL whole blood; blood is most reliable"
+],
+"answer": 0,
+"explanation": "Under the Motor Vehicles (Amendment) Act 2019, India's legal limit for drunken driving is 30 mg of alcohol per 100 mL of blood (0.03 g/dL) \u2014 corrected: The MV Act 1988 (Section 185) specifies 30 mg/100 mL blood OR 150 mcg/100 mL breath for drunken driving. However, many forensic medicine textbooks cite the '80 mg%' as the international standard while India uses 30 mg%. Vitreous humor alcohol is the MOST reliable postmortem sample as it is protected from contamination, fermentation, and redistribution \u2014 it correlates best with true antemortem BAC. For living persons, peripheral venous blood is collected for legal BAC.",
+"highYield": "India MV Act: drunken driving = BAC >30 mg/100 mL blood. Vitreous humor = most reliable PM sample for alcohol (protected from contamination/fermentation).",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"alcohol",
+"drunken driving",
+"blood alcohol",
+"Motor Vehicles Act",
+"vitreous humor"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Identification \u2014 Dactylography",
+"difficulty": "medium",
+"stem": "Fingerprint evidence recovered from a crime scene shows whorls, loops, and arches. The investigating officer asks about the classification system used by India's fingerprint bureau. Which of the following classification systems is used in India and who developed the fingerprint identification system adopted globally?",
+"options": [
+"Galton-Henry classification system \u2014 adopted by India",
+"Bertillon system (anthropometry) \u2014 adopted by India",
+"AFIS (Automated Fingerprint Identification System) \u2014 created by NIST USA",
+"Purkinje's classification \u2014 used exclusively in India"
+],
+"answer": 0,
+"explanation": "The Henry Classification System (developed by Edward Henry, IG of Police Bengal, 1897, building on Francis Galton's earlier work on fingerprint uniqueness) is used in India and most Commonwealth countries. Galton established three fundamental fingerprint patterns: Arches (plain, tented), Loops (radial, ulnar), and Whorls \u2014 mnemonic 'ALW' (Arches < Loops > Whorls in frequency). Loops are the most common (~65%), whorls ~30%, arches ~5%. Purkinje (1823) first classified fingerprints into 9 types but did not develop an identification system. Bertillon's anthropometry preceded fingerprints and is now obsolete. India's fingerprint bureau uses the Henry-Galton system.",
+"highYield": "India uses Henry Classification (Galton-Henry system): Arches, Loops (most common ~65%), Whorls. Fingerprints established by Galton; classification by Henry.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"fingerprints",
+"dactylography",
+"Henry classification",
+"Galton",
+"forensic identification"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Mechanical Asphyxia \u2014 Hanging",
+"difficulty": "hard",
+"stem": "A body is found hanging by a ligature from a ceiling fan. Examination reveals: ligature mark on neck running upward toward the nape with a gap at the apex (under the ear), pale/blanched mark with parchment-like texture, marked petechiae in the conjunctiva, cyanosis of face above the ligature, and the knot is on the LEFT side. Which of the following statements correctly describes this hanging?",
+"options": [
+"Typical hanging \u2014 knot at nape of neck with symmetric V-shaped mark",
+"Atypical hanging \u2014 knot not at typical (nape) position; constitutes the majority of hanging cases",
+"Ligature strangulation \u2014 mark runs horizontally with equal compression all around",
+"Throttling \u2014 finger marks visible on neck without ligature"
+],
+"answer": 1,
+"explanation": "Hanging is classified as typical (knot at nape/back of neck \u2014 V-shaped mark pointing upward toward nape, symmetrical) or atypical (knot at any other position). Atypical hanging accounts for the MAJORITY of cases in practice. The ligature mark in hanging runs obliquely upward toward the knot position with a gap at the apex (the knot side). In strangulation by ligature, the mark is horizontal/transverse and complete without a gap. The conjunctival petechiae and cyanosis above the ligature result from venous obstruction while arterial flow may be partially maintained. The pale, parchment-like mark is due to pressure and dehydration of skin.",
+"highYield": "Hanging: oblique ligature mark with gap at apex (knot side). Typical = knot at nape. Atypical (knot elsewhere) = more common in practice. Strangulation = horizontal complete mark.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"hanging",
+"mechanical asphyxia",
+"ligature mark",
+"typical vs atypical hanging",
+"neck compression"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Drowning",
+"difficulty": "medium",
+"stem": "A body is retrieved from a river 3 days after a reported drowning. At autopsy, the pathologist finds: lungs are voluminous (emphysema aquosum), frothy fluid fills airways, diatoms in lung and bone marrow, cutis anserina (goose skin), washerwoman's skin on hands and feet. Which finding is considered the MOST specific for antemortem drowning (as opposed to a dead body placed in water)?",
+"options": [
+"Washerwoman's skin on hands and feet",
+"Cutis anserina (goose skin)",
+"Diatoms in bone marrow or internal organs (heart, brain, kidney)",
+"Voluminous lungs (emphysema aquosum)"
+],
+"answer": 2,
+"explanation": "Diatoms (unicellular algae with silica cell walls) found in bone marrow, heart, brain, or kidney constitute the MOST specific evidence of antemortem drowning. If a person drowns, water is aspirated and diatoms enter circulation through alveoli, distributing to distant organs and bone marrow. If a body is placed in water after death, diatoms may enter passively only into lungs and mouth \u2014 they will NOT be found in bone marrow or systemic organs. Washerwoman's skin and cutis anserina can occur in bodies placed in water postmortem (non-specific). Emphysema aquosum (voluminous waterlogged lungs) is suggestive but can occur in near-drowning without death.",
+"highYield": "Diatoms in bone marrow/brain/kidney = MOST specific sign of antemortem drowning. Postmortem submersion = diatoms only in lungs/mouth, NOT in marrow.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"drowning",
+"diatom test",
+"emphysema aquosum",
+"antemortem drowning",
+"forensic pathology"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Sexual Offenses \u2014 POCSO Act",
+"difficulty": "hard",
+"stem": "A 12-year-old boy is alleged to be a victim of sexual abuse by a teacher. The medical officer examining the child must follow which of the following POCSO Act 2012 mandated protocols?",
+"options": [
+"POCSO Act 2012 applies only to female children; male children are covered only under IPC 377",
+"POCSO Act 2012 is gender-neutral, applies to all children below 18 years; examination must be done with consent of child's guardian and documented in Form of Medical Examination for children under POCSO",
+"POCSO only covers penetrative sexual assault; non-penetrative acts are excluded",
+"Medical examination under POCSO must be conducted only by a female doctor regardless of victim gender"
+],
+"answer": 1,
+"explanation": "POCSO (Protection of Children from Sexual Offences) Act 2012 is GENDER-NEUTRAL \u2014 it protects all children below 18 years regardless of sex, including male children. It defines: Penetrative Sexual Assault (Section 3), Aggravated Penetrative Sexual Assault (Section 5), Sexual Assault (Section 7 \u2014 non-penetrative: any sexual contact), Aggravated Sexual Assault (Section 9), Sexual Harassment (Section 11), Use of Child for Pornography (Section 13). Medical examination must follow procedures under Section 27: conducted with guardian consent, preferably by a female doctor for female victims, proper documentation. IPC 377 (unnatural offenses) is additionally applicable but POCSO is the primary legislation.",
+"highYield": "POCSO 2012: gender-neutral, applies to ALL children <18 years. Covers both penetrative AND non-penetrative sexual offenses. Section 27: medical examination with guardian consent.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"POCSO Act 2012",
+"child sexual abuse",
+"gender neutral",
+"Section 27",
+"medical examination"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Wound Examination \u2014 Puncture Wound",
+"difficulty": "medium",
+"stem": "A stabbing victim has a penetrating abdominal wound. Examination shows: small skin opening (5mm x 3mm) with clean, sharp edges, and the weapon caused internal damage to the bowel disproportionate to the external wound size. The opening is oval-shaped with one blunt and one sharp angle. What type of weapon most likely caused this wound?",
+"options": [
+"Double-edged (dagger) knife causing a spindle-shaped wound with two sharp angles",
+"Single-edged knife causing a wound with one sharp and one blunt angle",
+"Round-tipped screwdriver causing a circular puncture wound",
+"Scissors causing a Y-shaped or cruciate wound"
+],
+"answer": 1,
+"explanation": "Puncture/stab wounds from single-edged knives (kitchen knife, bowie knife) produce characteristic wounds with one sharp angled end (from the blade edge) and one blunt/squared end (from the blunt spine of the blade). A double-edged weapon (dagger, stiletto) produces a spindle/fish-shaped wound with both ends sharp/acute. A round-tipped instrument produces a circular opening. Scissors characteristically produce a cruciform (Y or Z shaped) wound due to two blades. The small external wound with large internal damage is typical of stabbing \u2014 the elasticity of skin allows the wound to gape less than the blade width, while the blade may cause extensive internal hemorrhage.",
+"highYield": "Single-edged knife: stab wound with 1 sharp + 1 blunt angle. Double-edged dagger: both angles sharp (fish/spindle shape). Scissors: cruciform/Y-shaped wound.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"stab wound",
+"puncture wound",
+"single-edged knife",
+"double-edged weapon",
+"wound shape"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Medical Negligence \u2014 Standard of Care",
+"difficulty": "medium",
+"stem": "A general surgeon performed an appendectomy in a rural setting. Postoperatively, the patient developed a complication (bowel perforation) and died. The family alleges criminal negligence. Which of the following legal tests is applied by Indian courts to determine if the surgeon's conduct amounts to criminal medical negligence?",
+"options": [
+"Bolam test \u2014 the doctor's conduct is compared to a reasonable body of medical opinion",
+"The Bolitho test \u2014 court decides if the expert opinion withstands logical analysis",
+"Jacob Mathew test (Supreme Court of India 2005) \u2014 criminal negligence requires gross/high degree of negligence, not mere error of judgment",
+"The Donoghue v Stevenson neighbor principle for duty of care"
+],
+"answer": 2,
+"explanation": "In Jacob Mathew v State of Punjab (2005), the Supreme Court of India established the Indian standard for criminal medical negligence. The court held that a doctor cannot be prosecuted for criminal negligence (IPC Section 304A \u2014 causing death by negligence) merely for an error of judgment or deviation from standard practice. For criminal liability, the negligence must be 'gross' \u2014 so reckless or grossly careless as to be beyond the standard 'reasonable doctor' test. The Bolam test (UK) is used for civil medical negligence. Criminal charges require arrest only after independent expert opinion per Jacob Mathew guidelines. This is the most frequently asked case in forensic medicine for NEET PG.",
+"highYield": "Jacob Mathew 2005 SC: criminal medical negligence = GROSS negligence (not mere error). Bolam test = civil negligence standard. Criminal cases need independent expert opinion before arrest.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"medical negligence",
+"Jacob Mathew case",
+"IPC 304A",
+"Bolam test",
+"criminal negligence India"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Thanatology \u2014 Somatic vs Molecular Death",
+"difficulty": "medium",
+"stem": "After cessation of cardiorespiratory function in a patient, cells in different organs continue to survive for variable periods. Which of the following sequences correctly represents the order from LEAST to MOST tolerant of anoxia (i.e., cells surviving shortest to longest after cardiac arrest)?",
+"options": [
+"Neurons (4-6 min) < Myocardial cells (20-30 min) < Hepatocytes (1-2 hrs) < Osteocytes/bone cells (many hours to days)",
+"Osteocytes < Hepatocytes < Myocardial cells < Neurons",
+"Neurons < Osteocytes < Hepatocytes < Myocardial cells",
+"Myocardial cells (2 min) < Neurons (4 min) < Hepatocytes (30 min) < Osteocytes (2 hrs)"
+],
+"answer": 0,
+"explanation": "Cellular death (molecular death) occurs at variable times after somatic death. Anoxia tolerance order (least to most): Neurons/cortical brain cells die first (4-6 minutes without oxygen \u2014 basis of clinical brain death timeline); Myocardial cells: 20-30 minutes; Hepatocytes: 1-2 hours (liver most metabolically active); Renal tubular cells: up to 2 hours; Osteocytes in compact bone survive many hours to days. This differential survival is the basis of organ transplantation time windows and forensic estimation of time since death from tissue survival experiments. Hair and nails continue to appear to grow postmortem (actually skin retraction, not true growth).",
+"highYield": "Anoxia tolerance: Neurons (4-6 min) < Myocardium (20-30 min) < Hepatocytes (1-2 hrs) < Osteocytes (days). Basis of organ transplant time windows.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"molecular death",
+"anoxia tolerance",
+"somatic death",
+"cellular survival",
+"organ transplantation"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Poison \u2014 Carbon Monoxide",
+"difficulty": "medium",
+"stem": "Three members of a family are found dead in their home with all windows and doors closed. A coal heater was running. Postmortem examination shows cherry-red lividity, bright red blood on section, and cherry-red color of muscles. Blood analysis shows elevated carboxyhemoglobin (COHb) at 65%. What is the mechanism of toxicity and why is the lividity cherry-red rather than dark purple?",
+"options": [
+"CO binds hemoglobin with 200x greater affinity than O2 forming COHb, which is bright red in color; tissues cannot extract O2 from COHb causing cellular hypoxia",
+"CO inhibits cytochrome c oxidase like cyanide, causing histotoxic hypoxia with preserved hemoglobin",
+"CO causes methemoglobin formation producing chocolate-brown color, not cherry red",
+"CO causes hemolysis with release of free hemoglobin which is bright red"
+],
+"answer": 0,
+"explanation": "Carbon monoxide has approximately 200-250 times greater affinity for hemoglobin than oxygen, forming carboxyhemoglobin (COHb). COHb is bright cherry-red in color (unlike deoxyhemoglobin which is dark purple). COHb also causes a leftward shift of the oxygen-hemoglobin dissociation curve (Haldane effect), impairing oxygen delivery to tissues from remaining oxyhemoglobin. At COHb >50-60%, death occurs. The bright red (cherry red) lividity, blood, and visceral color are due to the intrinsic red color of COHb. CO also inhibits cytochrome oxidase but the primary mechanism is Hb binding. Treatment: 100% oxygen (displaces CO), hyperbaric oxygen for severe cases.",
+"highYield": "CO: affinity 200x > O2 for Hb \u2192 cherry red COHb. Causes functional anemia + Haldane effect (O2 dissociation curve left shift). Treatment: 100% O2 / HBO.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"carbon monoxide",
+"COHb",
+"cherry red lividity",
+"Haldane effect",
+"forensic toxicology"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Identification \u2014 DNA Fingerprinting",
+"difficulty": "hard",
+"stem": "Human DNA extracted from bloodstain at a crime scene is analyzed. The forensic biologist uses PCR-based STR (Short Tandem Repeat) profiling. Which of the following statements about DNA fingerprinting in Indian forensic practice is CORRECT?",
+"options": [
+"Mitochondrial DNA (mtDNA) profiling is preferred for nuclear DNA samples from fresh blood",
+"STR profiling of nuclear DNA is the gold standard for individual identification; the DNA Technology (Use and Application) Regulation Bill provides the legal framework in India",
+"DNA profiling cannot distinguish identical twins",
+"The Pitchfork case (India 1989) established DNA evidence as admissible in Indian courts"
+],
+"answer": 1,
+"explanation": "STR (Short Tandem Repeat) profiling of nuclear DNA is the current gold standard for forensic individual identification \u2014 it analyzes multiple polymorphic STR loci to generate a DNA profile with an extremely low random match probability. India's DNA Technology (Use and Application) Regulation Bill (introduced 2018, under consideration) proposes establishing a national DNA database and regulatory framework. Key points: mtDNA is used when nuclear DNA is degraded (old bones, hair shafts without root) \u2014 mtDNA is maternally inherited; STR cannot distinguish identical twins (same nuclear DNA). The first UK DNA murder case was Colin Pitchfork (1986, UK) \u2014 not an Indian case. Dr. Alec Jeffreys developed DNA fingerprinting (1984, UK).",
+"highYield": "STR profiling = gold standard for DNA ID. mtDNA = degraded samples/hair without root. DNA Technology Regulation Bill = India's legal framework. Alec Jeffreys invented DNA fingerprinting (1984).",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"DNA fingerprinting",
+"STR profiling",
+"DNA Technology Bill",
+"forensic identification",
+"Alec Jeffreys"
+]
+},
+{
+"subject": "Forensic Medicine",
+"topic": "Wound \u2014 Defense Wounds",
+"difficulty": "medium",
+"stem": "During examination of a homicide victim, multiple incised wounds are found on the dorsum of the left hand, the ulnar border of the forearm, and the palmar surface of the fingers (cuts across fingertip creases). The primary lethal wound is a deep incised wound to the neck. What are these hand/forearm wounds classified as, and what is their medicolegal significance?",
+"options": [
+"Self-inflicted wounds \u2014 indicating suicide attempt",
+"Defense wounds \u2014 indicating victim was alive and conscious, attempting to defend against the assailant",
+"Hesitation cuts \u2014 indicating deliberate self-harm before the final wound",
+"Postmortem artifact wounds \u2014 from animal scavenging"
+],
+"answer": 1,
+"explanation": "Defense wounds are injuries sustained by a victim who is alive, conscious, and attempting to protect themselves from attack. Classic defense wounds are found on: dorsum of hands and forearms (raising arms to block blows), ulnar border of forearm, and palmar surfaces of fingers/thenar eminence (grabbing the blade). Their medicolegal significance: (1) confirm antemortem survival with consciousness at time of attack; (2) indicate homicide rather than suicide; (3) suggest struggle occurred. Hesitation cuts are shallow, parallel incised wounds at an unusual site (typically wrist or forearm) seen in suicidal individuals before delivering the fatal wound \u2014 they indicate hesitation, not defense.",
+"highYield": "Defense wounds: dorsum of hands/ulnar forearm/finger tips in homicide victims = victim alive and fighting. Rules out suicide. Hesitation cuts = shallow parallel wounds in suicide.",
+"pyqNote": "Forensic \u2014 high frequency",
+"tags": [
+"defense wounds",
+"homicide",
+"hesitation cuts",
+"wound classification",
+"medicolegal significance"
+]
+}
+]

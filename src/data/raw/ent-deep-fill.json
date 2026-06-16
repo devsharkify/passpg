@@ -1,0 +1,829 @@
+[
+{
+"subject": "ENT",
+"topic": "Audiogram Interpretation \u2014 Otosclerosis",
+"difficulty": "medium",
+"stem": "Pure tone audiogram shows bilateral air-bone gap of 40 dB across all frequencies with a characteristic dip at 2000 Hz on bone conduction. Tympanometry reveals an 'As' type curve bilaterally. The patient is a 28-year-old woman who reports progressive hearing loss worse during pregnancy. The most likely diagnosis is:",
+"options": [
+"Otosclerosis",
+"Otitis media with effusion",
+"Noise-induced hearing loss",
+"Presbycusis"
+],
+"answer": 0,
+"explanation": "Otosclerosis presents with a conductive hearing loss (air-bone gap) that is bilateral and progressive, worsened by pregnancy (estrogen effect). The pathognomonic audiogram finding is Carhart's notch \u2014 a dip in bone conduction at 2000 Hz (a mechanical artefact, not true sensorineural loss). The 'As' tympanogram (shallow peak, reduced compliance) indicates stiffness of the ossicular chain due to fixation of the stapes footplate. Otitis media with effusion shows a flat 'B' type tympanogram, not As.",
+"highYield": "Carhart's notch at 2000 Hz on bone conduction + 'As' tympanogram = otosclerosis (stapes fixation).",
+"pyqNote": "Asked almost every year in NEET PG/INI-CET; classic combined audiogram + tympanogram question.",
+"tags": [
+"otosclerosis",
+"Carhart's notch",
+"As tympanogram",
+"conductive hearing loss",
+"audiogram"
+]
+},
+{
+"subject": "ENT",
+"topic": "Tympanogram Types",
+"difficulty": "easy",
+"stem": "A 6-year-old child presents with bilateral hearing loss and a history of recurrent upper respiratory tract infections. Otoscopy shows dull, retracted tympanic membranes with a fluid level visible behind the drum. Tympanometry shows a flat tracing with no discernible peak and a tympanometric peak pressure that cannot be measured. Which type of tympanogram is this?",
+"options": [
+"Type A",
+"Type As",
+"Type B",
+"Type C"
+],
+"answer": 2,
+"explanation": "A Type B (flat) tympanogram indicates no change in compliance of the tympanic membrane with varying air pressure \u2014 the classic pattern of otitis media with effusion (glue ear). The middle ear is filled with fluid, which damps all movement. Type A is normal, Type As indicates stiffness (otosclerosis), Type Ad indicates flaccidity or ossicular discontinuity, and Type C (peak at negative pressure) indicates Eustachian tube dysfunction without effusion.",
+"highYield": "Type B tympanogram = flat = middle ear effusion (glue ear) \u2014 no peak, no compliance change.",
+"pyqNote": "Frequently tested in NEET PG; match tympanogram type to clinical scenario.",
+"tags": [
+"tympanogram",
+"glue ear",
+"otitis media with effusion",
+"Type B",
+"tympanometry"
+]
+},
+{
+"subject": "ENT",
+"topic": "Tympanogram Types",
+"difficulty": "easy",
+"stem": "A 10-year-old presents with hearing loss and a sensation of blocked ears following a recent cold. Tympanometry reveals a tympanogram with the compliance peak shifted to a pressure of -200 daPa, with otherwise normal peak height. The tympanic membrane appears retracted on otoscopy. Which tympanogram type is this and what does it indicate?",
+"options": [
+"Type A \u2014 normal middle ear pressure",
+"Type B \u2014 middle ear effusion",
+"Type C \u2014 Eustachian tube dysfunction",
+"Type Ad \u2014 ossicular discontinuity"
+],
+"answer": 2,
+"explanation": "Type C tympanogram shows a compliance peak at negative middle ear pressure (beyond -100 daPa, typically -150 to -400 daPa), indicating Eustachian tube dysfunction. The tube fails to equalize pressure, causing the tympanic membrane to retract. This is a common sequel of upper respiratory tract infections in children. There is no fluid in the middle ear yet (which would give a flat Type B). Intervention is observation or Valsalva manoeuvre; if persistent, ventilation tubes may be needed.",
+"highYield": "Type C tympanogram = peak at negative pressure = Eustachian tube dysfunction (retracted TM, no effusion).",
+"pyqNote": "Commonly asked as a differentiation question between Type B and Type C tympanograms.",
+"tags": [
+"Type C tympanogram",
+"Eustachian tube dysfunction",
+"retracted TM",
+"tympanometry"
+]
+},
+{
+"subject": "ENT",
+"topic": "Audiogram \u2014 Noise-Induced Hearing Loss",
+"difficulty": "medium",
+"stem": "Pure tone audiogram of a 35-year-old factory worker shows bilateral symmetrical sensorineural hearing loss with the most marked dip at 4000 Hz, with partial recovery at 8000 Hz. There is no air-bone gap. Tympanometry is normal (Type A bilaterally). The characteristic audiogram pattern and diagnosis are:",
+"options": [
+"4 kHz notch \u2014 noise-induced hearing loss",
+"Downsloping high-frequency loss \u2014 presbycusis",
+"Flat loss with air-bone gap \u2014 otosclerosis",
+"Low-frequency loss \u2014 Meniere's disease"
+],
+"answer": 0,
+"explanation": "Noise-induced hearing loss (NIHL) characteristically produces a sensorineural dip at 4000 Hz (the '4 kHz notch' or 'acoustic notch'), with recovery at higher frequencies (6000\u20138000 Hz). This occurs because the outer hair cells of the basal turn corresponding to 4 kHz are most vulnerable to noise damage. There is no air-bone gap (pure sensorineural). Presbycusis causes a bilateral downsloping high-frequency SNHL without this specific notch. NIHL from occupational exposure is the most common preventable cause of acquired SNHL.",
+"highYield": "4 kHz notch on audiogram with no air-bone gap = noise-induced hearing loss (NIHL).",
+"pyqNote": "High-yield pattern recognition \u2014 asked in NEET PG, AIIMS, and INI-CET.",
+"tags": [
+"NIHL",
+"4 kHz notch",
+"sensorineural hearing loss",
+"audiogram",
+"occupational hearing loss"
+]
+},
+{
+"subject": "ENT",
+"topic": "Cholesteatoma",
+"difficulty": "hard",
+"stem": "CT scan of the temporal bone (axial and coronal cuts) of a 40-year-old man with chronic ear discharge and hearing loss shows: soft tissue mass in the epitympanum (attic) with erosion of the scutum and lateral wall of the epitympanum. There is erosion of the long process of incus and lateral semicircular canal. The most likely diagnosis and the part of tympanic membrane from which it arises are:",
+"options": [
+"Attic cholesteatoma arising from pars flaccida (Shrapnell's membrane)",
+"Sinus cholesteatoma arising from pars tensa",
+"Glomus tympanicum arising from Jacobson's nerve",
+"Mucosal disease from Eustachian tube dysfunction"
+],
+"answer": 0,
+"explanation": "Attic (pars flaccida) cholesteatoma characteristically erodes the scutum (the bony spur at the lateral wall of the epitympanum) \u2014 this is the hallmark CT finding. It arises from a retraction pocket in the pars flaccida (Shrapnell's membrane) in the posterosuperior quadrant and expands into the attic and aditus. Sinus cholesteatoma arises from pars tensa and erodes the posterior mesotympanum. Lateral SCC erosion is a dangerous complication (fistula), and incus erosion causes conductive hearing loss. CT is the gold standard for pre-operative assessment.",
+"highYield": "Scutum erosion on CT = attic cholesteatoma from pars flaccida (Shrapnell's membrane).",
+"pyqNote": "Classic image-based question in NEET PG and AIIMS MS; scutum erosion is pathognomonic.",
+"tags": [
+"cholesteatoma",
+"scutum erosion",
+"pars flaccida",
+"CT temporal bone",
+"attic disease"
+]
+},
+{
+"subject": "ENT",
+"topic": "Cholesteatoma \u2014 Complications",
+"difficulty": "hard",
+"stem": "A 35-year-old patient with known right-sided chronic suppurative otitis media \u2014 unsafe type, presents with sudden onset right facial nerve palsy, vertigo with positive fistula test, and headache with meningismus. On CT temporal bone, there is a soft tissue mass in the attic with erosion of the tegmen tympani and lateral semicircular canal. Which of the following best describes the full set of complications in this patient?",
+"options": [
+"Facial nerve palsy + labyrinthine fistula + meningitis (intracranial extension via tegmen erosion)",
+"Bezold's abscess + subperiosteal abscess + sigmoid sinus thrombosis",
+"Gradenigo's syndrome + petrous apicitis + Sixth nerve palsy",
+"Otitic hydrocephalus + lateral sinus thrombosis + parapharyngeal abscess"
+],
+"answer": 0,
+"explanation": "This patient has multiple complications of cholesteatoma: (1) Facial nerve palsy from erosion of the fallopian canal in the second genu; (2) Labyrinthine fistula (positive fistula test) from lateral SCC erosion; (3) Meningitis from intracranial extension via tegmen tympani erosion. These are extracranial (facial palsy, labyrinthine fistula) and intracranial (meningitis) complications simultaneously \u2014 a true surgical emergency. Bezold's abscess and Gradenigo's syndrome are other important complications but do not match this picture.",
+"highYield": "Cholesteatoma complications: labyrinthine fistula (lateral SCC), facial palsy (fallopian canal), meningitis (tegmen erosion).",
+"pyqNote": "Multi-complication scenario is a favourite NEET PG vignette; know all extracranial vs intracranial complications.",
+"tags": [
+"cholesteatoma complications",
+"labyrinthine fistula",
+"facial nerve palsy",
+"meningitis",
+"CSOM unsafe"
+]
+},
+{
+"subject": "ENT",
+"topic": "Cholesteatoma \u2014 Safe vs Unsafe CSOM",
+"difficulty": "easy",
+"stem": "A patient presents with painless, purulent, offensive-smelling ear discharge with associated hearing loss. On otoscopy, a white, pearly mass is seen in the posterosuperior quadrant of the tympanic membrane with a marginal perforation. The tympanic membrane shows a retraction pocket. Which type of CSOM is this and what is the primary treatment?",
+"options": [
+"Safe (tubotympanic) CSOM \u2014 medical management with ear drops",
+"Unsafe (atticoantral) CSOM \u2014 surgical treatment (mastoidectomy)",
+"Acute otitis media \u2014 antibiotics + myringotomy",
+"Otitis externa \u2014 topical antifungals"
+],
+"answer": 1,
+"explanation": "Unsafe (atticoantral) CSOM is associated with cholesteatoma and is characterised by: (1) marginal or attic perforation, (2) foul-smelling scanty discharge, (3) presence of cholesteatoma (white pearly mass), (4) associated bone erosion, and (5) higher risk of serious complications. Safe (tubotympanic) CSOM has a central perforation, mucopurulent discharge without odour, and is managed medically. Unsafe CSOM requires surgery \u2014 modified radical mastoidectomy or canal wall down procedure \u2014 to eradicate disease.",
+"highYield": "Marginal/attic perforation + foul-smelling discharge + white pearly mass = unsafe CSOM \u2192 surgery mandatory.",
+"pyqNote": "Safe vs unsafe CSOM differentiation is tested every year; cholesteatoma = always surgical.",
+"tags": [
+"CSOM",
+"unsafe CSOM",
+"cholesteatoma",
+"mastoidectomy",
+"marginal perforation"
+]
+},
+{
+"subject": "ENT",
+"topic": "Nasal Polyps",
+"difficulty": "medium",
+"stem": "Examination of the nasal cavity of a 45-year-old patient with bilateral nasal obstruction and anosmia shows pale, glistening, smooth, grape-like masses arising bilaterally from the middle meatus. The masses are insensitive to touch and do not bleed on probing. The patient has a history of bronchial asthma and aspirin sensitivity. The most likely diagnosis and associated triad are:",
+"options": [
+"Ethmoidal polyps \u2014 Samter's triad (asthma + aspirin sensitivity + nasal polyps)",
+"Antrochoanal polyp \u2014 Kartagener's syndrome (bronchiectasis + situs inversus + sinusitis)",
+"Juvenile nasopharyngeal angiofibroma \u2014 Trotter's syndrome",
+"Inverted papilloma \u2014 HPV-associated malignant transformation"
+],
+"answer": 0,
+"explanation": "Ethmoidal nasal polyps are bilateral, arise from the middle meatus (ethmoidal sinuses), pale/glistening, insensitive to touch (distinguishing from turbinates which are sensitive), and do not bleed on probing (distinguishing from vascular tumours). Their association with asthma and aspirin sensitivity constitutes Samter's triad (or aspirin exacerbated respiratory disease \u2014 AERD). The mechanism is COX-1 inhibition shifting arachidonic acid to leukotriene pathway. Antrochoanal polyp is classically unilateral, arising from the maxillary antrum, and NOT associated with Samter's triad.",
+"highYield": "Ethmoidal polyps = bilateral + middle meatus + pale + insensitive + Samter's triad (asthma + aspirin sensitivity + nasal polyps).",
+"pyqNote": "Samter's triad appears almost every year in NEET PG ENT section.",
+"tags": [
+"nasal polyps",
+"ethmoidal polyps",
+"Samter's triad",
+"aspirin sensitivity",
+"middle meatus"
+]
+},
+{
+"subject": "ENT",
+"topic": "Antrochoanal Polyp",
+"difficulty": "medium",
+"stem": "A 15-year-old boy presents with unilateral nasal obstruction and nasal discharge. Anterior rhinoscopy shows a single, smooth, pale mass in the right nasal cavity. Posterior rhinoscopy reveals the polyp extending into the nasopharynx through the choana. CT sinuses show the polyp arising from the right maxillary sinus. The diagnosis is:",
+"options": [
+"Ethmoidal polyp",
+"Antrochoanal polyp (Killian's polyp)",
+"Juvenile nasopharyngeal angiofibroma",
+"Choanal atresia"
+],
+"answer": 1,
+"explanation": "Antrochoanal polyp (Killian's polyp) is characteristically unilateral, arises from the maxillary antrum (posterior wall), passes through the accessory ostium of the maxillary sinus into the nasal cavity, and extends posteriorly through the choana into the nasopharynx. It is more common in children and young adults. Unlike ethmoidal polyps (bilateral, from middle meatus, associated with allergy/asthma), antrochoanal polyps are unilateral and NOT associated with Samter's triad. Juvenile nasopharyngeal angiofibroma is vascular, bleeds profusely, and occurs in adolescent males.",
+"highYield": "Antrochoanal polyp = unilateral + maxillary antrum origin + extends to nasopharynx through choana = Killian's polyp.",
+"pyqNote": "Classic distinction: unilateral polyp = antrochoanal; bilateral = ethmoidal. Tested frequently.",
+"tags": [
+"antrochoanal polyp",
+"Killian's polyp",
+"maxillary sinus",
+"unilateral nasal polyp",
+"nasopharynx"
+]
+},
+{
+"subject": "ENT",
+"topic": "Laryngeal Cancer \u2014 Glottic vs Supraglottic",
+"difficulty": "medium",
+"stem": "A 60-year-old male smoker presents with hoarseness of voice for 6 months. He has no dysphagia, no neck nodes, and no stridor. Indirect laryngoscopy shows an irregular mass confined to the right vocal cord with normal cord mobility. Biopsy confirms squamous cell carcinoma. Regarding this tumour's prognosis and presentation, which statement is most accurate?",
+"options": [
+"Glottic carcinoma \u2014 early hoarseness, sparse lymphatics, good prognosis",
+"Supraglottic carcinoma \u2014 late hoarseness, rich lymphatics, poor prognosis",
+"Subglottic carcinoma \u2014 early stridor, bilateral lymph node spread",
+"Transglottic carcinoma \u2014 crosses ventricle, worst prognosis"
+],
+"answer": 0,
+"explanation": "Glottic carcinoma (arising from the true vocal cords) is the most common laryngeal cancer and carries the best prognosis because: (1) it causes early hoarseness (any lesion on the cord causes voice change), enabling early diagnosis; (2) the true vocal cords have sparse lymphatics, so nodal spread and distant metastasis are late and uncommon; (3) early-stage (T1/T2) can be treated with radiotherapy or cordectomy with excellent cure rates. Supraglottic tumours (epiglottis, aryepiglottic folds) have rich lymphatics, spread early to bilateral neck nodes, and present late (throat discomfort, dysphagia), hence poorer prognosis.",
+"highYield": "Glottic Ca = early hoarseness + sparse lymphatics + best prognosis. Supraglottic Ca = late presentation + bilateral nodes + worst prognosis.",
+"pyqNote": "Glottic vs supraglottic comparison is a perennial NEET PG question.",
+"tags": [
+"glottic carcinoma",
+"laryngeal cancer",
+"hoarseness",
+"lymphatics",
+"prognosis"
+]
+},
+{
+"subject": "ENT",
+"topic": "Laryngeal Cancer \u2014 Staging and Surgery",
+"difficulty": "hard",
+"stem": "A 55-year-old male presents with hoarseness and stridor. Laryngoscopy shows a tumour involving both vocal cords, the anterior commissure, and extending subglottically by 10 mm. Both cords show impaired mobility but are not fixed. There is no extralaryngeal spread and no cervical lymphadenopathy. TNM staging is T3N0M0. The surgical treatment of choice is:",
+"options": [
+"Total laryngectomy",
+"Hemilaryngectomy (vertical partial laryngectomy)",
+"Supraglottic laryngectomy",
+"Cordectomy"
+],
+"answer": 0,
+"explanation": "T3 glottic carcinoma involves impaired vocal cord mobility (not fixed \u2014 that would be T4 if fixed and cartilage invaded). However, with bilateral cord involvement, anterior commissure extension, and subglottic extension of >10 mm, conservation surgery is not feasible. Total laryngectomy is indicated for T3-T4 glottic lesions not amenable to conservation or where radiotherapy has failed. Hemilaryngectomy requires one mobile cord and no anterior commissure involvement. Supraglottic laryngectomy is for supraglottic lesions. Cordectomy is only for T1a (unilateral cord, not crossing anterior commissure).",
+"highYield": "Total laryngectomy for T3-T4 glottic Ca or bilateral/anterior commissure involvement; conservation surgery requires mobile cord.",
+"pyqNote": "Laryngeal surgery selection is tested in surgical oncology and ENT NEET PG papers.",
+"tags": [
+"laryngectomy",
+"glottic carcinoma",
+"TNM staging",
+"total laryngectomy",
+"anterior commissure"
+]
+},
+{
+"subject": "ENT",
+"topic": "BPPV \u2014 Hallpike Test",
+"difficulty": "medium",
+"stem": "A 50-year-old woman presents with brief episodes of vertigo lasting 15\u201330 seconds triggered by rolling over in bed and getting up from lying down. During the Dix-Hallpike test with the right ear down, there is a latency of 2\u20135 seconds followed by upbeat-torsional nystagmus that fatigues after 30 seconds and reverses on sitting up. The most likely diagnosis and the canal involved are:",
+"options": [
+"Benign paroxysmal positional vertigo (BPPV) \u2014 right posterior semicircular canal",
+"Vestibular neuritis \u2014 anterior semicircular canal",
+"Meniere's disease \u2014 endolymphatic hydrops",
+"Labyrinthitis \u2014 horizontal canal cupulolithiasis"
+],
+"answer": 0,
+"explanation": "BPPV is the most common cause of vertigo. The Dix-Hallpike (Hallpike) test is diagnostic: positioning the affected ear downward triggers geotropic upbeat-torsional nystagmus after a 2\u20135 second latency. The nystagmus is transient (fatigues with repeated testing), direction-fixed, and reverses on return to sitting. This pattern indicates canalolithiasis (free-floating otoconia) in the posterior semicircular canal of the lowermost ear. The fast phase of torsional nystagmus beats towards the undermost ear (towards the ground). Treatment is the Epley canalith repositioning manoeuvre.",
+"highYield": "Hallpike test: upbeat-torsional nystagmus with latency + fatigue = BPPV posterior semicircular canal. Treat with Epley manoeuvre.",
+"pyqNote": "BPPV and Hallpike test are the most commonly tested vestibular questions in NEET PG and INI-CET.",
+"tags": [
+"BPPV",
+"Hallpike test",
+"posterior semicircular canal",
+"upbeat nystagmus",
+"Epley manoeuvre"
+]
+},
+{
+"subject": "ENT",
+"topic": "Vestibular Tests \u2014 Fistula Test",
+"difficulty": "hard",
+"stem": "A patient with known cholesteatoma of the right ear complains of episodic vertigo triggered by nose blowing and loud sounds. On examination, applying positive pressure to the right external auditory canal with a Siegle's speculum causes nystagmus and vertigo. This positive fistula test indicates:",
+"options": [
+"Erosion of the lateral semicircular canal wall (perilymphatic fistula)",
+"Eustachian tube dysfunction",
+"Benign paroxysmal positional vertigo",
+"Endolymphatic hydrops (Meniere's disease)"
+],
+"answer": 0,
+"explanation": "The fistula test (Hennebert's test) is performed by applying positive and negative pressure to the EAC. A positive test (nystagmus and vertigo with pressure changes) indicates a communication between the middle ear and the labyrinth \u2014 most commonly due to erosion of the bony wall of the lateral semicircular canal by cholesteatoma (perilymphatic fistula). Pressure changes are transmitted through the fistula to the endolymph, producing vestibular stimulation. It can also be positive in congenital syphilis (Hennebert's sign \u2014 positive fistula test with intact labyrinth). This is an indication for urgent surgical intervention.",
+"highYield": "Positive fistula test in cholesteatoma = lateral SCC wall erosion (perilymphatic fistula) \u2014 surgical emergency.",
+"pyqNote": "Fistula test mechanism and significance in cholesteatoma is frequently tested in NEET PG.",
+"tags": [
+"fistula test",
+"perilymphatic fistula",
+"lateral semicircular canal",
+"cholesteatoma",
+"Hennebert's sign"
+]
+},
+{
+"subject": "ENT",
+"topic": "Vestibular Tests \u2014 Unterberger and Romberg",
+"difficulty": "medium",
+"stem": "A patient with unilateral vestibular neuritis undergoes clinical vestibular testing. In the Unterberger (Fukuda stepping) test, the patient consistently rotates towards one side while marching in place with eyes closed. In the Romberg test, the patient sways and falls towards the same side. The direction of deviation in Unterberger's test indicates:",
+"options": [
+"Deviation towards the side of the peripheral vestibular lesion",
+"Deviation towards the opposite side of the peripheral vestibular lesion",
+"Random deviation \u2014 the test is non-localising",
+"Deviation towards the side of a central cerebellar lesion"
+],
+"answer": 0,
+"explanation": "In unilateral peripheral vestibular lesions, the patient deviates (both in Romberg and Unterberger/Fukuda tests) towards the side of the lesion. This occurs because the intact contralateral vestibular system has relatively greater tone, pushing the patient towards the damaged side. In central cerebellar lesions, the deviation is also towards the side of the lesion. The tests help distinguish peripheral from central causes combined with nystagmus direction: peripheral nystagmus beats AWAY from the lesion side (fast phase), while the patient falls TOWARDS the lesion side.",
+"highYield": "Unterberger/Romberg: deviation towards the side of peripheral vestibular lesion; nystagmus fast phase beats away from it.",
+"pyqNote": "Direction of deviation and nystagmus fast phase in vestibular lesions tested in INI-CET and NEET PG.",
+"tags": [
+"Unterberger test",
+"Romberg test",
+"vestibular neuritis",
+"peripheral vestibular lesion",
+"nystagmus"
+]
+},
+{
+"subject": "ENT",
+"topic": "Tonsil Grading",
+"difficulty": "easy",
+"stem": "On examination of the oropharynx, the tonsils are found to extend beyond the anterior pillar, crossing the midway point between the anterior pillar and the uvula, but not reaching the midline. According to the Brodsky grading system, this represents:",
+"options": [
+"Grade I tonsils",
+"Grade II tonsils",
+"Grade III tonsils",
+"Grade IV tonsils"
+],
+"answer": 2,
+"explanation": "Brodsky grading of tonsillar size: Grade I \u2014 tonsils within the pillars (<25% of oropharyngeal width); Grade II \u2014 tonsils extending to the pillars (25\u201350% of width); Grade III \u2014 tonsils extending beyond the pillars to occupy 50\u201375% of the oropharyngeal width (past the midway point but not at midline); Grade IV \u2014 tonsils meeting or almost meeting at the midline ('kissing tonsils', >75%). Grades III-IV are associated with obstructive sleep apnoea in children and are strong indications for tonsillectomy.",
+"highYield": "Grade III: tonsils 50\u201375% of oropharyngeal width (past midway, not at midline). Grade IV = kissing tonsils.",
+"pyqNote": "Tonsil grading is straightforward but frequently tested; know Grade IV as indication for surgery.",
+"tags": [
+"tonsil grading",
+"Brodsky grading",
+"kissing tonsils",
+"tonsillectomy",
+"obstructive sleep apnoea"
+]
+},
+{
+"subject": "ENT",
+"topic": "Peritonsillar Abscess (Quinsy)",
+"difficulty": "medium",
+"stem": "A 25-year-old presents with severe sore throat, dysphagia, trismus, and a muffled 'hot potato' voice. Examination shows a unilateral bulging of the soft palate on the right side with displacement of the uvula to the LEFT. The most likely diagnosis and the direction of uvular displacement relative to the abscess are:",
+"options": [
+"Right peritonsillar abscess \u2014 uvula displaced to the LEFT (away from abscess)",
+"Right peritonsillar abscess \u2014 uvula displaced to the RIGHT (towards abscess)",
+"Left parapharyngeal abscess \u2014 uvula displaced to the RIGHT (towards abscess)",
+"Left retropharyngeal abscess \u2014 midline uvula with neck stiffness"
+],
+"answer": 0,
+"explanation": "Peritonsillar abscess (quinsy) presents with unilateral tonsillar swelling causing the uvula to be deviated AWAY from the side of the abscess (contralateral displacement). In this case, the right-sided abscess pushes the uvula to the left. This is a key examination finding. Trismus (difficulty opening mouth) results from spasm of the medial pterygoid muscle. Treatment is incision and drainage or needle aspiration at the point of maximum bulging (superior pole of tonsil), along with IV antibiotics. Interval tonsillectomy is recommended after resolution.",
+"highYield": "Quinsy: uvula deviates AWAY from the abscess side (contralateral). Trismus + hot potato voice are clinical clues.",
+"pyqNote": "Uvular deviation direction in quinsy is a perennial NEET PG question \u2014 the answer is always 'away from abscess'.",
+"tags": [
+"peritonsillar abscess",
+"quinsy",
+"uvular deviation",
+"trismus",
+"hot potato voice"
+]
+},
+{
+"subject": "ENT",
+"topic": "Otitis Media Complications \u2014 Mastoiditis",
+"difficulty": "medium",
+"stem": "A 7-year-old child with a history of acute otitis media now presents with post-auricular pain, swelling, and redness with forward displacement of the pinna. Mastoid tenderness is present. CT temporal bone shows opacification of mastoid air cells with coalescence and breakdown of the bony septa. The diagnosis and the most appropriate treatment are:",
+"options": [
+"Acute coalescent mastoiditis \u2014 IV antibiotics + cortical mastoidectomy",
+"Bezold's abscess \u2014 neck exploration + mastoidectomy",
+"Chronic suppurative otitis media \u2014 topical antibiotic ear drops",
+"Subperiosteal abscess of mastoid \u2014 aspiration alone"
+],
+"answer": 0,
+"explanation": "Acute coalescent mastoiditis is a complication of acute otitis media where the infection destroys the bony septa between mastoid air cells (coalescence), progressing to subperiosteal abscess formation. Clinical features include post-auricular swelling with forward displacement of the pinna, CT shows bony septa breakdown. Management requires IV antibiotics (typically broad-spectrum covering S. pneumoniae and S. aureus) and surgical cortical (Schwartze) mastoidectomy to drain the abscess and remove infected bone. Bezold's abscess is a specific complication where pus tracks under the sternomastoid muscle.",
+"highYield": "Acute coalescent mastoiditis = CT shows breakdown of mastoid septa; treat with IV antibiotics + cortical mastoidectomy.",
+"pyqNote": "Mastoiditis complications and CT findings are high-yield in NEET PG; know Bezold's abscess separately.",
+"tags": [
+"acute mastoiditis",
+"coalescent mastoiditis",
+"Bezold's abscess",
+"cortical mastoidectomy",
+"pinna displacement"
+]
+},
+{
+"subject": "ENT",
+"topic": "Otitis Media Complications \u2014 Bezold's Abscess",
+"difficulty": "hard",
+"stem": "A patient with chronic suppurative otitis media presents with a painful swelling in the upper part of the neck along the anterior border of the sternocleidomastoid muscle. There is no post-auricular swelling or pinna displacement. CT shows a hypodense collection extending from the mastoid tip into the neck under the sternocleidomastoid muscle. The diagnosis is:",
+"options": [
+"Bezold's abscess",
+"Subperiosteal mastoid abscess",
+"Parapharyngeal abscess",
+"Citelli's abscess"
+],
+"answer": 0,
+"explanation": "Bezold's abscess results from perforation of the medial aspect of the mastoid tip cortex by chronic suppurative otitis media, allowing pus to track deep to the sternocleidomastoid muscle into the upper neck. Unlike subperiosteal abscess (post-auricular, displaces pinna), Bezold's abscess presents with neck swelling along the SCM without post-auricular signs. Citelli's abscess is another variant where pus tracks to the digastric groove (posterior belly of digastric). Management: mastoidectomy + neck exploration and drainage.",
+"highYield": "Bezold's abscess = CSOM pus tracks under SCM to upper neck via mastoid tip perforation (no post-auricular sign).",
+"pyqNote": "Bezold's vs subperiosteal abscess differentiation is a high-yield NEET PG distinction.",
+"tags": [
+"Bezold's abscess",
+"CSOM",
+"mastoid tip",
+"sternocleidomastoid",
+"Citelli's abscess"
+]
+},
+{
+"subject": "ENT",
+"topic": "Facial Nerve Palsy in CSOM",
+"difficulty": "hard",
+"stem": "A patient with known CSOM \u2014 unsafe type \u2014 develops acute lower motor neurone facial nerve palsy (House-Brackmann Grade IV). Which part of the facial nerve is most commonly affected by cholesteatoma, and what is the immediate management?",
+"options": [
+"Second genu (horizontal/tympanic segment) \u2014 emergency mastoidectomy and facial nerve decompression",
+"First genu (geniculate ganglion) \u2014 conservative management with steroids",
+"Mastoid (vertical) segment \u2014 antiviral therapy",
+"Internal auditory canal \u2014 neurosurgical intervention"
+],
+"answer": 0,
+"explanation": "In cholesteatoma, the most commonly eroded segment of the facial nerve is the horizontal (tympanic) segment, particularly at the second genu (where the nerve turns downward to become the mastoid segment). The tympanic segment runs in close proximity to the aditus and is the most vulnerable. Facial palsy in the context of CSOM is an emergency \u2014 the dehiscent nerve is directly compressed by the cholesteatoma. Treatment is urgent surgical mastoidectomy with removal of cholesteatoma, decompression, and if needed, nerve repair. Steroids alone are not adequate.",
+"highYield": "Cholesteatoma most commonly erodes the tympanic (horizontal) segment of facial nerve at second genu \u2192 emergency surgery.",
+"pyqNote": "Facial nerve segment most vulnerable in cholesteatoma is a recurring NEET PG question.",
+"tags": [
+"facial nerve palsy",
+"cholesteatoma",
+"tympanic segment",
+"second genu",
+"mastoidectomy"
+]
+},
+{
+"subject": "ENT",
+"topic": "Salivary Gland \u2014 Frey's Syndrome",
+"difficulty": "medium",
+"stem": "A 40-year-old woman who underwent superficial parotidectomy 6 months ago now complains of flushing, sweating, and warmth over the pre-auricular region whenever she eats. The most likely diagnosis and the nerve responsible are:",
+"options": [
+"Frey's syndrome \u2014 auriculotemporal nerve (branch of V3)",
+"Chorda tympani syndrome \u2014 chorda tympani nerve (branch of VII)",
+"First bite syndrome \u2014 superior cervical sympathetic ganglion",
+"Gustatory rhinorrhoea \u2014 greater petrosal nerve (branch of VII)"
+],
+"answer": 0,
+"explanation": "Frey's syndrome (auriculotemporal syndrome or gustatory sweating) occurs after parotid surgery when regenerating parasympathetic secretomotor fibres (which travelled with the auriculotemporal nerve to the parotid) aberrantly reinnervate the sweat glands of the overlying facial skin. Stimulation during eating causes sweating and flushing instead of salivation. The auriculotemporal nerve is a branch of V3 (mandibular division of trigeminal). Minor's starch-iodine test confirms the diagnosis. Treatment options include topical anticholinergic cream (glycopyrrolate) or botulinum toxin injection.",
+"highYield": "Frey's syndrome: post-parotidectomy gustatory sweating = aberrant reinnervation by auriculotemporal nerve. Treat with botulinum toxin.",
+"pyqNote": "Frey's syndrome nerve (auriculotemporal) is a classic NEET PG/AIIMS question; distinguish from chorda tympani.",
+"tags": [
+"Frey's syndrome",
+"auriculotemporal nerve",
+"parotidectomy",
+"gustatory sweating",
+"botulinum toxin"
+]
+},
+{
+"subject": "ENT",
+"topic": "Salivary Gland Calculi",
+"difficulty": "easy",
+"stem": "A 35-year-old man presents with painful swelling under his chin that increases at mealtimes and subsides after eating. On bimanual palpation of the floor of the mouth, a hard nodule is felt along the course of Wharton's duct. X-ray of the floor of the mouth shows a radioopaque calculus. The most likely diagnosis and the most commonly affected gland are:",
+"options": [
+"Submandibular duct calculus (Wharton's duct) \u2014 submandibular gland most commonly affected",
+"Parotid duct calculus (Stensen's duct) \u2014 parotid gland most commonly affected",
+"Sublingual gland calculus \u2014 sublingual gland most commonly affected",
+"Minor salivary gland calculus \u2014 palatal glands most commonly affected"
+],
+"answer": 0,
+"explanation": "Salivary calculi (sialolithiasis) most commonly affect the submandibular gland (80\u201390% of cases) because: (1) submandibular saliva is more viscous and alkaline with higher calcium and mucin content; (2) Wharton's duct is longer (5 cm), tortuous, and runs uphill against gravity; (3) the duct calibre change at the hilum predisposes to stasis. The calculi are radioopaque (calcium phosphate/carbonate) in 80% of cases, visible on plain X-ray. Parotid calculi are less common and often radiolucent. Mealtime syndrome (pain and swelling with meals) is characteristic.",
+"highYield": "Submandibular calculi: most common (80%), radioopaque, Wharton's duct, mealtime syndrome \u2014 due to uphill duct and viscous saliva.",
+"pyqNote": "Why submandibular is most common is a classic NEET PG MCQ \u2014 know the four reasons.",
+"tags": [
+"sialolithiasis",
+"submandibular calculus",
+"Wharton's duct",
+"mealtime syndrome",
+"salivary gland"
+]
+},
+{
+"subject": "ENT",
+"topic": "Salivary Gland Tumours \u2014 Warthin's Tumour",
+"difficulty": "medium",
+"stem": "A 65-year-old male smoker presents with a painless, soft, cystic swelling in the tail of the right parotid gland. It is bilateral in 10% of cases. Tc-99m pertechnetate scan shows a 'hot' spot in the region. The most likely diagnosis is:",
+"options": [
+"Warthin's tumour (papillary cystadenoma lymphomatosum)",
+"Pleomorphic adenoma",
+"Mucoepidermoid carcinoma",
+"Acinic cell carcinoma"
+],
+"answer": 0,
+"explanation": "Warthin's tumour (papillary cystadenoma lymphomatosum) is the second most common benign parotid tumour and is unique in that: (1) it occurs almost exclusively in the parotid (tail region); (2) it is bilateral in 10% of cases; (3) it is strongly associated with smoking; (4) it shows a 'hot' spot on Tc-99m pertechnetate scan (oncocytic cells concentrate technetium); (5) it shows a 'hot' lesion on 99mTc scan \u2014 virtually diagnostic. Treatment is superficial parotidectomy. Pleomorphic adenoma is the most common and shows a 'cold' spot on scan.",
+"highYield": "Warthin's tumour: parotid tail + bilateral 10% + smoking + hot on Tc-99m scan (only benign salivary tumour to do so).",
+"pyqNote": "Hot vs cold isotope scan for parotid tumours is a classic NEET PG differentiator.",
+"tags": [
+"Warthin's tumour",
+"parotid tumour",
+"Tc-99m scan",
+"hot spot",
+"papillary cystadenoma lymphomatosum"
+]
+},
+{
+"subject": "ENT",
+"topic": "Salivary Gland \u2014 Pleomorphic Adenoma and Facial Nerve",
+"difficulty": "medium",
+"stem": "A 45-year-old woman presents with a slow-growing, painless, firm, bosselated swelling in the right parotid region. Clinically benign. The surgeon plans surgical excision. Regarding the anatomical relationship of pleomorphic adenoma to the facial nerve in the parotid gland, which statement is most accurate?",
+"options": [
+"The facial nerve divides the parotid into superficial and deep lobes; pleomorphic adenoma most commonly arises from the superficial lobe lateral to the nerve",
+"The facial nerve lies medial (deep) to both lobes of the parotid; routine excision does not risk the nerve",
+"Pleomorphic adenoma most commonly arises from the deep lobe, medial to the facial nerve",
+"The facial nerve runs superficial to the parotid gland, making nerve injury rare during parotidectomy"
+],
+"answer": 0,
+"explanation": "The facial nerve exits the stylomastoid foramen and divides within the parotid into temporofacial and cervicofacial divisions, forming the pes anserinus. This plane divides the parotid into a superficial lobe (lateral to nerve) and deep lobe (medial to nerve). Pleomorphic adenoma most commonly arises from the superficial lobe (lateral to facial nerve), comprising 80% of cases. Surgical treatment is superficial parotidectomy with facial nerve preservation \u2014 the nerve must be identified (at the main trunk or via peripheral branches) and preserved. Enucleation alone has high recurrence rates due to pseudocapsule extensions.",
+"highYield": "Parotid: facial nerve divides it into superficial (lateral) and deep (medial) lobes; pleomorphic adenoma = superficial lobe (80%).",
+"pyqNote": "Facial nerve anatomy in parotid and its relation to pleomorphic adenoma is a standard NEET PG surgical anatomy question.",
+"tags": [
+"pleomorphic adenoma",
+"parotid",
+"facial nerve",
+"superficial lobe",
+"parotidectomy"
+]
+},
+{
+"subject": "ENT",
+"topic": "Meniere's Disease",
+"difficulty": "medium",
+"stem": "A 45-year-old presents with recurrent episodic vertigo lasting 20 minutes to 4 hours, associated with fluctuating low-frequency sensorineural hearing loss, tinnitus, and aural fullness in the left ear. Audiogram shows a low-frequency rising pattern of sensorineural hearing loss. Electrocochleography shows an elevated summating potential to action potential (SP/AP) ratio >0.45. The diagnosis is:",
+"options": [
+"Meniere's disease (endolymphatic hydrops)",
+"Vestibular neuritis",
+"BPPV",
+"Acoustic neuroma (vestibular schwannoma)"
+],
+"answer": 0,
+"explanation": "Meniere's disease is caused by endolymphatic hydrops \u2014 distension of the endolymphatic compartment. The classic triad (Meniere's triad) is: episodic vertigo (20 min to 24 hrs) + fluctuating sensorineural hearing loss (initially low-frequency) + tinnitus, with aural fullness as the fourth symptom (Lermoyez variant). Electrocochleography showing elevated SP/AP ratio (>0.40\u20130.45) is the objective test supporting endolymphatic hydrops. Low-frequency SNHL early (distinguishing it from other SNHLs which are typically high-frequency). BPPV episodes last seconds; vestibular neuritis is a single prolonged attack; acoustic neuroma causes progressive unilateral SNHL.",
+"highYield": "Meniere's disease: low-frequency fluctuating SNHL + episodic vertigo (20 min-24 hr) + tinnitus + aural fullness. SP/AP ratio >0.45 on ECoG.",
+"pyqNote": "Meniere's triad, low-frequency SNHL, and ECoG findings are standard NEET PG topics.",
+"tags": [
+"Meniere's disease",
+"endolymphatic hydrops",
+"low-frequency SNHL",
+"electrocochleography",
+"SP/AP ratio"
+]
+},
+{
+"subject": "ENT",
+"topic": "Acoustic Neuroma (Vestibular Schwannoma)",
+"difficulty": "medium",
+"stem": "A 50-year-old presents with progressive unilateral right-sided sensorineural hearing loss and high-frequency tinnitus for 2 years. Recently developed mild imbalance. Audiogram shows high-frequency downsloping SNHL on the right with very poor speech discrimination disproportionate to the pure-tone average. BAEP (BERA) shows prolonged I-III and I-V interwave latencies on the right. MRI with gadolinium shows an enhancing mass at the right cerebellopontine angle extending into the internal auditory canal. Diagnosis:",
+"options": [
+"Vestibular schwannoma (acoustic neuroma)",
+"Meniere's disease",
+"Noise-induced hearing loss",
+"Otosclerosis"
+],
+"answer": 0,
+"explanation": "Vestibular schwannoma arises from the vestibular division of CN VIII (usually superior vestibular nerve) within the internal auditory canal. Features: progressive unilateral SNHL with disproportionately poor speech discrimination ('rollover' on PB-max), tinnitus, and late imbalance. BERA shows prolonged interwave latencies (I-III, I-V). MRI with gadolinium (gold standard) shows an enhancing CP angle mass with 'ice-cream cone' appearance extending into IAC. Associated with NF2 when bilateral. Management: observation, stereotactic radiosurgery (Gamma knife), or surgery (translabyrinthine, retrosigmoid, or middle fossa approach depending on size and hearing status).",
+"highYield": "Acoustic neuroma: unilateral progressive SNHL + poor speech discrimination + prolonged BERA interwave latency + gadolinium MRI = gold standard.",
+"pyqNote": "BERA findings and investigation of choice in acoustic neuroma are repeatedly tested.",
+"tags": [
+"acoustic neuroma",
+"vestibular schwannoma",
+"BERA",
+"MRI gadolinium",
+"cerebellopontine angle"
+]
+},
+{
+"subject": "ENT",
+"topic": "Otosclerosis \u2014 Medical Management",
+"difficulty": "easy",
+"stem": "A 30-year-old woman with audiogram-confirmed otosclerosis (conductive hearing loss, As tympanogram, Carhart's notch at 2000 Hz) is currently pregnant with her second child. She declines surgery at this time. Which medical treatment can slow the progression of otosclerosis?",
+"options": [
+"Sodium fluoride",
+"Oral corticosteroids",
+"Calcium channel blockers",
+"Bisphosphonates alone"
+],
+"answer": 0,
+"explanation": "Sodium fluoride is the only medical treatment shown to slow the progression of otosclerosis. It inhibits the abnormal bone remodelling (spongiosis of otic capsule) by incorporating into the hydroxyapatite crystal and stabilising the lesion. Dose: 40\u201360 mg/day combined with calcium and vitamin D. It is contraindicated in renal failure and pregnancy. Bisphosphonates have also been studied but sodium fluoride remains the first-choice medical option. Definitive treatment remains surgical stapedectomy or stapedotomy. Pregnancy worsens otosclerosis (estrogen effect), hence early surgical counselling is important.",
+"highYield": "Sodium fluoride = only medical agent to slow otosclerosis progression; definitive treatment = stapedectomy/stapedotomy.",
+"pyqNote": "Medical treatment of otosclerosis (sodium fluoride) is a classic NEET PG question.",
+"tags": [
+"otosclerosis",
+"sodium fluoride",
+"medical management",
+"stapedectomy",
+"conductive hearing loss"
+]
+},
+{
+"subject": "ENT",
+"topic": "Tympanogram \u2014 Ad Type and Ossicular Discontinuity",
+"difficulty": "hard",
+"stem": "Audiogram of a patient with a history of head trauma shows a purely conductive hearing loss of 50-60 dB with a normal tympanic membrane on otoscopy. Tympanometry shows a very high-amplitude, sharply peaked compliance curve (Type Ad \u2014 high peak exceeding the upper limit of the scale). The most likely cause is:",
+"options": [
+"Ossicular chain discontinuity (incudo-stapedial joint dislocation)",
+"Otosclerosis (stapes fixation)",
+"Otitis media with effusion",
+"Tympanic membrane perforation alone"
+],
+"answer": 0,
+"explanation": "Type Ad (deep/high compliance) tympanogram indicates a hyper-compliant middle ear system \u2014 the tympanic membrane moves excessively with pressure changes. This occurs in two situations: (1) ossicular chain discontinuity (incus long process or incudo-stapedial joint dislocation, as after trauma) \u2014 the TM flaps freely with no resistance; (2) a monomeric or thin, flaccid TM. With a large air-bone gap (50-60 dB) and a normal-appearing TM but Ad tympanogram, ossicular discontinuity is the diagnosis. Otosclerosis gives As (stiff/low compliance). CT temporal bone and exploratory tympanotomy confirm the diagnosis.",
+"highYield": "Ad tympanogram (high compliance) + large air-bone gap + normal TM = ossicular chain discontinuity.",
+"pyqNote": "Ad tympanogram and its causes is a subtle but tested topic in NEET PG and AIIMS.",
+"tags": [
+"Ad tympanogram",
+"ossicular discontinuity",
+"high compliance",
+"conductive hearing loss",
+"trauma"
+]
+},
+{
+"subject": "ENT",
+"topic": "Nasopharyngeal Carcinoma",
+"difficulty": "hard",
+"stem": "A 45-year-old Southeast Asian male presents with unilateral epistaxis, nasal obstruction, unilateral otitis media with effusion, and a painless neck mass. On nasopharyngoscopy, an ulcerating mass is seen in the fossa of Rosenmuller (pharyngeal recess). Biopsy shows undifferentiated carcinoma. EBV serology is positive (elevated VCA IgA). Which nerve involvement explains the otitis media with effusion in this case?",
+"options": [
+"Eustachian tube obstruction by the nasopharyngeal tumour (not a nerve \u2014 mechanical blockage)",
+"Facial nerve involvement at the stylomastoid foramen",
+"Greater petrosal nerve compression causing secretory dysfunction",
+"Hypoglossal nerve invasion at the base of skull"
+],
+"answer": 0,
+"explanation": "Nasopharyngeal carcinoma (NPC) arises most commonly in the fossa of Rosenmuller and has three classic presentations: epistaxis, nasal obstruction, and cervical lymphadenopathy. Unilateral otitis media with effusion in an adult (especially with cervical nodes) is a red flag for NPC until proven otherwise \u2014 the Eustachian tube orifice is obstructed mechanically by the tumour, leading to middle ear effusion and conductive hearing loss. EBV association (elevated VCA IgA) is nearly universal in WHO Type III (undifferentiated). Trotter's triad = unilateral deafness + palatal paralysis + trigeminal neuralgia (from cavernous sinus invasion).",
+"highYield": "Adult unilateral OME + epistaxis + cervical node = NPC until proven otherwise. ET tube blockage causes the effusion.",
+"pyqNote": "NPC presentation, Trotter's triad, and EBV association are standard NEET PG ENT questions.",
+"tags": [
+"nasopharyngeal carcinoma",
+"fossa of Rosenmuller",
+"EBV",
+"Eustachian tube",
+"Trotter's triad"
+]
+},
+{
+"subject": "ENT",
+"topic": "Juvenile Nasopharyngeal Angiofibroma",
+"difficulty": "medium",
+"stem": "A 15-year-old boy presents with progressive unilateral nasal obstruction and recurrent severe episodes of spontaneous epistaxis. CT scan of the sinuses with contrast shows a highly vascular, intensely enhancing mass in the nasopharynx with extension into the pterygopalatine fossa and widening of the sphenopalatine foramen (Holman-Miller sign). The most appropriate next diagnostic step is:",
+"options": [
+"MRI and digital subtraction angiography (DSA) with pre-operative embolisation \u2014 biopsy is contraindicated",
+"Diagnostic nasal biopsy under local anaesthesia",
+"Fine needle aspiration cytology of the mass",
+"CT-guided biopsy under general anaesthesia"
+],
+"answer": 0,
+"explanation": "Juvenile nasopharyngeal angiofibroma (JNA) is a benign but locally aggressive vascular tumour occurring exclusively in adolescent males. The Holman-Miller sign (anterior bowing of the posterior wall of the maxillary antrum on lateral X-ray or CT) is pathognomonic. BIOPSY IS ABSOLUTELY CONTRAINDICATED due to risk of catastrophic haemorrhage from this highly vascular tumour. Diagnosis is clinical + radiological (CT/MRI). Pre-operative embolisation (DSA) 24\u201348 hours before surgery reduces intra-operative blood loss. Treatment is surgical excision (endoscopic or open approach).",
+"highYield": "JNA = adolescent male + epistaxis + nasopharyngeal mass + Holman-Miller sign. Biopsy contraindicated. Pre-op embolisation then surgery.",
+"pyqNote": "JNA biopsy contraindication and Holman-Miller sign are high-yield and recurrently tested NEET PG questions.",
+"tags": [
+"juvenile nasopharyngeal angiofibroma",
+"JNA",
+"Holman-Miller sign",
+"biopsy contraindicated",
+"epistaxis"
+]
+},
+{
+"subject": "ENT",
+"topic": "Otitis Media with Effusion (Glue Ear)",
+"difficulty": "easy",
+"stem": "A 5-year-old boy is brought for evaluation of inattentiveness at school and poor speech development. Audiogram shows bilateral flat conductive hearing loss of 20-30 dB. Tympanometry shows bilateral Type B (flat) tympanograms with no acoustic reflexes. Otoscopy shows dull, amber-coloured, retracted tympanic membranes. There is no history of ear pain. The most appropriate management after a 3-month observation period is:",
+"options": [
+"Bilateral myringotomy with insertion of ventilation tubes (grommets)",
+"Long-term oral antibiotics (amoxicillin-clavulanate for 6 months)",
+"Topical antibiotic ear drops",
+"Adenotonsillectomy alone without tympanostomy"
+],
+"answer": 0,
+"explanation": "Otitis media with effusion (OME, glue ear) in children is managed with watchful waiting for 3 months, as >50% resolve spontaneously. After 3 months of persistent bilateral OME with hearing loss causing developmental concerns, ventilation tube insertion (grommets) is the standard treatment \u2014 it restores hearing immediately. Adenoidectomy may be added in children >4 years with recurrent disease (adenoids contribute to ET dysfunction). Long-term antibiotics have no proven benefit for OME. The Type B tympanogram (flat, no peak) confirms fluid in the middle ear, and the amber colour of the drum confirms the mucoid effusion.",
+"highYield": "Bilateral OME with developmental delay after 3 months observation = grommets (ventilation tube insertion). Type B tympanogram confirms.",
+"pyqNote": "Management of persistent OME in children is a common NEET PG question \u2014 answer is grommets after 3 months.",
+"tags": [
+"otitis media with effusion",
+"glue ear",
+"grommets",
+"ventilation tubes",
+"Type B tympanogram"
+]
+},
+{
+"subject": "ENT",
+"topic": "Epistaxis \u2014 Site and Management",
+"difficulty": "easy",
+"stem": "A 10-year-old presents with recurrent anterior nasal bleeding from the right nostril, usually triggered by nose picking and dry weather. Examination under nasal light shows engorged blood vessels at the anteroinferior nasal septum. Digital pressure for 10 minutes failed to stop the current episode. The vascular area identified and the first-line treatment after failed compression are:",
+"options": [
+"Little's area (Kiesselbach's plexus) \u2014 cauterisation with silver nitrate or chemical cauterisation",
+"Woodruff's plexus (posterior septal) \u2014 posterior nasal packing",
+"Anterior ethmoidal artery \u2014 ligation under endoscopy",
+"Sphenopalatine artery \u2014 endoscopic sphenopalatine artery ligation"
+],
+"answer": 0,
+"explanation": "Little's area (Kiesselbach's plexus) is the anteroinferior part of the nasal septum where five arteries anastomose: anterior ethmoidal, posterior ethmoidal, sphenopalatine, greater palatine, and superior labial arteries. It is the most common site of epistaxis (90% of cases), especially in children. After failed digital pressure, chemical cauterisation with silver nitrate is the next step (active bleeding must be stopped first). Woodruff's plexus is at the posterior nasal cavity and bleeds in elderly hypertensives (posterior epistaxis requiring packing). Bipolar cautery or electrocautery is preferred over unilateral chemical cautery to avoid septal perforation.",
+"highYield": "Little's area (Kiesselbach's plexus) = anteroinferior septum = 90% of epistaxis. Silver nitrate cautery after failed compression.",
+"pyqNote": "Kiesselbach's plexus, its arterial supply, and management are standard NEET PG ENT topics.",
+"tags": [
+"epistaxis",
+"Little's area",
+"Kiesselbach's plexus",
+"silver nitrate",
+"anterior epistaxis"
+]
+},
+{
+"subject": "ENT",
+"topic": "Vocal Cord Polyp vs Nodule",
+"difficulty": "medium",
+"stem": "Laryngoscopy of a 35-year-old professional singer shows bilateral, symmetrical, small, grey-white, sessile lesions at the junction of the anterior one-third and posterior two-thirds of both vocal cords. The patient's main symptom is hoarseness. The lesions appear at the point of maximum contact and vibration. The diagnosis and initial management are:",
+"options": [
+"Vocal cord nodules (Singer's nodes) \u2014 voice rest and speech therapy first",
+"Vocal cord polyp \u2014 microlaryngoscopy and stripping",
+"Reinke's oedema \u2014 smoking cessation and voice therapy",
+"Vocal cord granuloma \u2014 antireflux therapy and voice therapy"
+],
+"answer": 0,
+"explanation": "Vocal cord nodules (Singer's nodes, Screamers' nodes, Teachers' nodes) are bilateral, symmetrical, appear at the junction of anterior 1/3 and posterior 2/3 of the cords (the point of maximum vibration and contact), and result from vocal abuse. They start as soft/oedematous lesions and become firm/fibrotic. Initial treatment is conservative \u2014 voice rest and speech therapy. Surgery is reserved for persistent fibrotic nodules. Vocal cord polyp is typically unilateral, pedunculated, and requires microlaryngoscopy. Reinke's oedema is diffuse bilateral oedema of the superficial lamina propria associated with smoking.",
+"highYield": "Vocal cord nodules: bilateral + junction of ant-1/3 and post-2/3 + vocal abuse + treat with voice therapy first.",
+"pyqNote": "Singer's nodes vs polyp vs Reinke's oedema is a standard NEET PG laryngology differentiation question.",
+"tags": [
+"vocal cord nodules",
+"Singer's nodes",
+"hoarseness",
+"voice therapy",
+"vocal abuse"
+]
+},
+{
+"subject": "ENT",
+"topic": "Laryngomalacia",
+"difficulty": "easy",
+"stem": "A 3-week-old infant presents with inspiratory stridor that is worse in the supine position and during feeding but improves when prone or crying. There is mild subcostal recession but no cyanosis. The stridor has been present since birth. Flexible nasopharyngoscopy shows omega-shaped epiglottis with supraglottic collapse on inspiration. The diagnosis is:",
+"options": [
+"Laryngomalacia",
+"Subglottic stenosis",
+"Bilateral vocal cord palsy",
+"Haemangioma of the subglottis"
+],
+"answer": 0,
+"explanation": "Laryngomalacia is the most common cause of stridor in neonates and infants (60% of congenital laryngeal anomalies). Features: inspiratory stridor from birth, worsening supine/feeding, improving prone/crying (crying provides positive pressure to maintain airway), omega-shaped floppy epiglottis, and collapse of aryepiglottic folds/arytenoids on inspiration. The stridor worsens until 6 months then gradually resolves by 18\u201324 months in 90% of cases. Severe cases (cyanosis, failure to thrive, apnoea) require supraglottoplasty. Subglottic stenosis causes biphasic stridor. Bilateral cord palsy causes weak cry with soft biphasic stridor.",
+"highYield": "Laryngomalacia: most common neonatal stridor \u2014 inspiratory, worse supine, improves prone/crying, floppy epiglottis, self-resolves by 2 years.",
+"pyqNote": "Most common cause of neonatal stridor and its characteristics is a standard NEET PG question.",
+"tags": [
+"laryngomalacia",
+"neonatal stridor",
+"inspiratory stridor",
+"omega epiglottis",
+"supraglottoplasty"
+]
+},
+{
+"subject": "ENT",
+"topic": "Parapharyngeal Space Anatomy",
+"difficulty": "hard",
+"stem": "A CT scan of the neck shows a well-defined mass in the right parapharyngeal space (PPS) that displaces the internal carotid artery posterolaterally and the internal jugular vein anterolaterally. The styloid process is intact. The mass is well-defined and homogeneous. Given this vascular displacement pattern, the most likely anatomical compartment and primary diagnosis are:",
+"options": [
+"Pre-styloid compartment \u2014 deep lobe parotid tumour (displaces carotid posteriorly)",
+"Post-styloid compartment \u2014 glomus jugulare tumour (displaces carotid anteriorly)",
+"Pre-styloid compartment \u2014 schwannoma of the vagus nerve",
+"Post-styloid compartment \u2014 pleomorphic adenoma of deep parotid"
+],
+"answer": 0,
+"explanation": "The parapharyngeal space is divided by the styloid process into pre-styloid (anterior) and post-styloid (posterior) compartments. Pre-styloid compartment contains fat, minor salivary glands, and the deep lobe of the parotid gland. Post-styloid contains the carotid artery, internal jugular vein, CN IX-XII, and sympathetic chain. A pre-styloid mass (deep lobe parotid tumour) displaces the carotid artery posterolaterally and IJV anterolaterally. A post-styloid mass (carotid body tumour, schwannoma, glomus jugulare) splays the carotid artery and IJV apart. In this question, both vessels displaced together = pre-styloid (parotid) mass.",
+"highYield": "Pre-styloid PPS mass = displaces carotid posteriorly (together with IJV) = parotid deep lobe. Post-styloid = splays carotid and IJV apart.",
+"pyqNote": "Parapharyngeal space compartments and vascular displacement patterns are high-yield for NEET PG and AIIMS MS.",
+"tags": [
+"parapharyngeal space",
+"pre-styloid",
+"post-styloid",
+"deep lobe parotid",
+"vascular displacement"
+]
+},
+{
+"subject": "ENT",
+"topic": "Gradenigo's Syndrome",
+"difficulty": "hard",
+"stem": "A patient with suppurative otitis media develops a triad of: (1) persistent purulent otorrhoea, (2) deep-seated facial pain and headache in the distribution of the first and second divisions of the trigeminal nerve, and (3) ipsilateral lateral rectus palsy (diplopia on lateral gaze). The diagnosis and the anatomical basis of the CN VI palsy are:",
+"options": [
+"Gradenigo's syndrome \u2014 petrous apicitis with involvement of Dorello's canal (CN VI runs through it)",
+"Bezold's abscess \u2014 erosion of mastoid tip with tracking to the neck",
+"Lateral sinus thrombosis \u2014 abducens nerve compression by raised ICP",
+"Labyrinthitis \u2014 CN VI palsy from direct labyrinthine spread"
+],
+"answer": 0,
+"explanation": "Gradenigo's syndrome is a complication of otitis media with spread to the petrous apex (petrous apicitis). The classic triad is: (1) otorrhoea, (2) trigeminal neuralgia (first + second division pain, from involvement of Meckel's cave), and (3) ipsilateral abducens (CN VI) palsy causing lateral rectus paresis and diplopia on lateral gaze. The anatomical basis: CN VI runs through Dorello's canal (beneath the petrosphenoidal ligament/Gruber's ligament) at the petrous apex and is compressed/involved by the apical petrositis. Treatment: IV antibiotics and surgical drainage (petrous apicectomy).",
+"highYield": "Gradenigo's triad: otorrhoea + trigeminal neuralgia + abducens palsy = petrous apicitis. CN VI in Dorello's canal is key.",
+"pyqNote": "Gradenigo's syndrome and CN VI involvement via Dorello's canal is a classic AIIMS/NEET PG question.",
+"tags": [
+"Gradenigo's syndrome",
+"petrous apicitis",
+"abducens palsy",
+"Dorello's canal",
+"trigeminal neuralgia"
+]
+},
+{
+"subject": "ENT",
+"topic": "Otoscopy \u2014 Acute Otitis Media",
+"difficulty": "easy",
+"stem": "A 4-year-old child presents with fever, ear pain, and pulling at the right ear. Otoscopy shows: loss of the light reflex, a bulging, erythematous tympanic membrane with loss of bony landmarks (handle of malleus and long process of incus not visible). The tympanic membrane appears to be under tension. The most likely diagnosis and the most appropriate next step are:",
+"options": [
+"Acute otitis media \u2014 analgesics + oral amoxicillin (high dose) for 10 days in children under 2 years",
+"Otitis media with effusion \u2014 watchful waiting for 3 months",
+"Otitis externa \u2014 topical antibiotic and antifungal drops",
+"Tympanic membrane perforation \u2014 ear toilet and topical antibiotic"
+],
+"answer": 0,
+"explanation": "Acute otitis media (AOM) presents with acute ear pain (otalgia), fever, and otoscopic findings of a bulging, erythematous TM with loss of normal landmarks and absent/distorted light reflex. The bulging indicates middle ear pus under pressure. In children under 2 years, immediate antibiotic therapy (amoxicillin 80\u201390 mg/kg/day for 10 days) is recommended. In children over 2 years with mild AOM, a 48\u201372 hour watchful waiting approach is acceptable. If the TM perforates spontaneously, it relieves pain and is generally favourable. Myringotomy provides drainage if there is no spontaneous perforation and pain is severe.",
+"highYield": "AOM otoscopy: bulging erythematous TM + loss of landmarks + absent light reflex. Under 2 years \u2192 immediate antibiotics.",
+"pyqNote": "AOM vs OME clinical and otoscopic differentiation is a standard NEET PG paediatric ENT question.",
+"tags": [
+"acute otitis media",
+"AOM",
+"bulging TM",
+"amoxicillin",
+"paediatric ENT"
+]
+}
+]

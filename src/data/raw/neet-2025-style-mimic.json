@@ -1,0 +1,810 @@
+[
+{
+"subject": "Pharmacology",
+"topic": "Drug of Choice",
+"difficulty": "medium",
+"stem": "A 28-year-old pregnant woman (16 weeks gestation) is diagnosed with urinary tract infection caused by Escherichia coli. Urine culture shows sensitivity to multiple antibiotics. Which of the following is the most appropriate antibiotic for this patient?",
+"options": [
+"Ciprofloxacin",
+"Nitrofurantoin",
+"Doxycycline",
+"Trimethoprim-sulfamethoxazole in third trimester"
+],
+"answer": 1,
+"explanation": "Nitrofurantoin is safe and effective for uncomplicated UTI in pregnancy during the second trimester. Ciprofloxacin (fluoroquinolone) is contraindicated in pregnancy due to fetal cartilage damage. Doxycycline is contraindicated due to teeth and bone effects. TMP-SMX is avoided in first trimester (neural tube defects) and third trimester (neonatal jaundice).",
+"highYield": "Nitrofurantoin is the drug of choice for UTI in pregnancy (2nd trimester); avoid in first trimester and near term.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"drug of choice",
+"pregnancy",
+"UTI",
+"nitrofurantoin",
+"pharmacology"
+]
+},
+{
+"subject": "Microbiology",
+"topic": "Drug of Choice",
+"difficulty": "medium",
+"stem": "A 40-year-old male farmer from Rajasthan presents with fever, headache, myalgia, and rash after tick exposure. Weil-Felix test shows agglutination with OX-19. Blood culture is negative. What is the drug of choice for this condition?",
+"options": [
+"Amoxicillin",
+"Doxycycline",
+"Chloramphenicol",
+"Erythromycin"
+],
+"answer": 1,
+"explanation": "The clinical picture with Weil-Felix positivity (OX-19) is consistent with Rickettsial disease (likely scrub typhus or spotted fever group). Doxycycline is the drug of choice for all rickettsial infections. Chloramphenicol is an alternative but is second-line. Amoxicillin and erythromycin are not effective against intracellular organisms like Rickettsia.",
+"highYield": "Doxycycline is the drug of choice for all rickettsial diseases; Weil-Felix OX-19 positive suggests spotted fever group.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"rickettsia",
+"doxycycline",
+"Weil-Felix",
+"drug of choice",
+"microbiology"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Drug of Choice",
+"difficulty": "hard",
+"stem": "A 55-year-old male with Type 2 Diabetes Mellitus and CKD Stage 3b (eGFR 32 mL/min/1.73m2) presents for glycemic management. His HbA1c is 8.4%. Cardiovascular risk is high. Which antidiabetic drug is the most appropriate first-line addition to metformin in this patient?",
+"options": [
+"Glibenclamide",
+"SGLT2 inhibitor (Empagliflozin)",
+"Pioglitazone",
+"Sitagliptin"
+],
+"answer": 1,
+"explanation": "SGLT2 inhibitors (empagliflozin, dapagliflozin) have demonstrated cardioprotective and nephroprotective benefits in patients with T2DM and CKD per 2022 ADA guidelines. Empagliflozin (EMPA-REG OUTCOME) reduces cardiovascular mortality and slows CKD progression. Glibenclamide causes hypoglycemia and is avoided in CKD. Pioglitazone causes fluid retention worsening renal outcomes. DPP4i (sitagliptin) is safe but lacks proven nephroprotective advantage.",
+"highYield": "SGLT2 inhibitors are now first-line add-on for T2DM with CKD and high cardiovascular risk per 2022 ADA guidelines.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"SGLT2 inhibitor",
+"diabetes",
+"CKD",
+"empagliflozin",
+"cardioprotection"
+]
+},
+{
+"subject": "Pharmacology",
+"topic": "Drug of Choice",
+"difficulty": "medium",
+"stem": "A 3-year-old child presents with fever, cough, and inspiratory stridor. Lateral neck X-ray shows a 'steeple sign'. Oxygen saturation is 96%. The child is not drooling. What is the drug of choice for this condition?",
+"options": [
+"IV Ceftriaxone",
+"Nebulised Racemic Epinephrine and Dexamethasone",
+"IV Amoxicillin-clavulanate",
+"Nebulised Budesonide alone"
+],
+"answer": 1,
+"explanation": "The clinical presentation with steeple sign on X-ray is classic for viral croup (laryngotracheobronchitis), most commonly caused by Parainfluenza virus. Management includes nebulised racemic epinephrine (for immediate relief of stridor) and systemic/nebulised corticosteroids (dexamethasone reduces severity and duration). Antibiotics are not indicated for viral croup. Budesonide alone is insufficient when epinephrine is indicated.",
+"highYield": "Steeple sign = croup (Parainfluenza virus); treatment = nebulised epinephrine + dexamethasone.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"croup",
+"steeple sign",
+"epinephrine",
+"dexamethasone",
+"pediatrics",
+"pharmacology"
+]
+},
+{
+"subject": "Obstetrics & Gynaecology",
+"topic": "Drug of Choice",
+"difficulty": "medium",
+"stem": "A 30-year-old primigravida at 38 weeks presents with severe pre-eclampsia (BP 160/110 mmHg, proteinuria 2+, headache). She has no history of epilepsy. What is the drug of choice for seizure prophylaxis in this patient?",
+"options": [
+"Phenytoin",
+"Diazepam",
+"Magnesium sulfate",
+"Phenobarbitone"
+],
+"answer": 2,
+"explanation": "Magnesium sulfate (MgSO4) is the drug of choice for seizure prophylaxis in severe pre-eclampsia and for treatment of eclampsia, as per WHO and ACOG guidelines. It acts by blocking NMDA receptors and causing cerebral vasodilation. Phenytoin and diazepam are used in general epilepsy but are inferior to MgSO4 in eclampsia. The Pritchard regimen (4g IV + 10g IM) or modified Zuspan regimen may be used.",
+"highYield": "MgSO4 is the drug of choice for eclampsia prophylaxis and treatment; antidote is calcium gluconate.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"eclampsia",
+"magnesium sulfate",
+"pre-eclampsia",
+"seizure prophylaxis",
+"obstetrics"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Best Next Step",
+"difficulty": "hard",
+"stem": "A 65-year-old male with known COPD (FEV1/FVC < 0.7, FEV1 45% predicted) presents with acute worsening of dyspnea and increased sputum production. ABG shows pH 7.28, PaO2 55 mmHg, PaCO2 62 mmHg on room air. He is alert and cooperative. What is the best next step in management?",
+"options": [
+"Immediate endotracheal intubation",
+"Non-invasive positive pressure ventilation (NIV)",
+"High-flow oxygen via non-rebreather mask at 15 L/min",
+"IV Aminophylline infusion"
+],
+"answer": 1,
+"explanation": "This patient has hypercapnic respiratory failure with acidosis (pH 7.28) - a classic indication for NIV (BiPAP) in COPD exacerbation. NIV reduces the need for intubation, ICU stay, and mortality in AECOPD. High-flow O2 at 15 L/min is dangerous in COPD as it can worsen hypercapnia (Haldane effect, loss of hypoxic drive). Intubation is reserved for NIV failure. Aminophylline has limited role in acute exacerbation.",
+"highYield": "NIV (BiPAP) is first-line for AECOPD with hypercapnic respiratory failure (pH 7.25-7.35); avoid high-flow O2.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"COPD",
+"NIV",
+"BiPAP",
+"hypercapnic respiratory failure",
+"best next step"
+]
+},
+{
+"subject": "Surgery",
+"topic": "Best Next Step",
+"difficulty": "medium",
+"stem": "A 45-year-old female presents with right upper quadrant pain, fever (38.8\u00b0C), and jaundice. USG abdomen shows common bile duct dilation (12 mm) with multiple gallstones in the CBD. Her vitals are now stable after IV fluids and antibiotics. What is the best next step?",
+"options": [
+"Emergency cholecystectomy",
+"ERCP with stone extraction",
+"Percutaneous transhepatic cholangiography (PTC)",
+"Conservative management and repeat USG after 6 weeks"
+],
+"answer": 1,
+"explanation": "This patient has Charcot's triad (pain, fever, jaundice) indicating ascending cholangitis due to choledocholithiasis. Once stabilized, ERCP with sphincterotomy and stone extraction is the best next step as it relieves biliary obstruction endoscopically with low morbidity. Emergency cholecystectomy does not address CBD stones and is high-risk. PTC is reserved for failed ERCP. Conservative management alone is inadequate.",
+"highYield": "Charcot's triad (pain, fever, jaundice) = ascending cholangitis; best next step = ERCP after stabilization.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"cholangitis",
+"Charcot triad",
+"ERCP",
+"CBD stones",
+"surgery"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Best Next Step",
+"difficulty": "medium",
+"stem": "A 25-year-old male presents with palpitations, weight loss, heat intolerance, and tremors for 3 months. On examination, lid lag, exophthalmos, and a diffusely enlarged thyroid are noted. TSH is 0.01 mIU/L and Free T4 is markedly elevated. What is the best next investigation to confirm the diagnosis?",
+"options": [
+"CT orbit",
+"TSH receptor antibodies (TRAb)",
+"Radioactive iodine uptake scan",
+"Fine needle aspiration cytology of thyroid"
+],
+"answer": 1,
+"explanation": "The clinical picture is consistent with Graves' disease (autoimmune hyperthyroidism with ophthalmopathy). TSH receptor antibodies (TRAb/TSHR-Ab) are the most specific confirmatory test for Graves' disease, present in >95% of cases. RAIU scan shows diffusely increased uptake but is not needed when TRAb is positive. CT orbit is for orbital decompression planning, not diagnosis. FNAC is for nodular disease.",
+"highYield": "TSH receptor antibodies (TRAb) are the most specific marker for Graves' disease.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"Graves disease",
+"TRAb",
+"hyperthyroidism",
+"best investigation",
+"medicine"
+]
+},
+{
+"subject": "Obstetrics & Gynaecology",
+"topic": "Best Next Step",
+"difficulty": "hard",
+"stem": "A 32-year-old G2P1 at 34 weeks gestation presents with sudden painless vaginal bleeding (soaking 2 pads in 1 hour). Her previous delivery was by cesarean section. Vitals: BP 100/70 mmHg, HR 110 bpm. USG shows placenta previa (central). What is the best next step?",
+"options": [
+"Digital vaginal examination to assess cervix",
+"Emergency cesarean section",
+"IV fluids + oxytocin infusion",
+"IV fluids, blood transfusion, corticosteroids for fetal lung maturity, close monitoring"
+],
+"answer": 3,
+"explanation": "This patient has hemodynamically significant antepartum hemorrhage due to placenta previa at 34 weeks. Since fetal viability is at stake and she is not in extremis, immediate resuscitation (IV fluids, blood transfusion), corticosteroids for fetal lung maturity (betamethasone), and close monitoring to assess whether delivery is needed are the best next steps. Digital vaginal examination is absolutely contraindicated in placenta previa. Emergency CS is indicated if bleeding is uncontrolled or mother/fetus is compromised.",
+"highYield": "Placenta previa: NEVER do digital vaginal exam; give steroids at 34 weeks; emergency CS if unstable.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"placenta previa",
+"antepartum hemorrhage",
+"corticosteroids",
+"obstetrics",
+"best next step"
+]
+},
+{
+"subject": "Pediatrics",
+"topic": "Best Next Step",
+"difficulty": "medium",
+"stem": "A 6-month-old infant is brought with fever for 5 days, bilateral non-purulent conjunctival injection, cracked red lips, strawberry tongue, polymorphous rash over the trunk, and cervical lymphadenopathy (>1.5 cm). Echo shows coronary artery Z-score of 2.8. What is the best next step?",
+"options": [
+"IV antibiotics for sepsis",
+"IVIG 2 g/kg single dose + Aspirin",
+"Oral prednisolone",
+"Observation and repeat echo in 2 weeks"
+],
+"answer": 1,
+"explanation": "This child meets all 5 criteria for Kawasaki disease (fever >5 days + bilateral conjunctival injection + lip/oral changes + rash + cervical lymphadenopathy). The coronary artery Z-score >2.5 indicates early aneurysm formation. IVIG 2 g/kg as a single infusion along with high-dose aspirin (80-100 mg/kg/day in acute phase) is the treatment of choice and reduces coronary artery aneurysm risk from 25% to <5%. Steroids are added in IVIG-resistant cases.",
+"highYield": "Kawasaki disease: IVIG 2 g/kg single dose + aspirin; reduces coronary aneurysm risk from 25% to <5%.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"Kawasaki disease",
+"IVIG",
+"coronary aneurysm",
+"pediatrics",
+"best next step"
+]
+},
+{
+"subject": "Pharmacology",
+"topic": "NOT true / EXCEPT",
+"difficulty": "hard",
+"stem": "Regarding the mechanism of action and pharmacokinetics of Heparin, which of the following is NOT true?",
+"options": [
+"It acts by activating antithrombin III",
+"It can cross the placenta and cause fetal bleeding",
+"It does not cross the blood-brain barrier",
+"Protamine sulfate reverses its action"
+],
+"answer": 1,
+"explanation": "Heparin does NOT cross the placenta due to its large molecular weight (high molecular weight heparin) and negative charge. This makes it the anticoagulant of choice in pregnancy. It acts by potentiating antithrombin III (inhibiting thrombin and factor Xa). It does not cross the blood-brain barrier. Protamine sulfate (1 mg per 100 units heparin) reverses its action. Hence, statement B is NOT true.",
+"highYield": "Heparin does NOT cross the placenta (drug of choice in pregnancy); Warfarin crosses placenta and is teratogenic.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"heparin",
+"pharmacology",
+"NOT true",
+"placenta",
+"antithrombin III"
+]
+},
+{
+"subject": "Physiology",
+"topic": "NOT true / EXCEPT",
+"difficulty": "medium",
+"stem": "All of the following are true regarding the diving reflex (mammalian diving response) EXCEPT:",
+"options": [
+"Bradycardia is the most prominent feature",
+"Peripheral vasoconstriction occurs to conserve oxygen",
+"Splenic contraction releases stored RBCs",
+"Cerebral and cardiac blood flow is decreased to conserve oxygen"
+],
+"answer": 3,
+"explanation": "During the diving reflex, selective vasoconstriction occurs in peripheral organs (limbs, splanchnic) while blood flow is preferentially maintained to vital organs - the BRAIN and HEART. This is the key survival mechanism. Bradycardia is the most prominent feature (vagally mediated). Peripheral vasoconstriction is correct. Splenic contraction does release stored RBCs increasing oxygen-carrying capacity. Hence D is NOT true - cerebral and cardiac flow is PRESERVED, not decreased.",
+"highYield": "Diving reflex: bradycardia + peripheral vasoconstriction + blood redistributed TO brain and heart (not away from).",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"diving reflex",
+"physiology",
+"EXCEPT",
+"blood flow redistribution",
+"bradycardia"
+]
+},
+{
+"subject": "Biochemistry",
+"topic": "NOT true / EXCEPT",
+"difficulty": "hard",
+"stem": "Regarding Gaucher's disease (Type 1), all of the following are true EXCEPT:",
+"options": [
+"It is caused by deficiency of glucocerebrosidase (beta-glucosidase)",
+"Gaucher cells show 'wrinkled tissue paper' appearance on PAS stain",
+"It is the most common lysosomal storage disorder",
+"It characteristically involves the central nervous system in Type 1"
+],
+"answer": 3,
+"explanation": "Type 1 Gaucher's disease is the NON-neuronopathic form - CNS involvement is absent in Type 1. CNS involvement occurs in Type 2 (acute neuronopathic) and Type 3 (chronic neuronopathic). Type 1 is the most common lysosomal storage disorder overall. It is caused by glucocerebrosidase deficiency leading to glucocerebroside accumulation. Gaucher cells show characteristic 'crumpled tissue paper' or 'wrinkled tissue paper' appearance on PAS stain. Hence D is NOT true.",
+"highYield": "Gaucher Type 1 = NO CNS involvement; most common lysosomal storage disorder; enzyme deficiency = glucocerebrosidase.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"Gaucher disease",
+"lysosomal storage",
+"biochemistry",
+"EXCEPT",
+"glucocerebrosidase"
+]
+},
+{
+"subject": "Physiology",
+"topic": "NOT true / EXCEPT",
+"difficulty": "medium",
+"stem": "Regarding the juxtaglomerular apparatus (JGA), which of the following is NOT correct?",
+"options": [
+"Macula densa cells are located in the thick ascending limb of loop of Henle",
+"JG cells are modified smooth muscle cells that secrete renin",
+"Lacis cells (extraglomerular mesangial cells) are located between afferent arteriole, efferent arteriole, and macula densa",
+"Increased sodium delivery to macula densa stimulates renin secretion"
+],
+"answer": 3,
+"explanation": "Increased sodium (NaCl) delivery to the macula densa INHIBITS renin secretion (negative feedback). Renin is secreted when NaCl delivery to macula densa DECREASES (as occurs in hypovolemia/low BP). Macula densa cells are indeed in the thick ascending limb (early distal tubule at the juxtaglomerular area). JG cells are modified smooth muscle cells of afferent arteriole. Lacis cells (Goormaghtigh cells) are correctly located in the angle between afferent and efferent arterioles and macula densa.",
+"highYield": "Macula densa: increased NaCl delivery INHIBITS renin; decreased NaCl delivery STIMULATES renin secretion.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"JGA",
+"macula densa",
+"renin",
+"physiology",
+"NOT true"
+]
+},
+{
+"subject": "Pharmacology",
+"topic": "NOT true / EXCEPT",
+"difficulty": "hard",
+"stem": "All of the following statements about Warfarin are true EXCEPT:",
+"options": [
+"It inhibits Vitamin K epoxide reductase (VKORC1)",
+"Its anticoagulant effect can be monitored by INR (PT ratio)",
+"It can be safely used in the first trimester of pregnancy",
+"Vitamin K1 (phytonadione) reverses its action"
+],
+"answer": 2,
+"explanation": "Warfarin is absolutely contraindicated in the FIRST trimester of pregnancy (6-12 weeks) as it crosses the placenta and causes Warfarin embryopathy (nasal hypoplasia, stippled epiphyses, optic atrophy). It is also avoided near term. LMWH is used instead. Warfarin inhibits VKORC1 (Vitamin K epoxide reductase). INR (PT-based) is the correct monitoring parameter. Vitamin K1 reverses its action (takes 12-24 hours; FFP for immediate reversal).",
+"highYield": "Warfarin is CONTRAINDICATED in 1st trimester (embryopathy: nasal hypoplasia, stippled epiphyses); use LMWH in pregnancy.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"warfarin",
+"pregnancy",
+"VKORC1",
+"pharmacology",
+"EXCEPT"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Recent guideline updates",
+"difficulty": "hard",
+"stem": "A 14-year-old boy presents with fever (40\u00b0C), severe headache, retro-orbital pain, myalgia, and a maculopapular rash appearing on day 3. Platelet count is 65,000/\u00b5L, NS1 antigen positive. No warning signs are present. BP is 100/70 mmHg. As per the revised WHO 2009 dengue classification, this patient should be categorized as:",
+"options": [
+"Dengue without warning signs",
+"Dengue with warning signs",
+"Severe dengue",
+"Dengue hemorrhagic fever Grade II"
+],
+"answer": 0,
+"explanation": "Per WHO 2009 classification (which replaced the 1997 DHF classification), dengue is classified as: (1) Dengue without warning signs, (2) Dengue with warning signs (abdominal pain, persistent vomiting, fluid accumulation, mucosal bleeding, lethargy, liver >2cm, rising HCT with rapid platelet fall), and (3) Severe dengue (severe plasma leakage, severe bleeding, severe organ impairment). This patient has dengue features with thrombocytopenia but NO warning signs, hence Category 1. DHF grading is obsolete per 2009 WHO guidelines.",
+"highYield": "WHO 2009 dengue classification replaced 1997 DHF grading: 3 categories - without warning signs / with warning signs / severe dengue.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"dengue",
+"WHO 2009 classification",
+"warning signs",
+"guideline update",
+"medicine"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Recent guideline updates",
+"difficulty": "hard",
+"stem": "A 55-year-old patient with systemic lupus erythematosus (SLE) has joint pain, oral ulcers, photosensitivity, and lymphopenia (800/\u00b5L). Which classification criteria is currently recommended to diagnose SLE, and what is the minimum score required?",
+"options": [
+"ACR 1982 criteria: 4 out of 11 criteria",
+"SLICC 2012 criteria: 4 out of 17 criteria including 1 clinical and 1 immunological",
+"EULAR/ACR 2019 criteria: score \u226510 with ANA as entry criterion",
+"Modified ACR 1997 criteria: 4 out of 11 with updated renal criteria"
+],
+"answer": 2,
+"explanation": "The current gold standard for SLE classification is the EULAR/ACR 2019 criteria. It requires ANA positivity (HEp-2 cells, titer \u22651:80) as an entry criterion, followed by weighted scoring across 7 clinical domains and 3 immunological domains. A total score \u226510 classifies as SLE. This replaced SLICC 2012 and ACR 1982/1997 criteria. The 2019 criteria have better sensitivity and specificity than the older criteria.",
+"highYield": "EULAR/ACR 2019 SLE criteria: ANA as mandatory entry criterion + weighted score \u226510; replaced SLICC 2012.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"SLE",
+"EULAR ACR 2019",
+"SLICC",
+"classification criteria",
+"guideline update"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Recent guideline updates",
+"difficulty": "medium",
+"stem": "A 62-year-old male with hypertension, diabetes, and atrial fibrillation (non-valvular) has a CHA2DS2-VASc score of 3. As per the latest ESC 2020 guidelines on atrial fibrillation, what is the recommended antithrombotic therapy?",
+"options": [
+"Aspirin 75 mg/day",
+"Warfarin with target INR 2-3",
+"Direct oral anticoagulant (DOAC) e.g., Rivaroxaban or Apixaban",
+"No antithrombotic therapy as DOACs are only for score \u22654"
+],
+"answer": 2,
+"explanation": "Per ESC 2020 AF guidelines, DOACs (apixaban, rivaroxaban, dabigatran, edoxaban) are the PREFERRED anticoagulants over VKAs (warfarin) for non-valvular AF in patients with CHA2DS2-VASc \u22652 in males and \u22653 in females. Aspirin alone is NOT recommended for stroke prevention in AF. DOACs have similar or superior efficacy to warfarin with lower bleeding risk. Anticoagulation should be offered when CHA2DS2-VASc \u22652 in men and \u22653 in women.",
+"highYield": "ESC 2020: DOACs preferred over warfarin for non-valvular AF; anticoagulate when CHA2DS2-VASc \u22652 (men) or \u22653 (women).",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"atrial fibrillation",
+"DOAC",
+"CHA2DS2VASc",
+"ESC 2020",
+"guideline update"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Recent guideline updates",
+"difficulty": "hard",
+"stem": "A 48-year-old male with chronic kidney disease is found to have eGFR of 28 mL/min/1.73m2 with urine albumin-to-creatinine ratio (UACR) of 320 mg/g for more than 3 months. As per KDIGO 2024 CKD classification, what is the correct staging of this patient's CKD?",
+"options": [
+"CKD Stage G3a A2",
+"CKD Stage G4 A3",
+"CKD Stage G3b A3",
+"CKD Stage G4 A2"
+],
+"answer": 2,
+"explanation": "KDIGO 2024 CKD classification uses GFR categories (G1-G5) and Albuminuria categories (A1-A3). eGFR 28 mL/min = G3b (eGFR 29-15 range; G3b = 15-29 mL/min). Wait - eGFR 28 falls in G3b (15-29). UACR 320 mg/g = A3 (>300 mg/g = severely increased albuminuria). Hence G3b A3. Note: G1 \u226590, G2 60-89, G3a 45-59, G3b 30-44, G4 15-29, G5 <15. eGFR 28 = G4 (15-29 mL/min). UACR 320 = A3. Correct answer is G4 A3.",
+"highYield": "KDIGO CKD staging: G4 = eGFR 15-29; A3 = UACR >300 mg/g; combined staging guides prognosis and management.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"CKD",
+"KDIGO 2024",
+"GFR staging",
+"albuminuria",
+"guideline update"
+]
+},
+{
+"subject": "Social and Preventive Medicine",
+"topic": "Recent guideline updates",
+"difficulty": "medium",
+"stem": "As per the revised National Tuberculosis Elimination Program (NTEP) guidelines 2022, which of the following statements about treatment of drug-sensitive pulmonary TB is CORRECT?",
+"options": [
+"Category I regimen: 2HRZE/4HRE",
+"Treatment is given as thrice-weekly directly observed therapy (DOT)",
+"Daily treatment regimen (2HRZE/4HR) under Ni-kshay app-based monitoring is now recommended",
+"Category II retreatment includes adding Kanamycin for 3 months"
+],
+"answer": 2,
+"explanation": "NTEP 2022 updated guidelines mandate DAILY (not thrice-weekly) fixed-dose combination treatment for all new and retreatment TB cases under Ni-kshay digital monitoring. The regimen is 2HRZE/4HR (Intensive phase 2 months HRZE + Continuation phase 4 months HR). Thrice-weekly DOT was the old approach, now abandoned for daily treatment. Category II regimen with Kanamycin (injectable) is no longer recommended; replaced by shorter BPaL regimen for MDR-TB.",
+"highYield": "NTEP 2022: DAILY fixed-dose combination therapy (2HRZE/4HR) replaced thrice-weekly DOT for all drug-sensitive TB.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"tuberculosis",
+"NTEP 2022",
+"daily DOT",
+"treatment guideline",
+"SPM"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Image-described diagnosis",
+"difficulty": "medium",
+"stem": "A 55-year-old male smoker presents with progressive dyspnea and non-productive cough. Chest X-ray shows bilateral hilar enlargement with 'eggshell calcification' of hilar lymph nodes and small bilateral upper lobe reticulonodular opacities. He works in a granite quarry. What is the most likely diagnosis?",
+"options": [
+"Sarcoidosis",
+"Silicosis",
+"Coal worker's pneumoconiosis",
+"Pulmonary tuberculosis with hilar adenopathy"
+],
+"answer": 1,
+"explanation": "Eggshell calcification of hilar lymph nodes is pathognomonic of silicosis (and occasionally sarcoidosis, but combined with quarry worker history and upper lobe predominant nodules, silicosis is the diagnosis). Silicosis occurs due to inhalation of free crystalline silica (SiO2). Chest X-ray shows upper lobe predominant small round nodules and hilar lymph node calcification with 'eggshell' pattern. It predisposes to tuberculosis (silicotuberculosis). Coal worker's pneumo shows lower lobe opacities without eggshell calcification.",
+"highYield": "Eggshell calcification of hilar lymph nodes = pathognomonic of SILICOSIS; occupational history in quarry/mining workers.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"silicosis",
+"eggshell calcification",
+"hilar nodes",
+"chest X-ray",
+"radiology"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Image-described diagnosis",
+"difficulty": "hard",
+"stem": "Microscopy of a thyroid mass shows follicular structures of varying sizes lined by cells with enlarged nuclei showing fine powdery 'Orphan Annie eye' chromatin, nuclear grooves, and intranuclear cytoplasmic inclusions. Psammoma bodies are also seen. What is the diagnosis?",
+"options": [
+"Follicular carcinoma thyroid",
+"Medullary carcinoma thyroid",
+"Papillary carcinoma thyroid",
+"Hurthle cell carcinoma"
+],
+"answer": 2,
+"explanation": "The nuclear features described - Orphan Annie eye nuclei (ground glass/empty-appearing nuclei), nuclear grooves, and intranuclear cytoplasmic pseudoinclusions - are pathognomonic of Papillary Thyroid Carcinoma (PTC), the most common thyroid malignancy. Psammoma bodies (laminated calcifications) are also characteristic. Follicular carcinoma shows capsular/vascular invasion without these nuclear features. Medullary carcinoma shows amyloid stroma (Congo red positive) and C-cell origin.",
+"highYield": "Papillary thyroid carcinoma: Orphan Annie eye nuclei + nuclear grooves + intranuclear inclusions + psammoma bodies.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"papillary thyroid carcinoma",
+"Orphan Annie eye",
+"psammoma bodies",
+"pathology",
+"histology"
+]
+},
+{
+"subject": "Anatomy",
+"topic": "Image-described nerve lesion",
+"difficulty": "medium",
+"stem": "A 35-year-old male is brought to the ER after a road traffic accident. On examination, he cannot extend his wrist (wrist drop), cannot extend the MCP joints of fingers, and cannot extend the thumb. Sensation over the dorsal aspect of the first web space is lost. However, triceps reflex is intact and elbow extension is normal. Where is the most likely site of nerve injury?",
+"options": [
+"Posterior cord of brachial plexus",
+"Radial nerve in the axilla",
+"Radial nerve in the radial groove (spiral groove) of humerus",
+"Posterior interosseous nerve (PIN)"
+],
+"answer": 2,
+"explanation": "Wrist drop + loss of finger and thumb extension + sensory loss over first dorsal web space with INTACT triceps (elbow extension preserved) indicates radial nerve injury at the spiral groove (mid-humerus level). At this level, the branch to triceps has already been given off. In axillary radial nerve injury, triceps is also paralyzed. PIN injury (below elbow) causes finger drop without wrist drop (extensor carpi radialis is spared). Posterior cord injury affects multiple nerves.",
+"highYield": "Wrist drop + intact triceps = radial nerve injury at spiral groove of humerus; axillary injury = triceps also weak.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"radial nerve",
+"wrist drop",
+"spiral groove",
+"nerve lesion",
+"anatomy"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Image-described diagnosis",
+"difficulty": "hard",
+"stem": "Fundus examination of a 60-year-old hypertensive male shows flame-shaped hemorrhages, cotton wool spots, AV nicking, copper wiring of arterioles, and disc edema with blurring of margins. His BP is 210/130 mmHg. What grade of hypertensive retinopathy is this according to Keith-Wagener-Barker (KWB) classification?",
+"options": [
+"Grade I",
+"Grade II",
+"Grade III",
+"Grade IV"
+],
+"answer": 3,
+"explanation": "Keith-Wagener-Barker (KWB) classification: Grade I = mild arteriolar narrowing; Grade II = AV nicking + copper/silver wiring; Grade III = flame hemorrhages + cotton wool spots + hard exudates (retinal changes without disc changes); Grade IV = Grade III features + PAPILLEDEMA (disc edema). This patient has all Grade III features PLUS disc edema/blurred margins = Grade IV hypertensive retinopathy, indicating hypertensive encephalopathy/malignant hypertension.",
+"highYield": "KWB Grade IV = Grade III features + papilledema; indicates malignant/accelerated hypertension with encephalopathy.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"hypertensive retinopathy",
+"KWB classification",
+"papilledema",
+"ophthalmology",
+"fundus"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Image-described diagnosis",
+"difficulty": "medium",
+"stem": "A 45-year-old male with no prior cardiac history presents with sudden onset crushing chest pain radiating to the left arm for 2 hours. ECG shows ST elevation in leads II, III, and aVF with reciprocal ST depression in leads I, aVL, V1-V3. Which artery is most likely occluded?",
+"options": [
+"Left anterior descending artery",
+"Left circumflex artery",
+"Right coronary artery",
+"Left main coronary artery"
+],
+"answer": 2,
+"explanation": "ST elevation in inferior leads (II, III, aVF) indicates inferior wall STEMI. The inferior wall is supplied predominantly by the Right Coronary Artery (RCA) in 85% of right-dominant individuals. Reciprocal changes in leads I, aVL (lateral) and anterior leads (V1-V3) further support RCA occlusion. LAD supplies anterior wall (V1-V4 ST elevation). LCx supplies lateral wall (I, aVL, V5-V6). Left main occlusion is catastrophic with widespread changes.",
+"highYield": "Inferior STEMI (ST elevation in II, III, aVF) = Right Coronary Artery (RCA) occlusion in 85% cases.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"inferior STEMI",
+"RCA occlusion",
+"ECG",
+"cardiology",
+"medicine"
+]
+},
+{
+"subject": "Obstetrics & Gynaecology",
+"topic": "Bishop Score",
+"difficulty": "medium",
+"stem": "A 38-week primigravida is assessed for induction of labor. Per vaginal examination reveals: cervical dilation 2 cm, effacement 60%, consistency soft, position central, and presenting part at -1 station. What is her Bishop score and what does it indicate?",
+"options": [
+"Bishop score 4 \u2014 cervix unfavorable, induction likely to fail",
+"Bishop score 7 \u2014 cervix favorable, induction likely to succeed",
+"Bishop score 9 \u2014 cervix very favorable, spontaneous labor imminent",
+"Bishop score 5 \u2014 cervix borderline, cervical ripening needed before induction"
+],
+"answer": 1,
+"explanation": "Bishop score components: Dilation 2cm = 1, Effacement 60% = 2, Consistency soft = 2, Position central = 1, Station -1 = 1. Total = 7. Bishop score \u22658 (some say \u22656) indicates favorable cervix with high likelihood of successful induction. Score \u22658 = spontaneous labor likely and induction likely to succeed. Score <6 = unfavorable, cervical ripening with prostaglandins or Foley catheter recommended. Score 7 is borderline favorable.",
+"highYield": "Bishop score \u22658 = favorable cervix; components = Dilation + Effacement + Consistency + Position + Station.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"Bishop score",
+"induction of labor",
+"cervical assessment",
+"obstetrics",
+"primigravida"
+]
+},
+{
+"subject": "Obstetrics & Gynaecology",
+"topic": "APGAR Score",
+"difficulty": "easy",
+"stem": "A neonate is delivered at term. At 1 minute, assessment shows: heart rate 90 bpm, weak cry with good respiratory effort, active movement of limbs, grimace on stimulation, and blue extremities with pink trunk. What is the APGAR score and appropriate management?",
+"options": [
+"APGAR 5 \u2014 immediate intubation required",
+"APGAR 7 \u2014 no intervention needed, reassess at 5 minutes",
+"APGAR 6 \u2014 supplemental oxygen via face mask and stimulation",
+"APGAR 8 \u2014 routine newborn care only"
+],
+"answer": 2,
+"explanation": "APGAR scoring at 1 minute: Heart rate 90 (<100 bpm) = 1; Respiratory effort (good) = 2; Muscle tone (active) = 2; Reflex (grimace) = 1; Color (peripheral cyanosis, trunk pink = acrocyanosis) = 1. Total = 7. Wait - Heart rate 90 <100 = score 1. So: 1+2+2+1+1 = 7. APGAR 7-10 = normal, reassess at 5 minutes and provide warmth. APGAR 4-6 = moderate depression, supplemental O2 + stimulation. APGAR <4 = severe, requires immediate resuscitation. Score 6 requires O2 + stimulation.",
+"highYield": "APGAR: 0-3 severe, 4-6 moderate (O2 + stimulation), 7-10 normal; assessed at 1 and 5 minutes.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"APGAR score",
+"neonatal resuscitation",
+"obstetrics",
+"newborn assessment",
+"acrocyanosis"
+]
+},
+{
+"subject": "Obstetrics & Gynaecology",
+"topic": "Partograph and labor management",
+"difficulty": "hard",
+"stem": "A multigravida is in active labor. She was 4 cm dilated at 8:00 AM. At 12:00 PM (4 hours later), she is 6 cm dilated. Membranes are intact. Fetal heart rate is normal. As per the WHO partograph, the cervical progress is plotted on the alert line. What is the significance and the next step?",
+"options": [
+"Progress is normal; continue routine monitoring",
+"Progress has crossed the action line; immediate cesarean section",
+"Progress is on the alert line; transfer to higher facility / increase monitoring and reassess in 2 hours",
+"Progress is on the alert line; immediate ARM (artificial rupture of membranes) and oxytocin augmentation"
+],
+"answer": 2,
+"explanation": "WHO partograph has an Alert line (represents rate of 1 cm/hour cervical dilation from 4 cm) and an Action line (4 hours to the right of alert line). Expected cervical progress at 1 cm/hour from 4 cm: at 4 hours = 8 cm. Patient achieved only 6 cm in 4 hours, placing her ON the alert line. Alert line crossing = transfer to higher center, increased monitoring, reassess. Action line crossing (4 hours later with inadequate progress) = active intervention (augmentation or cesarean).",
+"highYield": "Partograph: alert line = 1 cm/hour progress; action line = 4 hours to the right; crossing action line requires intervention.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"partograph",
+"alert line",
+"action line",
+"labor management",
+"obstetrics"
+]
+},
+{
+"subject": "Obstetrics & Gynaecology",
+"topic": "Shoulder Dystocia",
+"difficulty": "medium",
+"stem": "During vaginal delivery of a macrosomic baby (estimated fetal weight 4.2 kg), after delivery of the head, the anterior shoulder fails to deliver with gentle downward traction. 'Turtle sign' is noted. What is the FIRST maneuver to be performed?",
+"options": [
+"Zavanelli maneuver (cephalic replacement)",
+"Rubin II maneuver (posterior displacement of anterior shoulder)",
+"McRoberts maneuver with suprapubic pressure",
+"Delivery of posterior arm"
+],
+"answer": 2,
+"explanation": "Shoulder dystocia is an obstetric emergency. The FIRST and most effective maneuver is McRoberts maneuver (hyperflexion of maternal thighs onto the abdomen) combined with suprapubic pressure (not fundal). This flattens the lumbar lordosis, rotates the pubic symphysis superiorly, and frees the impacted anterior shoulder. Success rate ~50% with McRoberts alone. If unsuccessful, proceed to: Rubin II/Woods screw, delivery of posterior arm, all-fours position. Zavanelli is the last resort.",
+"highYield": "Shoulder dystocia: FIRST maneuver = McRoberts + suprapubic pressure; NEVER apply fundal pressure.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"shoulder dystocia",
+"McRoberts maneuver",
+"turtle sign",
+"obstetric emergency",
+"obstetrics"
+]
+},
+{
+"subject": "Obstetrics & Gynaecology",
+"topic": "Delivery mechanism",
+"difficulty": "medium",
+"stem": "During the second stage of labor, which maneuver involves the delivery of the fetal head by placing a draped hand beneath the perineum to maintain flexion of the fetal head as it passes through the introitus, while the other hand applies pressure over the occiput to control the rate of delivery?",
+"options": [
+"Kristeller maneuver",
+"Ritgen maneuver",
+"McRobert's maneuver",
+"Prague maneuver"
+],
+"answer": 1,
+"explanation": "The Ritgen maneuver (modified Ritgen) involves placing a towel-covered hand under the perineum, applying upward pressure on the fetal chin through the perineum to extend the head, while the other hand on the occiput controls delivery speed and maintains deflexion. This maneuver protects the perineum and allows controlled delivery of the head. The modified Ritgen is performed between contractions. Kristeller = fundal pressure (not recommended). Prague = for delivery of after-coming head in breech.",
+"highYield": "Ritgen maneuver: hand under perineum applies pressure on fetal chin to control head delivery; protects perineum.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"Ritgen maneuver",
+"delivery mechanism",
+"second stage labor",
+"perineal protection",
+"obstetrics"
+]
+},
+{
+"subject": "Pediatrics",
+"topic": "Vaccine schedule",
+"difficulty": "easy",
+"stem": "A 9-month-old child is brought for routine immunization. As per the National Immunization Schedule (NIS) of India 2023, which vaccines are due at this visit?",
+"options": [
+"OPV, DPT, Hepatitis B, Hib",
+"MMR, Vitamin A (1st dose), JE (1st dose)",
+"MMR, OPV booster, Hepatitis A",
+"JE vaccine only (in endemic areas)"
+],
+"answer": 1,
+"explanation": "As per India NIS 2023, at 9 months: MMR (Measles-Mumps-Rubella) 1st dose, Vitamin A 1st dose (1 lakh IU), and JE 1st dose (in JE-endemic districts). OPV+DPT+HepB+Hib are given at 6, 10, and 14 weeks. The 9-month visit is a key milestone for MMR and Vitamin A supplementation. Second MMR dose is given at 15-18 months. JE schedule: 1st dose at 9 months, 2nd at 16-24 months in endemic areas.",
+"highYield": "NIS 2023 at 9 months: MMR (1st dose) + Vitamin A (1st dose, 1 lakh IU) + JE 1st dose (endemic areas).",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"vaccine schedule",
+"MMR",
+"Vitamin A",
+"NIS 2023",
+"pediatrics"
+]
+},
+{
+"subject": "Pediatrics",
+"topic": "Developmental milestones",
+"difficulty": "easy",
+"stem": "A mother brings her 10-month-old infant for a developmental checkup. Which of the following developmental milestones is EXPECTED to be present at this age?",
+"options": [
+"Walks independently without support",
+"Builds a tower of 3 cubes",
+"Pincer grasp (thumb-index finger opposition)",
+"Speaks 2-3 word sentences"
+],
+"answer": 2,
+"explanation": "Pincer grasp (tip of thumb to tip of index finger) is a fine motor milestone typically achieved at 9-10 months. Walking independently is achieved at 12-15 months. Building a tower of 3 cubes is an 18-month milestone. Two-three word sentences are expected at 24 months. Other 9-10 month milestones include: pulling to stand, cruising along furniture, 'mama/dada' with meaning, separation anxiety, stranger anxiety.",
+"highYield": "Pincer grasp = 9-10 months; palmar grasp = 4-5 months; walks alone = 12-15 months.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"developmental milestones",
+"pincer grasp",
+"pediatrics",
+"fine motor",
+"9 months"
+]
+},
+{
+"subject": "Pediatrics",
+"topic": "IMCI danger signs",
+"difficulty": "medium",
+"stem": "A 2-year-old child is brought with fever for 4 days and cough. On examination, the child is lethargic, unable to drink, has fast breathing (56 breaths/min), and lower chest indrawing. As per IMCI (Integrated Management of Childhood Illness) guidelines, this child should be classified as:",
+"options": [
+"Pneumonia \u2014 give oral amoxicillin and follow-up in 2 days",
+"Severe pneumonia \u2014 give first dose of appropriate antibiotic and refer urgently",
+"Cough or cold \u2014 reassure and follow-up if not improving",
+"Very severe disease \u2014 admit, IV antibiotics, oxygen"
+],
+"answer": 1,
+"explanation": "IMCI classifies respiratory illness based on: Fast breathing alone (without danger signs) = Pneumonia (outpatient amoxicillin). Fast breathing + lower chest indrawing = Severe pneumonia (give antibiotics, refer urgently). General danger signs (unable to drink/breastfeed, persistent vomiting, convulsions, lethargic/unconscious, stridor, severe malnutrition) = Very severe disease. This child has fast breathing + lower chest indrawing = Severe pneumonia requiring urgent referral with first antibiotic dose.",
+"highYield": "IMCI: fast breathing + lower chest indrawing = Severe Pneumonia; give antibiotics and REFER URGENTLY.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"IMCI",
+"severe pneumonia",
+"chest indrawing",
+"pediatrics",
+"danger signs"
+]
+},
+{
+"subject": "Pediatrics",
+"topic": "SAM criteria",
+"difficulty": "medium",
+"stem": "A community health worker screens children aged 6-59 months in a rural village. A 2-year-old child has a mid-upper arm circumference (MUAC) of 10.8 cm, bilateral pitting edema of the feet, and a weight-for-height Z-score (WHZ) of -3.2. How should this child be classified as per WHO/UNICEF SAM criteria?",
+"options": [
+"Moderate Acute Malnutrition (MAM) \u2014 MUAC 11.5-12.5 cm",
+"Severe Acute Malnutrition (SAM) \u2014 MUAC <11.5 cm only",
+"Severe Acute Malnutrition (SAM) with complicated SAM requiring inpatient NRC admission",
+"Well-nourished child, no intervention needed"
+],
+"answer": 2,
+"explanation": "WHO/UNICEF 2013 SAM criteria: MUAC <11.5 cm OR WHZ <-3 OR bilateral pitting edema (kwashiorkor). This child has MUAC 10.8 cm (<11.5 cm) + WHZ -3.2 (<-3) + bilateral edema (kwashiorkor) = SAM. The presence of bilateral pitting edema with SAM = complicated SAM requiring inpatient management at Nutrition Rehabilitation Center (NRC). Uncomplicated SAM (no edema, no medical complications) can be treated with RUTF (Ready-to-Use Therapeutic Food) in community.",
+"highYield": "SAM criteria: MUAC <11.5 cm OR WHZ <-3 OR bilateral pitting edema; edema = complicated SAM needing NRC admission.",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"SAM",
+"MUAC",
+"kwashiorkor",
+"malnutrition",
+"pediatrics",
+"NRC"
+]
+},
+{
+"subject": "Pediatrics",
+"topic": "Vaccine schedule",
+"difficulty": "medium",
+"stem": "A 15-month-old child missed some vaccines. As per India NIS 2023, which combination of vaccines is due at the 15-month visit?",
+"options": [
+"DPT booster 1 + OPV booster 1 + MMR 2nd dose + Vitamin A 2nd dose",
+"MMR only at 15 months",
+"Hepatitis B booster + PCV booster + Hib booster",
+"DPT 3rd dose + OPV 3rd dose + HepB 3rd dose"
+],
+"answer": 0,
+"explanation": "As per India NIS 2023, at 16-18 months: DPT Booster 1, OPV Booster 1, MMR 2nd dose, and Vitamin A 2nd dose (2 lakh IU). This is also when PCV Booster is given in states where PCV is included. The primary series (3 doses each of OPV, DPT, HepB, Hib) is completed by 14 weeks. The 15-16 month visit is critical for boosters and MMR 2nd dose. Vitamin A is continued 6-monthly until 5 years (total 9 doses).",
+"highYield": "NIS at 16-18 months: DPT Booster 1 + OPV Booster 1 + MMR 2nd dose + Vitamin A 2nd dose (2 lakh IU).",
+"pyqNote": "NEET PG 2025 pattern",
+"tags": [
+"NIS 2023",
+"DPT booster",
+"MMR 2nd dose",
+"Vitamin A",
+"pediatrics",
+"vaccine schedule"
+]
+}
+]

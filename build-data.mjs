@@ -113,6 +113,17 @@ const sources = [
   { name: 'ent-ophthal', load: () => loadJson('src/data/raw/ent-ophthal.json') },
   { name: 'derm-psych', load: () => loadJson('src/data/raw/derm-psych.json') },
   { name: 'anaes-radio', load: () => loadJson('src/data/raw/anaes-radio.json') },
+  // 90%-hit-rate gap-fill batches (10 agents × ~37 Qs)
+  { name: 'psm-deep-fill', load: () => loadJson('src/data/raw/psm-deep-fill.json') },
+  { name: 'forensic-deep-fill', load: () => loadJson('src/data/raw/forensic-deep-fill.json') },
+  { name: 'surgery-deep-fill', load: () => loadJson('src/data/raw/surgery-deep-fill.json') },
+  { name: 'anatomy-image-style', load: () => loadJson('src/data/raw/anatomy-image-style.json') },
+  { name: 'ophthal-deep-fill', load: () => loadJson('src/data/raw/ophthal-deep-fill.json') },
+  { name: 'ent-deep-fill', load: () => loadJson('src/data/raw/ent-deep-fill.json') },
+  { name: 'radiology-image-style', load: () => loadJson('src/data/raw/radiology-image-style.json') },
+  { name: 'path-image-style', load: () => loadJson('src/data/raw/path-image-style.json') },
+  { name: 'medicine-gaps', load: () => loadJson('src/data/raw/medicine-gaps.json') },
+  { name: 'neet-2025-style-mimic', load: () => loadJson('src/data/raw/neet-2025-style-mimic.json') },
 ];
 
 const all = [];

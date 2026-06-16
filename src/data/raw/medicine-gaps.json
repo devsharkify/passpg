@@ -1,0 +1,898 @@
+[
+{
+"subject": "Medicine",
+"topic": "Rheumatology - RA Classification",
+"difficulty": "medium",
+"stem": "A 38-year-old woman presents with 8 weeks of symmetric swelling of both wrists and the 2nd and 3rd MCP joints bilaterally. Morning stiffness lasts 90 minutes. ESR is 65 mm/hr, CRP is 18 mg/L. Rheumatoid factor is negative. Anti-CCP antibody is positive at 45 U/mL (normal <20). X-ray shows periarticular osteopenia but no erosions. What is her 2010 ACR/EULAR score and classification status?",
+"options": [
+"Score 6 \u2014 classified as RA (4 small joints = 3 pts, positive anti-CCP high titer = 3 pts, abnormal ESR = 1 pt, duration >6 weeks = 1 pt; total exceeds threshold of 6)",
+"Score 4 \u2014 not classified as RA; requires at least one erosion on X-ray to fulfill criteria",
+"Score 5 \u2014 not classified as RA; negative RF reduces score below threshold despite anti-CCP positivity",
+"Score 8 \u2014 classified as RA; large joint involvement provides additional points under the 2010 criteria"
+],
+"answer": 0,
+"explanation": "The 2010 ACR/EULAR RA criteria score: joint involvement (4 small joints = 3 pts), serology (high-positive anti-CCP \u22653\u00d7 ULN = 3 pts), acute phase reactants (abnormal CRP or ESR = 1 pt), symptom duration \u22656 weeks (1 pt) = total 8 pts. A score \u22656 classifies as definite RA. Erosions are NOT required for classification. Anti-CCP positivity alone carries 2 pts (low positive) or 3 pts (high positive, >3\u00d7 ULN). RF negativity is irrelevant when anti-CCP is positive.",
+"highYield": "2010 ACR/EULAR: score \u22656 = definite RA. High-positive anti-CCP (>3\u00d7 ULN) = 3 points alone. Erosions NOT required.",
+"pyqNote": "RA classification criteria tested frequently; 2010 criteria replaced 1987 criteria \u2014 know the scoring domains.",
+"tags": [
+"rheumatology",
+"RA",
+"ACR/EULAR 2010",
+"anti-CCP",
+"classification criteria"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Rheumatology - Anti-CCP vs RF",
+"difficulty": "easy",
+"stem": "A 45-year-old man is being evaluated for possible rheumatoid arthritis. His physician orders both rheumatoid factor (RF) and anti-cyclic citrullinated peptide (anti-CCP) antibody. Which of the following best describes the comparative diagnostic utility of these two tests?",
+"options": [
+"Anti-CCP has higher specificity (~95%) than RF (~85%) for RA, while RF has modestly higher sensitivity; anti-CCP also predicts erosive disease and appears years before symptoms",
+"RF has higher specificity (~95%) than anti-CCP (~70%) and is the preferred single test for early RA diagnosis",
+"Both tests have equivalent sensitivity and specificity of approximately 70% and 85% respectively and are interchangeable",
+"Anti-CCP is more sensitive but less specific than RF; RF is preferred when confirming established RA rather than screening"
+],
+"answer": 0,
+"explanation": "Anti-CCP antibody has specificity of approximately 95-98% for RA versus RF at approximately 85%. RF sensitivity is slightly higher (~70-80%) compared to anti-CCP (~60-70%). Anti-CCP is particularly valuable because it can precede clinical RA by up to 10 years and is a strong predictor of erosive, destructive disease. RF can be positive in many other conditions (Sjogren's, SBE, chronic liver disease, sarcoidosis) reducing its specificity. Double positivity (RF+ and anti-CCP+) carries the worst prognosis.",
+"highYield": "Anti-CCP: specificity ~95% (higher than RF ~85%). Anti-CCP appears years before RA onset and predicts erosive disease.",
+"pyqNote": "Anti-CCP vs RF comparison is a recurring single-best-answer topic in NEET PG Medicine.",
+"tags": [
+"rheumatology",
+"anti-CCP",
+"rheumatoid factor",
+"specificity",
+"sensitivity",
+"RA diagnosis"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Rheumatology - SLE Classification",
+"difficulty": "medium",
+"stem": "A 24-year-old woman presents with malar rash, photosensitivity, painless oral ulcers, and left-sided pleuritic chest pain. Labs: ANA 1:320 (homogeneous), anti-dsDNA positive, complement C3 and C4 low, urine shows 2+ protein and RBC casts. Platelet count is 88,000/\u00b5L. Using SLICC 2012 criteria, how many criteria does she fulfill and does she meet classification for SLE?",
+"options": [
+"She fulfills 8 SLICC criteria (malar rash, photosensitivity, oral ulcers, pleuritis, nephritis with RBC casts, thrombocytopenia, positive ANA, positive anti-dsDNA) \u2014 meets classification requiring \u22654 criteria (at least 1 clinical + 1 immunological)",
+"She fulfills 6 SLICC criteria but requires biopsy-proven lupus nephritis plus ANA or anti-dsDNA positivity alone to classify as SLE",
+"She fulfills 5 ACR 1997 criteria (malar rash, photosensitivity, serositis, renal disorder, thrombocytopenia) and SLICC 2012 requires the same threshold of 4 criteria from 11 domains",
+"She does not meet SLICC 2012 classification because she lacks anti-Sm antibody, which is required as part of the immunological criteria"
+],
+"answer": 0,
+"explanation": "SLICC 2012 requires \u22654 of 11 criteria (combining clinical and immunological), with at least 1 clinical AND 1 immunological criterion; OR biopsy-proven lupus nephritis with ANA or anti-dsDNA. Clinical criteria include: malar rash, photosensitivity, oral ulcers, non-scarring alopecia, synovitis, serositis (pleuritis), acute cutaneous lupus, chronic cutaneous lupus, renal (proteinuria or RBC casts), neurological, hemolytic anemia, leukopenia, thrombocytopenia. Immunological: ANA, anti-dsDNA, anti-Sm, antiphospholipid Ab, low complement, direct Coombs. This patient fulfills at least 8 criteria. Anti-Sm is not required.",
+"highYield": "SLICC 2012: \u22654 criteria (\u22651 clinical + \u22651 immunological) OR biopsy-proven LN + ANA/anti-dsDNA. SLICC replaced ACR 1997 (which needed 4 of 11).",
+"pyqNote": "SLE classification criteria \u2014 know SLICC 2012 vs ACR 1997 differences; SLICC has 11 clinical + 6 immunological domains.",
+"tags": [
+"rheumatology",
+"SLE",
+"SLICC 2012",
+"ACR 1997",
+"classification criteria",
+"lupus nephritis"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Rheumatology - Antiphospholipid Syndrome",
+"difficulty": "hard",
+"stem": "A 32-year-old woman with SLE has had two episodes of deep vein thrombosis and one unexplained miscarriage at 14 weeks gestation. Labs show: lupus anticoagulant positive on two occasions 12 weeks apart, anti-cardiolipin IgG 85 GPL units (high positive), and anti-beta2 glycoprotein-I IgG strongly positive. She is on hydroxychloroquine. Which of the following best describes her APS status and its clinical significance?",
+"options": [
+"She has triple-positive APS (LA + aCL + anti-\u03b22GPI) \u2014 this carries the highest thrombotic risk and risk of recurrence; long-term anticoagulation with warfarin (target INR 2-3) is indicated",
+"She has double-positive APS (LA + aCL); anti-\u03b22GPI does not contribute to APS classification and its positivity is incidental",
+"She meets laboratory criteria but only one clinical criterion (DVT) is required for APS \u2014 the miscarriage at 14 weeks is not a qualifying obstetric criterion",
+"Triple positivity reduces the pre-test probability of true APS as false positivity increases with the number of positive tests; single confirmatory test suffices for classification"
+],
+"answer": 0,
+"explanation": "APS (Sapporo/revised Miyakis criteria) requires \u22651 clinical criterion (vascular thrombosis OR obstetric morbidity) AND \u22651 lab criterion (LA, aCL IgG/IgM \u226540 GPL/MPL, or anti-\u03b22GPI IgG/IgM \u226599th percentile) on 2 occasions \u226512 weeks apart. Obstetric criteria include \u22651 unexplained fetal loss at \u226510 weeks gestation \u2014 this patient qualifies. Triple positivity (LA + aCL + anti-\u03b22GPI) confers the highest risk of thrombotic recurrence. Standard anticoagulation target is INR 2-3; some guidelines suggest 3-4 for arterial events.",
+"highYield": "Triple positivity (LA + aCL + anti-\u03b22GPI) = highest APS risk. Obstetric APS includes fetal loss \u226510 weeks. Lab criteria must be confirmed \u226512 weeks apart.",
+"pyqNote": "APS classification and triple positivity significance frequently tested; distinguish obstetric vs thrombotic APS.",
+"tags": [
+"rheumatology",
+"antiphospholipid syndrome",
+"APS",
+"triple positivity",
+"lupus anticoagulant",
+"anti-cardiolipin"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Rheumatology - ANCA-Associated Vasculitis",
+"difficulty": "medium",
+"stem": "A 55-year-old man presents with persistent sinusitis for 6 months, saddle-nose deformity, hemoptysis, and hematuria. Chest CT shows cavitating nodules bilaterally. Serology shows c-ANCA positive with anti-PR3 antibody strongly reactive. Renal biopsy reveals pauci-immune crescentic glomerulonephritis. What is the diagnosis and the characteristic ANCA pattern?",
+"options": [
+"Granulomatosis with polyangiitis (GPA, formerly Wegener's) \u2014 PR3-ANCA (c-ANCA pattern) is characteristic; classic triad is upper airway + lung + kidney involvement with necrotizing granulomas",
+"Microscopic polyangiitis (MPA) \u2014 MPO-ANCA (p-ANCA pattern) is characteristic; cavitating pulmonary nodules are the hallmark distinguishing feature from GPA",
+"Eosinophilic granulomatosis with polyangiitis (EGPA, Churg-Strauss) \u2014 PR3-ANCA is seen in 40% of cases; sinusitis, asthma, and eosinophilia form the classic triad",
+"Polyarteritis nodosa (PAN) \u2014 ANCA positivity with PR3 pattern confirms this diagnosis; renal involvement with pauci-immune GN is the typical renal lesion"
+],
+"answer": 0,
+"explanation": "GPA (Wegener's) is associated with PR3-ANCA (c-ANCA pattern) in ~90% of cases. The classic clinical triad is upper airway disease (sinusitis, nasal septum perforation, saddle-nose), lower respiratory tract (pulmonary nodules, often cavitating), and renal involvement (pauci-immune crescentic GN). MPA is associated with MPO-ANCA (p-ANCA) and lacks granulomas/upper airway involvement. EGPA has MPO-ANCA in 40%, requires asthma and eosinophilia. PAN is ANCA-negative and does not cause GN.",
+"highYield": "GPA = PR3-ANCA (c-ANCA). MPA = MPO-ANCA (p-ANCA). EGPA = MPO-ANCA (40%). PAN is ANCA-negative. All three AAV show pauci-immune GN.",
+"pyqNote": "PR3 vs MPO ANCA association with specific vasculitides is high-yield for NEET PG.",
+"tags": [
+"rheumatology",
+"ANCA",
+"GPA",
+"Wegener's",
+"MPA",
+"EGPA",
+"PR3-ANCA",
+"MPO-ANCA",
+"vasculitis"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Nephrology - RPGN Classification",
+"difficulty": "hard",
+"stem": "A 28-year-old man presents with hemoptysis and rapidly worsening renal function. Serum creatinine rose from 1.2 to 4.8 mg/dL over 3 weeks. Urine shows RBC casts and 3+ proteinuria. Anti-GBM antibody is strongly positive. ANCA is negative. Renal biopsy shows crescentic GN with linear IgG deposits along the GBM on immunofluorescence. What is the RPGN type and appropriate treatment?",
+"options": [
+"Type I RPGN (anti-GBM disease / Goodpasture syndrome) \u2014 linear IgG on IF is pathognomonic; treatment is plasma exchange + cyclophosphamide + corticosteroids to remove circulating anti-GBM antibodies",
+"Type II RPGN (immune complex) \u2014 granular IgG deposition confirms immune complex\u2013mediated disease; treatment is corticosteroids alone",
+"Type III RPGN (pauci-immune) \u2014 anti-GBM positivity is a non-specific finding; linear staining on IF is seen in all types of RPGN and does not distinguish subtypes",
+"Type I RPGN \u2014 treatment is corticosteroids only; plasma exchange is reserved for dialysis-dependent patients with >50% crescents on biopsy"
+],
+"answer": 0,
+"explanation": "RPGN Type I (anti-GBM disease) is characterized by linear IgG deposition along the GBM on immunofluorescence, circulating anti-GBM antibodies, and clinical presentation of pulmonary-renal syndrome (Goodpasture syndrome). Type II shows granular IgG deposits (immune complex \u2014 lupus, IgA nephropathy, post-strep). Type III shows scanty/absent immunoglobulin (pauci-immune, ANCA-associated). Treatment for anti-GBM disease is urgent plasma exchange (to remove antibodies) combined with immunosuppression (cyclophosphamide + steroids). Delayed treatment leads to irreversible renal loss.",
+"highYield": "RPGN Type I = linear IgG (anti-GBM). Type II = granular (immune complex). Type III = pauci-immune (ANCA). Treatment of Type I: plasma exchange + CYC + steroids.",
+"pyqNote": "IF pattern on renal biopsy distinguishing RPGN types is a classic NEET PG question format.",
+"tags": [
+"nephrology",
+"RPGN",
+"anti-GBM disease",
+"Goodpasture syndrome",
+"crescentic GN",
+"immunofluorescence",
+"Type I RPGN"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Nephrology - CKD Staging",
+"difficulty": "easy",
+"stem": "A 58-year-old diabetic woman has an eGFR of 28 mL/min/1.73m\u00b2 on two measurements taken 3 months apart. Urine albumin-to-creatinine ratio (UACR) is 220 mg/g. According to KDIGO 2012 CKD staging, what is her CKD G and A stage, and what does this imply for her management?",
+"options": [
+"G3b A3 \u2014 eGFR 15-29 corresponds to G4; wait \u2014 eGFR 28 is G3b (eGFR 15-29 is G4, eGFR 30-44 is G3b); the patient has eGFR 28, which falls in G4 (15-29), with UACR 220 mg/g placing her in A3 (>300 mg/g) \u2014 actually A2 (30-300 mg/g)",
+"G4 A2 \u2014 eGFR 28 mL/min/1.73m\u00b2 falls in G4 (eGFR 15-29); UACR 220 mg/g falls in A2 (30-300 mg/g); G4A2 = high-risk CKD with nephrology referral indicated",
+"G3a A2 \u2014 eGFR 28 falls in G3a (45-59); UACR 220 mg/g is A2; this is moderate-risk CKD managed entirely in primary care",
+"G3b A3 \u2014 eGFR 28 is G3b (30-44); UACR 220 mg/g (>200) qualifies as severely increased albuminuria (A3)"
+],
+"answer": 1,
+"explanation": "KDIGO 2012 eGFR categories: G1 \u226590, G2 60-89, G3a 45-59, G3b 30-44, G4 15-29, G5 <15 mL/min/1.73m\u00b2. eGFR of 28 falls in G4. Albuminuria categories: A1 <30 mg/g (normal to mildly increased), A2 30-300 mg/g (moderately increased), A3 >300 mg/g (severely increased). UACR of 220 mg/g = A2. G4 A2 = high risk (orange in KDIGO heat map); nephrology referral, preparation for renal replacement therapy, and aggressive cardiovascular risk factor management are indicated.",
+"highYield": "KDIGO G stages: G4 = eGFR 15-29. Albuminuria A2 = UACR 30-300 mg/g. G4 triggers nephrology referral and RRT preparation.",
+"pyqNote": "CKD staging eGFR cutoffs and albuminuria categories are directly tested in NEET PG.",
+"tags": [
+"nephrology",
+"CKD",
+"KDIGO",
+"eGFR staging",
+"albuminuria",
+"CKD classification"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Nephrology - AKI KDIGO Criteria",
+"difficulty": "medium",
+"stem": "A 65-year-old man undergoes elective hip replacement. Pre-operative creatinine was 0.9 mg/dL. On post-operative day 2, his creatinine is 1.8 mg/dL. Urine output over the last 12 hours was 0.3 mL/kg/hr. He is hemodynamically stable. What is his AKI stage according to KDIGO 2012?",
+"options": [
+"AKI Stage 2 \u2014 creatinine has risen to \u22652\u00d7 baseline (1.8/0.9 = 2-fold); urine output of 0.3 mL/kg/hr for 12 hours meets Stage 2 urine output criterion (<0.5 mL/kg/hr for \u226512 hours); use the higher stage",
+"AKI Stage 1 \u2014 creatinine rise of 0.9 mg/dL within 48 hours meets Stage 1 criterion (rise \u22650.3 mg/dL within 48 hours); urine output does not yet meet criteria",
+"AKI Stage 3 \u2014 post-surgical creatinine elevation always qualifies as Stage 3 regardless of degree; surgical AKI carries the highest mortality",
+"No AKI \u2014 the creatinine rise is expected after surgery and does not meet KDIGO minimum threshold; baseline creatinine must be established over 7 days not 48 hours for classification"
+],
+"answer": 0,
+"explanation": "KDIGO AKI definition: rise in creatinine \u22650.3 mg/dL within 48 hours, OR rise to \u22651.5\u00d7 baseline within 7 days, OR urine output <0.5 mL/kg/hr for \u22656 hours. Staging \u2014 Stage 1: Cr \u22651.5-1.9\u00d7 baseline OR \u22650.3 mg/dL rise (UO <0.5 mL/kg/hr \u22656h); Stage 2: Cr 2.0-2.9\u00d7 baseline (UO <0.5 mL/kg/hr \u226512h); Stage 3: Cr \u22653\u00d7 baseline or \u22654.0 mg/dL or RRT needed. Here, creatinine doubled (2\u00d7) = Stage 2 by creatinine; UO 0.3 mL/kg/hr for 12 hours = Stage 2 by UO. Highest stage applies = Stage 2.",
+"highYield": "KDIGO AKI Stage 2: creatinine 2-2.9\u00d7 baseline OR UO <0.5 mL/kg/hr for \u226512 hours. Always use the highest stage from either criterion.",
+"pyqNote": "AKI KDIGO staging criteria with creatinine and urine output thresholds are tested numerically in NEET PG.",
+"tags": [
+"nephrology",
+"AKI",
+"KDIGO",
+"acute kidney injury staging",
+"urine output",
+"creatinine"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Nephrology - Dialysis Indications",
+"difficulty": "easy",
+"stem": "A 50-year-old man with CKD stage 5 presents to the emergency department. His serum potassium is 6.8 mEq/L with peaked T waves on ECG. He has severe metabolic acidosis (pH 7.10, bicarbonate 8 mEq/L) refractory to bicarbonate therapy. He is confused and has bilateral leg edema with pulmonary crackles. BUN is 110 mg/dL. He denies taking any nephrotoxins. Which mnemonic best captures ALL the dialysis indications present in this patient?",
+"options": [
+"AEIOU \u2014 Acidosis (pH 7.10, refractory), Electrolytes (K+ 6.8 with ECG changes), Ingestion/Intoxication (not present), Overload (pulmonary edema), Uremia (encephalopathy + BUN 110); he meets A, E, O, U \u2014 4 of 5 indications",
+"MUDPILES \u2014 metabolic acidosis is the only dialysis indication; the other findings are managed with conservative therapy before initiating dialysis",
+"AEIOU with I present \u2014 the CKD itself constitutes chronic ingestion/intoxication with uremic toxins, making all 5 AEIOU criteria met",
+"RIFLE criteria \u2014 the patient meets the F (Failure) stage of RIFLE and dialysis is automatically indicated at RIFLE-F regardless of other parameters"
+],
+"answer": 0,
+"explanation": "AEIOU mnemonic for emergency dialysis indications: A = Acidosis (pH <7.1 or refractory metabolic acidosis); E = Electrolytes (hyperkalemia refractory to medical treatment, especially with ECG changes); I = Ingestion/Intoxication (toxins \u2014 methanol, ethylene glycol, lithium, salicylates); O = Overload (volume overload/pulmonary edema refractory to diuretics); U = Uremia (encephalopathy, pericarditis, bleeding). This patient has A (pH 7.10 refractory), E (K+ 6.8 with ECG changes), O (pulmonary edema), and U (confusion = uremic encephalopathy). Meeting even one indication warrants urgent dialysis.",
+"highYield": "AEIOU dialysis indications: Acidosis (pH<7.1), Electrolytes (K+>6.5 with ECG changes), Intoxication, Overload, Uremia. Any one indication is sufficient.",
+"pyqNote": "AEIOU mnemonic for dialysis indications is directly tested; know each component and the exact thresholds.",
+"tags": [
+"nephrology",
+"dialysis indications",
+"AEIOU",
+"hyperkalemia",
+"uremia",
+"metabolic acidosis",
+"CKD5"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Supraventricular Tachycardia",
+"difficulty": "hard",
+"stem": "A 22-year-old woman presents with sudden palpitations, mild dizziness, and anxiety. ECG shows: regular narrow complex tachycardia at 155 bpm, P waves are visible AFTER each QRS complex with a short RP interval (RP < PR), P waves appear inverted in leads II, III, aVF with apparent pseudo-S wave pattern in inferior leads and pseudo-R' in V1. BP is 110/70 mmHg. She has had 3 similar episodes in the past that resolved spontaneously. What is the most likely diagnosis?",
+"options": [
+"Typical AVNRT (slow-fast) \u2014 the short RP interval with P waves immediately after QRS (RP <70 ms) and pseudo-S/pseudo-R' pattern is pathognomonic; the reentry circuit is entirely within the AV node",
+"AVRT (orthodromic) using a concealed accessory pathway \u2014 short RP with retrograde P waves; distinguishable from AVNRT by RP interval >70 ms and P waves visible in the ST segment",
+"Atrial flutter with 2:1 block \u2014 regular narrow complex tachycardia at 150 bpm with visible flutter waves that can mimic P waves in inferior leads",
+"Sinus tachycardia with first-degree AV block \u2014 the prolonged PR interval causes P waves to appear after the preceding QRS, creating a pseudo-short RP pattern"
+],
+"answer": 0,
+"explanation": "Typical AVNRT (slow-fast) is the most common SVT in young women. The defining ECG feature is RP interval <70 ms (P wave nearly buried in QRS), producing pseudo-S waves in inferior leads (II, III, aVF) and pseudo-R' in V1 due to retrograde atrial activation. In orthodromic AVRT, the P wave is visible in the ST segment (RP 70-120 ms) because retrograde conduction through the accessory pathway is slower. AVNRT rate is typically 150-250 bpm. Vagal maneuvers or adenosine terminate it. Distinction from AVRT: AVNRT RP <70 ms; AVRT RP >70 ms.",
+"highYield": "AVNRT: RP <70 ms, pseudo-S in II/III/aVF, pseudo-R' in V1. AVRT: RP 70-120 ms, P visible in ST segment. Both respond to adenosine.",
+"pyqNote": "ECG distinction between AVNRT and AVRT using RP interval is a classic NEET PG cardiology question.",
+"tags": [
+"cardiology",
+"AVNRT",
+"AVRT",
+"SVT",
+"short RP tachycardia",
+"ECG",
+"supraventricular tachycardia"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - SVT Differentiation",
+"difficulty": "medium",
+"stem": "During an electrophysiology study for recurrent SVT, a 30-year-old man is found to have a concealed accessory pathway. During induced tachycardia, the VA interval (ventricle to atrium conduction time) is 120 ms and P waves are clearly visible in the ST segment at a rate of 165 bpm with a narrow QRS complex. The tachycardia is terminated by adenosine. What is the mechanism?",
+"options": [
+"Orthodromic AVRT \u2014 anterograde conduction via the AV node (narrow QRS), retrograde conduction via the accessory pathway; VA interval >70 ms with visible ST-segment P waves distinguishes this from AVNRT",
+"Antidromic AVRT \u2014 anterograde conduction via the accessory pathway produces a wide QRS with delta waves; narrow QRS rules out antidromic AVRT",
+"Typical AVNRT \u2014 VA interval of 120 ms is within the AVNRT range; the slow retrograde limb causes delayed atrial activation with visible P waves",
+"Atrial tachycardia \u2014 the regular rate, visible P waves, and adenosine termination confirm an ectopic atrial focus as the mechanism"
+],
+"answer": 0,
+"explanation": "Orthodromic AVRT involves anterograde conduction through the AV node (producing narrow QRS) and retrograde conduction through the accessory pathway (causing delayed atrial activation). VA interval >70 ms (here 120 ms) and P waves visible in the ST segment are characteristic. In typical AVNRT, retrograde conduction via the slow pathway is extremely fast, making VA interval <70 ms (P buried in QRS). Antidromic AVRT uses the accessory pathway anterogradely, producing wide complex (delta wave) tachycardia. Adenosine terminates both AVNRT and AVRT by blocking AV nodal conduction.",
+"highYield": "Orthodromic AVRT: narrow QRS + VA >70 ms + P in ST segment. AVNRT: narrow QRS + VA <70 ms + P buried in QRS. Antidromic AVRT: wide QRS.",
+"pyqNote": "AVRT vs AVNRT electrophysiology distinction via VA interval is tested in advanced NEET PG cardiology scenarios.",
+"tags": [
+"cardiology",
+"AVRT",
+"AVNRT",
+"orthodromic",
+"accessory pathway",
+"VA interval",
+"SVT mechanism"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Neurology - Multiple Sclerosis",
+"difficulty": "hard",
+"stem": "A 28-year-old woman presents with an episode of right optic neuritis (loss of vision with pain on eye movement) 6 months ago, and now has bilateral lower limb weakness and bladder dysfunction for 3 weeks. MRI brain shows: periventricular and juxtacortical T2/FLAIR hyperintense lesions, one with incomplete ring enhancement on gadolinium. MRI spine shows a T2 lesion at C5-C6 spanning <2 vertebral segments. CSF shows 8 oligoclonal bands not present in serum. AQP4-IgG and MOG-IgG are negative. What is the diagnosis and the criteria fulfilled?",
+"options": [
+"Multiple sclerosis (McDonald 2017 criteria) \u2014 dissemination in space (DIS: periventricular + juxtacortical + spinal cord lesions), dissemination in time (DIT: enhancing + non-enhancing lesions simultaneously OR two clinical attacks), CSF oligoclonal bands support DIT; AQP4/MOG negativity excludes NMOSD and MOGAD",
+"NMOSD (neuromyelitis optica spectrum disorder) \u2014 optic neuritis + spinal cord involvement is the classic NMOSD pattern; AQP4-IgG negativity does not exclude seronegative NMOSD",
+"MOGAD (MOG antibody disease) \u2014 MOG-IgG negativity at presentation does not exclude MOGAD; the incomplete ring enhancement and short cord lesion are characteristic of MOGAD",
+"Clinically isolated syndrome (CIS) \u2014 only one clinical attack has occurred (the second episode has not been confirmed as MS-defining); McDonald criteria require at least 2 separate clinical attacks for diagnosis"
+],
+"answer": 0,
+"explanation": "McDonald 2017 criteria for MS require DIS and DIT. DIS can be demonstrated by MRI lesions in \u22652 of 4 CNS regions (periventricular, cortical/juxtacortical, infratentorial, spinal cord) OR two clinical attacks in different locations. DIT can be demonstrated by simultaneous enhancing and non-enhancing lesions OR new T2/enhancing lesion on follow-up OR two clinical attacks. CSF oligoclonal bands can replace DIT evidence when DIS is met. Short spinal cord lesions (<3 vertebral segments) and periventricular lesions favor MS over NMOSD. AQP4/MOG negativity further supports MS over NMOSD/MOGAD.",
+"highYield": "MS (McDonald 2017): DIS in \u22652 of 4 regions + DIT. CSF OCBs can fulfill DIT criterion. Short cord lesions (<3 segments) = MS. Long cord lesions (\u22653 segments) = NMOSD.",
+"pyqNote": "MS vs NMOSD distinction using lesion length, AQP4-IgG, and McDonald criteria is high-yield and frequently tested.",
+"tags": [
+"neurology",
+"multiple sclerosis",
+"McDonald criteria 2017",
+"NMOSD",
+"MRI",
+"oligoclonal bands",
+"dissemination in space and time"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Neurology - MS vs NMOSD",
+"difficulty": "medium",
+"stem": "A 35-year-old woman presents with bilateral visual loss and a severe longitudinally extensive transverse myelitis involving T4-T10 (6 vertebral segments on MRI). She also has intractable hiccups and nausea. AQP4-IgG is strongly positive at 1:512. MRI brain shows no periventricular lesions. CSF has no oligoclonal bands. Which diagnosis is correct and what distinguishes it from MS?",
+"options": [
+"NMOSD (AQP4-IgG seropositive) \u2014 longitudinally extensive cord lesion (\u22653 segments), area postrema syndrome (hiccups/nausea), bilateral optic neuritis, and AQP4-IgG positivity are hallmarks; periventricular lesions and OCBs are absent (contrast with MS)",
+"MS \u2014 bilateral optic neuritis and longitudinal myelitis are atypical for MS but do occur; AQP4-IgG may be false-positive at low titers; McDonald criteria should be applied",
+"MOGAD \u2014 MOG-IgG should be tested before AQP4-IgG in this demographic; area postrema syndrome occurs only in MOGAD",
+"Neurosarcoidosis \u2014 hiccups and bilateral optic involvement with longitudinal myelitis constitute the classic sarcoid CNS presentation; AQP4-IgG cross-reacts with sarcoid granulomas"
+],
+"answer": 0,
+"explanation": "NMOSD is defined by \u22651 core clinical characteristic plus AQP4-IgG seropositivity (or \u22652 core features without seropositivity). Core features: optic neuritis, acute myelitis, area postrema syndrome (hiccups/nausea/vomiting), acute brainstem syndrome, symptomatic narcolepsy/diencephalic syndrome, symptomatic cerebral syndrome. Longitudinally extensive transverse myelitis (LETM, \u22653 vertebral segments) is characteristic. MS features periventricular lesions, OCBs, and short cord lesions. Area postrema involvement (intractable hiccups/nausea) is almost pathognomonic for NMOSD. High-titer AQP4-IgG confirms the diagnosis.",
+"highYield": "NMOSD hallmarks: LETM (\u22653 segments), area postrema syndrome (hiccups), bilateral ON, AQP4-IgG positive, no OCBs, no periventricular lesions.",
+"pyqNote": "Area postrema syndrome (hiccups + nausea) as a distinguishing NMOSD feature is directly tested in NEET PG.",
+"tags": [
+"neurology",
+"NMOSD",
+"AQP4-IgG",
+"longitudinal myelitis",
+"area postrema",
+"MS vs NMOSD",
+"aquaporin-4"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious Disease - Dengue Serology",
+"difficulty": "medium",
+"stem": "A 23-year-old woman develops high fever, severe headache, retro-orbital pain, myalgias, and a maculopapular rash on day 3 of illness. She lives in a dengue-endemic area. Which serological/antigen test is most appropriate NOW to confirm the diagnosis, and what is the timing of dengue markers?",
+"options": [
+"NS1 antigen test \u2014 NS1 is detectable from day 1 to day 5 of fever (early viraemic phase); IgM antibody appears from day 3-5 and peaks at day 2 weeks; on day 3, NS1 + IgM may both be positive but NS1 is the highest-yield early test; IgG appears later and persists for life",
+"IgM antibody only \u2014 NS1 antigen is only reliable after day 7 of fever; performing NS1 early will give false-negative results",
+"IgG antibody \u2014 high IgG titer on day 3 of a second dengue infection (secondary dengue) is the most sensitive early marker and should be ordered first",
+"PCR only \u2014 dengue serology is unreliable before day 5; RT-PCR is the only validated early diagnostic test but requires specialized laboratory infrastructure"
+],
+"answer": 0,
+"explanation": "Dengue diagnostic timeline: NS1 antigen is detectable from day 1 of fever and remains positive up to day 5-6 (during viraemia). IgM antibody appears from day 3-5 and is most useful after day 5. IgG appears later in primary infection but in secondary dengue, a 4-fold rise in IgG (or high IgG on the first sample) is characteristic. On day 3, NS1 is the most reliable test. A combined NS1 + IgM/IgG rapid test has sensitivity >90% when used from day 1-7. PCR is the gold standard but not routine. NS1 sensitivity decreases after day 5.",
+"highYield": "Dengue: NS1 antigen detectable day 1-5 (early). IgM appears day 3-5. IgG persists lifelong. Day 1-5 = NS1; Day 5+ = IgM. Secondary dengue = early IgG rise.",
+"pyqNote": "Dengue NS1 vs IgM timing is a high-frequency NEET PG question; know the day-by-day serology profile.",
+"tags": [
+"infectious disease",
+"dengue",
+"NS1 antigen",
+"IgM",
+"dengue serology",
+"dengue diagnosis timing"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious Disease - Malaria Treatment",
+"difficulty": "medium",
+"stem": "A 30-year-old man returns from Assam with fever, chills, and rigors every 48 hours. Blood smear shows Plasmodium vivax ring forms and gametocytes. He is treated with chloroquine 25 mg/kg over 3 days with resolution of fever. However, 6 weeks later, symptoms recur and repeat smear shows P. vivax. He denies re-exposure. G6PD level is normal. What is the most appropriate next step?",
+"options": [
+"Primaquine 0.25 mg/kg/day for 14 days (standard radical cure) \u2014 the relapse is due to dormant hypnozoites; chloroquine has no activity against hypnozoites; primaquine is the only drug effective for radical cure; confirm G6PD before use",
+"Repeat chloroquine course with higher dose (total 50 mg/kg) \u2014 this is chloroquine-resistant P. vivax; higher-dose chloroquine is effective for resistant strains from Northeast India",
+"Artemether-lumefantrine for 3 days \u2014 ACT is now recommended for all P. vivax in India regardless of relapse to avoid resistance",
+"Tafenoquine single dose 300 mg \u2014 this is the preferred anti-relapse agent and has replaced primaquine in Indian national guidelines as first-line for hypnozoite clearance"
+],
+"answer": 0,
+"explanation": "P. vivax and P. ovale form hypnozoites in the liver that cause relapses weeks to months after the primary infection. Chloroquine treats the blood-stage (erythrocytic) infection only. Primaquine (8-aminoquinoline) is required for radical cure \u2014 eliminating hypnozoites. Standard dose: 0.25 mg/kg/day \u00d7 14 days. G6PD testing is mandatory before primaquine (causes hemolysis in G6PD deficiency). In chloroquine-resistant P. vivax (common in Papua New Guinea, emerging in India), ACT is used for blood stages; primaquine dose may be doubled to 0.5 mg/kg/day \u00d7 14 days per WHO. Tafenoquine is not in current Indian National Vector Borne Disease Control Programme guidelines.",
+"highYield": "P. vivax relapse = hypnozoites not killed by chloroquine. Primaquine 0.25 mg/kg/day \u00d7 14 days = radical cure. Always check G6PD before primaquine.",
+"pyqNote": "Primaquine for P. vivax radical cure and G6PD prerequisite is a standard NEET PG infectious disease question.",
+"tags": [
+"infectious disease",
+"malaria",
+"Plasmodium vivax",
+"primaquine",
+"hypnozoites",
+"radical cure",
+"G6PD"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious Disease - Leptospirosis",
+"difficulty": "medium",
+"stem": "A 28-year-old farmer presents after working in flooded rice fields. He has high fever, severe myalgia (especially calf muscles), conjunctival suffusion, jaundice, oliguria, and thrombocytopenia. Serum bilirubin is 18 mg/dL (predominantly direct), creatinine is 4.2 mg/dL, and CK is elevated. Which diagnosis does this clinical picture represent, and what is the name of its severe form?",
+"options": [
+"Leptospirosis \u2014 Weil's disease is the severe icteric form characterized by the triad of jaundice + AKI + bleeding tendency; conjunctival suffusion and calf muscle tenderness are classic early features; treatment is IV penicillin G or ceftriaxone",
+"Scrub typhus \u2014 eschar and regional lymphadenopathy are absent but the fever, myalgia, and thrombocytopenia in a field worker are classic; severe form is Sims-Hogg triad",
+"Malaria with cerebral involvement \u2014 jaundice and AKI define severe malaria by WHO criteria; calf muscle tenderness is a non-specific feature commonly seen in falciparum malaria",
+"Hantavirus infection \u2014 the clinical picture of AKI, thrombocytopenia, and rodent/floodwater exposure defines hantavirus hemorrhagic fever with renal syndrome"
+],
+"answer": 0,
+"explanation": "Leptospirosis is transmitted through contact with water or soil contaminated by urine of infected animals (rats). Classic early features: fever, severe myalgia (especially calf muscles), conjunctival suffusion (redness without discharge \u2014 pathognomonic), and headache. Weil's disease is the severe icteric form: jaundice (hepatocellular + cholestatic, predominantly direct bilirubin), AKI (non-oliguric or oliguric), and hemorrhagic tendency (thrombocytopenia, bleeding). Elevated CK reflects rhabdomyolysis. Treatment: IV benzylpenicillin 1.5 MU q6h or ceftriaxone 1g/day. Doxycycline 200 mg/week is used for prophylaxis.",
+"highYield": "Weil's disease (severe leptospirosis): jaundice + AKI + hemorrhage triad. Conjunctival suffusion = pathognomonic early sign. Treatment: IV penicillin G or ceftriaxone.",
+"pyqNote": "Weil's disease features and conjunctival suffusion as pathognomonic sign are directly tested in NEET PG.",
+"tags": [
+"infectious disease",
+"leptospirosis",
+"Weil's disease",
+"conjunctival suffusion",
+"AKI",
+"jaundice",
+"zoonosis"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious Disease - Scrub Typhus",
+"difficulty": "easy",
+"stem": "A 25-year-old man presents from a rural hilly area with 10 days of high fever, severe headache, diffuse maculopapular rash starting on the trunk, and painful axillary lymphadenopathy. On examination, a painless black eschar is found in the groin. Weil-Felix test (OX-K) is positive. What is the diagnosis, the causative organism, and treatment of choice?",
+"options": [
+"Scrub typhus \u2014 caused by Orientia tsutsugamushi (formerly Rickettsia tsutsugamushi), transmitted by larval trombiculid mites (chiggers); classic tetrad: fever + rash + eschar + lymphadenopathy; Weil-Felix OX-K positive; treatment is doxycycline 100 mg BD for 7-14 days",
+"Murine typhus \u2014 caused by Rickettsia typhi, transmitted by rat fleas; eschar does not occur; Weil-Felix OX-19 and OX-2 are positive but OX-K is negative",
+"Rocky Mountain spotted fever \u2014 caused by Rickettsia rickettsii; eschar is characteristic; Weil-Felix OX-19 and OX-2 reactive; predominantly seen in the Americas not India",
+"Epidemic typhus \u2014 Rickettsia prowazekii transmitted by body louse; eschar is not a feature; Weil-Felix OX-19 strongly positive; occurs in overcrowded conditions"
+],
+"answer": 0,
+"explanation": "Scrub typhus is caused by Orientia tsutsugamushi transmitted by larval trombiculid mites. The classic tetrad is: fever, rash (maculopapular, centrifugal spread), eschar (painless black necrotic lesion at bite site \u2014 found in groin, axilla, behind ears), and lymphadenopathy (regional or generalized). Weil-Felix OX-K agglutination is positive (specific to scrub typhus; OX-19 and OX-2 are for epidemic and murine typhus). Treatment: doxycycline 100 mg twice daily for 7-14 days; alternative: azithromycin (preferred in pregnancy/children). India (especially Northeast, Himalayas) is highly endemic.",
+"highYield": "Scrub typhus tetrad: fever + rash + eschar + lymphadenopathy. OX-K positive. Treatment: doxycycline. Organism: Orientia tsutsugamushi.",
+"pyqNote": "Scrub typhus eschar location, Weil-Felix OX-K pattern, and doxycycline treatment are classic NEET PG questions.",
+"tags": [
+"infectious disease",
+"scrub typhus",
+"Orientia tsutsugamushi",
+"eschar",
+"Weil-Felix",
+"doxycycline",
+"rickettsial disease"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Endocrinology - Cushing's Syndrome",
+"difficulty": "hard",
+"stem": "A 35-year-old woman with central obesity, purple striae, and proximal myopathy has elevated 24-hour urinary free cortisol (3\u00d7 upper normal). Low-dose dexamethasone suppression test (1 mg overnight): cortisol 8.5 \u00b5g/dL (non-suppressed, confirms Cushing's). High-dose DST (8 mg overnight) is performed: cortisol suppresses from 32 \u00b5g/dL to 13 \u00b5g/dL (a 59% reduction). ACTH is 48 pg/mL (mildly elevated). What is the most likely source of Cushing's syndrome?",
+"options": [
+"Pituitary Cushing's disease (Cushing's disease) \u2014 high-dose DST showing >50% suppression of cortisol indicates the pituitary corticotroph adenoma retains some feedback sensitivity; ectopic ACTH sources and adrenal causes do NOT suppress on high-dose DST; MRI pituitary is the next step",
+"Ectopic ACTH syndrome \u2014 ACTH of 48 pg/mL with partial suppression (59%) on high-dose DST is consistent with bronchial carcinoid secreting ACTH ectopically; CT chest is the next step",
+"Adrenal adenoma \u2014 adrenal sources of Cushing's are ACTH-independent; ACTH would be suppressed (<10 pg/mL) in adrenal Cushing's; high-dose DST result does not apply to adrenal causes",
+"Pseudo-Cushing's syndrome \u2014 high-dose DST suppression >50% indicates physiological stress response rather than true autonomous cortisol hypersecretion; further workup is not warranted"
+],
+"answer": 0,
+"explanation": "High-dose DST (8 mg) interpretation: >50% suppression of baseline cortisol indicates Cushing's disease (pituitary origin) in ~80-90% of cases. Ectopic ACTH tumors (small cell lung cancer, bronchial carcinoid) typically do NOT suppress, even with high-dose DST. Adrenal causes show suppressed ACTH (<10 pg/mL) and are ACTH-independent. This patient has ACTH-dependent Cushing's (ACTH 48, mildly elevated) with >50% suppression = pituitary source. Next step: MRI pituitary. If MRI is negative, bilateral inferior petrosal sinus sampling (IPSS) is required. Cortisol threshold: suppression to <50% of baseline on HDDST = does NOT suppress.",
+"highYield": "High-dose DST: >50% suppression = pituitary Cushing's disease. No suppression = ectopic ACTH or adrenal. ACTH helps: elevated = ACTH-dependent; suppressed = ACTH-independent (adrenal).",
+"pyqNote": "High-dose DST interpretation and differentiating pituitary vs ectopic Cushing's is a classic NEET PG endocrinology question.",
+"tags": [
+"endocrinology",
+"Cushing's syndrome",
+"high-dose DST",
+"ACTH",
+"pituitary",
+"ectopic ACTH",
+"dexamethasone suppression test"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Endocrinology - MEN Syndromes",
+"difficulty": "medium",
+"stem": "A 28-year-old man with a history of kidney stones presents with hypercalcemia (serum Ca 11.8 mg/dL) and elevated PTH. Gastrin levels are markedly elevated with recurrent peptic ulcers despite proton pump inhibitor therapy. MRI shows a 0.5 cm lesion in the pancreatic head. His father died of 'endocrine cancer.' What syndrome does this patient most likely have and what are the three components of its classic triad?",
+"options": [
+"MEN1 (Wermer syndrome) \u2014 classic triad of 3Ps: Parathyroid hyperplasia/adenoma (most common, causing hypercalcemia), Pituitary adenoma (prolactinoma most common), Pancreatic islet cell tumors (gastrinoma causing Zollinger-Ellison syndrome most dangerous); autosomal dominant mutation in MEN1 (menin) gene on chromosome 11q13",
+"MEN2A (Sipple syndrome) \u2014 triad of Medullary thyroid carcinoma + Pheochromocytoma + Hyperparathyroidism; pancreatic tumors are not a feature of MEN2A; RET proto-oncogene mutation on chromosome 10",
+"MEN2B \u2014 triad of Medullary thyroid carcinoma + Pheochromocytoma + Mucosal neuromas (marfanoid habitus); hyperparathyroidism and pancreatic tumors are absent; also caused by RET mutation",
+"Sporadic Zollinger-Ellison syndrome \u2014 the combination of gastrinoma + hyperparathyroidism is coincidental; familial endocrine tumors in this pattern are seen in hereditary hyperparathyroidism-jaw tumor syndrome"
+],
+"answer": 0,
+"explanation": "MEN1 (Multiple Endocrine Neoplasia Type 1) is caused by germline mutations in the MEN1 gene (chromosome 11q13, tumor suppressor encoding menin). Classic triad: Parathyroid (95-100%, most common \u2014 hyperparathyroidism from hyperplasia/adenoma), Pituitary (30-40%, usually prolactinoma), Pancreas (30-75%, gastrinoma most common and most deadly). Gastrinoma causes Zollinger-Ellison syndrome (recurrent ulcers, diarrhea, high gastrin). MEN2A has MTC + Pheo + HyperPTH (no pancreatic tumors). MEN2B has MTC + Pheo + mucosal neuromas + marfanoid habitus (no HyperPTH).",
+"highYield": "MEN1 = 3Ps (Parathyroid + Pituitary + Pancreas), chromosome 11q13, menin. MEN2A = MTC + Pheo + HyperPTH, RET. MEN2B = MTC + Pheo + neuromas, RET.",
+"pyqNote": "MEN type differentiation (1 vs 2A vs 2B) and their specific components are very high-frequency NEET PG questions.",
+"tags": [
+"endocrinology",
+"MEN1",
+"MEN2A",
+"MEN2B",
+"multiple endocrine neoplasia",
+"gastrinoma",
+"hyperparathyroidism"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Endocrinology - Adrenal Incidentaloma",
+"difficulty": "medium",
+"stem": "A 54-year-old woman undergoes CT abdomen for renal stone evaluation. An incidental right adrenal mass is found measuring 2.8 cm, with Hounsfield units of 6 HU on unenhanced CT. She has no signs of Cushing's syndrome, no hypertension, and is not diabetic. Which is the most appropriate initial workup for this adrenal incidentaloma?",
+"options": [
+"1 mg overnight dexamethasone suppression test (for subclinical hypercortisolism) + 24-hour urine metanephrines or plasma free metanephrines (for pheochromocytoma) + serum aldosterone/renin ratio if hypertensive; lipid-rich adenoma is suggested by HU \u226410 on unenhanced CT",
+"Immediate surgical resection \u2014 any incidental adrenal mass >2 cm requires adrenalectomy regardless of functional status due to risk of malignancy",
+"FDG-PET scan \u2014 this is the first-line imaging modality to distinguish benign adenoma from malignancy in all incidentalomas regardless of CT characteristics",
+"Serum DHEA-S and androgens only \u2014 adrenal incidentalomas in women are most commonly androgen-secreting; cortisol and catecholamine testing are only indicated if symptoms are present"
+],
+"answer": 0,
+"explanation": "Adrenal incidentaloma workup (European Society of Endocrinology/Endocrine Society guidelines): ALL incidentalomas need functional assessment: (1) Subclinical Cushing's: 1 mg overnight DST (cortisol >1.8 \u00b5g/dL = abnormal); (2) Pheochromocytoma: 24-hr urine or plasma metanephrines \u2014 must rule out before any procedure; (3) Hyperaldosteronism: aldosterone/renin ratio if hypertensive. HU \u226410 on unenhanced CT = lipid-rich = almost certainly benign adenoma. HU >10 requires washout CT or chemical shift MRI. Surgery indicated if: >4 cm, growing lesion, or functional. This 2.8 cm, HU 6 lesion is likely a benign lipid-rich adenoma but functional workup is mandatory.",
+"highYield": "Adrenal incidentaloma workup: overnight 1 mg DST + metanephrines + aldosterone/renin (if HTN). HU \u226410 = likely benign adenoma. Surgery if >4 cm or functional.",
+"pyqNote": "Adrenal incidentaloma stepwise evaluation is a frequently tested NEET PG endocrinology question \u2014 the HU threshold is specific.",
+"tags": [
+"endocrinology",
+"adrenal incidentaloma",
+"Hounsfield units",
+"dexamethasone suppression",
+"metanephrines",
+"aldosterone/renin"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Hematology - PNH",
+"difficulty": "hard",
+"stem": "A 32-year-old man presents with episodic dark brown morning urine, severe fatigue, and recurrent abdominal pain. Labs show: Hb 7.2 g/dL, reticulocyte count 8%, LDH 1200 IU/L, indirect bilirubin elevated, direct Coombs test NEGATIVE, peripheral smear shows no schistocytes. Flow cytometry shows absence of CD55 and CD59 on red blood cells and granulocytes in a significant clone. Ham test is positive. What is the diagnosis and the pathophysiological basis?",
+"options": [
+"Paroxysmal nocturnal hemoglobinuria (PNH) \u2014 caused by a somatic mutation in the PIGA gene on the X chromosome leading to deficiency of GPI-anchor proteins (CD55/DAF and CD59/protectin); complement-mediated intravascular hemolysis causes hemoglobinuria; flow cytometry is the gold standard diagnostic test",
+"Autoimmune hemolytic anemia (AIHA) \u2014 warm-type AIHA causes Coombs-positive hemolysis; the negative Coombs test here makes this unlikely but paroxysmal cold hemoglobinuria (PCH) is Coombs-negative",
+"G6PD deficiency \u2014 episodic hemolysis with hemoglobinuria in a young male, triggered by oxidative stress; LDH elevation and Heinz bodies on peripheral smear are expected; Ham test is negative",
+"TTP \u2014 thrombotic microangiopathy with microangiopathic hemolytic anemia causes hemoglobinuria; schistocytes on smear and ADAMTS13 deficiency are expected; flow cytometry is normal in TTP"
+],
+"answer": 0,
+"explanation": "PNH results from acquired somatic mutation in PIGA gene, which encodes an enzyme critical for GPI-anchor biosynthesis. Loss of GPI-anchored proteins CD55 (decay accelerating factor) and CD59 (protectin) allows uncontrolled complement activation on the cell surface, causing intravascular hemolysis (high LDH, indirect bilirubin, hemoglobinuria). Coombs test is NEGATIVE (complement-mediated, not antibody-mediated). Ham test (acid hemolysis test) was the classic diagnostic test. Flow cytometry demonstrating absence of CD55 and CD59 on a clone >1% is now the gold standard. PNH also causes venous thrombosis (especially Budd-Chiari) and aplastic anemia association.",
+"highYield": "PNH = PIGA mutation \u2192 GPI-anchor deficiency \u2192 loss of CD55/CD59 \u2192 complement hemolysis. Coombs negative. Ham test positive. Flow cytometry = gold standard.",
+"pyqNote": "PNH pathophysiology (GPI anchor, CD55/CD59) and Ham test vs flow cytometry are frequently tested in NEET PG hematology.",
+"tags": [
+"hematology",
+"PNH",
+"paroxysmal nocturnal hemoglobinuria",
+"GPI anchor",
+"CD55",
+"CD59",
+"PIGA",
+"Ham test",
+"flow cytometry"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Hematology - TTP vs HUS",
+"difficulty": "hard",
+"stem": "A 28-year-old woman presents with confusion, fever, and petechiae. Labs: Hb 7.8 g/dL, platelet count 18,000/\u00b5L, peripheral smear shows numerous schistocytes, LDH 2800 IU/L, bilirubin elevated, Coombs test negative, creatinine 1.4 mg/dL, ADAMTS13 activity is <5% with inhibitor present. Which diagnosis is correct and what is the immediate management?",
+"options": [
+"TTP (thrombotic thrombocytopenic purpura) \u2014 ADAMTS13 activity <10% with inhibitor confirms acquired TTP; neurological predominance (confusion) over renal involvement; immediate treatment is plasma exchange (plasmapheresis) + corticosteroids; platelet transfusion is CONTRAINDICATED",
+"HUS (hemolytic uremic syndrome) \u2014 STEC-associated HUS presents with severe AKI predominance; ADAMTS13 levels are irrelevant in HUS diagnosis; treatment is supportive dialysis if needed",
+"TTP \u2014 ADAMTS13 <5% confirms TTP; treatment of choice is platelet transfusion to raise count above 50,000/\u00b5L before starting plasma exchange to reduce bleeding risk",
+"Atypical HUS (aHUS) \u2014 complement dysregulation causes microangiopathic hemolysis; ADAMTS13 activity <5% is the hallmark of aHUS; eculizumab is first-line treatment"
+],
+"answer": 0,
+"explanation": "TTP vs HUS distinction: TTP is characterized by ADAMTS13 activity <10% (often <5%) with or without inhibitor \u2014 caused by autoantibody against ADAMTS13, the metalloprotease that cleaves ultra-large von Willebrand factor multimers. Clinical pentad: microangiopathic hemolytic anemia, thrombocytopenia, neurological symptoms (headache, confusion, seizures), fever, renal dysfunction (mild in TTP). HUS (STEC-associated): severe AKI predominates, ADAMTS13 is normal, associated with diarrhea prodrome, Shiga toxin (E. coli O157:H7). Platelet transfusion is CONTRAINDICATED in TTP (worsens thrombosis). Treatment: plasma exchange 1.5 plasma volumes daily + steroids + rituximab for refractory cases.",
+"highYield": "TTP: ADAMTS13 <10% + neurological predominance. HUS: ADAMTS13 normal + renal predominance + diarrhea prodrome. Platelet transfusion CONTRAINDICATED in TTP.",
+"pyqNote": "TTP vs HUS distinction using ADAMTS13, clinical features, and platelet transfusion contraindication are very high-yield NEET PG topics.",
+"tags": [
+"hematology",
+"TTP",
+"HUS",
+"ADAMTS13",
+"thrombotic thrombocytopenic purpura",
+"microangiopathic hemolytic anemia",
+"plasma exchange"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Hematology - ITP Management",
+"difficulty": "medium",
+"stem": "A 25-year-old woman presents with spontaneous gum bleeding, petechiae, and menorrhagia for 2 weeks. Platelet count is 8,000/\u00b5L. Peripheral smear shows large platelets but no schistocytes. WBC and Hb are normal. Bone marrow biopsy (done to exclude other causes) shows increased megakaryocytes. She has no splenomegaly. Which statement best describes initial treatment thresholds and first-line management for ITP?",
+"options": [
+"Treatment is indicated for platelets <30,000/\u00b5L with bleeding, or <20,000/\u00b5L with no bleeding but high-risk features (wet purpura, mucosal bleeding); first-line is oral prednisolone 1 mg/kg/day OR IV dexamethasone 40 mg/day \u00d7 4 days; IVIG is added for severe/life-threatening bleeding",
+"Treatment threshold is platelet count <50,000/\u00b5L in all patients regardless of symptoms; splenectomy is the recommended first-line intervention for newly diagnosed ITP",
+"No treatment is needed until platelets <5,000/\u00b5L as ITP is almost always self-limiting in young women; platelet transfusions are the preferred initial treatment",
+"Platelet count <10,000/\u00b5L is the sole criterion for treatment; corticosteroids are contraindicated in women of childbearing age due to teratogenic risk"
+],
+"answer": 0,
+"explanation": "ITP treatment thresholds (ASH 2019 guidelines): treat if platelets <30,000/\u00b5L WITH bleeding symptoms, OR <20,000/\u00b5L without bleeding but with high-risk features (wet purpura, active mucosal bleeding, high-risk occupation). Platelet count <10,000/\u00b5L is typically always treated. First-line: corticosteroids \u2014 prednisone 1-1.5 mg/kg/day \u00d7 2-4 weeks with taper, OR dexamethasone 40 mg/day \u00d7 4 days (preferred for rapid response). IVIG 1 g/kg (raises platelets within 24-48 hours) for urgent bleeding or pre-procedure. Platelet transfusion: used ONLY for life-threatening bleeding (not routine \u2014 destroyed immediately by autoantibodies). Splenectomy is second-line after 3-6 months.",
+"highYield": "ITP treatment threshold: platelets <30,000 with bleeding OR <20,000 with high-risk features. First-line: steroids. IVIG for urgent situations. Splenectomy = second-line.",
+"pyqNote": "ITP platelet thresholds for treatment and first-line management sequence are directly tested in NEET PG.",
+"tags": [
+"hematology",
+"ITP",
+"immune thrombocytopenia",
+"platelet threshold",
+"IVIG",
+"corticosteroids",
+"treatment guidelines"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Nephrology - RPGN Type II",
+"difficulty": "medium",
+"stem": "A 10-year-old boy presents 3 weeks after a throat infection with periorbital edema, hematuria (cola-colored urine), and hypertension. Serum C3 is markedly reduced; C4 is normal. Renal biopsy immunofluorescence shows granular (lumpy-bumpy) deposits of IgG and C3 along the glomerular basement membrane and mesangium. Electron microscopy shows subepithelial humps. Which type of RPGN/GN is this?",
+"options": [
+"Type II RPGN (immune complex\u2013mediated) \u2014 post-streptococcal GN; granular IgG + C3 deposits on IF with subepithelial humps on EM is pathognomonic; low C3 with normal C4 reflects alternative complement pathway activation; the prognosis in children is excellent with supportive care",
+"Type I RPGN (anti-GBM) \u2014 linear IgG along GBM is the hallmark; granular deposits indicate Type I with superimposed infection",
+"Type III RPGN (pauci-immune) \u2014 ANCA-positive GN shows scanty immunoglobulin; low C3 is not a feature of pauci-immune GN",
+"IgA nephropathy \u2014 post-infection GN with IgA deposits occurs with concurrent infections (synpharyngitic hematuria), not 2-3 weeks after; C3 is not consumed in IgA nephropathy"
+],
+"answer": 0,
+"explanation": "Post-streptococcal GN (PSGN) is the prototype of Type II immune complex GN. The latent period of 1-3 weeks (after pharyngitis) or 3-6 weeks (after skin infection) is characteristic. Granular (lumpy-bumpy) IgG and C3 deposits on IF reflect immune complex deposition. Subepithelial humps on EM are pathognomonic for PSGN. Low C3 with normal C4 = alternative pathway activation. IgA nephropathy has normal complement and synpharyngitic pattern (hematuria concurrent with infection). Anti-GBM disease shows linear IF. Pauci-immune GN has negative IF.",
+"highYield": "PSGN (Type II RPGN): granular IF, subepithelial humps (EM), low C3 normal C4, latent period 1-3 weeks. Linear IF = Type I. Absent IF = Type III.",
+"pyqNote": "Granular vs linear vs absent IF in the 3 types of RPGN is a classic NEET PG renal pathology question.",
+"tags": [
+"nephrology",
+"RPGN Type II",
+"post-streptococcal GN",
+"granular deposits",
+"subepithelial humps",
+"complement",
+"immunofluorescence"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Rheumatology - SLE Nephritis",
+"difficulty": "medium",
+"stem": "A 22-year-old woman with known SLE presents with worsening proteinuria (3.2 g/24h), peripheral edema, and hematuria. Serum creatinine rises from 0.8 to 1.6 mg/dL over 4 weeks. Complement levels (C3 and C4) are low. Anti-dsDNA titers are rising. Renal biopsy shows diffuse proliferative glomerulonephritis involving >50% of glomeruli with wire-loop lesions and full-house immunofluorescence (IgG, IgA, IgM, C1q, C3). What is the ISN/RPS classification and treatment?",
+"options": [
+"Lupus nephritis Class IV (diffuse proliferative LN) \u2014 the most severe and most common form requiring aggressive treatment; treatment is mycophenolate mofetil (MMF) or IV cyclophosphamide (NIH or Euro-Lupus regimen) + high-dose steroids (pulse methylprednisolone \u00d7 3 days then oral prednisolone 1 mg/kg/day); full-house IF is characteristic of LN",
+"Lupus nephritis Class III (focal proliferative) \u2014 less than 50% glomeruli involved is the definition of Class III; treatment is the same as Class IV",
+"Lupus nephritis Class V (membranous LN) \u2014 nephrotic syndrome with wire-loop lesions and subepithelial deposits is the hallmark; treatment is ACE inhibitors alone unless creatinine is rising",
+"Lupus nephritis Class II (mesangial LN) \u2014 mild disease with mesangial deposits only; proteinuria <3g/day with minimal crescents; hydroxychloroquine alone is sufficient treatment"
+],
+"answer": 0,
+"explanation": "ISN/RPS LN classes: Class I = minimal mesangial, Class II = mesangial proliferative, Class III = focal (< 50% glomeruli), Class IV = diffuse (\u226550% glomeruli), Class V = membranous, Class VI = sclerosing. Class IV is the most severe, with diffuse endocapillary proliferation, wire-loop lesions (subendothelial immune deposits), and full-house IF (IgG, IgA, IgM, C1q, C3). Treatment: induction with MMF 2-3 g/day (preferred in Black/Hispanic) OR low-dose CYC (Euro-Lupus) + pulse methylprednisolone \u00d7 3 days then oral steroids. Maintenance: MMF or azathioprine. Hydroxychloroquine continued in all LN patients.",
+"highYield": "LN Class IV = diffuse (\u226550% glomeruli), wire-loops, full-house IF. Treatment: MMF or cyclophosphamide + steroids. Most common class requiring aggressive therapy.",
+"pyqNote": "ISN/RPS LN classification and treatment of Class IV is a high-frequency NEET PG nephrology question.",
+"tags": [
+"nephrology",
+"lupus nephritis",
+"Class IV",
+"diffuse proliferative",
+"wire-loop lesion",
+"full-house immunofluorescence",
+"mycophenolate"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Aortic Stenosis ECG",
+"difficulty": "medium",
+"stem": "A 68-year-old man with known aortic stenosis presents with exertional syncope and angina. ECG shows: regular sinus rhythm at 78 bpm, left axis deviation, broad notched P waves in lead II (duration 120 ms), tall R waves in V5-V6 (>35 mm total with deep S in V1), inverted T waves with ST depression in I, aVL, V5-V6 (strain pattern). Echocardiography shows LV ejection fraction of 55% with peak aortic gradient of 72 mmHg. What is the ECG diagnosis and its significance?",
+"options": [
+"Left ventricular hypertrophy (LVH) with strain pattern + left atrial enlargement (P mitrale) \u2014 LVH is the expected response to pressure overload from severe AS (gradient >40 mmHg); ST depression/T-wave inversion in lateral leads = strain = chronic pressure overload; surgery indicated (severe AS with symptoms)",
+"Right ventricular hypertrophy (RVH) \u2014 right axis deviation and dominant R in V1 would be expected in RVH; the findings described are opposite and indicate left-sided pathology",
+"LBBB (left bundle branch block) \u2014 broad QRS >120 ms with notched R in V5-V6 and ST changes; LBBB may coexist with LVH but the description does not specifically mention broad QRS complex",
+"Anterolateral STEMI \u2014 ST depression in V5-V6 and lateral leads in a patient with angina represents ischemia/STEMI equivalent requiring urgent catheterization before any other evaluation"
+],
+"answer": 0,
+"explanation": "LVH with strain pattern is the hallmark ECG finding in chronic severe aortic stenosis (pressure overload). Cornell voltage criteria: S in V3 + R in aVL >28 mm (men) or >20 mm (women). Sokolow-Lyon: S in V1 + R in V5/V6 >35 mm. Strain pattern = asymmetric ST depression and T-wave inversion in lateral leads (I, aVL, V5, V6) WITHOUT acute ischemia. P mitrale (broad, notched, bifid P wave in II, duration >120 ms) indicates left atrial enlargement from elevated LV filling pressures. Severe AS = peak gradient >40 mmHg or mean gradient >20-25 mmHg with reduced AVA. Symptomatic severe AS (syncope, angina, heart failure) = AVR indicated.",
+"highYield": "AS ECG: LVH with strain (lateral ST depression/T-wave inversion) + P mitrale. Strain pattern = chronic pressure overload, not ischemia. Symptomatic severe AS = surgical/TAVR indication.",
+"pyqNote": "LVH criteria and strain pattern vs ischemic changes on ECG in the context of AS are tested in NEET PG medicine.",
+"tags": [
+"cardiology",
+"aortic stenosis",
+"LVH",
+"strain pattern",
+"ECG",
+"P mitrale",
+"left ventricular hypertrophy"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Neurology - Guillain-Barre Syndrome",
+"difficulty": "medium",
+"stem": "A 30-year-old man develops progressive ascending weakness of both legs over 5 days, 2 weeks after a diarrheal illness. He now has bilateral facial weakness and absent deep tendon reflexes throughout. Nerve conduction studies show prolonged distal motor latencies, reduced motor conduction velocities, and conduction block. CSF shows protein 280 mg/dL with only 3 cells/\u00b5L (albumin-cytological dissociation). He is ambulatory but deteriorating. What is the diagnosis and treatment?",
+"options": [
+"Guillain-Barre syndrome (GBS) \u2014 AIDP variant (acute inflammatory demyelinating polyneuropathy); classic NCS findings of demyelination; albumin-cytological dissociation in CSF; treat with IVIG 0.4 g/kg/day \u00d7 5 days OR plasma exchange; monitor respiratory function (FVC); do NOT use steroids (no benefit)",
+"GBS \u2014 AMAN variant (axonal) \u2014 conduction block on NCS indicates demyelination making AMAN unlikely; axonal GBS shows reduced amplitudes without conduction block",
+"GBS \u2014 treat with oral prednisolone 60 mg/day \u00d7 4 weeks; steroids are the preferred first-line treatment to reduce the autoimmune inflammatory attack on peripheral myelin",
+"Transverse myelitis \u2014 ascending weakness with CSF pleocytosis would favor TM; albumin-cytological dissociation does not occur in TM; NCS abnormalities are not expected in spinal cord disease"
+],
+"answer": 0,
+"explanation": "GBS (AIDP) is the most common cause of acute flaccid paralysis in adults. Classic features: ascending weakness, areflexia, preceding infection (Campylobacter jejuni is most common bacterial trigger). NCS findings of AIDP: prolonged distal latencies, reduced conduction velocities, conduction block, prolonged F-waves (demyelinating pattern). CSF: albuminocytological dissociation (elevated protein, normal cells) appears after 1 week. Treatment: IVIG (0.4 g/kg \u00d7 5 days) OR plasma exchange (5 exchanges over 10 days) \u2014 equivalent efficacy; combination NOT better. Corticosteroids are explicitly NOT effective in GBS. Monitor FVC \u2014 intubate if FVC <20 mL/kg or dropping rapidly (20-30-40 rule: intubate if FVC <20, <30 in 6h, <40 trending down).",
+"highYield": "GBS: ascending weakness + areflexia + CSF albuminocytological dissociation. Treatment: IVIG or plasma exchange (NOT steroids). Monitor FVC for respiratory failure.",
+"pyqNote": "GBS treatment (IVIG/PE but NOT steroids) and CSF findings are directly tested in NEET PG neurology.",
+"tags": [
+"neurology",
+"GBS",
+"Guillain-Barre syndrome",
+"AIDP",
+"albumino-cytological dissociation",
+"IVIG",
+"plasma exchange"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious Disease - HIV Staging",
+"difficulty": "easy",
+"stem": "A 35-year-old HIV-positive man has a CD4 count of 165 cells/\u00b5L. He presents with painless creamy white plaques on the buccal mucosa that scrape off, leaving a raw erythematous surface. KOH preparation of the scrapings shows pseudohyphae and budding yeast. He has no fever or dysphagia. Which condition does this represent and what does his CD4 count indicate about his HIV stage?",
+"options": [
+"Oropharyngeal candidiasis (thrush) in WHO Stage 3 / CDC Category B HIV disease \u2014 CD4 165 cells/\u00b5L indicates advanced immunosuppression (AIDS threshold <200); thrush is an AIDS-defining condition that occurs with CD4 <300; treatment is fluconazole 150-200 mg/day \u00d7 7-14 days",
+"Oral hairy leukoplakia (OHL) \u2014 caused by EBV; white patches on lateral tongue borders that do NOT scrape off; KOH is negative; OHL is a marker of advancing HIV but is not AIDS-defining",
+"Oral candidiasis in CDC Category C (AIDS) \u2014 CD4 <200 defines AIDS; oral candidiasis alone is an AIDS-defining illness regardless of CD4 count when HIV-positive",
+"Vincent's angina (necrotizing ulcerative gingivitis) \u2014 pseudomembranous plaques with bleeding gingiva in HIV-positive patients; KOH showing pseudohyphae is a false-positive result"
+],
+"answer": 0,
+"explanation": "Oropharyngeal candidiasis (thrush) presents as white plaques that scrape off (unlike OHL) with pseudohyphae on KOH. In HIV, thrush is common when CD4 <300 and is classified as WHO Stage 3 / CDC Category B (symptomatic, not AIDS-defining). Esophageal candidiasis (with dysphagia) is AIDS-defining (CDC Category C). CD4 <200 = AIDS (CDC Category C threshold). This patient has CD4 165 (below 200) = AIDS stage, but oral thrush alone without esophageal involvement is WHO Stage 3. Treatment: fluconazole 100-200 mg/day for 7-14 days. Prophylaxis generally not recommended due to resistance risk.",
+"highYield": "Oral candidiasis = WHO Stage 3 / CDC Category B. Esophageal candidiasis = AIDS-defining (CDC Category C). CD4 <200 = AIDS. OHL doesn't scrape off, KOH negative.",
+"pyqNote": "WHO HIV staging and AIDS-defining illnesses vs non-AIDS-defining conditions are high-frequency NEET PG questions.",
+"tags": [
+"infectious disease",
+"HIV",
+"oral candidiasis",
+"WHO staging",
+"CDC Category B",
+"CD4 count",
+"AIDS-defining illness"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Endocrinology - Hypothyroidism",
+"difficulty": "easy",
+"stem": "A 42-year-old woman presents with weight gain of 8 kg over 1 year, cold intolerance, constipation, dry skin, periorbital puffiness, bradycardia (58 bpm), and delayed relaxation of deep tendon reflexes. TSH is 68 mIU/L, free T4 is 0.4 ng/dL (low). Anti-TPO antibodies are 850 IU/mL. Which is the most likely diagnosis and initial treatment?",
+"options": [
+"Hashimoto's thyroiditis causing primary hypothyroidism \u2014 anti-TPO antibodies are the most sensitive marker for autoimmune thyroid disease; treatment is levothyroxine (LT4) starting at 1.6 \u00b5g/kg/day titrated to achieve TSH 0.5-2.5 mIU/L; start lower (25-50 \u00b5g) in elderly or cardiac disease",
+"Secondary hypothyroidism (pituitary cause) \u2014 elevated TSH rules out central hypothyroidism; secondary hypothyroidism always presents with low TSH with low T4",
+"Subclinical hypothyroidism \u2014 TSH 68 mIU/L with low free T4 and overt symptoms constitutes subclinical disease; treatment is not indicated until TSH exceeds 100 mIU/L",
+"Sick euthyroid syndrome \u2014 any systemic illness suppresses T4 and raises TSH artifactually; anti-TPO positivity is non-specific in the sick euthyroid state; no treatment needed"
+],
+"answer": 0,
+"explanation": "Primary hypothyroidism presents with elevated TSH and low free T4. Hashimoto's thyroiditis (chronic autoimmune thyroiditis) is the most common cause in iodine-sufficient regions \u2014 positive anti-TPO antibodies confirm autoimmune etiology. Classic symptoms: weight gain, cold intolerance, constipation, fatigue, bradycardia, myxedema (periorbital puffiness), delayed DTR relaxation (Woltman sign). Secondary hypothyroidism: low TSH + low T4 (hypothalamic-pituitary failure). Subclinical hypothyroidism: elevated TSH with normal free T4. Sick euthyroid: low T3 and T4 with inappropriately low/normal TSH (TSH 68 rules this out). LT4 is the treatment of choice.",
+"highYield": "Primary hypothyroidism: high TSH + low free T4. Hashimoto's = anti-TPO positive. Delayed DTR relaxation = Woltman sign. Treatment: LT4 1.6 \u00b5g/kg/day.",
+"pyqNote": "Hashimoto's thyroiditis clinical features and LT4 dosing are standard NEET PG endocrinology questions.",
+"tags": [
+"endocrinology",
+"hypothyroidism",
+"Hashimoto's thyroiditis",
+"TSH",
+"anti-TPO",
+"levothyroxine",
+"Woltman sign"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Hematology - Polycythemia Vera",
+"difficulty": "medium",
+"stem": "A 58-year-old man presents with headache, facial flushing, pruritus after hot showers (aquagenic pruritus), splenomegaly, and thrombophlebitis. Labs: Hb 19.2 g/dL, Hct 58%, WBC 13,800/\u00b5L, platelet count 560,000/\u00b5L, serum erythropoietin is markedly LOW. JAK2 V617F mutation is detected. Bone marrow biopsy shows hypercellularity with panmyelosis. What is the diagnosis and the WHO 2016 major criteria fulfilled?",
+"options": [
+"Polycythemia vera (PV) \u2014 WHO 2016 major criteria: (1) Hb >16.5 g/dL in men/>16 g/dL in women (or Hct >49/>48%) [met], (2) BM biopsy showing panmyelosis [met], (3) JAK2 V617F or exon 12 mutation [met]; all 3 major criteria met = diagnosis confirmed; low EPO is a minor criterion",
+"Secondary polycythemia \u2014 elevated EPO level would be expected in secondary causes (hypoxia, EPO-secreting tumor); low EPO here indicates a primary bone marrow disorder but JAK2 mutation is not always found",
+"Essential thrombocythemia (ET) \u2014 platelet count >450,000 with JAK2 mutation is the hallmark of ET; Hb elevation is not a diagnostic criterion for ET",
+"Myelofibrosis \u2014 splenomegaly and panmyelosis indicate primary myelofibrosis; JAK2 mutation occurs in ~50% of myelofibrosis cases; Hb of 19.2 g/dL is atypically high for MF which causes anemia"
+],
+"answer": 0,
+"explanation": "WHO 2016 PV criteria: Major criteria: (1) Hb >16.5 g/dL (men) or >16 g/dL (women) OR Hct >49%/48%, (2) BM biopsy showing age-adjusted hypercellularity with panmyelosis (trilineage), (3) JAK2 V617F or JAK2 exon 12 mutation. Minor criterion: subnormal serum EPO. Diagnosis = all 3 major criteria OR first 2 major + minor. Aquagenic pruritus (from histamine release by mast cells/basophils) is characteristic of PV. Splenomegaly reflects extramedullary hematopoiesis. Treatment: low-risk <60y = phlebotomy + aspirin; high-risk or >60y = hydroxyurea.",
+"highYield": "PV diagnosis requires all 3 major WHO criteria: Hb/Hct threshold + BM panmyelosis + JAK2 mutation. Aquagenic pruritus + low EPO are characteristic features.",
+"pyqNote": "WHO 2016 PV diagnostic criteria and JAK2 mutation significance are directly tested in NEET PG hematology.",
+"tags": [
+"hematology",
+"polycythemia vera",
+"JAK2 V617F",
+"WHO 2016 criteria",
+"aquagenic pruritus",
+"panmyelosis",
+"myeloproliferative"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Infectious Disease - Infective Endocarditis",
+"difficulty": "medium",
+"stem": "A 45-year-old IV drug user presents with 3 weeks of fever, night sweats, and right-sided pleuritic chest pain. Examination reveals conjunctival petechiae (Roth spots), Janeway lesions on the palms, and Osler nodes on the finger pulps. Blood cultures grow Staphylococcus aureus in 3 of 4 bottles. Echocardiography shows a 1.2 cm mobile vegetation on the tricuspid valve with moderate tricuspid regurgitation. What criteria and what is the classification?",
+"options": [
+"Definite infective endocarditis by modified Duke criteria \u2014 2 major criteria met: (1) positive blood cultures (S. aureus in \u22652 separate cultures = typical organism), (2) new valvular regurgitation with vegetation on echo; minor criteria (Roth spots, Janeway lesions, Osler nodes, IVDU) also support; definite IE requires 2 major OR 1 major + 3 minor OR 5 minor criteria",
+"Possible infective endocarditis \u2014 only 1 major criterion (positive blood culture) is met; echocardiographic vegetation alone does not qualify as a major Duke criterion",
+"Definite IE by Duke criteria \u2014 1 major criterion (echo vegetation) + 4 minor criteria (fever, IVDU, Janeway lesions, Osler nodes) meets the threshold of 1 major + 3 minor",
+"Rejected Duke criteria \u2014 S. aureus bacteremia in an IVDU is more likely primary bacteremia than endocarditis; vegetations on echocardiography are non-specific and can represent non-bacterial thrombotic endocarditis"
+],
+"answer": 0,
+"explanation": "Modified Duke criteria for definite IE: 2 major criteria, OR 1 major + 3 minor, OR 5 minor. Major criteria: (1) positive blood cultures (typical organisms like S. aureus, viridans streptococci, HACEK in \u22652 cultures OR persistently positive), (2) evidence of endocardial involvement (echo showing vegetation/abscess OR new valvular regurgitation). Minor criteria: predisposing condition (IVDU, valve disease), fever >38\u00b0C, vascular phenomena (Janeway lesions, septic emboli), immunological phenomena (Osler nodes, Roth spots, positive RF), microbiological evidence not meeting major. This patient has 2 major criteria (S. aureus bacteremia + echo vegetation + TR) = definite IE. Treatment: IV nafcillin or vancomycin \u00d7 4-6 weeks.",
+"highYield": "Duke criteria: 2 major = definite IE. Major criteria: typical organism in \u22652 cultures + echo vegetation/new regurgitation. Janeway lesions = septic emboli (painless). Osler nodes = immune complexes (painful).",
+"pyqNote": "Duke criteria for IE and distinguishing Janeway lesions (painless) vs Osler nodes (painful) are classic NEET PG questions.",
+"tags": [
+"infectious disease",
+"infective endocarditis",
+"Duke criteria",
+"Staphylococcus aureus",
+"IVDU",
+"Janeway lesions",
+"Osler nodes"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Cardiology - Heart Failure Classification",
+"difficulty": "easy",
+"stem": "A 62-year-old man with a history of anterior MI 2 years ago presents with dyspnea on minimal exertion (climbing a few steps), orthopnea, and bilateral ankle edema. He can perform light household activities but not climb stairs without stopping. Echocardiography shows EF of 32%. Which NYHA functional class does he belong to and what is the ACC/AHA heart failure stage?",
+"options": [
+"NYHA Class III (marked limitation of physical activity; comfortable at rest; less than ordinary activity causes symptoms) + ACC/AHA Stage C (structural heart disease with prior or current symptoms of HF); EF 32% = HFrEF; treatment: ARNI/ACEi + beta-blocker + MRA + SGLT2i (quadruple therapy)",
+"NYHA Class II (slight limitation; comfortable at rest; ordinary activity causes symptoms) \u2014 the description of dyspnea on minimal exertion and stopping on stairs fits Class II not III",
+"NYHA Class IV (unable to carry on any physical activity; symptoms at rest) + ACC/AHA Stage D (refractory HF); EF 32% with any exertional limitation automatically qualifies for Class IV",
+"ACC/AHA Stage B (structural heart disease without symptoms of HF) \u2014 orthopnea and edema are not HF symptoms per ACC/AHA classification; Stage B requires asymptomatic LV dysfunction"
+],
+"answer": 0,
+"explanation": "NYHA classification: Class I = no limitation; Class II = slight limitation, ordinary activity causes symptoms; Class III = marked limitation, less than ordinary activity causes symptoms, comfortable at rest; Class IV = symptoms at rest, unable to carry on any activity without discomfort. Unable to climb stairs without stopping = marked limitation = Class III. ACC/AHA stages: Stage A = risk factors only (no structural disease); Stage B = structural disease, no symptoms; Stage C = structural disease with current/prior symptoms; Stage D = refractory. This patient has structural heart disease (post-MI, EF 32%) with active symptoms = Stage C. HFrEF (EF <40%) guideline-directed therapy: ARNI (sacubitril-valsartan) or ACEi + beta-blocker + MRA + SGLT2i.",
+"highYield": "NYHA III = dyspnea with less-than-ordinary activity, comfortable at rest. ACC/AHA Stage C = structural heart disease + HF symptoms. HFrEF quadruple therapy: ARNI + BB + MRA + SGLT2i.",
+"pyqNote": "NYHA class differentiation and ACC/AHA HF staging are standard NEET PG cardiology topics.",
+"tags": [
+"cardiology",
+"heart failure",
+"NYHA classification",
+"ACC/AHA staging",
+"HFrEF",
+"EF",
+"heart failure with reduced ejection fraction"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Neurology - Parkinson's Disease",
+"difficulty": "easy",
+"stem": "A 68-year-old man presents with 2 years of progressive resting tremor (pill-rolling) in his right hand, bradykinesia, and cogwheel rigidity. He also reports constipation, hyposmia, and REM sleep behavior disorder (acting out dreams). On examination, his posture is stooped, gait is shuffling with reduced arm swing, and he has hypomimia (masked facies). Levodopa trial results in significant symptom improvement. Which of the following is NOT a feature of idiopathic Parkinson's disease?",
+"options": [
+"Early prominent dementia or cognitive decline within 1 year of motor symptoms \u2014 this is a red flag suggesting dementia with Lewy bodies (DLB) not PD; in PD, dementia occurs late (>1 year after motor onset = Parkinson's disease dementia PDD)",
+"Resting tremor \u2014 3-6 Hz pill-rolling tremor that disappears with voluntary movement is the classic tremor of PD and a core feature",
+"Constipation and hyposmia as non-motor prodromal symptoms \u2014 these pre-date motor symptoms by years in PD and are part of Braak staging (early Lewy body pathology in enteric nerves and olfactory bulb)",
+"Levodopa responsiveness \u2014 a clear and dramatic response to levodopa is a supportive criterion for idiopathic PD and helps distinguish it from atypical Parkinsonism syndromes"
+],
+"answer": 0,
+"explanation": "UK Parkinson's Disease Society Brain Bank criteria for PD: Bradykinesia + at least one of rigidity, resting tremor, postural instability, with levodopa responsiveness. Red flags against PD diagnosis: early falls (PSP), early dementia within 1 year (DLB), rapid progression, cerebellar signs, autonomic failure (MSA), downward gaze palsy (PSP), and symmetric onset. Dementia with Lewy bodies (DLB): dementia precedes or occurs within 1 year of motor features (1-year rule). Parkinson's disease dementia (PDD): dementia occurs >1 year after well-established motor disease. Non-motor features (hyposmia, constipation, REM sleep behavior disorder) are part of prodromal PD \u2014 they support the diagnosis.",
+"highYield": "Red flag against PD: dementia within 1 year of motor onset = DLB. PDD = dementia >1 year after motor onset. REM sleep behavior disorder + hyposmia = prodromal PD markers.",
+"pyqNote": "PD red flags, DLB 1-year rule, and prodromal non-motor symptoms are tested in NEET PG neurology.",
+"tags": [
+"neurology",
+"Parkinson's disease",
+"DLB",
+"Parkinson's disease dementia",
+"red flags",
+"REM sleep behavior disorder",
+"UK Brain Bank criteria"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Hematology - Sickle Cell Crisis",
+"difficulty": "medium",
+"stem": "A 22-year-old man with sickle cell disease presents with severe right hip pain for 2 days, fever of 38.8\u00b0C, and right hip tenderness. X-ray of the hip shows flattening of the femoral head. WBC is 18,000/\u00b5L. Hb is 7.4 g/dL (baseline 7.8 g/dL). CRP is 85 mg/L. He is on hydroxyurea. What is the most likely complication and the most common causative organism if infection is suspected?",
+"options": [
+"Avascular necrosis (AVN) of the femoral head \u2014 the most common large joint complication of SCD; caused by vaso-occlusion in the femoral head microcirculation; flattening on X-ray represents late AVN; if septic arthritis is also suspected, the most common organism in SCD is Salmonella species (not Staphylococcus as in general population)",
+"Acute vaso-occlusive (painful) crisis \u2014 hip pain is the most common presentation; flattening of the femoral head is a normal X-ray finding and does not indicate AVN; MRI is required to diagnose AVN",
+"Septic arthritis in SCD \u2014 Staphylococcus aureus is the most common organism; empiric antibiotics should cover MSSA; Salmonella infection in SCD is a myth propagated in textbooks",
+"Osteomyelitis due to Streptococcus pneumoniae \u2014 functional asplenia in SCD makes encapsulated organisms (Pneumococcus, H. influenzae) the most feared pathogens in ALL SCD complications including bone"
+],
+"answer": 0,
+"explanation": "AVN (aseptic necrosis) of the femoral head is the most common large joint complication of SCD, occurring due to ischemia from vaso-occlusion. X-ray findings progress: early = normal, then increased density, then flattening (subchondral collapse = crescent sign). Fever and elevated WBC/CRP can occur in painful crisis or secondary infection. Distinguishing AVN from osteomyelitis/septic arthritis requires MRI and joint aspiration. Regarding infection: in SCD, functional asplenia predisposes to Salmonella osteomyelitis (the classic teaching) \u2014 Salmonella is uniquely common in SCD bone infections compared to general population where S. aureus predominates. Pneumococcal vaccine and penicillin prophylaxis are standard SCD care.",
+"highYield": "AVN = most common large joint complication of SCD. Salmonella = most common organism in SCD osteomyelitis (unlike general population = Staphylococcus). Hydroxyurea reduces vaso-occlusive crises.",
+"pyqNote": "Salmonella as the most common cause of osteomyelitis in SCD is a classic NEET PG distinction question.",
+"tags": [
+"hematology",
+"sickle cell disease",
+"avascular necrosis",
+"Salmonella",
+"osteomyelitis",
+"vaso-occlusion",
+"sickle cell complication"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Rheumatology - Gout",
+"difficulty": "easy",
+"stem": "A 52-year-old obese man with hypertension on hydrochlorothiazide presents with the 3rd acute attack of severe pain, redness, and swelling of the first metatarsophalangeal joint (podagra). Serum uric acid is 9.8 mg/dL. Joint aspirate from a previous attack showed negatively birefringent needle-shaped crystals under polarized light. He takes aspirin 81 mg/day and has a creatinine of 1.0 mg/dL. What is the treatment plan for chronic gout management?",
+"options": [
+"Urate-lowering therapy (ULT) with allopurinol (xanthine oxidase inhibitor) targeting serum uric acid <6 mg/dL; continue prophylactic colchicine 0.5-0.6 mg once or twice daily for \u22653-6 months during initiation of ULT to prevent acute flares; discontinue hydrochlorothiazide if possible (it raises uric acid); avoid aspirin at low doses (paradoxically raises uric acid)",
+"Acute attack only management with colchicine; no urate-lowering therapy is indicated until the patient has \u22655 attacks per year; serum uric acid of 9.8 mg/dL does not require treatment in the absence of tophi",
+"Allopurinol alone without colchicine prophylaxis; starting allopurinol does not trigger acute flares and colchicine is only needed during the acute attack",
+"Febuxostat is preferred over allopurinol in all patients with normal renal function; allopurinol is contraindicated with any diuretic use due to allopurinol-diuretic drug interaction causing fatal reactions"
+],
+"answer": 0,
+"explanation": "Indications for ULT in gout: \u22652 attacks/year, tophi, uric acid nephrolithiasis, CKD stage \u22652, or serum UA >9 mg/dL (some guidelines). This patient has \u22652 attacks + UA 9.8 mg/dL. Allopurinol is first-line ULT; start at 100 mg/day and titrate to target UA <6 mg/dL (<5 mg/dL if tophi). Key: initiation of ULT can precipitate acute flares due to urate crystal mobilization; colchicine prophylaxis 0.5-0.6 mg daily for \u22653-6 months is mandatory during initiation. Hydrochlorothiazide raises uric acid (substitute with losartan which is uricosuric). Low-dose aspirin raises uric acid by reducing renal clearance; avoid or discuss risk-benefit. Febuxostat: use if allopurinol intolerant; has FDA black box warning for cardiovascular mortality.",
+"highYield": "Gout ULT: target UA <6 mg/dL with allopurinol. Start colchicine prophylaxis for \u22653-6 months at ULT initiation. HCTZ raises UA; low-dose aspirin raises UA.",
+"pyqNote": "Colchicine prophylaxis with ULT initiation and target uric acid levels are tested in NEET PG rheumatology/medicine.",
+"tags": [
+"rheumatology",
+"gout",
+"allopurinol",
+"urate-lowering therapy",
+"colchicine prophylaxis",
+"podagra",
+"uric acid target"
+]
+},
+{
+"subject": "Medicine",
+"topic": "Endocrinology - Diabetes Ketoacidosis",
+"difficulty": "medium",
+"stem": "A 19-year-old man with Type 1 DM presents with vomiting and polyuria for 2 days after missing his insulin. Vitals: BP 90/60 mmHg, HR 124 bpm, RR 28 breaths/min (Kussmaul), temperature 37.2\u00b0C. Labs: glucose 485 mg/dL, sodium 128 mEq/L, potassium 5.8 mEq/L, bicarbonate 8 mEq/L, pH 7.12, chloride 92 mEq/L, ketones 3+ (urine and serum). Anion gap = 128 - (92+8) = 28 mEq/L. What is the most critical immediate intervention before starting insulin?",
+"options": [
+"IV fluid resuscitation with normal saline (0.9% NaCl) 1-2 L over the first hour to restore intravascular volume; do NOT give insulin before checking potassium \u2014 serum K+ 5.8 mEq/L appears high but will drop rapidly with insulin; wait until K+ >3.5 mEq/L before starting insulin; monitor K+ hourly",
+"Immediate insulin bolus IV 0.1 units/kg followed by infusion \u2014 insulin must be given first to stop ketogenesis; fluid resuscitation can be deferred until glucose is below 250 mg/dL",
+"IV sodium bicarbonate infusion to correct pH 7.12 \u2014 bicarbonate is routinely given when pH <7.2 to prevent cardiac arrhythmias before any other intervention",
+"Potassium replacement 40 mEq/hr immediately \u2014 serum K+ 5.8 mEq/L is falsely elevated in DKA due to acidosis; the true total body K+ is depleted and must be replaced before any other treatment"
+],
+"answer": 0,
+"explanation": "DKA management priorities: (1) IV fluids FIRST \u2014 normal saline 1-2 L bolus for hemodynamic stabilization; corrects the hypertonicity and pre-renal state. (2) Potassium: DKA patients are total-body K+ depleted despite elevated serum K+ (due to acidosis-driven extracellular shift). Insulin drives K+ intracellularly, causing life-threatening hypokalemia. Rule: start insulin ONLY when K+ >3.5 mEq/L; replace K+ to keep 3.5-5 mEq/L. (3) Insulin: 0.1 units/kg/hr continuous infusion after fluids and K+ correction. (4) Bicarbonate: NOT routinely given; only considered if pH <6.9. Corrected sodium = measured Na + 1.6 \u00d7 (glucose-100)/100 = 128 + 6 = 134 (mildly depleted).",
+"highYield": "DKA: Fluids FIRST (NS 1-2 L/hr), then check K+ \u2014 do NOT start insulin if K+ <3.5. Bicarbonate only if pH <6.9. Total body K+ depleted despite high serum K+ in acidosis.",
+"pyqNote": "DKA management sequence and potassium threshold before insulin are among the highest-yield NEET PG emergency medicine topics.",
+"tags": [
+"endocrinology",
+"DKA",
+"diabetic ketoacidosis",
+"Type 1 diabetes",
+"potassium",
+"insulin protocol",
+"IV fluids",
+"Kussmaul breathing"
+]
+}
+]

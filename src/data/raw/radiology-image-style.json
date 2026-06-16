@@ -1,0 +1,880 @@
+[
+{
+"subject": "Radiology",
+"topic": "Chest X-ray \u2013 Cardiac Silhouette",
+"difficulty": "medium",
+"stem": "A chest X-ray of a 5-year-old child with cyanosis since birth shows a boot-shaped cardiac silhouette. The cardiac apex is upturned, the pulmonary bay is concave, and pulmonary vascular markings are decreased. The most likely diagnosis is:",
+"options": [
+"Tetralogy of Fallot",
+"Total Anomalous Pulmonary Venous Connection",
+"Transposition of Great Arteries",
+"Ebstein's Anomaly"
+],
+"answer": 0,
+"explanation": "The 'boot-shaped heart' (coeur en sabot) on CXR is pathognomonic of Tetralogy of Fallot. Right ventricular hypertrophy causes the upturned apex, while pulmonary stenosis causes a concave pulmonary bay and decreased pulmonary vascular markings. TAPVC shows a 'snowman' or 'figure-of-8' heart. TGA shows an 'egg-on-string' appearance. Ebstein's shows a massively enlarged right atrium (box-shaped heart).",
+"highYield": "Boot-shaped heart with decreased pulmonary vascularity = ToF",
+"pyqNote": "Repeated in NEET PG and AIIMS PG almost every year; highest-yield cardiac X-ray question",
+"tags": [
+"CXR",
+"cardiac",
+"ToF",
+"boot-shaped heart",
+"cyanotic CHD"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Chest X-ray \u2013 Cardiac Silhouette",
+"difficulty": "medium",
+"stem": "A chest X-ray of a neonate with cyanosis shows an egg-shaped cardiac shadow with a narrow superior mediastinum and increased pulmonary vascular markings. The right heart border is abnormally prominent. The most likely diagnosis is:",
+"options": [
+"Tetralogy of Fallot",
+"Transposition of Great Arteries",
+"Total Anomalous Pulmonary Venous Connection",
+"Truncus Arteriosus"
+],
+"answer": 1,
+"explanation": "The 'egg-on-string' (or egg-on-side) appearance in TGA results from the parallel arrangement of the aorta and pulmonary artery, which narrows the superior mediastinum and gives the cardiac shadow an ovoid appearance. Pulmonary vascularity is increased because the pulmonary circuit receives mixed blood under high flow. The narrow pedicle ('string') is due to the AP relationship of great vessels lying on top of each other rather than side-by-side.",
+"highYield": "Egg-on-string heart with narrow pedicle and increased vascularity = TGA",
+"pyqNote": "High-frequency question; often paired with ToF boot-shaped heart in single-best-answer format",
+"tags": [
+"CXR",
+"TGA",
+"egg-on-string",
+"cyanotic CHD",
+"neonatal radiology"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Chest X-ray \u2013 Cardiac Silhouette",
+"difficulty": "hard",
+"stem": "A chest X-ray of a 6-week-old neonate with respiratory distress shows a 'snowman' or 'figure-of-8' cardiac silhouette. The upper mediastinum is widened bilaterally by a vertical vein shadow. Pulmonary vascular markings are markedly increased. The most likely diagnosis is:",
+"options": [
+"Tetralogy of Fallot",
+"Transposition of Great Arteries",
+"Total Anomalous Pulmonary Venous Connection (supracardiac)",
+"Truncus Arteriosus"
+],
+"answer": 2,
+"explanation": "Supracardiac TAPVC is the only congenital anomaly producing the classic 'snowman' or 'figure-of-8' cardiac silhouette. The upper part of the snowman is formed by the left vertical vein + left SVC + innominate vein + right SVC creating a dense shadow in the superior mediastinum. The lower part is the enlarged cardiac shadow. Pulmonary vascularity is markedly increased as all pulmonary venous blood drains anomalously into the systemic venous system. It does not occur in other cyanotic lesions.",
+"highYield": "Snowman/figure-of-8 heart = supracardiac TAPVC",
+"pyqNote": "Distinguishing TAPVC from TGA and ToF on CXR is a classic NEET PG trap",
+"tags": [
+"CXR",
+"TAPVC",
+"snowman heart",
+"supracardiac",
+"cyanotic CHD"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Chest X-ray \u2013 Pulmonary Opacities",
+"difficulty": "medium",
+"stem": "A chest X-ray of a 55-year-old patient in the ICU with acute onset dyspnea shows bilateral perihilar haziness in a 'bat-wing' or 'butterfly' pattern. Cardiomegaly is present, Kerley B lines are visible at the costophrenic angles, and there is blunting of both costophrenic angles. The most likely diagnosis is:",
+"options": [
+"Bilateral pneumonia",
+"Acute pulmonary edema",
+"Miliary tuberculosis",
+"Sarcoidosis"
+],
+"answer": 1,
+"explanation": "The bat-wing/butterfly pattern of bilateral perihilar haziness with sparing of the lung periphery is a hallmark of acute cardiogenic pulmonary edema. Cardiomegaly, Kerley B lines (horizontal lines at the lung periphery representing distended lymphatics), and bilateral pleural effusions all confirm increased pulmonary venous pressure. Miliary TB shows uniformly distributed 1-2mm nodules. Bilateral pneumonia shows patchy consolidation without the central predominance or Kerley lines. Sarcoidosis typically shows hilar lymphadenopathy with upper-lobe predominant changes.",
+"highYield": "Bat-wing opacity + Kerley B lines + cardiomegaly = cardiogenic pulmonary edema",
+"pyqNote": "Bat-wing pattern and Kerley B lines appear frequently in pulmonary edema questions",
+"tags": [
+"CXR",
+"pulmonary edema",
+"bat-wing",
+"butterfly opacity",
+"Kerley B lines"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Chest X-ray \u2013 Pulmonary Nodule",
+"difficulty": "medium",
+"stem": "A chest X-ray of a 40-year-old asymptomatic man shows a well-defined 2 cm rounded opacity in the right middle zone with a 'target lesion' appearance \u2014 concentric rings of calcification ('bull's eye' calcification). There is no hilar lymphadenopathy. The most likely diagnosis is:",
+"options": [
+"Primary lung carcinoma",
+"Pulmonary hamartoma",
+"Pulmonary histoplasmoma",
+"Carcinoid tumor"
+],
+"answer": 2,
+"explanation": "Concentric rings (target or bull's eye) calcification within a pulmonary coin lesion is pathognomonic of a healed histoplasmoma (Histoplasma capsulatum granuloma). Hamartoma classically shows 'popcorn' calcification (multiple punctate foci resembling exploded popcorn) and is the most common benign pulmonary coin lesion. Primary lung carcinoma rarely calcifies and when it does shows an eccentric pattern. Carcinoid tumors are endobronchial, enhance vividly on CT, and are rarely calcified. Target calcification = histoplasmoma is the key differentiator.",
+"highYield": "Target/bull's eye calcification in coin lesion = histoplasmoma",
+"pyqNote": "Calcification patterns in pulmonary coin lesions are a repeated NEET PG one-liner",
+"tags": [
+"CXR",
+"coin lesion",
+"calcification",
+"histoplasmoma",
+"target lesion"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Chest X-ray \u2013 Pulmonary Nodule",
+"difficulty": "medium",
+"stem": "A chest X-ray of a 50-year-old non-smoker shows a well-defined 1.5 cm rounded opacity in the left lower zone. CT shows 'popcorn' calcification \u2014 multiple punctate calcific foci scattered throughout the lesion. The lesion has been stable in size for 3 years. The most likely diagnosis is:",
+"options": [
+"Pulmonary hamartoma",
+"Pulmonary histoplasmoma",
+"Primary lung adenocarcinoma",
+"Pulmonary carcinoid"
+],
+"answer": 0,
+"explanation": "Popcorn calcification scattered throughout the lesion is the hallmark of a pulmonary hamartoma \u2014 the most common benign lung tumor. It is composed of mesenchymal elements (cartilage, fat, connective tissue, smooth muscle), and the CT finding of fat attenuation within the lesion is also diagnostic. Stability over 3 years further supports a benign etiology. Histoplasmoma shows target (concentric ring) calcification. Adenocarcinoma rarely calcifies and grows over time. Carcinoid is typically endobronchial with homogeneous enhancement.",
+"highYield": "Popcorn calcification in stable pulmonary nodule = hamartoma",
+"pyqNote": "Most common benign coin lesion in adults \u2014 frequently tested in differentiation questions",
+"tags": [
+"CXR",
+"hamartoma",
+"popcorn calcification",
+"coin lesion",
+"benign pulmonary nodule"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Chest X-ray \u2013 Miliary Pattern",
+"difficulty": "medium",
+"stem": "A chest X-ray of a 28-year-old immunocompromised HIV-positive patient shows uniformly distributed, well-defined 1\u20132 mm nodules scattered throughout both lung fields from apex to base with equal density. There is no hilar lymphadenopathy visible. The most likely diagnosis is:",
+"options": [
+"Sarcoidosis",
+"Miliary tuberculosis",
+"Pulmonary metastases",
+"Silicosis"
+],
+"answer": 1,
+"explanation": "Miliary TB classically shows uniform 1\u20132 mm ('millet seed') nodules distributed randomly throughout both lungs from apex to base, including behind the heart and diaphragm. The absence of hilar lymphadenopathy in this HIV patient suggests a compromised immune response (anergic state). Sarcoidosis nodules are larger (3\u20135 mm), have an upper-lobe predominance and lymphangitic distribution, and virtually always have bilateral hilar lymphadenopathy. Metastases are typically larger and randomly distributed. Silicosis has upper-lobe predominance and eggshell calcification of lymph nodes.",
+"highYield": "Uniform 1-2 mm nodules apex to base = miliary TB; random distribution is key",
+"pyqNote": "Miliary pattern differential appears in nearly every NEET PG radiology section",
+"tags": [
+"CXR",
+"miliary TB",
+"miliary pattern",
+"HIV",
+"nodules"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Chest X-ray \u2013 Pediatric",
+"difficulty": "easy",
+"stem": "A chest X-ray of a healthy 3-year-old child taken for a mild fever shows a triangular opacity projecting from the right mediastinal border, obliterating the right cardiac border partially. On a lateral view, it appears anterior and superior. The child has no respiratory symptoms and the trachea is central. The most likely explanation is:",
+"options": [
+"Right upper lobe pneumonia",
+"Normal thymic shadow (Sail sign)",
+"Right paratracheal lymphadenopathy",
+"Anterior mediastinal mass"
+],
+"answer": 1,
+"explanation": "The sail sign (or thymic sail) is a normal variant in children under 3\u20134 years of age where the thymus produces a triangular opacity that projects from the superior mediastinum, typically on the right side, resembling a sailing boat. It has a wavy right border (thymic wave sign) and is continuous with the cardiac silhouette. Unlike pathological masses, the thymus does not displace the trachea, is not associated with respiratory symptoms, and shrinks with stress or steroid treatment. On lateral view it occupies the anterior mediastinum. It must not be mistaken for pneumonia or a mediastinal mass.",
+"highYield": "Triangular right mediastinal opacity in a child under 3 = thymic sail sign (normal)",
+"pyqNote": "Classic pediatric CXR question \u2014 examiners frequently ask whether this is normal or pathological",
+"tags": [
+"CXR",
+"sail sign",
+"thymus",
+"pediatric radiology",
+"normal variant"
+]
+},
+{
+"subject": "Radiology",
+"topic": "HRCT Chest \u2013 Interstitial Lung Disease",
+"difficulty": "hard",
+"stem": "HRCT chest of a 65-year-old male smoker with progressive dyspnea over 3 years shows bilateral basal and subpleural predominant reticulation, honeycombing with a peripheral distribution, and traction bronchiectasis. Ground glass opacities are minimal. There is no hilar lymphadenopathy. The pattern is most consistent with:",
+"options": [
+"Nonspecific Interstitial Pneumonia (NSIP)",
+"Usual Interstitial Pneumonia (UIP) \u2014 Idiopathic Pulmonary Fibrosis",
+"Desquamative Interstitial Pneumonia (DIP)",
+"Cryptogenic Organizing Pneumonia (COP)"
+],
+"answer": 1,
+"explanation": "The HRCT pattern of bilateral basal subpleural reticulation with honeycombing and traction bronchiectasis with minimal GGO is the hallmark UIP (Usual Interstitial Pneumonia) pattern, which is the pathological and radiological substrate of Idiopathic Pulmonary Fibrosis (IPF). Honeycombing (clustered air-filled cystic spaces with thick walls) is the key distinguishing feature of UIP over NSIP. NSIP shows bilateral basal GGO-predominant changes with subpleural sparing and no honeycombing. DIP shows diffuse bilateral GGO. COP shows peripheral consolidation with peribronchial distribution.",
+"highYield": "Basal subpleural honeycombing + traction bronchiectasis = UIP/IPF on HRCT",
+"pyqNote": "UIP vs NSIP differentiation on HRCT is a core NEET PG radiology question",
+"tags": [
+"HRCT",
+"IPF",
+"UIP",
+"honeycombing",
+"interstitial lung disease"
+]
+},
+{
+"subject": "Radiology",
+"topic": "HRCT Chest \u2013 Interstitial Lung Disease",
+"difficulty": "hard",
+"stem": "HRCT chest of a 45-year-old woman with systemic sclerosis shows bilateral basal ground glass opacities with a subpleural sparing pattern. There is fine reticulation but no honeycombing. Traction bronchiectasis is present. The pattern is most consistent with:",
+"options": [
+"Usual Interstitial Pneumonia (UIP)",
+"Nonspecific Interstitial Pneumonia (NSIP)",
+"Hypersensitivity Pneumonitis",
+"Lymphoid Interstitial Pneumonia (LIP)"
+],
+"answer": 1,
+"explanation": "NSIP is the most common ILD associated with connective tissue diseases, especially systemic sclerosis (scleroderma). The hallmark HRCT features are bilateral basal ground glass opacities with subpleural sparing (a feature not seen in UIP), fine reticulation, and traction bronchiectasis. The absence of honeycombing differentiates NSIP from UIP. Subpleural sparing is the key CT finding that distinguishes NSIP from UIP. Hypersensitivity pneumonitis shows upper/mid-lobe predominance and centrilobular nodules. LIP shows diffuse GGO with thin-walled cysts.",
+"highYield": "Bilateral basal GGO with subpleural sparing and no honeycombing = NSIP",
+"pyqNote": "Subpleural sparing is the single most important distinguishing CT sign of NSIP vs UIP",
+"tags": [
+"HRCT",
+"NSIP",
+"scleroderma",
+"subpleural sparing",
+"ILD"
+]
+},
+{
+"subject": "Radiology",
+"topic": "CT Abdomen \u2013 Appendicitis",
+"difficulty": "easy",
+"stem": "CT abdomen of a 22-year-old male with right iliac fossa pain shows a tubular blind-ending structure in the right iliac fossa with a wall thickness of 8 mm. Periappendiceal fat stranding is seen. A 5 mm hyperdense focus is seen at the base of the appendix in the lumen. No free air is noted. The most likely diagnosis is:",
+"options": [
+"Crohn's disease of the terminal ileum",
+"Acute appendicitis with fecalith",
+"Right ovarian cyst",
+"Mesenteric lymphadenitis"
+],
+"answer": 1,
+"explanation": "CT is the gold standard for diagnosing acute appendicitis. The diagnostic criteria include an appendiceal wall thickness >6 mm (normal is <6 mm), periappendiceal fat stranding indicating inflammation, a non-compressible blind-ending tubular structure, and a fecalith (calcified appendicolith visible as a hyperdense focus in the lumen). Free air or fluid would suggest perforation. Crohn's disease affects the terminal ileum with skip lesions and does not typically show a fecalith. Ovarian cysts would be lateral to the midline. Mesenteric lymphadenitis shows enlarged lymph nodes with a normal appendix.",
+"highYield": "Appendix wall >6mm + fat stranding + fecalith on CT = acute appendicitis",
+"pyqNote": "CT criteria for appendicitis, especially the 6 mm wall thickness cutoff, is frequently examined",
+"tags": [
+"CT abdomen",
+"appendicitis",
+"fecalith",
+"fat stranding",
+"wall thickness"
+]
+},
+{
+"subject": "Radiology",
+"topic": "CT Abdomen \u2013 Pancreatitis (Balthazar Grading)",
+"difficulty": "hard",
+"stem": "CECT abdomen of a 45-year-old male with severe epigastric pain and elevated serum amylase shows a markedly edematous pancreas with heterogeneous enhancement. There are two peripancreatic fluid collections \u2014 one in the lesser sac and one along the left paracolic gutter. No gas is seen within these collections. The pancreatic parenchyma enhances throughout. What is the Balthazar CT Severity Index (CTSI) grade?",
+"options": [
+"Balthazar Grade B \u2014 CTSI 1",
+"Balthazar Grade C \u2014 CTSI 2",
+"Balthazar Grade D \u2014 CTSI 4",
+"Balthazar Grade E \u2014 CTSI 10"
+],
+"answer": 2,
+"explanation": "Balthazar grading: A = normal pancreas (0 pts), B = pancreatic enlargement only (1 pt), C = pancreatic inflammation + peripancreatic fat changes (2 pts), D = single peripancreatic fluid collection (3 pts), E = two or more fluid collections or gas in/adjacent to pancreas (4 pts). In this case, 2 peripancreatic fluid collections = Grade E (4 pts). However, since pancreatic necrosis is absent (enhancing throughout), the necrosis score is 0. Therefore CTSI = 4 + 0 = 4, which corresponds to Grade D scoring. Note: The grade is E but no necrosis gives CTSI 4. Grades D/E with necrosis carry the highest morbidity and mortality.",
+"highYield": "Two or more peripancreatic fluid collections = Balthazar Grade E",
+"pyqNote": "Balthazar grading A through E and CTSI calculation appear regularly in surgery/radiology combined questions",
+"tags": [
+"CT abdomen",
+"pancreatitis",
+"Balthazar grading",
+"CTSI",
+"peripancreatic fluid"
+]
+},
+{
+"subject": "Radiology",
+"topic": "CT Aorta \u2013 Aortic Dissection",
+"difficulty": "hard",
+"stem": "CT angiography of the aorta in a 60-year-old hypertensive male with sudden-onset tearing chest pain radiating to the back shows a linear low-density intimal flap within the aortic lumen, dividing it into two channels. The anterior (true) lumen appears smaller. The posterior (false) lumen is larger and shows slower contrast flow. The false lumen shows a 'beak sign'. The dissection begins just distal to the left subclavian artery. This is classified as:",
+"options": [
+"DeBakey Type I aortic dissection",
+"DeBakey Type II aortic dissection",
+"Stanford Type B aortic dissection",
+"Stanford Type A aortic dissection"
+],
+"answer": 2,
+"explanation": "Stanford classification: Type A involves the ascending aorta (regardless of origin); Type B does not involve the ascending aorta. DeBakey: Type I = ascending + descending; Type II = ascending only; Type III = descending only. This dissection begins distal to the left subclavian artery (descending aorta only) \u2014 therefore it is Stanford Type B = DeBakey Type III. The 'beak sign' is a CT sign where the acute angle of the false lumen at its periphery forms a beak-like projection, helping identify the false lumen. The true lumen is typically smaller, more anterior, and has faster contrast flow.",
+"highYield": "Dissection distal to left subclavian = Stanford Type B; no ascending involvement",
+"pyqNote": "Aortic dissection classification (Stanford vs DeBakey) is a must-know NEET PG question",
+"tags": [
+"CT angiography",
+"aortic dissection",
+"Stanford",
+"DeBakey",
+"beak sign"
+]
+},
+{
+"subject": "Radiology",
+"topic": "MRI \u2013 Signal Characteristics",
+"difficulty": "medium",
+"stem": "MRI brain of a 30-year-old patient shows a well-defined lesion in the right temporal lobe that is hyperintense (bright) on T1-weighted images and isointense to slightly hyperintense on T2-weighted images. The lesion does not suppress on fat suppression sequences. The most likely diagnosis is:",
+"options": [
+"Acute ischemic infarct",
+"Epidermoid cyst",
+"Subacute hemorrhage (methemoglobin)",
+"Simple arachnoid cyst"
+],
+"answer": 2,
+"explanation": "T1 bright (hyperintense) lesions on MRI brain have a classic mnemonic: Fat, Blood (methemoglobin), Melanin, Protein (highly proteinaceous), Gadolinium, Manganese (FaBMPGM). Subacute hemorrhage contains methemoglobin (both intracellular and extracellular forms) which is T1 bright due to dipole-dipole interaction. Fat is also T1 bright but suppresses on fat-saturation sequences (this lesion does not). Acute infarct is T1 dark (hypointense) and T2 bright. Epidermoid cyst follows CSF on T1/T2 but is DWI-restricted. Simple arachnoid cyst follows CSF (T1 dark, T2 bright).",
+"highYield": "T1 bright lesions: Fat, Blood (methemoglobin), Melanin, Protein, Gadolinium",
+"pyqNote": "T1 and T2 signal characteristics appear in almost every NEET PG MRI-based question",
+"tags": [
+"MRI",
+"T1 bright",
+"methemoglobin",
+"subacute hemorrhage",
+"signal characteristics"
+]
+},
+{
+"subject": "Radiology",
+"topic": "MRI \u2013 DWI (Diffusion-Weighted Imaging)",
+"difficulty": "medium",
+"stem": "MRI brain of a 68-year-old hypertensive patient with sudden onset left-sided weakness shows a wedge-shaped area in the right MCA territory that is bright on DWI (diffusion-weighted imaging) and dark on ADC (apparent diffusion coefficient) map. On FLAIR, the area is not yet bright. The time since onset is most likely:",
+"options": [
+">24 hours (subacute infarct)",
+"<6 hours (hyperacute infarct)",
+"1\u20133 weeks (chronic infarct)",
+">4 weeks (old infarct)"
+],
+"answer": 1,
+"explanation": "DWI bright + ADC dark = restricted diffusion = acute/hyperacute ischemic infarct. In acute infarction, cytotoxic edema leads to water moving from extracellular to intracellular space, restricting Brownian motion of water molecules. DWI detects this within 30 minutes of onset. FLAIR becomes positive at 6\u201312 hours, so a DWI-FLAIR mismatch (DWI bright, FLAIR dark) indicates the stroke is less than 6 hours old \u2014 the 'DWI-FLAIR mismatch' sign. This is used to identify patients who may benefit from thrombolysis when the exact onset time is unknown. Subacute infarct (days\u2013weeks) eventually becomes T2/FLAIR bright. Chronic infarct shows encephalomalacia.",
+"highYield": "DWI bright + ADC dark + FLAIR negative = hyperacute stroke (<6 hours)",
+"pyqNote": "DWI-FLAIR mismatch is a modern NEET PG favorite; restricted diffusion concept is core",
+"tags": [
+"MRI",
+"DWI",
+"ADC",
+"acute infarct",
+"restricted diffusion",
+"FLAIR mismatch"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Abdominal X-ray \u2013 Pneumoperitoneum",
+"difficulty": "medium",
+"stem": "An erect chest X-ray of a 55-year-old male with sudden severe abdominal pain shows free air under both domes of the diaphragm as crescentic lucencies. A plain X-ray of the abdomen in the supine position shows gas outlining both sides of the bowel wall simultaneously \u2014 the inner (mucosal) and outer (serosal) surfaces of the bowel are both visible as distinct lines. This sign is called:",
+"options": [
+"Rigler's sign",
+"Football sign",
+"String of beads sign",
+"Double bubble sign"
+],
+"answer": 0,
+"explanation": "Rigler's sign (also called the 'double wall sign') is the visibility of both the inner (luminal gas) and outer (peritoneal free gas) surfaces of the bowel wall simultaneously on a supine abdominal X-ray. Normally only the inner bowel wall is visible. This sign requires a significant amount of free intraperitoneal air (at least 800\u20131000 mL) and indicates pneumoperitoneum. The erect CXR showing free air under the diaphragm is the most sensitive X-ray sign. Football sign refers to a large oval lucency over the abdomen in neonates with pneumoperitoneum. String of beads = small bowel obstruction. Double bubble = duodenal atresia.",
+"highYield": "Rigler's sign = double wall sign = both bowel wall surfaces visible = pneumoperitoneum",
+"pyqNote": "Signs of pneumoperitoneum on plain X-ray are frequently tested; Rigler's vs football sign distinction matters",
+"tags": [
+"abdominal X-ray",
+"Rigler's sign",
+"pneumoperitoneum",
+"double wall sign",
+"free air"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Abdominal X-ray \u2013 Bowel Obstruction",
+"difficulty": "medium",
+"stem": "A plain X-ray abdomen (supine) of a 35-year-old male with colicky abdominal pain and vomiting shows multiple centrally placed loops of small bowel that are distended and show multiple small air-fluid levels arranged in an inverted U or stepladder pattern. On erect film, multiple small rounded gas bubbles are seen strung together in a row in the right iliac fossa. The diagnosis is:",
+"options": [
+"Large bowel obstruction",
+"Paralytic ileus",
+"Small bowel obstruction with 'string of beads' sign",
+"Mesenteric ischemia"
+],
+"answer": 2,
+"explanation": "The 'string of beads' (or 'string of pearls') sign on plain X-ray represents tiny gas bubbles trapped between the valvulae conniventes in fluid-filled, obstructed small bowel loops. It is seen on an erect or decubitus film and is pathognomonic of small bowel obstruction. The central location, plicated mucosal folds (valvulae conniventes visible across the full width of the bowel), and multiple air-fluid levels at different heights all point to small bowel obstruction. In contrast, large bowel obstruction shows peripheral haustra that do not cross the full diameter of the bowel. Paralytic ileus involves the entire bowel with no transition point.",
+"highYield": "String of beads sign on erect X-ray = small bowel obstruction",
+"pyqNote": "Small vs large bowel obstruction differentiation on plain X-ray is a classic surgical radiology question",
+"tags": [
+"abdominal X-ray",
+"small bowel obstruction",
+"string of beads",
+"valvulae conniventes",
+"air-fluid levels"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Abdominal X-ray \u2013 Neonatal",
+"difficulty": "medium",
+"stem": "A plain X-ray abdomen of a 1-day-old neonate with bilious vomiting and failure to pass meconium shows two large gas-filled structures in the upper abdomen \u2014 a large air-filled stomach on the left and a smaller gas-filled structure on the right (the first part of duodenum). The rest of the abdomen is gasless. The diagnosis is:",
+"options": [
+"Pyloric stenosis",
+"Duodenal atresia (Double bubble sign)",
+"Jejunal atresia",
+"Midgut volvulus"
+],
+"answer": 1,
+"explanation": "The 'double bubble' sign on plain X-ray of a neonate is pathognomonic of duodenal atresia. The two bubbles represent air in the stomach (large left bubble) and the dilated first part of the duodenum proximal to the atresia (smaller right bubble), with a gasless rest of abdomen. Bilious vomiting indicates the obstruction is distal to the ampulla of Vater (most cases of duodenal atresia). Duodenal atresia is strongly associated with Down syndrome (Trisomy 21) in 30% of cases. Pyloric stenosis shows a single large gas bubble (stomach only) with a 'caterpillar sign'. Jejunal atresia shows three or more bubbles (triple bubble).",
+"highYield": "Double bubble sign in neonate = duodenal atresia; associated with Down syndrome",
+"pyqNote": "Double bubble vs triple bubble vs single bubble neonatal signs appear every 2-3 years in NEET PG",
+"tags": [
+"abdominal X-ray",
+"double bubble sign",
+"duodenal atresia",
+"neonatal radiology",
+"Down syndrome"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Barium Studies \u2013 Esophagus",
+"difficulty": "medium",
+"stem": "Barium swallow of a 48-year-old man with progressive dysphagia to solids and liquids for 2 years shows a smooth, tapering 'rat-tail' or 'bird-beak' narrowing at the gastroesophageal junction. The esophagus above is massively dilated and tortuous. Peristalsis is absent on fluoroscopy. The most likely diagnosis is:",
+"options": [
+"Carcinoma of the esophagus",
+"Peptic stricture",
+"Achalasia cardia",
+"Diffuse esophageal spasm"
+],
+"answer": 2,
+"explanation": "Achalasia cardia is characterized on barium swallow by a smooth, symmetric, tapering narrowing at the lower esophageal sphincter producing the 'rat-tail' or 'bird-beak' (beak sign) appearance. The proximal esophagus is markedly dilated (megaesophagus). Fluoroscopy shows absent peristalsis (aperistalsis) and failure of the LES to relax. Importantly, the narrowing in achalasia is smooth and regular \u2014 in contrast to carcinoma of the esophagus, which produces an irregular 'rat-bite' narrowing with shouldering (abrupt transition, mucosal destruction). Peptic stricture shows a short smooth stricture above the Z-line with reflux. Diffuse esophageal spasm shows a 'corkscrew' esophagus.",
+"highYield": "Smooth bird-beak narrowing at GEJ + massively dilated esophagus + aperistalsis = achalasia",
+"pyqNote": "Rat-tail (achalasia) vs rat-bite (carcinoma) barium esophagus distinction is the most tested barium question in NEET PG",
+"tags": [
+"barium swallow",
+"achalasia",
+"rat-tail",
+"bird-beak",
+"esophageal motility"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Barium Studies \u2013 Esophagus",
+"difficulty": "medium",
+"stem": "Barium swallow of a 60-year-old male smoker with rapidly progressive dysphagia to solids over 3 months shows an irregular, asymmetric narrowing in the mid-esophagus with mucosal destruction. There is abrupt shouldering at the upper and lower margins of the stricture (shelf-like projections). The mucosa is completely destroyed within the lesion. The most likely diagnosis is:",
+"options": [
+"Achalasia cardia",
+"Peptic stricture",
+"Carcinoma of the esophagus",
+"Esophageal web"
+],
+"answer": 2,
+"explanation": "Carcinoma of the esophagus on barium swallow produces an irregular, asymmetric, 'rat-bite' appearance with shouldering \u2014 abrupt shelf-like projections at the transition between normal and abnormal esophagus (apple core lesion in the esophagus). Mucosal destruction is a hallmark of malignancy. The progression is rapid (weeks to months) and dysphagia is initially to solids only (later both). This contrasts with achalasia's smooth rat-tail narrowing, absent peristalsis, and dysphagia to both solids and liquids from the start. Peptic stricture is short, smooth, and located at the GEJ. Esophageal web is a thin, shelf-like projection in the upper esophagus.",
+"highYield": "Irregular rat-bite narrowing with shouldering = esophageal carcinoma; contrast with smooth rat-tail of achalasia",
+"pyqNote": "This distinction from achalasia is the single most frequently asked barium esophagus question",
+"tags": [
+"barium swallow",
+"esophageal carcinoma",
+"rat-bite",
+"shouldering",
+"apple core"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Barium Studies \u2013 Colon",
+"difficulty": "hard",
+"stem": "A barium enema of a 3-week-old neonate with failure to pass meconium shows a narrow, contracted rectosigmoid segment with an abrupt transition to a massively dilated, distended proximal colon (transition zone). The narrow segment shows no haustral markings. The most likely diagnosis is:",
+"options": [
+"Meconium ileus",
+"Colonic atresia",
+"Hirschsprung's disease",
+"Functional immaturity of the colon"
+],
+"answer": 2,
+"explanation": "Hirschsprung's disease (congenital aganglionic megacolon) is diagnosed on barium enema by the classic 'transition zone' \u2014 a narrowed aganglionic distal segment (usually rectosigmoid) transitioning abruptly to a massively dilated proximal colon containing normal ganglion cells. The narrowed segment lacks haustral markings and has an irregular saw-tooth appearance. The transition zone is at the recto-sigmoid junction in 75% of cases (short segment). Delayed films at 24 hours showing retained barium supports the diagnosis. Definitive diagnosis is by rectal suction biopsy showing absence of ganglion cells. Meconium ileus shows microcolon with pellets of meconium in the terminal ileum.",
+"highYield": "Transition zone with narrow rectosigmoid + dilated proximal colon on barium enema = Hirschsprung's",
+"pyqNote": "Hirschsprung's barium enema transition zone is a high-frequency NEET PG question",
+"tags": [
+"barium enema",
+"Hirschsprung's disease",
+"transition zone",
+"aganglionic megacolon",
+"neonatal"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Bone X-ray \u2013 Primary Bone Tumors",
+"difficulty": "medium",
+"stem": "A plain X-ray of the distal femur of a 16-year-old male with a painful swelling for 3 months shows a destructive metaphyseal lesion with an ill-defined zone of transition. There is periosteal elevation at the periphery of the lesion producing a triangular periosteal shadow at the cortical edge (Codman's triangle). Radiating spicules of new bone formation perpendicular to the cortex give a 'sunburst' appearance. The most likely diagnosis is:",
+"options": [
+"Ewing's sarcoma",
+"Giant cell tumor",
+"Osteosarcoma",
+"Chondrosarcoma"
+],
+"answer": 2,
+"explanation": "Osteosarcoma is the most common primary malignant bone tumor in adolescents, with a predilection for the distal femur and proximal tibia metaphysis. The classic X-ray findings are: (1) Codman's triangle \u2014 periosteal elevation at the margin of the tumor creating a triangular reactive periosteal bone, (2) sunburst pattern \u2014 radiating spicules of new bone perpendicular to the cortex (perpendicular periosteal reaction), and (3) ill-defined zone of transition indicating aggressive lesion. Ewing's sarcoma shows an onion-peel (lamellated) periosteal reaction in the diaphysis of long bones. Giant cell tumor shows soap-bubble epiphyseal lesion. Chondrosarcoma shows calcified chondroid matrix (rings and arcs).",
+"highYield": "Codman triangle + sunburst pattern in metaphysis of adolescent = osteosarcoma",
+"pyqNote": "Osteosarcoma vs Ewing's sarcoma X-ray distinction is the single most repeated bone tumor question in NEET PG",
+"tags": [
+"bone X-ray",
+"osteosarcoma",
+"Codman triangle",
+"sunburst",
+"periosteal reaction"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Bone X-ray \u2013 Primary Bone Tumors",
+"difficulty": "medium",
+"stem": "A plain X-ray of the mid-shaft of the femur of a 12-year-old child with fever, pain, and swelling shows a permeative destructive lesion in the diaphysis with multiple layers of periosteal new bone formation parallel to the cortex, resembling the layers of an onion. There is a large soft tissue mass. ESR is elevated. The most likely diagnosis is:",
+"options": [
+"Osteosarcoma",
+"Ewing's sarcoma",
+"Osteomyelitis",
+"Langerhans cell histiocytosis"
+],
+"answer": 1,
+"explanation": "Ewing's sarcoma characteristically involves the diaphysis (shaft) of long bones \u2014 in contrast to osteosarcoma which involves the metaphysis. The hallmark X-ray finding is an 'onion-peel' (lamellated) periosteal reaction with multiple parallel layers of new bone formation. A large soft tissue mass disproportionate to the bone destruction and systemic symptoms (fever, elevated ESR, leukocytosis) may mimic osteomyelitis ('great mimicker'). The age group (10\u201315 years), diaphyseal location, and onion-peel reaction clinch the diagnosis. Osteomyelitis can show similar periosteal reaction but lacks the soft tissue mass and has sequestrum/involucrum. LCH shows a 'hole-within-a-hole' or vertebra plana.",
+"highYield": "Onion-peel periosteal reaction in diaphysis of child = Ewing's sarcoma",
+"pyqNote": "Ewing's sarcoma is tested almost every year \u2014 diaphyseal location and onion-peel are the key distinguishers from osteosarcoma",
+"tags": [
+"bone X-ray",
+"Ewing's sarcoma",
+"onion peel",
+"diaphysis",
+"periosteal reaction"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Bone X-ray \u2013 Primary Bone Tumors",
+"difficulty": "medium",
+"stem": "A plain X-ray of the distal femur of a 30-year-old male with a painful bony swelling shows an eccentric, expansile, lytic lesion in the epiphysis extending to the articular surface. The lesion has a 'soap bubble' appearance with multiple internal trabeculations and a thin expanded cortical shell. There is no periosteal reaction and no calcification. The most likely diagnosis is:",
+"options": [
+"Osteosarcoma",
+"Aneurysmal bone cyst",
+"Giant cell tumor (GCT)",
+"Chondroblastoma"
+],
+"answer": 2,
+"explanation": "Giant cell tumor (GCT) occurs in skeletally mature adults (epiphyseal fusion complete) and has a classic epiphyseal location extending to the articular surface \u2014 the 'open-end-of-bone' lesion. The 'soap bubble' appearance reflects the internal trabeculations. The lesion is eccentric, expansile, lytic, and has NO matrix calcification and NO periosteal reaction (unless fractured). It is locally aggressive but can rarely metastasize. Aneurysmal bone cyst also shows soap bubble but is metaphyseal in children. Chondroblastoma is epiphyseal but occurs BEFORE epiphyseal fusion (adolescents) and often shows calcification. Osteosarcoma is metaphyseal with Codman triangle and sunburst.",
+"highYield": "Soap bubble epiphyseal lytic lesion touching articular surface in an adult = GCT",
+"pyqNote": "GCT location (epiphysis, subarticular) and soap bubble appearance are high-yield distinguishing features",
+"tags": [
+"bone X-ray",
+"giant cell tumor",
+"soap bubble",
+"epiphysis",
+"lytic lesion"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Bone X-ray \u2013 Fibrous Dysplasia",
+"difficulty": "medium",
+"stem": "A plain X-ray of the proximal femur of a 20-year-old female shows an expansile intramedullary lesion in the diaphysis and metaphysis with a 'ground glass' (hazy, smudgy) matrix opacity resembling frosted glass. The cortex is thinned but intact. There is no periosteal reaction. The proximal femur shows bowing deformity resembling a 'shepherd's crook' deformity. The most likely diagnosis is:",
+"options": [
+"Paget's disease of bone",
+"Fibrous dysplasia",
+"Non-ossifying fibroma",
+"Enchondroma"
+],
+"answer": 1,
+"explanation": "Fibrous dysplasia classically shows a 'ground glass' matrix density on plain X-ray \u2014 a hazy, homogeneous opacity caused by the fibrous tissue replacing normal trabecular bone. The shepherd's crook deformity of the proximal femur results from repeated stress fractures and bowing in the polyostotic form. It can be monostotic or polyostotic (McCune-Albright syndrome = polyostotic FD + caf\u00e9-au-lait spots + precocious puberty in females). The cortex is thinned but intact and there is no periosteal reaction. Paget's disease shows cortical thickening, coarse trabecular pattern, and 'blade of grass' lesion. Non-ossifying fibroma is metaphyseal with a sclerotic rim. Enchondroma shows stippled chondroid calcification.",
+"highYield": "Ground glass matrix + shepherd's crook deformity of femur = fibrous dysplasia",
+"pyqNote": "Fibrous dysplasia ground glass appearance and shepherd's crook deformity appear in bone radiology and orthopedics sections",
+"tags": [
+"bone X-ray",
+"fibrous dysplasia",
+"ground glass",
+"shepherd's crook",
+"McCune-Albright"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Joint X-ray \u2013 Osteoarthritis",
+"difficulty": "easy",
+"stem": "A plain X-ray of the knee of a 65-year-old obese woman with pain on movement and morning stiffness lasting less than 30 minutes shows narrowing of the medial joint space, subchondral sclerosis (increased bone density beneath the cartilage), marginal osteophytes (bone spurs) at the joint margins, and subchondral cysts (small lucent areas in the bone). The diagnosis is:",
+"options": [
+"Rheumatoid arthritis",
+"Osteoarthritis",
+"Gout",
+"Pseudogout (CPPD)"
+],
+"answer": 1,
+"explanation": "The four classic X-ray features of osteoarthritis can be remembered as LOSS: L = Loss of joint space (asymmetric, medial compartment predominantly in the knee), O = Osteophytes (marginal bony spurs), S = Subchondral sclerosis (eburnation), S = Subchondral cysts (geodes). OA is a non-inflammatory arthritis with brief morning stiffness (<30 min). Rheumatoid arthritis shows symmetrical joint space loss, periarticular osteoporosis, marginal erosions, and NO osteophytes. Gout shows rat-bite erosions with overhanging edges and soft tissue tophi. Pseudogout shows chondrocalcinosis (calcification in the cartilage).",
+"highYield": "LOSS mnemonic: Loss of space + Osteophytes + Subchondral sclerosis + Subchondral cysts = OA",
+"pyqNote": "OA vs RA differentiation on X-ray is a perennial NEET PG question across radiology, orthopedics, and medicine",
+"tags": [
+"knee X-ray",
+"osteoarthritis",
+"LOSS",
+"osteophytes",
+"subchondral sclerosis"
+]
+},
+{
+"subject": "Radiology",
+"topic": "CXR \u2013 Pleural Disease",
+"difficulty": "medium",
+"stem": "A PA chest X-ray of a 40-year-old male shows complete opacification of the right hemithorax with shift of the trachea and mediastinum to the LEFT (away from the opacity). The right intercostal spaces are widened. There is no air bronchogram within the opacity. The most likely diagnosis is:",
+"options": [
+"Right-sided massive pneumonia with collapse",
+"Right-sided massive pleural effusion",
+"Right lung collapse (atelectasis)",
+"Right-sided mesothelioma"
+],
+"answer": 1,
+"explanation": "A massive pleural effusion causes complete opacification of the hemithorax with mediastinal shift AWAY from the opacity (to the contralateral side) due to the mass effect of the large fluid collection. This distinguishes it from collapse/atelectasis, which pulls the mediastinum TOWARD the opacity (ipsilateral shift). The widened intercostal spaces further support effusion (fluid pushes ribs apart). The absence of air bronchograms suggests the opacity is due to fluid rather than airspace consolidation. Right lung collapse would show trachea deviated to the right with crowded ribs and an opaque hemithorax.",
+"highYield": "Opaque hemithorax with contralateral mediastinal shift = massive pleural effusion",
+"pyqNote": "Tracheal shift direction is the key discriminator between effusion (away) and collapse (toward) \u2014 NEET PG favorite",
+"tags": [
+"CXR",
+"pleural effusion",
+"mediastinal shift",
+"opaque hemithorax",
+"tracheal deviation"
+]
+},
+{
+"subject": "Radiology",
+"topic": "CXR \u2013 Pleural Disease",
+"difficulty": "medium",
+"stem": "A PA chest X-ray of a 25-year-old tall thin male with sudden onset dyspnea and chest pain shows a hyperlucent right lung field with no lung markings visible in the right upper zone. A sharp linear edge (visceral pleural line) is visible running parallel to the chest wall, separating collapsed lung from free air. The trachea is central. The diagnosis is:",
+"options": [
+"Right-sided tension pneumothorax",
+"Right-sided simple spontaneous pneumothorax",
+"Right-sided bullous emphysema",
+"Right-sided pleural effusion"
+],
+"answer": 1,
+"explanation": "Simple spontaneous pneumothorax presents with a hyperlucent hemithorax devoid of lung markings with a visible visceral pleural line (the edge of the partially collapsed lung). In a simple pneumothorax, the trachea is CENTRAL because there is no tension. Tension pneumothorax would show tracheal deviation to the CONTRALATERAL side (away from the pneumothorax), along with hypotension, and is a medical emergency (needle decompression required immediately). Bullous emphysema can mimic pneumothorax \u2014 the distinction is that bullae have concave walls (curving away from the chest wall) while pneumothorax has a convex edge. Spontaneous pneumothorax affects tall thin males (Marfan body habitus) due to apical blebs.",
+"highYield": "Visceral pleural line + absent lung markings + central trachea = simple spontaneous pneumothorax",
+"pyqNote": "Simple vs tension pneumothorax differentiation based on tracheal position is essential NEET PG knowledge",
+"tags": [
+"CXR",
+"pneumothorax",
+"visceral pleural line",
+"spontaneous pneumothorax",
+"lung markings"
+]
+},
+{
+"subject": "Radiology",
+"topic": "CT Head \u2013 Brain Hemorrhage",
+"difficulty": "medium",
+"stem": "A non-contrast CT brain of a 70-year-old hypertensive patient presenting with acute-onset headache and progressive right hemiplegia shows a well-defined, homogeneous hyperdense (white) lens-shaped (biconvex) lesion in the left temporal region. It does not cross the midline. There is no crossing of suture lines. Mass effect with left-to-right midline shift is seen. The most likely diagnosis is:",
+"options": [
+"Acute subdural hematoma",
+"Acute epidural hematoma",
+"Hypertensive intracerebral hemorrhage",
+"Subarachnoid hemorrhage"
+],
+"answer": 1,
+"explanation": "An acute epidural hematoma on CT appears as a hyperdense (bright white \u2014 acute blood) biconvex (lens-shaped) extra-axial collection that does not cross suture lines (because the dura is firmly attached to sutures, limiting the hematoma's spread). It is most commonly due to rupture of the middle meningeal artery following temporal bone fracture. Classic clinical presentation is lucid interval followed by sudden deterioration. Acute subdural hematoma is crescent-shaped (concave inner margin) and DOES cross suture lines but not the falx. SAH fills the cisterns and sulci. Hypertensive hemorrhage is intracerebral (basal ganglia \u2014 putamen most common).",
+"highYield": "Biconvex hyperdense extra-axial collection not crossing suture lines = epidural hematoma",
+"pyqNote": "Biconvex (EDH) vs crescent (SDH) CT distinction is a fundamental NEET PG question",
+"tags": [
+"CT head",
+"epidural hematoma",
+"biconvex",
+"hyperdense",
+"middle meningeal artery"
+]
+},
+{
+"subject": "Radiology",
+"topic": "CT Head \u2013 Brain Hemorrhage",
+"difficulty": "medium",
+"stem": "A non-contrast CT brain of an 80-year-old patient on anticoagulants shows a crescentic (concave inner margin) hyperdense extra-axial collection overlying the right cerebral convexity. It crosses the coronal suture but does not cross the midline (falx). Mild effacement of right-sided sulci is noted. The most likely diagnosis is:",
+"options": [
+"Acute epidural hematoma",
+"Acute subdural hematoma",
+"Subarachnoid hemorrhage",
+"Intracerebral hematoma"
+],
+"answer": 1,
+"explanation": "Acute subdural hematoma appears as a hyperdense crescent-shaped extra-axial collection that conforms to the cerebral convexity and crosses suture lines (unlike EDH) but does NOT cross the midline (falx) or tentorium. It is typically due to tearing of bridging veins between the cortex and the dural sinuses, and is common in elderly and anticoagulated patients. Over days-weeks it becomes isodense, then hypodense (chronic SDH). The crescentic shape and crossing of sutures differentiates it from the biconvex EDH. Subarachnoid hemorrhage fills the basal cisterns and sulci. Chronic SDH may present as a 'mixed density' collection.",
+"highYield": "Crescent-shaped hyperdense collection crossing suture lines = acute subdural hematoma",
+"pyqNote": "SDH vs EDH CT morphology distinction is examined repeatedly; acute vs chronic SDH density change is equally important",
+"tags": [
+"CT head",
+"subdural hematoma",
+"crescent",
+"bridging veins",
+"anticoagulants"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Chest X-ray \u2013 Sarcoidosis",
+"difficulty": "medium",
+"stem": "A chest X-ray of a 35-year-old African-American female with breathlessness and erythema nodosum shows bilateral symmetrical hilar enlargement with multiple lobulated paratracheal shadows on the right. Lung fields appear clear with no pulmonary infiltrates. The most likely diagnosis is:",
+"options": [
+"Bilateral primary tuberculosis with hilar adenopathy",
+"Lymphoma",
+"Stage I Sarcoidosis",
+"Stage II Sarcoidosis"
+],
+"answer": 2,
+"explanation": "The Scadding classification of sarcoidosis on CXR: Stage 0 = normal; Stage I = bilateral hilar lymphadenopathy (BHL) ONLY (no parenchymal changes); Stage II = BHL + parenchymal changes; Stage III = parenchymal changes alone (no BHL); Stage IV = pulmonary fibrosis. This patient shows clear lung fields with only bilateral hilar lymphadenopathy = Stage I. The 'potato nodes' (bilaterally symmetric lobulated hilar adenopathy) are characteristic of sarcoidosis. Erythema nodosum with BHL is L\u00f6fgren syndrome (good prognosis). TB usually shows asymmetric adenopathy and is not perfectly symmetric. Lymphoma often has anterior mediastinal involvement.",
+"highYield": "Bilateral symmetric hilar lymphadenopathy alone (no parenchymal changes) = Sarcoidosis Stage I",
+"pyqNote": "Sarcoidosis staging on CXR (Scadding) is a regularly tested question; L\u00f6fgren syndrome association is a bonus",
+"tags": [
+"CXR",
+"sarcoidosis",
+"hilar lymphadenopathy",
+"Scadding classification",
+"Stage I"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Ultrasound \u2013 Hepatobiliary",
+"difficulty": "medium",
+"stem": "Ultrasound of the abdomen of a 45-year-old female with right upper quadrant pain shows a well-defined echogenic lesion measuring 3 cm in the right lobe of the liver. On posterior acoustic enhancement, there is increased through-transmission (posterior acoustic enhancement). The lesion shows no internal vascularity on Doppler. A thin echogenic capsule is seen. The lesion is unchanged on a scan done 3 years earlier. The most likely diagnosis is:",
+"options": [
+"Hepatocellular carcinoma",
+"Hepatic cavernous hemangioma",
+"Hepatic abscess",
+"Metastasis to liver"
+],
+"answer": 1,
+"explanation": "Hepatic cavernous hemangioma is the most common benign liver lesion. Classic ultrasound features include: (1) well-defined homogeneous hyperechoic (echogenic) lesion, (2) posterior acoustic enhancement (increased through-transmission due to vascular spaces filled with slow-moving blood), (3) no internal vascularity on Doppler (paradoxically, due to very slow blood flow in large venous sinusoids). Stability over years is characteristic. MRI confirmation shows a classic 'peripheral nodular enhancement with centripetal fill-in' on dynamic contrast study. HCC is usually heterogeneous with internal vascularity. Hepatic abscess shows internal debris and posterior enhancement but with clinical signs of infection. Metastases are usually hypoechoic with a 'halo' sign.",
+"highYield": "Well-defined hyperechoic liver lesion with posterior acoustic enhancement = hemangioma",
+"pyqNote": "Hepatic hemangioma ultrasound features appear in both radiology and surgery NEET PG questions",
+"tags": [
+"ultrasound",
+"hepatic hemangioma",
+"hyperechoic",
+"posterior acoustic enhancement",
+"liver"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Ultrasound \u2013 Thyroid",
+"difficulty": "medium",
+"stem": "Ultrasound of the thyroid of a 42-year-old female with a palpable neck mass shows a 1.5 cm hypoechoic solid nodule in the right lobe with irregular margins and microcalcifications (punctate echogenic foci <1 mm). There is no posterior acoustic shadowing. Color Doppler shows intranodular vascularity. The ACR TIRADS category most appropriate for this nodule is:",
+"options": [
+"TIRADS 2 (Benign)",
+"TIRADS 3 (Mildly suspicious)",
+"TIRADS 4 (Moderately suspicious)",
+"TIRADS 5 (Highly suspicious)"
+],
+"answer": 3,
+"explanation": "ACR TIRADS scoring assigns points based on five categories: composition, echogenicity, shape, margin, and echogenic foci. Microcalcifications score 3 points (highest echogenic foci score), irregular margin scores 2 points, solid composition scores 2 points, hypoechoic scores 2 points. Total score \u22657 = TIRADS 5 (highly suspicious, fine needle aspiration recommended if \u22651 cm). This nodule has multiple high-risk features: microcalcifications (most specific for papillary thyroid carcinoma), irregular margins, solid, hypoechoic, with intranodular vascularity. These features together make it highly suspicious for papillary thyroid carcinoma, the most common thyroid malignancy (\u22651 cm warrants FNA).",
+"highYield": "Hypoechoic solid nodule + microcalcifications + irregular margins = TIRADS 5 (highly suspicious for PTC)",
+"pyqNote": "Microcalcifications in thyroid nodules as a predictor of papillary carcinoma is an important NEET PG concept",
+"tags": [
+"ultrasound",
+"thyroid nodule",
+"TIRADS",
+"microcalcifications",
+"papillary thyroid carcinoma"
+]
+},
+{
+"subject": "Radiology",
+"topic": "MRI Spine \u2013 Disc Prolapse",
+"difficulty": "medium",
+"stem": "MRI lumbar spine (sagittal T2W) of a 40-year-old male with low back pain radiating to the right leg shows the L4-L5 intervertebral disc is dark (hypointense) on T2W sequences compared to adjacent discs which are bright. There is a posterior disc herniation at L4-L5 compressing the traversing right L5 nerve root in the lateral recess. The T2 hypointensity of the disc most likely represents:",
+"options": [
+"Acute disc herniation with hemorrhage",
+"Disc dessication (loss of water content \u2014 degenerative disc disease)",
+"Disc space infection (discitis)",
+"Normal finding in adults"
+],
+"answer": 1,
+"explanation": "On T2-weighted MRI, a normal intervertebral disc is hyperintense (bright) due to its high water content (nucleus pulposus is 88% water in adults). Disc degeneration causes loss of proteoglycan content and desiccation (dehydration), resulting in T2 hypointensity (dark disc). This is the hallmark of degenerative disc disease. The posterior herniation then compresses the traversing nerve root (L4-L5 disc herniates to compress L5 root which traverses at that level \u2014 not the exiting root). Discitis would show T2 hyperintensity and end-plate destruction with contrast enhancement. Hemorrhage would be T1 bright.",
+"highYield": "Dark disc on T2 MRI = disc desiccation = degenerative disc disease",
+"pyqNote": "MRI disc signal interpretation and nerve root anatomy at each level are high-frequency spine questions in NEET PG",
+"tags": [
+"MRI spine",
+"disc prolapse",
+"T2 hypointense disc",
+"disc desiccation",
+"L4-L5"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Nuclear Medicine \u2013 Bone Scan",
+"difficulty": "hard",
+"stem": "A Tc-99m MDP bone scan of a 65-year-old male with known carcinoma of the prostate shows multiple areas of increased radiotracer uptake ('hot spots') throughout the axial skeleton \u2014 including the spine, pelvis, ribs, and skull \u2014 in a random scattered pattern. One vertebra shows markedly reduced uptake ('cold spot'). The most likely explanation for the cold spot in one vertebra is:",
+"options": [
+"Normal variant \u2014 some vertebrae always appear cold",
+"A vertebral metastasis with complete replacement of bone marrow causing no osteoblastic activity ('superscan' component or photopenic metastasis)",
+"Osteoporotic collapse",
+"Paget's disease of bone"
+],
+"answer": 1,
+"explanation": "Bone scan detects osteoblastic activity (new bone formation in response to tumor). Most prostate metastases are osteoblastic (hot spots). However, purely osteolytic metastases (common in myeloma, renal cell carcinoma, thyroid cancer) may show cold spots because there is no reactive new bone formation to take up the tracer. In this case, a single cold spot among multiple hot spots in a known prostate cancer patient most likely represents a lytic metastasis with complete marrow replacement (photopenic/cold metastasis). A 'superscan' refers to diffusely increased bone uptake with absent renal/soft tissue activity due to massive metastatic disease. Paget's disease shows characteristic 'expanding' hot lesion. Bone scan cannot diagnose osteoporosis.",
+"highYield": "Cold spot on bone scan = lytic lesion (no osteoblastic response); myeloma is the classic cold-scan tumor",
+"pyqNote": "Hot vs cold spots on bone scan and which tumors cause which pattern is a recurring NEET PG nuclear medicine question",
+"tags": [
+"bone scan",
+"Tc-99m MDP",
+"prostate cancer",
+"hot spot",
+"cold spot",
+"photopenic metastasis"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Contrast Studies \u2013 IVP / Urogram",
+"difficulty": "medium",
+"stem": "An intravenous pyelogram (IVP) of a 50-year-old male with painless gross hematuria shows a filling defect in the right renal pelvis. The filling defect has an irregular surface and is non-opaque. On retrograde pyelography, the defect persists and shows a 'stippled' pattern of contrast within the lesion. Urine cytology shows transitional cells. The most likely diagnosis is:",
+"options": [
+"Renal calculus",
+"Transitional cell carcinoma (urothelial carcinoma) of the renal pelvis",
+"Blood clot in the renal pelvis",
+"Sloughed renal papilla"
+],
+"answer": 1,
+"explanation": "A non-opaque (radiolucent) filling defect in the renal pelvis on IVP has the following differential: (1) TCC \u2014 irregular surface, persists on retrograde pyelography, stippled contrast within the tumor matrix, positive urine cytology; (2) Blood clot \u2014 changes shape and position over time, resolves spontaneously, no urine cytology evidence; (3) Sloughed papilla \u2014 triangular defect, history of analgesic nephropathy or diabetes; (4) Radiolucent calculus (uric acid) \u2014 smooth well-defined defect, dissolves on urine alkalinization. The positive urine cytology for transitional cells clinches TCC. Stippled contrast pattern (contrast tracking into tumor interstices) is characteristic of TCC. Renal calculi are usually radio-opaque (80%).",
+"highYield": "Non-opaque filling defect in renal pelvis + positive urine cytology = TCC (urothelial carcinoma)",
+"pyqNote": "Filling defect differential on IVP is a classic NEET PG radiology question; non-opaque vs radiolucent stone distinction matters",
+"tags": [
+"IVP",
+"renal pelvis",
+"filling defect",
+"TCC",
+"urothelial carcinoma",
+"urine cytology"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Mammography",
+"difficulty": "hard",
+"stem": "A screening mammogram of a 52-year-old asymptomatic woman shows an irregular spiculated mass in the upper outer quadrant of the right breast with associated clustered pleomorphic microcalcifications. The mass has ill-defined margins and there is skin thickening overlying the lesion. Axillary lymph nodes appear enlarged and dense. This mammographic appearance is classified as:",
+"options": [
+"BIRADS 2 \u2014 Benign finding",
+"BIRADS 3 \u2014 Probably benign (6-month follow-up)",
+"BIRADS 4 \u2014 Suspicious (tissue sampling recommended)",
+"BIRADS 5 \u2014 Highly suggestive of malignancy (biopsy essential)"
+],
+"answer": 3,
+"explanation": "The ACR BIRADS (Breast Imaging-Reporting and Data System) classification: BIRADS 1 = negative, BIRADS 2 = benign, BIRADS 3 = probably benign (<2% malignancy risk, 6-month follow-up), BIRADS 4 = suspicious (2-95% risk, tissue sampling), BIRADS 5 = highly suggestive of malignancy (>95% risk, biopsy). This case has multiple BIRADS 5 features: (1) spiculated mass \u2014 the single most suspicious mammographic finding, (2) clustered pleomorphic microcalcifications (irregular sizes/shapes = malignant calcification pattern), (3) ill-defined margins, (4) skin thickening (lymphatic obstruction), (5) suspicious axillary nodes. All together strongly indicate invasive breast carcinoma (most likely invasive ductal carcinoma, NOS).",
+"highYield": "Spiculated mass + pleomorphic microcalcifications = BIRADS 5; spiculation is the single most suspicious mammographic sign",
+"pyqNote": "BIRADS classification and mammographic signs of malignancy appear in NEET PG radiology and surgery sections",
+"tags": [
+"mammography",
+"BIRADS 5",
+"spiculated mass",
+"microcalcifications",
+"breast carcinoma"
+]
+},
+{
+"subject": "Radiology",
+"topic": "Paediatric Radiology \u2013 Intussusception",
+"difficulty": "medium",
+"stem": "Ultrasound abdomen of a 9-month-old infant with colicky abdominal pain and passage of red currant jelly stools shows a rounded echogenic mass in the right upper quadrant. In transverse section, the mass shows alternating hyperechoic and hypoechoic concentric rings producing a 'target sign' or 'doughnut sign'. In longitudinal section, it produces a 'pseudokidney sign'. The diagnosis is:",
+"options": [
+"Wilms' tumor (nephroblastoma)",
+"Mesenteric lymphadenitis",
+"Intussusception",
+"Meckel's diverticulum"
+],
+"answer": 2,
+"explanation": "Intussusception is the most common cause of intestinal obstruction in infants aged 6\u201318 months. Ultrasound is diagnostic and non-invasive: the 'target sign' or 'doughnut sign' on transverse section represents the intussuscipiens (outer receiving loop) surrounding the intussusceptum (inner invaginated loop) with interposed mesenteric fat (echogenic center). The 'pseudokidney sign' on longitudinal section shows the intussusception resembling a kidney cross-section due to the alternating layers. 'Red currant jelly stool' (blood mixed with mucus) represents mucosal ischemia. Air or hydrostatic (water) enema is both diagnostic and therapeutic (fluoroscopic or ultrasound-guided reduction).",
+"highYield": "Target sign/doughnut sign on US in a child with currant jelly stool = intussusception",
+"pyqNote": "Intussusception ultrasound signs (target/doughnut/pseudokidney) are a high-yield pediatric radiology question",
+"tags": [
+"ultrasound",
+"intussusception",
+"target sign",
+"doughnut sign",
+"pseudokidney sign",
+"pediatric radiology"
+]
+}
+]

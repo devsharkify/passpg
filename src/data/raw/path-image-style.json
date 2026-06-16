@@ -1,0 +1,922 @@
+[
+{
+"subject": "Pathology",
+"topic": "Kidney - Membranous Nephropathy",
+"difficulty": "medium",
+"stem": "Electron microscopy of a renal biopsy from a 42-year-old male with nephrotic syndrome shows subepithelial electron-dense deposits with intervening projections of GBM material ('spike and dome' pattern). Immunofluorescence reveals granular IgG and C3 deposits along the glomerular capillary walls. Light microscopy shows diffuse thickening of the GBM without cellular proliferation. The most likely diagnosis is:",
+"options": [
+"Membranous nephropathy",
+"Minimal change disease",
+"Membranoproliferative glomerulonephritis",
+"Focal segmental glomerulosclerosis"
+],
+"answer": 0,
+"explanation": "Membranous nephropathy (MGN) is characterized by subepithelial immune complex deposits forming the classic 'spike and dome' pattern on EM, where spikes are GBM projections between deposits. IF shows granular IgG/C3 along capillary walls ('full-house' pattern absent). It is the most common cause of nephrotic syndrome in adults. PLA2R antibody is positive in ~70% of primary cases.",
+"highYield": "Spike and dome on EM + granular IgG on IF = Membranous nephropathy. Stage I: subepithelial deposits; Stage II: GBM spikes between deposits; Stage III: deposits incorporated into GBM.",
+"pyqNote": "Frequently asked in NEET PG; spike and dome EM pattern and IF pattern are classic exam favorites.",
+"tags": [
+"kidney",
+"membranous nephropathy",
+"electron microscopy",
+"nephrotic syndrome",
+"IgG deposits"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Kidney - Minimal Change Disease",
+"difficulty": "easy",
+"stem": "Electron microscopy of a renal biopsy from a 5-year-old boy presenting with sudden onset of massive proteinuria (5g/day) and periorbital edema shows diffuse effacement (fusion) of podocyte foot processes. Immunofluorescence is completely negative. Light microscopy with H&E and PAS stains shows normal-appearing glomeruli. The diagnosis is:",
+"options": [
+"Focal segmental glomerulosclerosis",
+"Minimal change disease",
+"IgA nephropathy",
+"Membranous nephropathy"
+],
+"answer": 1,
+"explanation": "Minimal change disease (lipoid nephrosis) is the most common cause of nephrotic syndrome in children. The hallmark is diffuse podocyte foot process effacement on EM with completely negative IF (no immune deposits). LM appears normal or may show lipid droplets in tubular cells (hence 'lipoid nephrosis'). It responds dramatically to corticosteroids.",
+"highYield": "Negative IF + podocyte foot process effacement on EM + normal LM = Minimal change disease. Most common nephrotic syndrome in children aged 2-6.",
+"pyqNote": "High-yield topic; EM finding of foot process effacement with negative IF is the definitive diagnostic triad.",
+"tags": [
+"kidney",
+"minimal change disease",
+"foot process effacement",
+"nephrotic syndrome",
+"children"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Kidney - PSGN",
+"difficulty": "medium",
+"stem": "Renal biopsy from an 8-year-old boy presenting with hematuria, hypertension, and oliguria 3 weeks after a sore throat shows on H&E: diffuse endocapillary hypercellularity with neutrophilic infiltration and enlarged glomeruli ('lumpy bumpy' appearance). Electron microscopy reveals large 'hump-shaped' subepithelial deposits. Immunofluorescence shows coarse granular ('lumpy bumpy') deposits of IgG and C3 along capillary walls. The most likely diagnosis is:",
+"options": [
+"IgA nephropathy",
+"Membranoproliferative glomerulonephritis",
+"Post-streptococcal glomerulonephritis",
+"Lupus nephritis class III"
+],
+"answer": 2,
+"explanation": "PSGN classically follows Group A beta-hemolytic streptococcal pharyngitis (3 weeks) or skin infection (6 weeks). Pathognomonic feature is 'hump-shaped' subepithelial deposits on EM (corresponds to the lumpy bumpy IF pattern). LM shows exudative/proliferative glomerulonephritis with neutrophil infiltration. ASO titer is elevated, complement C3 is decreased.",
+"highYield": "Hump-shaped subepithelial deposits on EM = PSGN. The IF pattern is 'lumpy bumpy' (starry night). Associated with low C3 and elevated ASO titer.",
+"pyqNote": "PSGN EM findings and latency period after infection are repeatedly tested in NEET PG.",
+"tags": [
+"kidney",
+"PSGN",
+"post-streptococcal",
+"hump-shaped deposits",
+"nephritic syndrome"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Kidney - MPGN",
+"difficulty": "hard",
+"stem": "Renal biopsy from a 25-year-old female with hematuria and proteinuria shows on H&E: hypercellular glomeruli with lobular accentuation and GBM thickening. PAS stain reveals a double-contour or 'tram-track' appearance of the GBM. Immunofluorescence shows granular C3 and IgG deposits in a mesangial and subendothelial pattern. The most likely diagnosis is:",
+"options": [
+"Membranous nephropathy",
+"Membranoproliferative glomerulonephritis type I",
+"Dense deposit disease (MPGN type II)",
+"Focal segmental glomerulosclerosis"
+],
+"answer": 1,
+"explanation": "MPGN type I (immune complex-mediated) is characterized by lobular accentuation, mesangial and subendothelial deposits, and GBM duplication ('tram-track' appearance) due to mesangial cell interposition into the GBM. IF shows IgG + C3 in a granular pattern. It is associated with chronic infections, cryoglobulinemia, and autoimmune diseases. C3 and C4 levels are decreased (classical pathway activation).",
+"highYield": "Tram-track GBM on PAS/silver stain = MPGN type I (subendothelial deposits + mesangial interposition). Dense deposit disease (type II) shows ribbon-like intramembranous deposits on EM.",
+"pyqNote": "Tram-track appearance is the most tested histological finding for MPGN in NEET PG and PYQs.",
+"tags": [
+"kidney",
+"MPGN",
+"tram-track",
+"GBM duplication",
+"glomerulonephritis"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Kidney - IgA Nephropathy",
+"difficulty": "medium",
+"stem": "A 22-year-old male presents with recurrent episodes of gross hematuria occurring within 1-2 days of upper respiratory tract infections (synpharyngitic hematuria). Renal biopsy shows mesangial hypercellularity on H&E. Immunofluorescence reveals dominant mesangial IgA deposits with co-deposits of C3. Electron microscopy confirms mesangial electron-dense deposits. The diagnosis is:",
+"options": [
+"Post-streptococcal glomerulonephritis",
+"IgA nephropathy (Berger disease)",
+"Henoch-Schonlein purpura nephritis",
+"Thin basement membrane disease"
+],
+"answer": 1,
+"explanation": "IgA nephropathy (Berger disease) is the most common GN worldwide. Key feature is synpharyngitic hematuria (hematuria concurrent with or within 1-2 days of URTI, unlike PSGN which has a 3-week latency). IF shows dominant mesangial IgA deposits. LM typically shows mesangial proliferation. Galactose-deficient IgA1 is implicated in pathogenesis. Serum IgA is elevated in ~50% of cases.",
+"highYield": "Mesangial IgA on IF = IgA nephropathy. Synpharyngitic hematuria vs PSGN (3-week latency) is a high-yield distinction. Most common primary GN globally.",
+"pyqNote": "IgA nephropathy IF pattern and clinical distinction from PSGN latency is frequently tested.",
+"tags": [
+"kidney",
+"IgA nephropathy",
+"Berger disease",
+"mesangial IgA",
+"synpharyngitic hematuria"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Kidney - Amyloidosis",
+"difficulty": "medium",
+"stem": "Congo red stain of a kidney biopsy from a 60-year-old male with rheumatoid arthritis and nephrotic syndrome shows pink amorphous deposits in the mesangium and along the glomerular basement membrane. Under polarized light microscopy, these deposits exhibit apple-green birefringence. The amyloid protein most likely responsible for this finding is:",
+"options": [
+"AL amyloid (immunoglobulin light chains)",
+"AA amyloid (serum amyloid A protein)",
+"Beta-2-microglobulin amyloid",
+"Transthyretin (ATTR) amyloid"
+],
+"answer": 1,
+"explanation": "Secondary (reactive) amyloidosis is associated with chronic inflammatory conditions such as rheumatoid arthritis, osteomyelitis, bronchiectasis, and leprosy. The deposited protein is AA (derived from serum amyloid A, an acute-phase reactant). Kidneys are the most commonly and severely affected organ. Congo red stain + apple-green birefringence under polarized light is the definitive test for all types of amyloid.",
+"highYield": "AA amyloid = secondary/reactive amyloidosis (chronic inflammation, RA, TB, osteomyelitis). AL = primary/myeloma. Congo red + apple-green birefringence is pathognomonic.",
+"pyqNote": "Congo red stain and type of amyloid associated with each disease is a perennial NEET PG topic.",
+"tags": [
+"kidney",
+"amyloidosis",
+"Congo red",
+"apple-green birefringence",
+"AA amyloid",
+"rheumatoid arthritis"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Liver - Alcoholic Hepatitis",
+"difficulty": "easy",
+"stem": "Liver biopsy from a 45-year-old chronic alcoholic shows H&E section with hepatocyte ballooning degeneration and cytoplasmic eosinophilic hyaline inclusions within the hepatocytes, particularly in zone 3 (centrilobular). There is surrounding neutrophilic infiltration. These intracytoplasmic inclusions are composed of aggregated cytokeratins 8 and 18. These are called:",
+"options": [
+"Councilman bodies",
+"Mallory-Denk bodies",
+"Lafora bodies",
+"Lewy bodies"
+],
+"answer": 1,
+"explanation": "Mallory-Denk bodies (Mallory hyaline or alcoholic hyaline) are eosinophilic cytoplasmic inclusions composed of aggregated intermediate filaments (cytokeratin 8 and 18) within ballooned hepatocytes. They are the hallmark of alcoholic hepatitis but can also be seen in NASH, Wilson disease, primary biliary cholangitis, and hepatocellular carcinoma. Zone 3 (centrilobular) is classically affected first in alcoholic liver disease.",
+"highYield": "Mallory-Denk bodies = eosinophilic cytokeratin aggregates in ballooned hepatocytes, Zone 3 predominance, neutrophilic satellitosis. Not specific to alcohol - also in NASH and other liver diseases.",
+"pyqNote": "Mallory-Denk bodies are tested in virtually every NEET PG exam - composition and conditions they appear in.",
+"tags": [
+"liver",
+"Mallory-Denk bodies",
+"alcoholic hepatitis",
+"cytokeratin",
+"ballooning degeneration"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Liver - Viral Hepatitis",
+"difficulty": "easy",
+"stem": "H&E section of a liver biopsy from a patient with acute viral hepatitis shows scattered eosinophilic, round, shrunken hepatocytes with pyknotic or absent nuclei, undergoing apoptosis. These cells are phagocytosed by neighboring Kupffer cells and macrophages. Some are present within sinusoids. These apoptotic bodies in viral hepatitis are called:",
+"options": [
+"Mallory-Denk bodies",
+"Councilman bodies (acidophil bodies)",
+"Ground-glass hepatocytes",
+"Piecemeal necrosis"
+],
+"answer": 1,
+"explanation": "Councilman bodies (acidophil bodies) are eosinophilic apoptotic hepatocytes, the hallmark of viral hepatitis (originally described in yellow fever). They represent individual hepatocyte apoptosis/acidophilic necrosis. They are shrunken, deeply eosinophilic, and may contain pyknotic nuclear remnants. In contrast, ground-glass hepatocytes (HBsAg inclusions) are seen in chronic HBV infection, and Mallory-Denk bodies are seen in alcoholic hepatitis.",
+"highYield": "Councilman bodies = eosinophilic apoptotic hepatocytes in viral hepatitis (yellow fever classically). Ground-glass hepatocytes = HBsAg in chronic HBV. These are different entities.",
+"pyqNote": "Distinction between Councilman bodies (viral hepatitis) and Mallory-Denk bodies (alcoholic) is a classic MCQ stem.",
+"tags": [
+"liver",
+"Councilman bodies",
+"viral hepatitis",
+"apoptosis",
+"acidophil bodies"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Liver - Congestive Heart Failure",
+"difficulty": "easy",
+"stem": "Gross specimen of the liver from a patient with long-standing right heart failure shows a cut surface with an alternating pattern of dark red (congested) and yellow-tan (fatty change) areas in a distinctive pattern resembling the cut surface of a plant. The hepatic sinusoids in zone 3 are markedly dilated and congested. This gross appearance is described as:",
+"options": [
+"Hepar lobatum",
+"Nutmeg liver",
+"Cardiac cirrhosis pattern",
+"Steatohepatitis"
+],
+"answer": 1,
+"explanation": "Nutmeg liver (or 'nutmeg pattern') occurs in chronic passive venous congestion due to right heart failure. Zone 3 (centrilobular) hepatocytes are compressed and undergo necrosis due to hypoxia, while zone 1 (periportal) hepatocytes undergo fatty change (appearing yellow). This creates the characteristic alternating dark red (congested zone 3) and yellow-tan (fatty zone 1) pattern resembling a nutmeg's cut surface.",
+"highYield": "Nutmeg liver = CCF \u2192 centrilobular congestion (zone 3, dark red) + periportal fatty change (zone 1, yellow). Chronic cases progress to cardiac cirrhosis.",
+"pyqNote": "Nutmeg liver gross appearance and zone 3 predominance is a frequent pathology and pathophysiology question.",
+"tags": [
+"liver",
+"nutmeg liver",
+"congestive heart failure",
+"centrilobular necrosis",
+"passive congestion"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Liver - Wilson Disease",
+"difficulty": "medium",
+"stem": "Liver biopsy from a 16-year-old presenting with liver cirrhosis, Kayser-Fleischer rings, and low serum ceruloplasmin shows brownish granular deposits in periportal hepatocytes on H&E. A special stain performed on the biopsy section stains the deposits ruby-red/brick-red in color. The special stain used and the deposited material are:",
+"options": [
+"Perl's Prussian blue stain - iron deposits",
+"Rhodanine stain - copper deposits",
+"Congo red stain - amyloid deposits",
+"PAS stain - glycogen deposits"
+],
+"answer": 1,
+"explanation": "Wilson disease (hepatolenticular degeneration) is an AR disorder of copper transport (ATP7B mutation) causing copper accumulation in liver, brain, and cornea (KF rings). Rhodanine stain (or orcein stain for copper-associated protein) stains copper deposits ruby-red in hepatocytes. Perl's Prussian blue is for iron (hemochromatosis). The liver progresses from fatty change to chronic hepatitis to macronodular cirrhosis.",
+"highYield": "Wilson disease histology: Rhodanine stain for copper (ruby-red). Serum copper high, ceruloplasmin low. Perl's Prussian blue = iron (hemochromatosis). Do not confuse the two stains.",
+"pyqNote": "Special stain for Wilson disease (rhodanine) vs hemochromatosis (Perl's Prussian blue) is a tested pairing.",
+"tags": [
+"liver",
+"Wilson disease",
+"rhodanine stain",
+"copper deposits",
+"cirrhosis",
+"ATP7B"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Lymphoma - Hodgkin Lymphoma",
+"difficulty": "easy",
+"stem": "H&E section of a lymph node biopsy from a 28-year-old male with B-symptoms and mediastinal mass shows a mixed cellular infiltrate of lymphocytes, eosinophils, neutrophils, and plasma cells. Within this background, there are large binucleate cells with prominent eosinophilic 'owl-eye' nucleoli and abundant pale cytoplasm. Immunohistochemistry shows these cells are CD30+ and CD15+, but CD20- and CD45-. These cells are:",
+"options": [
+"Lacunar cells",
+"Reed-Sternberg cells",
+"L&H (popcorn) cells",
+"Hodgkin cells"
+],
+"answer": 1,
+"explanation": "Classic Reed-Sternberg (RS) cells are pathognomonic of classical Hodgkin lymphoma. They are large, binucleate (or multilobed) with prominent eosinophilic owl-eye nucleoli and abundant pale cytoplasm. The immunophenotype is CD30+ (strong), CD15+ (variable), CD20-, CD45- (LCA negative). The background inflammatory infiltrate in mixed cellularity subtype contains eosinophils, neutrophils, plasma cells, and lymphocytes.",
+"highYield": "Reed-Sternberg cells: CD30+ CD15+ CD20- CD45-. Owl-eye nucleoli. Background inflammatory cells are non-neoplastic. Lacunar cells are RS variant in nodular sclerosis subtype.",
+"pyqNote": "RS cell morphology and CD30/CD15 immunophenotype is tested in almost every NEET PG exam.",
+"tags": [
+"lymphoma",
+"Hodgkin lymphoma",
+"Reed-Sternberg cells",
+"CD30",
+"CD15",
+"owl-eye nucleoli"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Lymphoma - Nodular Sclerosis Hodgkin",
+"difficulty": "medium",
+"stem": "H&E section of a lymph node biopsy from a 22-year-old female with a large anterior mediastinal mass shows the lymph node divided into cellular nodules by broad bands of collagen. Within these nodules, there are large cells with abundant pale-staining cytoplasm that appears retracted from surrounding tissue (giving a lacunar appearance), and some cells show lobulated nuclei. The most likely diagnosis and the RS cell variant seen is:",
+"options": [
+"Mixed cellularity Hodgkin - classic RS cells",
+"Nodular sclerosis Hodgkin - lacunar cells",
+"Lymphocyte-rich Hodgkin - L&H cells",
+"Diffuse large B-cell lymphoma - centroblasts"
+],
+"answer": 1,
+"explanation": "Nodular sclerosis is the most common subtype of Hodgkin lymphoma in developed countries, with a bimodal peak at 15-34 years and >50 years, with female predominance. The hallmarks are broad collagen bands dividing the lymph node into nodules and lacunar cells (RS cell variants with retracted cytoplasm due to formalin fixation, creating a 'lacune' or space around them). It has the best prognosis among mixed cellularity and lymphocyte-depleted subtypes.",
+"highYield": "Nodular sclerosis HL: broad collagenous bands + lacunar cells (RS variant). Most common HL subtype. Female > male. Anterior mediastinum involvement is classic.",
+"pyqNote": "Nodular sclerosis is the most common HL subtype - lacunar cells and collagen bands are high-yield distinguishing features.",
+"tags": [
+"lymphoma",
+"Hodgkin",
+"nodular sclerosis",
+"lacunar cells",
+"mediastinal mass",
+"collagen bands"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Lymphoma - Burkitt Lymphoma",
+"difficulty": "medium",
+"stem": "H&E section of a lymph node biopsy from a 10-year-old African boy with a jaw mass shows sheets of intermediate-sized lymphoid cells with round nuclei, multiple small nucleoli, and basophilic cytoplasm with lipid vacuoles. The background shows numerous macrophages with ingested apoptotic debris scattered throughout the tumor cells, giving a characteristic appearance. This pattern is called:",
+"options": [
+"Moth-eaten appearance",
+"Starry-sky pattern",
+"Swiss-cheese pattern",
+"Owl-eye pattern"
+],
+"answer": 1,
+"explanation": "Burkitt lymphoma (endemic form = EBV-associated, jaw in African children) shows the classic 'starry-sky' pattern on H&E: numerous scattered pale-staining macrophages (the 'stars') containing apoptotic debris against a dark background of densely packed lymphoma cells (the 'sky'). This reflects the extremely high proliferation rate (Ki-67 nearly 100%) with frequent apoptosis. Translocation t(8;14) juxtaposes MYC with IgH promoter.",
+"highYield": "Starry-sky pattern = Burkitt lymphoma. t(8;14) = MYC/IgH. Ki-67 ~100%. Lipid vacuoles on touch imprints. Three forms: endemic (EBV, jaw), sporadic (ileocecal), immunodeficiency-associated.",
+"pyqNote": "Starry-sky pattern and t(8;14) translocation in Burkitt lymphoma is a high-frequency NEET PG question.",
+"tags": [
+"lymphoma",
+"Burkitt",
+"starry-sky pattern",
+"MYC translocation",
+"EBV",
+"t(8;14)"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Lymphoma - Follicular Lymphoma",
+"difficulty": "medium",
+"stem": "Lymph node biopsy from a 58-year-old male with painless generalized lymphadenopathy for 2 years shows H&E section with effacement of normal lymph node architecture by closely packed follicular structures throughout the node, including the medulla. The follicles lack mantle zones and are composed of small cleaved (centrocytes) and large non-cleaved (centroblasts) cells. The follicles are positive for BCL-2 protein by IHC. The genetic abnormality most likely present is:",
+"options": [
+"t(8;14) - MYC/IgH",
+"t(14;18) - BCL2/IgH",
+"t(11;14) - BCL1/IgH",
+"t(2;5) - NPM/ALK"
+],
+"answer": 1,
+"explanation": "Follicular lymphoma is the most common indolent (low-grade) B-cell NHL in Western countries. The hallmark translocation is t(14;18) causing overexpression of BCL-2 (anti-apoptotic protein), which prevents normal follicle center B-cell apoptosis. The neoplastic follicles lack the normal mantle zone and tingible body macrophages, and BCL-2+ follicular cells distinguish them from reactive follicles (which are BCL-2 negative in germinal centers).",
+"highYield": "Follicular lymphoma: t(14;18) = BCL2 overexpression. BCL-2 positive neoplastic follicles (reactive germinal centers are BCL-2 negative). Small cleaved cells = centrocytes predominate.",
+"pyqNote": "t(14;18) and BCL-2 overexpression in follicular lymphoma is a classic NEET PG genetics question.",
+"tags": [
+"lymphoma",
+"follicular lymphoma",
+"t(14;18)",
+"BCL2",
+"centrocytes",
+"indolent lymphoma"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Leukemia - ALL",
+"difficulty": "medium",
+"stem": "Bone marrow biopsy from a 4-year-old child with leukocytosis (WBC 80,000/\u00b5L), lymphadenopathy, and hepatosplenomegaly shows sheets of small to medium-sized lymphoid cells with scant cytoplasm, irregular nuclear contours, and fine chromatin. Special stain (TdT immunostain) shows nuclear positivity in the malignant cells. The malignant cells also express CD10, CD19, and CD34. The diagnosis is:",
+"options": [
+"Acute myeloid leukemia",
+"B-lymphoblastic leukemia/lymphoma (B-ALL)",
+"Burkitt lymphoma",
+"Mantle cell lymphoma"
+],
+"answer": 1,
+"explanation": "B-ALL (B-lymphoblastic leukemia/lymphoma) is the most common childhood malignancy. Lymphoblasts express TdT (terminal deoxynucleotidyl transferase) - a nuclear enzyme present only in immature lymphoid precursors - along with B-cell markers CD19, CD10 (CALLA), CD34, and PAX5. TdT positivity distinguishes ALL/LBL from mature B-cell lymphomas (Burkitt, DLBCL). Favorable prognosis in children, especially with hyperdiploidy or ETV6-RUNX1 fusion.",
+"highYield": "TdT+ = immature lymphoblast (ALL/LBL). B-ALL: CD10, CD19, CD34, TdT+. T-ALL: CD1a, CD2, CD3, CD7, TdT+. TdT distinguishes ALL from mature lymphomas (Burkitt, DLBCL).",
+"pyqNote": "TdT positivity as a marker of immaturity in ALL is one of the most tested IHC markers in NEET PG pathology.",
+"tags": [
+"leukemia",
+"ALL",
+"TdT",
+"B-ALL",
+"CD10",
+"lymphoblast",
+"childhood malignancy"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Bone Tumor - Osteosarcoma",
+"difficulty": "medium",
+"stem": "H&E section of a biopsy from a distal femur mass in a 16-year-old male shows highly pleomorphic spindle-shaped cells with hyperchromatic nuclei, numerous atypical mitoses, and production of pink-staining osteoid matrix directly by the tumor cells. Areas of cartilage and fibrous tissue are also present. X-ray shows a lytic lesion with periosteal reaction elevating the periosteum (Codman triangle) and a 'sunburst' pattern. The diagnosis is:",
+"options": [
+"Ewing sarcoma",
+"Osteosarcoma",
+"Chondrosarcoma",
+"Giant cell tumor of bone"
+],
+"answer": 1,
+"explanation": "Osteosarcoma is the most common primary malignant bone tumor (excluding myeloma). Key diagnostic feature is direct production of osteoid/immature bone by malignant cells (neoplastic osteoid). It arises in the metaphysis of long bones (distal femur > proximal tibia > proximal humerus). X-ray shows Codman triangle (periosteal elevation) and sunburst pattern (perpendicular periosteal spicules). Associated with RB1 and TP53 mutations, Paget disease, prior radiation.",
+"highYield": "Osteosarcoma = malignant cells producing osteoid + Codman triangle + sunburst on X-ray. Metaphysis of long bones. Most common in 2nd decade. RB gene mutation association.",
+"pyqNote": "Osteosarcoma histology (malignant osteoid), location (metaphysis), and X-ray findings are perennially tested.",
+"tags": [
+"bone tumor",
+"osteosarcoma",
+"osteoid matrix",
+"Codman triangle",
+"sunburst",
+"metaphysis"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Bone Tumor - Ewing Sarcoma",
+"difficulty": "medium",
+"stem": "H&E section of a diaphyseal femur biopsy from a 13-year-old shows sheets of small, round, blue cells with scant cytoplasm, uniform oval nuclei, and finely dispersed chromatin arranged in solid sheets. Occasional rosette-like structures (Homer Wright rosettes) are present. PAS stain reveals abundant intracytoplasmic glycogen. FISH analysis detects t(11;22) translocation. The diagnosis is:",
+"options": [
+"Osteosarcoma",
+"Ewing sarcoma/PNET",
+"Rhabdomyosarcoma",
+"Neuroblastoma"
+],
+"answer": 1,
+"explanation": "Ewing sarcoma is the second most common primary malignant bone tumor in children, arising in the diaphysis (unlike osteosarcoma in metaphysis). Histology shows small round blue cells (SRBC tumor). PAS stain is positive due to cytoplasmic glycogen. Homer Wright rosettes indicate neural differentiation (PNET = Primitive Neuroectodermal Tumor, same family). Translocation t(11;22)(q24;q12) fuses EWS-FLI1 genes. X-ray shows 'onion-skin' periosteal reaction.",
+"highYield": "Ewing sarcoma: diaphysis, small round blue cells, PAS+, t(11;22) EWS-FLI1, onion-skin periosteal reaction on X-ray. Homer Wright rosettes = neural differentiation (PNET spectrum).",
+"pyqNote": "Ewing sarcoma small round blue cells + PAS positivity + t(11;22) + onion skin X-ray = complete NEET PG answer.",
+"tags": [
+"bone tumor",
+"Ewing sarcoma",
+"PNET",
+"small round blue cells",
+"t(11;22)",
+"PAS positive",
+"diaphysis"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Bone Tumor - Giant Cell Tumor",
+"difficulty": "easy",
+"stem": "Gross specimen of a distal femur mass in a 32-year-old female shows a lytic, expansile lesion involving the epiphysis extending to the subchondral plate (epiphyseal location). H&E section shows two cell populations: numerous uniformly distributed osteoclast-like giant cells (with 20-30 nuclei resembling those of surrounding stromal cells) and mononuclear oval to spindle stromal cells. The lesion shows no osteoid production. The diagnosis is:",
+"options": [
+"Chondroblastoma",
+"Giant cell tumor of bone (GCTB)",
+"Aneurysmal bone cyst",
+"Osteoclastoma variant of osteosarcoma"
+],
+"answer": 1,
+"explanation": "Giant cell tumor of bone (osteoclastoma) characteristically occurs in the epiphysis of long bones (distal femur, proximal tibia) in adults aged 20-40 years, after growth plate closure. Histology shows benign-appearing osteoclast-like giant cells with nuclei resembling those of surrounding mononuclear stromal cells (this nuclear similarity is key). No osteoid production. X-ray shows 'soap bubble' lytic appearance without periosteal reaction. RANKL overexpression by stromal cells drives osteoclast activation.",
+"highYield": "GCTB = epiphysis + post-growth plate + giant cell nuclei similar to stromal cells + soap bubble on X-ray. Benign but locally aggressive. Denosumab (anti-RANKL) is targeted therapy.",
+"pyqNote": "GCT epiphyseal location and 'soap bubble' X-ray appearance are the most tested radiological-pathological correlations.",
+"tags": [
+"bone tumor",
+"giant cell tumor",
+"GCTB",
+"epiphysis",
+"osteoclast-like",
+"soap bubble"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Lung - Tuberculosis",
+"difficulty": "easy",
+"stem": "Autopsy of a previously healthy 20-year-old who died of pulmonary tuberculosis shows a small (1 cm) area of caseating granulomatous inflammation in the lower part of the upper lobe (just below the first rib anteriorly) of the right lung, with associated hilar lymph node enlargement showing similar caseating necrosis. This combination of the subpleural parenchymal lesion and the draining lymph node involvement is called:",
+"options": [
+"Simon focus",
+"Ghon complex (primary complex)",
+"Assmann focus",
+"Ranke complex"
+],
+"answer": 1,
+"explanation": "Ghon complex (primary/Ranke complex) consists of: (1) Ghon focus - a subpleural caseating granuloma at the lower part of upper lobe or upper part of lower lobe (zone of preferential ventilation in children), plus (2) affected ipsilateral hilar/tracheobronchial lymph nodes. Together these form the primary complex. Simon foci are apical pleural foci of secondary (reactivation) TB. Assmann focus is the early infiltrate of secondary TB.",
+"highYield": "Ghon focus location: lower part of upper lobe or upper part of lower lobe (NOT apex). Ghon complex = Ghon focus + hilar LN. Secondary TB = apical (Simon focus, reactivation in high O2 zone).",
+"pyqNote": "Ghon focus location (NOT apex - this is secondary TB) is one of the most commonly incorrectly answered questions - tested repeatedly.",
+"tags": [
+"lung",
+"tuberculosis",
+"Ghon complex",
+"primary complex",
+"caseating granuloma",
+"hilar lymph node"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Lung - Langerhans Cell Histiocytosis",
+"difficulty": "hard",
+"stem": "Electron microscopy of a lung biopsy from a 35-year-old heavy smoker with diffuse bilateral cystic lung disease and lytic bone lesions shows characteristic intracytoplasmic organelles within the proliferating histiocytic cells. These organelles have a pentalaminar membrane with a linear central density and a tennis-racket-shaped morphology. These are:",
+"options": [
+"Weibel-Palade bodies",
+"Birbeck granules",
+"Lamellar bodies",
+"Asbestos bodies"
+],
+"answer": 1,
+"explanation": "Birbeck granules (Langerhans cell granules) are the pathognomonic ultrastructural feature of Langerhans cells on EM - tennis racket-shaped pentalaminar organelles containing Langerin (CD207). Langerhans cell histiocytosis (formerly histiocytosis X) can involve lung (unifocal = eosinophilic granuloma), bone, skin (Letterer-Siwe in infants), or be multisystem (Hand-Schuller-Christian triad: lytic skull lesions + diabetes insipidus + exophthalmos). LCH cells are CD1a+ and S100+.",
+"highYield": "Birbeck granules on EM = Langerhans cell histiocytosis. Tennis-racket shaped. LCH markers: CD1a+, CD207 (Langerin)+, S100+. Smoking-related pulmonary LCH is most common adult form.",
+"pyqNote": "Birbeck granule morphology (tennis-racket shaped) and LCH IHC markers (CD1a, S100) are high-frequency EM/IHC questions.",
+"tags": [
+"lung",
+"Langerhans cell histiocytosis",
+"Birbeck granules",
+"tennis racket",
+"CD1a",
+"eosinophilic granuloma"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Lung - Asbestosis",
+"difficulty": "medium",
+"stem": "Lung biopsy from a 60-year-old shipyard worker with progressive exertional dyspnea and bilateral basal crackles shows H&E section with interstitial fibrosis predominantly in the lower lobes. Iron stain (Perl's Prussian blue) highlights elongated structures with a translucent asbestos fiber core coated with iron-protein material and beaded golden-brown appearance, with a 'dumbbell' or 'drumstick' shape. These are called:",
+"options": [
+"Ferruginous bodies (asbestos bodies)",
+"Charcot-Leyden crystals",
+"Hemosiderin deposits",
+"Corpora amylacea"
+],
+"answer": 0,
+"explanation": "Ferruginous bodies (asbestos bodies) are asbestos fibers coated with iron-containing protein, giving them a golden-brown beaded or dumbbell shape. They are highlighted by Perl's Prussian blue stain (iron stain). Asbestosis causes lower-lobe-predominant pulmonary fibrosis with bilateral pleural plaques (parietal pleura, diaphragm). Associated malignancies: mesothelioma (most specific) and bronchogenic carcinoma (most common). Amphibole fibers (crocidolite) are most carcinogenic.",
+"highYield": "Asbestos bodies = ferruginous bodies = golden dumbbell-shaped structures on iron stain. Lower lobe fibrosis + pleural plaques. Mesothelioma is most specific association; lung cancer most common.",
+"pyqNote": "Asbestos body morphology (dumbbell/ferruginous body), stain, and disease associations are tested repeatedly in NEET PG.",
+"tags": [
+"lung",
+"asbestosis",
+"ferruginous bodies",
+"asbestos bodies",
+"iron stain",
+"mesothelioma"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Kidney - Renal Cell Carcinoma",
+"difficulty": "easy",
+"stem": "Gross specimen of a kidney from a 55-year-old male smoker shows a large (8 cm) upper pole tumor with a pseudocapsule. The cut surface shows a variegated appearance with yellow-tan areas (lipid-rich), areas of hemorrhage (dark red), and areas of necrosis (gray-white). The tumor is confined to the kidney. H&E section shows cells with clear cytoplasm, distinct cell membranes, and round uniform nuclei arranged in nests separated by delicate blood vessels. The diagnosis is:",
+"options": [
+"Urothelial carcinoma of the renal pelvis",
+"Clear cell renal cell carcinoma",
+"Angiomyolipoma",
+"Oncocytoma"
+],
+"answer": 1,
+"explanation": "Clear cell RCC (conventional RCC) is the most common renal malignancy in adults (70-80% of RCCs), associated with VHL gene mutation (3p25-26 deletion). Gross features: upper pole, yellow-tan (cholesterol/lipid-rich), variegated with hemorrhage and necrosis. Histology: clear cytoplasm (lipid and glycogen washed out during processing), thin-walled 'chicken-wire' vasculature. Classic paraneoplastic triad: hematuria, flank pain, palpable mass (occurs in only 10% of cases).",
+"highYield": "Clear cell RCC: yellow variegated upper pole tumor, clear cells in alveolar pattern, VHL mutation (3p deletion). Most common adult kidney tumor. Lipid and glycogen cause clear cytoplasm on H&E.",
+"pyqNote": "Clear cell RCC gross appearance (yellow-tan variegated), histology (clear cells), and VHL association are tested in NEET PG.",
+"tags": [
+"kidney",
+"renal cell carcinoma",
+"clear cell RCC",
+"VHL",
+"variegated cut surface",
+"upper pole"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Cervix - HPV/Pap Smear",
+"difficulty": "easy",
+"stem": "Pap smear from a 28-year-old female shows superficial squamous cells with large perinuclear halos (cytoplasmic clearing with sharp outer borders) and nuclear abnormalities including nuclear enlargement, hyperchromasia, irregular nuclear membranes, and bi-nucleation. These cytopathic changes in squamous cells are called:",
+"options": [
+"Dyskeratocytes",
+"Koilocytes",
+"Decidual cells",
+"Squamous metaplastic cells"
+],
+"answer": 1,
+"explanation": "Koilocytes are the hallmark of productive HPV infection in squamous cells. They show characteristic perinuclear cytoplasmic halos (due to viral E4 protein disrupting cytokeratin) with nuclear abnormalities (enlargement, hyperchromasia, irregular nuclear membrane = nuclear wrinkling or raisinoid). They are found in LSIL (CIN 1) Pap smears. Low-risk HPV types 6 and 11 cause condylomas; high-risk types 16 and 18 cause CIN 2/3 and invasive cancer.",
+"highYield": "Koilocyte = perinuclear halo + nuclear hyperchromasia/irregularity = HPV cytopathic effect. Seen in LSIL/CIN1. HPV 16/18 = high risk (cancer). HPV 6/11 = low risk (condyloma).",
+"pyqNote": "Koilocyte definition and HPV cytopathic effect is a standard, high-frequency Pap smear question in NEET PG.",
+"tags": [
+"cervix",
+"Pap smear",
+"koilocyte",
+"HPV",
+"CIN",
+"LSIL",
+"perinuclear halo"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Cervix - CIN Grading",
+"difficulty": "medium",
+"stem": "Cervical biopsy from a 35-year-old female with an abnormal Pap smear showing HSIL shows H&E section with full-thickness replacement of the squamous epithelium by dysplastic cells with high nuclear-cytoplasmic ratio, hyperchromatic irregular nuclei, loss of normal maturation, and atypical mitoses extending to the upper one-third of the epithelium. The basement membrane is intact. This histological appearance is classified as:",
+"options": [
+"CIN 1 (mild dysplasia)",
+"CIN 2 (moderate dysplasia)",
+"CIN 3 (severe dysplasia/carcinoma in situ)",
+"Microinvasive squamous cell carcinoma"
+],
+"answer": 2,
+"explanation": "CIN grading is based on the extent of dysplastic cell involvement in the squamous epithelial thickness: CIN 1 (lower 1/3 with koilocytes in superficial layers = LSIL), CIN 2 (lower 2/3 = HSIL), CIN 3/CIS (full thickness replacement, no surface maturation = HSIL). Full-thickness dysplasia with intact basement membrane = CIN 3/carcinoma in situ. Invasion through the basement membrane = invasive SCC. CIN 3 has ~30-35% risk of progression to invasion if untreated.",
+"highYield": "CIN grading: CIN1 = lower 1/3 (LSIL); CIN2 = lower 2/3 (HSIL); CIN3/CIS = full thickness (HSIL). Intact BM throughout CIN spectrum. BM breach = invasion = SCC.",
+"pyqNote": "CIN grading criteria (by thickness of epithelial involvement) and LSIL/HSIL correlation is a standard NEET PG question.",
+"tags": [
+"cervix",
+"CIN",
+"CIN3",
+"carcinoma in situ",
+"dysplasia grading",
+"HPV",
+"HSIL"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Liver - Cirrhosis",
+"difficulty": "easy",
+"stem": "Liver biopsy from a 50-year-old male with portal hypertension and jaundice shows H&E section with loss of normal lobular architecture, formation of spherical nodules of hepatocytes surrounded by fibrous septa. The nodules vary from <3 mm to 1-3 cm in diameter. Trichrome stain highlights the fibrous bands in blue. This end-stage liver pathology is classified as:",
+"options": [
+"Hepatic fibrosis without cirrhosis",
+"Macronodular cirrhosis",
+"Micronodular cirrhosis",
+"Hepatocellular carcinoma arising in cirrhosis"
+],
+"answer": 1,
+"explanation": "Macronodular cirrhosis has regenerative nodules >3 mm (most >1 cm) and is caused by viral hepatitis (HBV, HCV) and Wilson disease. Micronodular cirrhosis has uniform nodules <3 mm and is caused by alcoholic liver disease and hemochromatosis (the insult is diffuse and uniform). Key features of cirrhosis: regenerative nodules + fibrous septa + distorted architecture. Trichrome stain (Masson's) highlights collagen/fibrous septa in blue.",
+"highYield": "Macronodular (>3mm) = viral hepatitis/Wilson. Micronodular (<3mm) = alcohol/hemochromatosis. Cirrhosis = regenerative nodules + fibrous septa on Masson trichrome. Irreversible end-stage.",
+"pyqNote": "Distinction between micro vs macronodular cirrhosis and their causes is a high-yield paired question in NEET PG.",
+"tags": [
+"liver",
+"cirrhosis",
+"macronodular",
+"micronodular",
+"regenerative nodules",
+"trichrome stain"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Kidney - FSGS",
+"difficulty": "hard",
+"stem": "Renal biopsy from a 35-year-old HIV-positive male with heavy proteinuria (8g/day) shows H&E section with segmental sclerosis (obliteration of capillary lumina by hyaline deposits) affecting only some glomeruli, with collapse of the glomerular tuft particularly in the perihilar region. Electron microscopy shows diffuse foot process effacement similar to minimal change disease. Immunofluorescence shows IgM and C3 in areas of sclerosis. The most likely diagnosis is:",
+"options": [
+"Minimal change disease",
+"Focal segmental glomerulosclerosis (FSGS)",
+"Membranous nephropathy",
+"IgA nephropathy"
+],
+"answer": 1,
+"explanation": "FSGS (focal = some glomeruli, segmental = part of glomerulus) is a morphological pattern of glomerular injury presenting as nephrotic syndrome. HIV-associated nephropathy (HIVAN) causes a collapsing variant of FSGS with severe podocyte injury. EM shows podocyte foot process effacement (similar to MCD but more extensive injury). The key distinguishing features from MCD are: IF positive (IgM/C3 in sclerotic segments), clinical context, and LM showing sclerosis. FSGS is the most common cause of nephrotic syndrome in African Americans.",
+"highYield": "FSGS: focal (some glomeruli) + segmental (part of tuft) sclerosis. HIV-associated = collapsing FSGS. More common in Black patients. Foot process effacement on EM (like MCD but with LM sclerosis).",
+"pyqNote": "FSGS vs MCD distinction (FSGS has LM changes + IgM/C3 on IF; MCD has normal LM and negative IF) is frequently tested.",
+"tags": [
+"kidney",
+"FSGS",
+"focal segmental",
+"HIV nephropathy",
+"nephrotic syndrome",
+"podocyte",
+"foot process effacement"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Thyroid - Papillary Carcinoma",
+"difficulty": "medium",
+"stem": "H&E section of a thyroid nodule biopsy from a 32-year-old female shows papillary structures lined by cells with characteristic nuclear features: ground-glass or 'Orphan Annie eye' nuclei (large, pale, optically clear nuclei), nuclear grooves, and nuclear pseudoinclusions (intranuclear cytoplasmic invaginations). The tumor cells have overlapping nuclei. A psammoma body (laminated calcification) is also present. The diagnosis is:",
+"options": [
+"Follicular carcinoma of thyroid",
+"Papillary carcinoma of thyroid",
+"Medullary carcinoma of thyroid",
+"Anaplastic carcinoma of thyroid"
+],
+"answer": 1,
+"explanation": "Papillary thyroid carcinoma (PTC) is the most common thyroid malignancy (85%). Its diagnosis rests entirely on nuclear features: Orphan Annie eye nuclei (ground-glass/optically clear), nuclear grooves, and pseudoinclusions. Psammoma bodies (concentrically laminated calcifications) are seen in 50% of cases. RET/PTC translocations and BRAF V600E mutation are the major molecular alterations. PTC spreads via lymphatics to cervical nodes. Prognosis is excellent (>95% survival).",
+"highYield": "PTC nuclear triad: Orphan Annie eye nuclei + nuclear grooves + pseudoinclusions. Psammoma bodies + lymph node metastasis. BRAF V600E most common mutation. Excellent prognosis.",
+"pyqNote": "PTC nuclear features and psammoma bodies are perennially tested; BRAF mutation association is increasingly common in recent exams.",
+"tags": [
+"thyroid",
+"papillary carcinoma",
+"Orphan Annie eye",
+"nuclear groove",
+"psammoma body",
+"BRAF"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Thyroid - Medullary Carcinoma",
+"difficulty": "medium",
+"stem": "H&E section of a thyroid mass from a 45-year-old male with a family history of thyroid cancer and pheochromocytoma shows nests and sheets of polygonal to spindle-shaped cells with granular cytoplasm separated by stroma. Congo red stain of the stroma shows apple-green birefringence under polarized light. Calcitonin immunostain is strongly positive in the tumor cells. The tumor arises from which cell type?",
+"options": [
+"Follicular cells (thyrocytes)",
+"Parafollicular C cells",
+"Hurthle cells (oncocytes)",
+"Lymphoid cells"
+],
+"answer": 1,
+"explanation": "Medullary thyroid carcinoma (MTC) arises from parafollicular C cells (neural crest-derived), which produce calcitonin. Amyloid deposits in the stroma are composed of calcitonin fibrils (Congo red positive, apple-green birefringent). MTC is part of MEN 2A (RET mutation, with parathyroid hyperplasia + pheochromocytoma) and MEN 2B. 25% are familial (RET proto-oncogene germline mutation). Serum calcitonin is the tumor marker. Not TSH-dependent.",
+"highYield": "MTC = C cells + calcitonin-producing + amyloid stroma (calcitonin amyloid, Congo red+). MEN 2A/2B = RET mutation. Calcitonin is tumor marker. Familial = germline RET testing for family members.",
+"pyqNote": "MTC cell of origin (C cells), amyloid stroma, calcitonin marker, and RET/MEN2A association are all tested in NEET PG.",
+"tags": [
+"thyroid",
+"medullary carcinoma",
+"C cells",
+"calcitonin",
+"amyloid stroma",
+"MEN2A",
+"RET"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Breast - DCIS",
+"difficulty": "medium",
+"stem": "H&E section of a breast biopsy shows ducts filled and distended by large pleomorphic cells with high nuclear-cytoplasmic ratio and frequent mitoses. The center of the duct shows central necrosis with dystrophic calcification (forming a cheesy/paste-like plug). The basement membrane of the ducts is intact with no stromal invasion. This pattern of ductal carcinoma in situ is called:",
+"options": [
+"Cribriform DCIS",
+"Comedo DCIS",
+"Lobular carcinoma in situ",
+"Micropapillary DCIS"
+],
+"answer": 1,
+"explanation": "Comedo DCIS (comedocarcinoma) is the highest-grade pattern of DCIS characterized by high nuclear grade cells (pleomorphic, frequent mitoses) with central necrosis and dystrophic calcification. The name 'comedo' refers to the cheesy plug-like necrotic material that can be expressed from the duct (like a comedo in acne). It is associated with HER2/neu overexpression and has higher risk of progression to invasive carcinoma. Basement membrane remains intact (in situ lesion).",
+"highYield": "Comedo DCIS = high-grade DCIS + central necrosis + dystrophic calcification (visible on mammogram) + HER2 overexpression. Highest risk of progression among DCIS subtypes.",
+"pyqNote": "Comedo DCIS morphology and its distinction from invasive carcinoma (intact basement membrane) is a tested pathology concept.",
+"tags": [
+"breast",
+"DCIS",
+"comedo",
+"central necrosis",
+"in situ carcinoma",
+"HER2",
+"calcification"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Skin - Melanoma",
+"difficulty": "medium",
+"stem": "H&E section of a skin biopsy from a 45-year-old shows a malignant melanocytic proliferation with pagetoid spread (scatter of atypical melanocytes singly and in clusters throughout all layers of the epidermis, including the granular layer). The tumor has invaded the dermis to a depth of 2.5 mm (Clark level IV, Breslow thickness). The cells contain brown pigment (melanin). Immunostain is positive for S100, HMB-45, and Melan-A. The diagnosis is:",
+"options": [
+"Dysplastic nevus",
+"Melanoma (superficial spreading type)",
+"Basal cell carcinoma with melanin pigment",
+"Seborrheic keratosis"
+],
+"answer": 1,
+"explanation": "Superficial spreading melanoma is the most common type of cutaneous melanoma. Pagetoid spread (atypical melanocytes scattered singly and in nests throughout the epidermis, like Paget cells) is the characteristic pattern. Breslow thickness (measured from granular layer to deepest tumor cell in mm) is the single most important prognostic factor. Melanoma markers: S100 (most sensitive), HMB-45 (most specific), Melan-A, SOX10. BRAF V600E mutation in ~50%.",
+"highYield": "Pagetoid spread = melanocytes at all epidermal levels = superficial spreading melanoma. Breslow thickness = most important prognostic factor. S100 (sensitive) and HMB-45 (specific) are key IHC markers.",
+"pyqNote": "Melanoma staging by Breslow thickness and Clark levels, plus IHC markers, are tested in NEET PG dermpath.",
+"tags": [
+"skin",
+"melanoma",
+"pagetoid spread",
+"Breslow thickness",
+"S100",
+"HMB-45",
+"superficial spreading"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Prostate - Adenocarcinoma",
+"difficulty": "medium",
+"stem": "H&E section of a prostate needle biopsy from a 65-year-old male with PSA 18 ng/mL shows glands of variable size, many of which are small with an infiltrative pattern among the benign glands. The malignant glands lack a basal cell layer (confirmed by absence of CK5/14 or p63 staining), show prominent nucleoli, and have luminal blue mucin. The Gleason pattern shows predominantly pattern 4 (fused glands) with some pattern 3. The Gleason score would be:",
+"options": [
+"3+3 = 6 (Grade Group 1)",
+"4+4 = 8 (Grade Group 4)",
+"4+3 = 7 (Grade Group 3)",
+"5+5 = 10 (Grade Group 5)"
+],
+"answer": 2,
+"explanation": "Gleason grading assigns a score from 1-5 to the two most predominant patterns, adding them. Pattern 3 = discrete well-formed glands; Pattern 4 = fused glands, cribriform, ill-defined glands; Pattern 5 = solid sheets, single cells, comedonecrosis. Score = primary pattern + secondary pattern. Predominantly pattern 4 with some pattern 3 = 4 (primary) + 3 (secondary) = Gleason score 7, Grade Group 3. Absence of basal cells confirmed by absent p63/CK5 is diagnostic of carcinoma (benign glands have basal cell layer).",
+"highYield": "Prostate adenocarcinoma lacks basal cells (p63-, CK5-). Gleason score = primary + secondary pattern. Score 4+3=7 (Grade Group 3) is more aggressive than 3+4=7 (Grade Group 2). PSA is tumor marker.",
+"pyqNote": "Gleason grading system and absence of basal cells in prostate adenocarcinoma are tested with increasing frequency in NEET PG.",
+"tags": [
+"prostate",
+"adenocarcinoma",
+"Gleason score",
+"basal cell absence",
+"p63",
+"PSA",
+"Grade Group"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Testis - Seminoma",
+"difficulty": "easy",
+"stem": "H&E section of an orchiectomy specimen from a 30-year-old male with a painless testicular mass shows sheets of large uniform polygonal cells with clear cytoplasm (due to glycogen), distinct cell membranes, central round nuclei with prominent nucleoli, and intervening fibrous septa with lymphocytic infiltration. Granulomatous reaction is also noted. Tumor cells are PAS positive and show membranous PLAP staining. The diagnosis is:",
+"options": [
+"Embryonal carcinoma",
+"Seminoma",
+"Yolk sac tumor",
+"Teratoma"
+],
+"answer": 1,
+"explanation": "Seminoma is the most common testicular germ cell tumor and the most common GCT in cryptorchid testes. Classic histology: large uniform clear cells (glycogen-rich, PAS+) in sheets/lobules separated by fibrous septa infiltrated by lymphocytes, with granulomatous inflammation. PLAP (placental alkaline phosphatase) is the characteristic tumor marker. CD117 (c-kit) and OCT3/4 are also positive. Isochromosome 12p [i(12p)] is the signature chromosomal abnormality.",
+"highYield": "Seminoma: PAS+ clear cells + lymphocytic septa + granulomas + PLAP+. Most common testicular GCT. Isochromosome i(12p). Radiosensitive! AFP is NOT raised (AFP elevation = non-seminomatous component).",
+"pyqNote": "Seminoma histology, PLAP marker, radiosensitivity, and AFP-negative status are all critical NEET PG distinctions from non-seminomatous GCTs.",
+"tags": [
+"testis",
+"seminoma",
+"PAS positive",
+"PLAP",
+"lymphocytic infiltration",
+"isochromosome 12p",
+"GCT"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Nervous System - Glioblastoma",
+"difficulty": "hard",
+"stem": "H&E section of a brain tumor from a 60-year-old male shows a highly cellular glial tumor with marked nuclear pleomorphism, frequent mitoses, areas of geographic (palisading) necrosis with tumor cells arranged around the necrotic foci in a palisading pattern, and areas of endothelial (microvascular) proliferation with glomeruloid vascular tufts. GFAP immunostain is positive. The diagnosis is:",
+"options": [
+"Anaplastic astrocytoma (WHO grade 3)",
+"Glioblastoma (WHO grade 4)",
+"Oligodendroglioma",
+"Medulloblastoma"
+],
+"answer": 1,
+"explanation": "Glioblastoma (GBM, WHO grade 4) is the most common primary malignant brain tumor in adults. The two cardinal histological features that distinguish GBM from anaplastic astrocytoma (grade 3) are: (1) microvascular/endothelial proliferation (glomeruloid tufts) and (2) necrosis with pseudopalisading (tumor cells arrayed around necrotic foci). GFAP+ confirms glial lineage. IDH wild-type primary GBM has worst prognosis (median survival ~15 months). MGMT promoter methylation predicts response to temozolomide.",
+"highYield": "GBM diagnostic features: pseudopalisading necrosis + microvascular proliferation + marked pleomorphism. WHO grade 4. IDH wildtype in primary GBM. MGMT methylation = better TMZ response.",
+"pyqNote": "Pseudopalisading necrosis and microvascular proliferation distinguishing GBM from anaplastic astrocytoma is a core NEET PG distinction.",
+"tags": [
+"brain",
+"glioblastoma",
+"GBM",
+"pseudopalisading necrosis",
+"microvascular proliferation",
+"GFAP",
+"IDH wildtype"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Nervous System - Meningioma",
+"difficulty": "medium",
+"stem": "H&E section of a dural-based brain tumor from a 55-year-old female shows syncytial whorls of meningothelial cells with uniform oval nuclei, inconspicuous nucleoli, and intranuclear pseudoinclusions. Laminated calcified structures (psammoma bodies) are scattered throughout. The tumor cells are positive for EMA (epithelial membrane antigen) and negative for GFAP. The diagnosis is:",
+"options": [
+"Schwannoma",
+"Meningioma (meningothelial type)",
+"Hemangiopericytoma",
+"Ependymoma"
+],
+"answer": 1,
+"explanation": "Meningioma arises from arachnoid cap cells (meningothelial cells) and is the most common primary intracranial tumor overall (but usually benign). Key histological features: syncytial whorls, intranuclear pseudoinclusions, and psammoma bodies (concentric calcifications). IHC: EMA+ and PR (progesterone receptor) positive, GFAP negative. Most are benign WHO grade 1. NF2 mutation is common. Females > Males (2:1). Dural attachment (dural tail sign on MRI).",
+"highYield": "Meningioma: syncytial whorls + psammoma bodies + EMA+/GFAP-. Arises from arachnoid cap cells. Dural based. Most common intracranial tumor overall. NF2 mutation common.",
+"pyqNote": "Meningioma histology (whorls + psammoma bodies) and EMA positivity with GFAP negativity are standard IHC questions.",
+"tags": [
+"brain",
+"meningioma",
+"syncytial whorls",
+"psammoma bodies",
+"EMA",
+"arachnoid cap cells",
+"NF2"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Kidney - Wilms Tumor",
+"difficulty": "easy",
+"stem": "H&E section of a kidney mass resected from a 4-year-old child shows a characteristic triphasic histology consisting of: (1) blastemal cells (small, round, blue cells with high nuclear-cytoplasmic ratio), (2) stromal component (spindle cells, loose mesenchymal tissue), and (3) epithelial component (tubular and glomeruloid structures). The tumor is well-demarcated from the normal kidney. The diagnosis is:",
+"options": [
+"Neuroblastoma involving the kidney",
+"Nephroblastoma (Wilms tumor)",
+"Clear cell sarcoma of the kidney",
+"Rhabdoid tumor of the kidney"
+],
+"answer": 1,
+"explanation": "Wilms tumor (nephroblastoma) is the most common renal malignancy of childhood (peak age 3-4 years). Classic triphasic histology: blastemal (small blue cells), stromal (spindle/mesenchymal), and epithelial (tubules, glomeruloid structures) components. Associated with WT1 gene mutation, WAGR syndrome (Wilms/Aniridia/GU abnormalities/intellectual Retardation), Beckwith-Wiedemann syndrome (WT2/IGF2), and Denys-Drash syndrome. Anaplasia (nuclear enlargement + atypical mitoses) is an adverse feature.",
+"highYield": "Wilms tumor = triphasic (blastemal + stromal + epithelial) + WT1 mutation + WAGR/Beckwith-Wiedemann associations. Most common pediatric renal tumor. Peak age 3-4 years. 85-90% survival with treatment.",
+"pyqNote": "Wilms tumor triphasic histology and genetic/syndrome associations are tested in pediatric pathology sections of NEET PG.",
+"tags": [
+"kidney",
+"Wilms tumor",
+"nephroblastoma",
+"triphasic",
+"blastemal",
+"WT1",
+"WAGR syndrome"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Adrenal - Neuroblastoma",
+"difficulty": "medium",
+"stem": "H&E section of an abdominal mass from a 2-year-old child shows sheets of small round blue cells with dark hyperchromatic nuclei, scant cytoplasm, and areas of neuropil (pink fibrillar background). Some cells form rosette-like structures with central eosinophilic neuropil fibers in the center (Homer Wright rosettes, without a lumen). The tumor cells are positive for NSE, synaptophysin, and chromogranin A. The diagnosis is:",
+"options": [
+"Wilms tumor",
+"Neuroblastoma",
+"Rhabdomyosarcoma",
+"Ewing sarcoma"
+],
+"answer": 1,
+"explanation": "Neuroblastoma arises from neural crest-derived cells of the adrenal medulla or sympathetic chain. Histology: small round blue cells + neuropil (fibrillar background, pathognomonic) + Homer Wright rosettes (pseudorosettes with central neuropil, no lumen). Neuroendocrine markers: NSE, synaptophysin, chromogranin A. MYCN amplification (>10 copies) is the worst prognostic factor. VMA and HVA are elevated in urine. Most common solid extracranial tumor in children under 2 years.",
+"highYield": "Neuroblastoma: Homer Wright rosettes + neuropil + NSE/synaptophysin/chromogranin+. MYCN amplification = poor prognosis. Urine VMA/HVA elevated. Most common extra-cranial solid tumor in children <2 yrs.",
+"pyqNote": "Neuroblastoma Homer Wright rosettes (with neuropil center) vs Ewing (Homer Wright with no neuropil) distinction is frequently tested.",
+"tags": [
+"adrenal",
+"neuroblastoma",
+"Homer Wright rosettes",
+"neuropil",
+"MYCN",
+"NSE",
+"synaptophysin"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Bone Marrow - Multiple Myeloma",
+"difficulty": "medium",
+"stem": "Bone marrow biopsy from a 65-year-old male with back pain, hypercalcemia, renal failure, anemia, and serum M-protein (IgG kappa) shows H&E section with sheets of plasma cells comprising >30% of the marrow cellularity. The plasma cells show 'clock-face' (cartwheel) chromatin pattern, eccentric nuclei, and a prominent perinuclear hof (Golgi zone). A subset shows large inclusion bodies called Russell bodies (condensed immunoglobulin). Bone marrow biopsy Congo red stain may show amyloid deposition. The diagnosis is:",
+"options": [
+"Reactive plasmacytosis",
+"Multiple myeloma",
+"Waldenstrom macroglobulinemia",
+"MGUS"
+],
+"answer": 1,
+"explanation": "Multiple myeloma is a clonal plasma cell neoplasm producing monoclonal immunoglobulin (M-protein). Plasma cell morphology: clock-face chromatin, eccentric nucleus, perinuclear hof (pale Golgi zone), Russell bodies (eosinophilic Ig inclusions). Diagnostic criteria include >10% clonal BM plasma cells + CRAB criteria (hyperCalcemia, Renal failure, Anemia, Bone lesions) or myeloma-defining events. AL amyloidosis (light-chain amyloid) is a complication (Congo red+, apple-green birefringence).",
+"highYield": "Myeloma plasma cell: clock-face chromatin + perinuclear hof + Russell bodies. CRAB criteria for diagnosis. AL amyloid is a complication (light-chain deposits). M-protein = diagnostic tool.",
+"pyqNote": "Multiple myeloma plasma cell morphology and CRAB criteria are repeatedly tested. AL amyloid in myeloma vs AA in chronic inflammation is a paired question.",
+"tags": [
+"bone marrow",
+"multiple myeloma",
+"plasma cells",
+"Russell bodies",
+"clock-face chromatin",
+"AL amyloid",
+"CRAB criteria"
+]
+},
+{
+"subject": "Pathology",
+"topic": "Bladder - Transitional Cell Carcinoma",
+"difficulty": "medium",
+"stem": "H&E section of a cystoscopic biopsy from a 60-year-old male smoker with painless hematuria shows papillary fronds lined by urothelium that is 8-10 cell layers thick (normally 3-7 layers) with moderate nuclear pleomorphism, loss of nuclear polarity, and mitoses in the mid-upper layers. The basement membrane is intact. This lesion is classified as:",
+"options": [
+"Papilloma (WHO grade 0)",
+"Low-grade papillary urothelial carcinoma",
+"High-grade papillary urothelial carcinoma",
+"Urothelial carcinoma in situ (flat)"
+],
+"answer": 2,
+"explanation": "High-grade papillary urothelial carcinoma shows papillary architecture with urothelial lining showing marked nuclear pleomorphism, disorganized architecture, loss of polarity, and mitoses at any level. Low-grade tumors have orderly architecture with minimal atypia. Flat CIS (carcinoma in situ) shows full-thickness atypia without papillary architecture. Bladder cancer risk factors: smoking (most common), aromatic amines (aniline dyes), cyclophosphamide, schistosomiasis (squamous cell carcinoma). The intact BM indicates in situ/non-invasive disease.",
+"highYield": "High-grade urothelial carcinoma: papillary + marked pleomorphism + disorganized architecture + mitoses at any level. Flat CIS = no papillary growth. Smoking = most common risk factor for TCC.",
+"pyqNote": "Grading of urothelial carcinoma and distinction between papillary TCC and flat CIS are tested in NEET PG pathology sections.",
+"tags": [
+"bladder",
+"urothelial carcinoma",
+"TCC",
+"papillary",
+"high grade",
+"hematuria",
+"smoking"
+]
+}
+]

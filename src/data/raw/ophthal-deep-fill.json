@@ -1,0 +1,898 @@
+[
+{
+"subject": "Ophthalmology",
+"topic": "Retinal Vascular Disorders",
+"difficulty": "medium",
+"stem": "Fundus examination of a 67-year-old hypertensive male shows a 'blood and thunder' appearance with flame-shaped and dot-blot hemorrhages in all four quadrants, dilated tortuous veins, disc edema, and cotton wool spots. The most likely diagnosis is:",
+"options": [
+"Central Retinal Artery Occlusion",
+"Central Retinal Vein Occlusion",
+"Proliferative Diabetic Retinopathy",
+"Hypertensive Retinopathy Grade IV"
+],
+"answer": 1,
+"explanation": "Central Retinal Vein Occlusion (CRVO) classically presents with the 'blood and thunder' fundus appearance \u2014 extensive flame-shaped hemorrhages in all four quadrants, tortuous dilated veins, disc swelling, and cotton wool spots. The obstruction occurs at the lamina cribrosa level, causing venous stasis and hemorrhage throughout all quadrants. CRAO shows a pale retina with cherry-red spot, not hemorrhages. Hypertensive retinopathy Grade IV also has disc edema but lacks the quadrantic hemorrhagic pattern.",
+"highYield": "'Blood and thunder' fundus = CRVO; hemorrhages in ALL 4 quadrants is the hallmark distinguishing it from branch RVO",
+"pyqNote": "Asked in NEET PG 2022, 2024 \u2014 classic image-based identification question",
+"tags": [
+"CRVO",
+"blood and thunder",
+"fundus",
+"retinal vein occlusion",
+"disc edema"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Retinal Vascular Disorders",
+"difficulty": "medium",
+"stem": "A 55-year-old woman presents with sudden painless loss of vision in her right eye. Fundus examination shows a cherry-red spot at the fovea with surrounding pale, opaque retina. The disc appears pale. Fluorescein angiography shows absent arterial filling. The most appropriate immediate management is:",
+"options": [
+"IV Acetazolamide and ocular massage",
+"Intravitreal anti-VEGF injection",
+"Anterior chamber paracentesis and ocular massage",
+"Topical beta-blocker and observation"
+],
+"answer": 2,
+"explanation": "Central Retinal Artery Occlusion (CRAO) presents with sudden painless visual loss, cherry-red spot at fovea (choroidal circulation preserved beneath thin foveal tissue vs ischemic surrounding retina), and pale opaque retina. Emergency treatment aims to restore perfusion: anterior chamber paracentesis rapidly lowers IOP to dislodge the embolus, combined with ocular massage to mechanically move the clot. The window is 90-100 minutes. IV acetazolamide alone is insufficient. Anti-VEGF has no role in acute CRAO.",
+"highYield": "Cherry-red spot at fovea = CRAO; fovea appears red because underlying choroid is visible through thin avascular foveal retina while surrounding retina becomes milky-white",
+"pyqNote": "NEET PG 2019, 2023 \u2014 both the fundus description and emergency management are frequently tested",
+"tags": [
+"CRAO",
+"cherry red spot",
+"ocular massage",
+"paracentesis",
+"sudden visual loss"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Diabetic Retinopathy",
+"difficulty": "hard",
+"stem": "A 50-year-old type 2 diabetic undergoes fundus examination. The right eye shows microaneurysms, hard exudates in a circinate pattern around the fovea, and retinal thickening within 500 microns of the center of the macula. The left eye shows dot-blot hemorrhages only in one quadrant. According to the ETDRS classification, the right eye has:",
+"options": [
+"Mild Non-Proliferative Diabetic Retinopathy with no DME",
+"Moderate NPDR with Clinically Significant Macular Edema",
+"Severe NPDR with Clinically Significant Macular Edema",
+"Proliferative DR with Diabetic Macular Edema"
+],
+"answer": 1,
+"explanation": "Clinically Significant Macular Edema (CSME) as per ETDRS criteria includes: (1) retinal thickening at or within 500 microns of the center, (2) hard exudates at or within 500 microns of center with adjacent thickening, or (3) a zone of retinal thickening one disc area or more in size, any part of which is within one disc diameter of center. The right eye has both criteria 1 and 2 met. The stage is Moderate NPDR (microaneurysms, hard exudates, some hemorrhages \u2014 not yet severe 4-2-1 rule). CSME is an indication for laser photocoagulation regardless of visual acuity.",
+"highYield": "CSME = retinal thickening/hard exudates within 500 microns of foveal center; requires treatment regardless of visual acuity",
+"pyqNote": "ETDRS CSME definition asked in NEET PG 2021, 2024 AI \u2014 numerical cutoffs are heavily tested",
+"tags": [
+"diabetic retinopathy",
+"CSME",
+"ETDRS",
+"macular edema",
+"hard exudates",
+"500 microns"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Diabetic Retinopathy",
+"difficulty": "hard",
+"stem": "A diabetic patient's fundus shows neovascularization at the disc (NVD) greater than one-quarter to one-third disc area in size with no vitreous hemorrhage. According to the Diabetic Retinopathy Study (DRS), this finding constitutes high-risk proliferative diabetic retinopathy and requires:",
+"options": [
+"Observation and repeat fundus in 3 months",
+"Intravitreal bevacizumab injection only",
+"Panretinal photocoagulation (PRP)",
+"Pars plana vitrectomy"
+],
+"answer": 2,
+"explanation": "The DRS defined high-risk PDR characteristics as: (1) NVD >= 1/4-1/3 disc area, (2) any NVD with vitreous or preretinal hemorrhage, or (3) NVE >= 1/2 disc area with vitreous or preretinal hemorrhage. Panretinal photocoagulation (PRP) is the gold standard treatment, reducing severe visual loss by 50% in the DRS. Anti-VEGF injections are now used as adjuncts or alternatives but PRP remains the definitive treatment for high-risk PDR. Vitrectomy is reserved for non-clearing vitreous hemorrhage or tractional retinal detachment.",
+"highYield": "DRS high-risk PDR criteria: NVD >= 1/4 disc area OR any NVD + hemorrhage OR NVE >= 1/2 disc area + hemorrhage; all require urgent PRP",
+"pyqNote": "Asked in AIIMS 2018, NEET PG 2022 \u2014 DRS criteria and PRP indication are repeatedly tested",
+"tags": [
+"PDR",
+"NVD",
+"DRS criteria",
+"PRP",
+"panretinal photocoagulation",
+"high risk PDR"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Hypertensive Retinopathy",
+"difficulty": "medium",
+"stem": "Fundus examination of a 58-year-old hypertensive patient shows copper-wire appearance of arterioles, arteriovenous nicking at multiple crossings, and flame-shaped hemorrhages with a few cotton wool spots. The disc is not swollen. According to Keith-Wagener-Barker classification, this is:",
+"options": [
+"Grade I",
+"Grade II",
+"Grade III",
+"Grade IV"
+],
+"answer": 2,
+"explanation": "Keith-Wagener-Barker classification: Grade I \u2014 mild arteriolar narrowing, increased light reflex (silver wire); Grade II \u2014 AV nicking, copper/silver wire changes; Grade III \u2014 Grade II features PLUS flame hemorrhages, cotton wool spots, hard exudates; Grade IV \u2014 Grade III PLUS papilledema (disc swelling). This patient has AV nicking AND hemorrhages/cotton wool spots but NO disc swelling, placing them in Grade III. Grade III indicates accelerated hypertension with retinal ischemia. Papilledema (Grade IV) signifies malignant hypertension with raised ICP.",
+"highYield": "KWB Grade III = hemorrhages + cotton wool spots (no disc edema); Grade IV adds papilledema = malignant hypertension",
+"pyqNote": "KWB grading asked in NEET PG 2020, 2023 \u2014 grade III vs IV differentiation (presence of papilledema) is a favorite",
+"tags": [
+"hypertensive retinopathy",
+"Keith-Wagener-Barker",
+"AV nicking",
+"papilledema",
+"copper wire",
+"Grade III"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Glaucoma",
+"difficulty": "medium",
+"stem": "Optic disc examination of a 45-year-old patient with elevated IOP shows a cup-to-disc ratio of 0.7 with superior rim thinning, notching at the inferior pole, and a flame-shaped hemorrhage crossing the disc margin (Drance hemorrhage). The ISNT rule is violated. This presentation is most consistent with:",
+"options": [
+"Physiological cupping",
+"Primary Open Angle Glaucoma",
+"Papilledema",
+"Non-arteritic Anterior Ischemic Optic Neuropathy"
+],
+"answer": 1,
+"explanation": "Primary Open Angle Glaucoma (POAG) causes characteristic optic disc changes: increased C:D ratio (>0.65 is suspicious), notching (particularly at superior and inferior poles \u2014 ISNT rule violation means inferior rim is thinner than superior, which is abnormal), flame hemorrhages at disc margin (Drance hemorrhages are pathognomonic of glaucoma), and neuroretinal rim loss. Physiological cupping has symmetrical large cups without notching or hemorrhage. Papilledema shows swollen disc with blurred margins, not cupping. NAION shows segmental disc pallor.",
+"highYield": "ISNT rule: normal rim width order is Inferior > Superior > Nasal > Temporal; violation indicates glaucomatous damage; Drance hemorrhage is pathognomonic of glaucoma",
+"pyqNote": "ISNT rule and Drance hemorrhage asked in NEET PG 2021, 2024 \u2014 very high-yield",
+"tags": [
+"POAG",
+"ISNT rule",
+"Drance hemorrhage",
+"cup to disc ratio",
+"notching",
+"glaucoma disc"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Glaucoma",
+"difficulty": "hard",
+"stem": "Visual field testing of a glaucoma suspect reveals a scotoma that starts from the blind spot (Mariotte's spot), arches above the fixation point, and ends nasally at the horizontal meridian. This pattern is called:",
+"options": [
+"Central scotoma",
+"Arcuate (Bjerrum) scotoma",
+"Altitudinal defect",
+"Nasal step"
+],
+"answer": 1,
+"explanation": "An arcuate (Bjerrum) scotoma is a sickle-shaped defect that originates from the blind spot, arches around fixation following the arcuate nerve fiber bundles, and terminates at the nasal horizontal raphe. It is the classic visual field defect of POAG due to damage to the arcuate nerve fiber layer. A nasal step respects the horizontal meridian without the full arc. An altitudinal defect involves the entire upper or lower half. Central scotoma (macular disease) involves fixation. Bjerrum scotoma represents progression from nasal step.",
+"highYield": "Arcuate (Bjerrum) scotoma: starts at blind spot, arches around fixation, ends at nasal horizontal raphe \u2014 pathognomonic of glaucoma nerve fiber layer damage",
+"pyqNote": "Visual field defects in glaucoma asked in NEET PG 2019, 2022 AI \u2014 Bjerrum scotoma is the most classic",
+"tags": [
+"Bjerrum scotoma",
+"arcuate scotoma",
+"visual field",
+"glaucoma",
+"nerve fiber layer",
+"Mariotte spot"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Glaucoma",
+"difficulty": "medium",
+"stem": "A 35-year-old myopic woman presents with sudden severe headache, nausea, vomiting, and colored halos around lights. On examination, the cornea is steamy/edematous, the pupil is mid-dilated and fixed, and IOP is 62 mmHg. The anterior chamber appears shallow on slit lamp. The most appropriate immediate treatment is:",
+"options": [
+"Topical timolol and pilocarpine drops only",
+"IV Mannitol 20% (1-2 g/kg) followed by pilocarpine and acetazolamide",
+"Emergency trabeculectomy",
+"Nd:YAG laser iridotomy immediately"
+],
+"answer": 1,
+"explanation": "Acute primary angle-closure glaucoma (PACG) presents with severe pain, nausea, colored halos, mid-dilated fixed pupil, steamy cornea, and very high IOP. Emergency medical treatment first: IV mannitol (osmotic agent to rapidly lower IOP), oral/IV acetazolamide (carbonic anhydrase inhibitor), and topical pilocarpine (to constrict pupil and open angle) plus timolol. Once IOP is controlled medically, Nd:YAG laser peripheral iridotomy (PI) is performed as definitive treatment. Immediate laser on a corneal edema eye is difficult. Trabeculectomy is not the first step.",
+"highYield": "Acute ACG emergency sequence: IV mannitol + acetazolamide + pilocarpine first to reduce IOP, THEN Nd:YAG PI as definitive treatment",
+"pyqNote": "Acute angle closure management sequence asked in NEET PG 2020, 2023 \u2014 order of steps matters",
+"tags": [
+"acute angle closure",
+"PACG",
+"mannitol",
+"pilocarpine",
+"Nd:YAG",
+"colored halos",
+"emergency glaucoma"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Glaucoma",
+"difficulty": "medium",
+"stem": "In Goldmann applanation tonometry, the IOP is measured by determining the force required to flatten a corneal area of exactly:",
+"options": [
+"2.06 mm diameter",
+"3.06 mm diameter",
+"4.06 mm diameter",
+"1.06 mm diameter"
+],
+"answer": 1,
+"explanation": "Goldmann applanation tonometry (gold standard for IOP measurement) is based on the Imbert-Fick law. The tonometer tip flattens a corneal area of 3.06 mm diameter (area = 7.35 mm\u00b2), at which point the surface tension of the tear film and corneal rigidity exactly cancel each other out, making the IOP equal to the applanation force divided by the area. At this specific diameter, the forces balance perfectly and corneal rigidity is neutralized. The mire semicircles are aligned when correct applanation is achieved.",
+"highYield": "Goldmann tonometry flattens 3.06 mm diameter area; at this diameter, surface tension and corneal rigidity cancel each other (Imbert-Fick principle)",
+"pyqNote": "This specific diameter (3.06 mm) asked in NEET PG 2018, 2021 \u2014 numerical fact frequently tested",
+"tags": [
+"Goldmann applanation",
+"tonometry",
+"Imbert-Fick",
+"IOP measurement",
+"3.06 mm",
+"glaucoma"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Uveitis",
+"difficulty": "medium",
+"stem": "Slit lamp examination of a patient with recurrent uveitis shows large, greasy, mutton-fat keratic precipitates (KPs) on the inferior corneal endothelium in a triangular (Arlt's triangle) distribution. The anterior chamber shows 3+ cells with a small hypopyon. This type of KP pattern is most characteristic of:",
+"options": [
+"Herpetic uveitis",
+"Granulomatous uveitis (e.g., sarcoidosis or tuberculosis)",
+"HLA-B27 associated uveitis",
+"Fuchs heterochromic iridocyclitis"
+],
+"answer": 1,
+"explanation": "Mutton-fat KPs are large, greasy keratic precipitates composed of macrophages and epithelioid cells. They are the hallmark of granulomatous uveitis, seen in sarcoidosis, tuberculosis, sympathetic ophthalmia, VKH syndrome, and leprosy. They deposit in Arlt's triangle (inferior corneal endothelium due to convection currents). Small, fine stellate KPs are characteristic of non-granulomatous uveitis (Fuchs, herpetic, HLA-B27). Fuchs heterochromic iridocyclitis has fine stellate KPs scattered all over the cornea (not in Arlt's triangle pattern).",
+"highYield": "Mutton-fat KPs = granulomatous uveitis (sarcoid, TB, VKH, sympathetic ophthalmia); fine stellate KPs = non-granulomatous (Fuchs, HLA-B27)",
+"pyqNote": "KP type differentiation asked in NEET PG 2019, 2022, 2024 \u2014 most repeated uveitis question",
+"tags": [
+"mutton-fat KPs",
+"granulomatous uveitis",
+"Arlt's triangle",
+"sarcoidosis",
+"TB uveitis",
+"keratic precipitates"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Uveitis",
+"difficulty": "medium",
+"stem": "Slit lamp examination shows multiple fine stellate keratic precipitates (KPs) scattered all over the posterior corneal surface (not confined to Arlt's triangle). The anterior chamber shows 2+ cells and flare. There is heterochromia (affected eye is lighter), and gonioscopy shows fine vessels crossing the trabecular meshwork. No posterior synechiae are seen. The most likely diagnosis is:",
+"options": [
+"Tubercular uveitis",
+"Sarcoid uveitis",
+"Fuchs Heterochromic Iridocyclitis",
+"HLA-B27 associated uveitis"
+],
+"answer": 2,
+"explanation": "Fuchs Heterochromic Iridocyclitis (FHI) is a chronic non-granulomatous uveitis characterized by: fine stellate KPs distributed all over the corneal endothelium (not in Arlt's triangle), heterochromia iridis (affected eye is lighter due to iris stromal atrophy), absence of posterior synechiae (unlike other uveitis forms), rubeosis iridis with fine vessels at the angle (Amsler sign \u2014 bleeding on paracentesis), and secondary cataract and glaucoma. It is typically unilateral and mild with few symptoms.",
+"highYield": "Fuchs HIC triad: fine stellate KPs all over cornea + heterochromia (lighter affected eye) + NO posterior synechiae; Amsler sign = bleeding on paracentesis",
+"pyqNote": "Fuchs HIC features asked in NEET PG 2020, 2023 \u2014 absence of posterior synechiae is a distinguishing pearl",
+"tags": [
+"Fuchs heterochromic iridocyclitis",
+"stellate KPs",
+"heterochromia",
+"Amsler sign",
+"no synechiae",
+"uveitis"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Uveitis",
+"difficulty": "hard",
+"stem": "A 28-year-old man with known HLA-B27 positivity presents with acute onset redness, photophobia, and severe pain in the right eye. Slit lamp shows fibrinous exudate in the anterior chamber forming a hypopyon. He had similar episodes in both eyes alternately in the past. The most likely diagnosis and the systemic association to screen for are:",
+"options": [
+"Behcet's disease; screen for oral and genital ulcers",
+"Ankylosing spondylitis; screen for sacroiliac joint disease",
+"Sarcoidosis; chest X-ray for bilateral hilar lymphadenopathy",
+"Juvenile idiopathic arthritis; check ANA"
+],
+"answer": 1,
+"explanation": "HLA-B27 is most strongly associated with the seronegative spondyloarthropathies, especially Ankylosing Spondylitis (AS). The uveitis in AS is typically acute, unilateral (alternating between eyes in recurrences), anterior, non-granulomatous, and fibrinous. Sacroiliac joint X-ray/MRI is the first screening investigation. Behcet's disease causes hypopyon uveitis but is HLA-B51 (not B27) associated and is bilateral. Sarcoid causes granulomatous uveitis with mutton-fat KPs. JIA causes chronic anterior uveitis, often with white quiet eye.",
+"highYield": "HLA-B27 uveitis: acute, unilateral, alternating, non-granulomatous, fibrinous \u2014 most common association is Ankylosing Spondylitis; screen with SI joint imaging",
+"pyqNote": "HLA-B27 and uveitis associations asked in NEET PG 2019, 2021, 2024 \u2014 AS is the most common HLA-B27 associated uveitis cause",
+"tags": [
+"HLA-B27",
+"ankylosing spondylitis",
+"anterior uveitis",
+"hypopyon",
+"fibrinous exudate",
+"uveitis"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Visual Field Defects",
+"difficulty": "medium",
+"stem": "Visual field testing shows a defect that involves only the right half of the visual field in BOTH eyes \u2014 the temporal field of the right eye and the nasal field of the left eye are lost. The defect respects the vertical midline. The lesion is located at:",
+"options": [
+"Right optic nerve",
+"Optic chiasm",
+"Left optic tract",
+"Left occipital cortex"
+],
+"answer": 2,
+"explanation": "Right homonymous hemianopia (loss of the right half of the visual field in both eyes) is caused by a lesion in the LEFT visual pathway posterior to the chiasm. The left optic tract carries fibers from the right hemifield of both eyes (nasal fibers from right eye cross at chiasm + temporal fibers from left eye stay uncrossed). Lesions of optic tract, lateral geniculate, optic radiation, or occipital cortex all cause homonymous defects. The chiasm causes bitemporal hemianopia (vertical midline respected with temporal loss). Right optic nerve causes right eye total visual loss.",
+"highYield": "Homonymous hemianopia = contralateral lesion posterior to chiasm; bitemporal hemianopia = chiasmal lesion (pituitary tumor); right homonymous = LEFT tract/radiation/cortex",
+"pyqNote": "Visual field-lesion localization is asked in every NEET PG \u2014 homonymous vs bitemporal vs monocular is fundamental",
+"tags": [
+"homonymous hemianopia",
+"optic tract",
+"visual field",
+"chiasm",
+"lesion localization",
+"visual pathway"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Visual Field Defects",
+"difficulty": "hard",
+"stem": "Visual field testing reveals bitemporal superior quadrantanopia \u2014 loss of the upper temporal quadrant in both eyes. The most likely cause is:",
+"options": [
+"Pituitary adenoma compressing the chiasm from below",
+"Craniopharyngioma compressing the chiasm from above",
+"Optic tract lesion on the right",
+"Optic radiation lesion in the temporal lobe"
+],
+"answer": 1,
+"explanation": "At the optic chiasm, inferior nasal fibers (carrying superior temporal visual field information) loop anteriorly into the contralateral optic nerve (von Willebrand's knee). Compression from ABOVE (craniopharyngioma, suprasellar tumors) damages these inferior fibers first, causing bitemporal SUPERIOR quadrantanopia. Compression from BELOW (pituitary adenoma) damages superior nasal fibers first, causing bitemporal INFERIOR quadrantanopia ('pie in the sky' from above, 'pie on the floor' from below). This is a classic and frequently tricked distinction.",
+"highYield": "Chiasm compressed from below (pituitary) = bitemporal inferior quadrantanopia; compressed from above (craniopharyngioma) = bitemporal superior quadrantanopia",
+"pyqNote": "This superior vs inferior quadrantanopia distinction at chiasm asked in NEET PG 2022, 2024 \u2014 direction of compression determines which field is lost first",
+"tags": [
+"bitemporal hemianopia",
+"craniopharyngioma",
+"pituitary adenoma",
+"chiasm",
+"superior quadrantanopia",
+"von Willebrand knee"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Visual Field Defects",
+"difficulty": "hard",
+"stem": "A patient with a temporal lobe lesion on the left side is found to have a visual field defect. The defect involves the right superior quadrant in both eyes and is described as a 'pie in the sky' defect. This is because the temporal lobe carries fibers from:",
+"options": [
+"Superior retinal fibers from the ipsilateral eye only",
+"Inferior retinal fibers (representing superior visual field) \u2014 Meyer's loop",
+"Superior retinal fibers (representing inferior visual field) from both eyes",
+"Macular fibers from the contralateral eye"
+],
+"answer": 1,
+"explanation": "Optic radiation fibers split into: (1) dorsal (parietal) loop \u2014 carries superior retinal fibers (inferior visual field); (2) ventral (temporal) loop = Meyer's loop \u2014 carries inferior retinal fibers (superior visual field). Meyer's loop sweeps anteriorly around the temporal horn of the lateral ventricle. A left temporal lobe lesion damages Meyer's loop (inferior retinal fibers), causing loss of the contralateral SUPERIOR visual field \u2014 right superior quadrantanopia ('pie in the sky'). Left parietal lobe lesion causes right inferior quadrantanopia ('pie on the floor').",
+"highYield": "Meyer's loop (temporal lobe) = inferior retinal fibers = superior visual field; temporal lesion = contralateral 'pie in the sky' (superior quadrantanopia)",
+"pyqNote": "Meyer's loop and 'pie in the sky' defect asked in AIIMS 2019, NEET PG 2022 \u2014 temporal vs parietal lobe field defects",
+"tags": [
+"Meyer's loop",
+"temporal lobe",
+"superior quadrantanopia",
+"pie in the sky",
+"optic radiation",
+"visual field"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Papilledema and Optic Disc",
+"difficulty": "medium",
+"stem": "Fundus examination shows bilateral disc swelling with blurred disc margins, engorgement of veins, loss of the physiological cup, peripapillary flame hemorrhages, and Paton's lines (circumferential retinal folds). Visual acuity is 6/6 in both eyes. The most likely diagnosis is:",
+"options": [
+"Bilateral anterior ischemic optic neuropathy",
+"Papilledema due to raised intracranial pressure",
+"Bilateral optic neuritis",
+"Malignant hypertensive retinopathy"
+],
+"answer": 1,
+"explanation": "Papilledema is bilateral disc swelling due to raised intracranial pressure transmitted via the subarachnoid space surrounding the optic nerve. The key distinguishing feature from other causes of disc swelling is PRESERVED visual acuity (unlike optic neuritis where VA is reduced). Paton's lines (circumferential choroidal folds around disc), loss of cup, and engorged veins are characteristic. Optic neuritis is typically unilateral with reduced VA and a central scotoma. NAION causes sudden VA loss with sectoral disc swelling.",
+"highYield": "Papilledema = bilateral disc swelling with NORMAL visual acuity + Paton's lines + loss of cup; visual acuity preservation differentiates from optic neuritis",
+"pyqNote": "Papilledema vs optic neuritis differentiation is asked in NEET PG every year \u2014 visual acuity is the key differentiator",
+"tags": [
+"papilledema",
+"raised ICP",
+"Paton's lines",
+"disc swelling",
+"bilateral",
+"visual acuity preserved"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Corneal Transplantation",
+"difficulty": "medium",
+"stem": "A 45-year-old patient with keratoconus undergoes a corneal transplant where only the anterior stroma is replaced while the host Descemet's membrane and endothelium are preserved. This procedure is called:",
+"options": [
+"Penetrating Keratoplasty (PK)",
+"Deep Anterior Lamellar Keratoplasty (DALK)",
+"Descemet's Membrane Endothelial Keratoplasty (DMEK)",
+"Descemet's Stripping Automated Endothelial Keratoplasty (DSAEK)"
+],
+"answer": 1,
+"explanation": "Deep Anterior Lamellar Keratoplasty (DALK) replaces the anterior stroma (epithelium + Bowman's + stroma) while preserving the host Descemet's membrane and endothelium. It is the preferred surgery for keratoconus because the endothelium is healthy in these patients. The advantage over PK is that endothelial rejection is impossible (own endothelium preserved), and rejection risk is much lower. DMEK and DSAEK replace only the endothelium (for Fuchs dystrophy). PK replaces all layers (full thickness).",
+"highYield": "DALK = anterior stroma replaced, host Descemet's and endothelium preserved; ideal for keratoconus with healthy endothelium; no endothelial rejection possible",
+"pyqNote": "Corneal graft types and their indications asked in NEET PG 2021, 2023 \u2014 DALK vs PK vs DSAEK distinction",
+"tags": [
+"DALK",
+"keratoconus",
+"corneal transplant",
+"lamellar keratoplasty",
+"Descemet's membrane",
+"graft types"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Corneal Transplantation",
+"difficulty": "hard",
+"stem": "A patient who underwent penetrating keratoplasty 18 months ago presents with a 'Khodadoust line' \u2014 a line of keratic precipitates at the advancing edge of corneal edema, progressing from the graft periphery towards the center. This is the classic presentation of:",
+"options": [
+"Epithelial rejection",
+"Stromal rejection (immune ring of Wessely)",
+"Endothelial rejection",
+"Primary graft failure"
+],
+"answer": 2,
+"explanation": "The Khodadoust line is the hallmark of endothelial rejection after penetrating keratoplasty. It represents a line of inflammatory cells (KPs) deposited on the graft endothelium at the boundary between rejected (edematous) and surviving endothelium, advancing centrally. This is the most sight-threatening form of graft rejection as endothelial cell loss leads to permanent graft failure. Urgent treatment with topical and systemic steroids is required. Epithelial rejection shows a rolling epithelial rejection line. Stromal rejection shows Wessely ring (immune ring). Primary graft failure occurs early.",
+"highYield": "Khodadoust line = endothelial rejection after PK; KPs at advancing boundary between rejected opaque and clear cornea; most serious \u2014 treat urgently with steroids",
+"pyqNote": "Khodadoust line asked in NEET PG 2020, 2022 AI \u2014 specific and repeatedly tested finding",
+"tags": [
+"Khodadoust line",
+"endothelial rejection",
+"PK",
+"graft rejection",
+"corneal transplant",
+"keratic precipitates"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Retinal Detachment",
+"difficulty": "medium",
+"stem": "A 55-year-old high myope presents with sudden onset flashes of light (photopsia) followed by a shower of floaters, and now complains of a 'dark curtain' coming from the temporal side of his vision. Fundus shows a grey, billowing, mobile retina with a horseshoe-shaped break at the superior temporal periphery. The type of retinal detachment is:",
+"options": [
+"Tractional retinal detachment",
+"Exudative (serous) retinal detachment",
+"Rhegmatogenous retinal detachment",
+"Combined tractional-rhegmatogenous detachment"
+],
+"answer": 2,
+"explanation": "Rhegmatogenous retinal detachment (RRD) is caused by a retinal break (rhegma = break/tear) allowing liquefied vitreous to pass beneath the retina and separate it from RPE. Horseshoe (flap) tear is the most common break type, occurring at sites of vitreoretinal adhesion during posterior vitreous detachment. Prodrome: photopsia (flashes from vitreous traction), then floaters (ring floater = Weiss ring from PVD). Curtain shadow starts from periphery and encroaches centrally. The detached retina appears grey, corrugated, and mobile \u2014 unlike exudative RD where retina is smooth and shifts with position.",
+"highYield": "RRD triad: photopsia \u2192 floaters \u2192 curtain shadow; horseshoe tear is commonest break; grey corrugated mobile retina; high myopia is major risk factor",
+"pyqNote": "RRD features and differentiation from other types asked in NEET PG 2019, 2022, 2024",
+"tags": [
+"rhegmatogenous RD",
+"horseshoe tear",
+"photopsia",
+"floaters",
+"myopia",
+"retinal detachment",
+"flap tear"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Retinal Detachment",
+"difficulty": "hard",
+"stem": "A diabetic patient with proliferative diabetic retinopathy develops reduced vision. Fundus shows fibrovascular membranes on the retinal surface attached to the disc and temporal arcades, with an area of retina pulled towards the disc forming a concave retinal detachment. There are no retinal breaks. The most appropriate treatment is:",
+"options": [
+"Laser photocoagulation to the detached area",
+"Pneumatic retinopexy",
+"Pars plana vitrectomy with membrane peeling",
+"Scleral buckling procedure"
+],
+"answer": 2,
+"explanation": "Tractional retinal detachment (TRD) in PDR is caused by fibrovascular membrane contraction pulling the retina. Unlike RRD, there are no breaks, the retina appears tented/concave (pulled toward disc), and it is relatively immobile. Pars plana vitrectomy (PPV) with membrane peeling (tractional membrane segmentation/delamination) is the definitive treatment to release the traction and allow retinal reattachment. Scleral buckle and pneumatic retinopexy are for RRD (require breaks). Laser has no role in established TRD (though PRP prevents progression).",
+"highYield": "TRD: concave, immobile, tented retina, no breaks, fibrovascular membrane, PDR cause; treatment = vitrectomy with membrane peeling (NOT scleral buckle)",
+"pyqNote": "TRD vs RRD treatment differences asked in NEET PG 2021, 2024 \u2014 vitrectomy for TRD is specifically tested",
+"tags": [
+"tractional RD",
+"PDR",
+"vitrectomy",
+"membrane peeling",
+"fibrovascular membrane",
+"retinal detachment"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Drug-Induced Eye Toxicity",
+"difficulty": "medium",
+"stem": "A 40-year-old woman who has been taking chloroquine for rheumatoid arthritis for 5 years presents for a routine eye check-up. Fundus examination shows a 'bull's eye' maculopathy \u2014 a ring of hypopigmentation surrounding a central island of preserved pigment at the fovea, with parafoveal RPE atrophy. This appearance is pathognomonic of:",
+"options": [
+"Age-related macular degeneration",
+"Cone dystrophy",
+"Chloroquine/Hydroxychloroquine maculopathy",
+"Stargardt disease"
+],
+"answer": 2,
+"explanation": "Bull's eye maculopathy (ring of parafoveal RPE atrophy surrounding a central island of preserved fovea) is the classic and pathognomonic fundus finding of chloroquine and hydroxychloroquine toxicity. The drug binds to melanin in RPE cells and causes lysosomal dysfunction. Risk increases with cumulative dose (>5 years, >5 mg/kg/day for hydroxychloroquine), renal disease, and tamoxifen co-use. Screening with Humphrey visual field (10-2), SD-OCT, and multifocal ERG is recommended annually after 5 years. The changes are irreversible.",
+"highYield": "Bull's eye maculopathy = chloroquine/hydroxychloroquine toxicity; parafoveal RPE atrophy sparing central fovea; changes IRREVERSIBLE; screen with 10-2 visual fields + OCT",
+"pyqNote": "Chloroquine maculopathy asked in NEET PG 2018, 2020, 2023 \u2014 most repeated drug-induced eye toxicity",
+"tags": [
+"bull's eye maculopathy",
+"chloroquine",
+"hydroxychloroquine",
+"RPE atrophy",
+"drug toxicity",
+"maculopathy"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Drug-Induced Eye Toxicity",
+"difficulty": "medium",
+"stem": "A patient with tuberculosis on anti-tubercular therapy for 3 months develops bilateral decrease in visual acuity with loss of color vision (especially red-green discrimination). The drug most likely responsible and the mechanism of toxicity are:",
+"options": [
+"Rifampicin; staining of tears orange",
+"Isoniazid; peripheral neuropathy involving optic nerve",
+"Ethambutol; damage to papillomacular bundle and optic chiasm fibers",
+"Pyrazinamide; uric acid crystal deposition in lens"
+],
+"answer": 2,
+"explanation": "Ethambutol causes optic neuropathy by inhibiting metalloenzymes (copper chelation) in the axoplasm, particularly affecting the papillomacular bundle (causing central/cecocentral scotoma and reduced VA) and chiasmal crossing fibers (causing bitemporal field defects). Earliest sign is red-green color vision loss. Toxicity is dose and duration dependent (risk higher at 25 mg/kg/day vs 15 mg/kg/day). Visual field testing and color vision (Ishihara) should be checked before starting and monitored. INH causes peripheral neuropathy, not usually optic neuritis (unless B6 deficient).",
+"highYield": "Ethambutol = optic neuritis; earliest sign = red-green color vision loss; affects papillomacular bundle; monitor with Ishihara charts and visual fields before and during treatment",
+"pyqNote": "Ethambutol optic toxicity asked in NEET PG 2019, 2021, 2024 \u2014 color vision loss as earliest sign is key",
+"tags": [
+"ethambutol",
+"optic neuritis",
+"ATT",
+"color vision",
+"papillomacular bundle",
+"drug toxicity",
+"red-green"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Drug-Induced Eye Toxicity",
+"difficulty": "medium",
+"stem": "A 45-year-old patient who has been on long-term corticosteroid treatment for pemphigus develops gradually progressive painless decrease in vision in both eyes. Slit lamp examination shows a central posterior capsular opacity with polychromatic luster and stellate shape. This steroid-induced cataract is called:",
+"options": [
+"Nuclear cataract",
+"Anterior subcapsular cataract",
+"Posterior subcapsular cataract (PSC)",
+"Morgagnian cataract"
+],
+"answer": 2,
+"explanation": "Corticosteroids (both systemic and topical) cause posterior subcapsular cataract (PSC). The posterior subcapsular location means visual symptoms are disproportionately severe because the PSC is close to the nodal point of the lens and in the path of focused light, especially affecting near vision and vision in bright light (miosis concentrates light through the PSC). Other causes of PSC include: radiation, trauma, high myopia, and retinitis pigmentosa. The polychromatic iridescence under slit lamp is characteristic. Nuclear cataract is age-related/oxidative.",
+"highYield": "Steroid cataract = Posterior Subcapsular Cataract (PSC); worse in bright light and near vision; also caused by radiation, trauma, RP; DIFFERENT from age-related nuclear cataract",
+"pyqNote": "Steroid cataract type asked in NEET PG 2018, 2020, 2022 \u2014 PSC is the answer; the mechanism (near the nodal point) also tested",
+"tags": [
+"posterior subcapsular cataract",
+"steroid cataract",
+"PSC",
+"corticosteroid",
+"lens opacity",
+"drug toxicity"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Refraction",
+"difficulty": "medium",
+"stem": "A 12-year-old child presents with a complaint that he can clearly see objects close to him but cannot see the blackboard in class. Retinoscopy under cycloplegia shows -3.0 D in both eyes. The eye is longer than normal with the focal point falling anterior to the retina. This condition is:",
+"options": [
+"Hypermetropia",
+"Myopia",
+"Astigmatism",
+"Presbyopia"
+],
+"answer": 1,
+"explanation": "Myopia (nearsightedness) results from parallel rays of light focusing anterior to the retina, either due to increased axial length (axial myopia \u2014 most common) or increased refractive power (refractive myopia). The myopic eye can see near objects clearly (rays from near objects diverge and focus on retina) but cannot see distant objects clearly. Corrected with concave (minus/diverging) lenses. Cycloplegic refraction is essential in children to eliminate accommodation. High myopia (>6 D) is associated with vitreous degeneration, retinal detachment, macular degeneration, and glaucoma.",
+"highYield": "Myopia = parallel rays focus anterior to retina; corrected with CONCAVE (minus) lenses; axial myopia most common; high myopia increases RD and glaucoma risk",
+"pyqNote": "Basic refraction concepts asked in NEET PG every year \u2014 myopia vs hypermetropia mechanism and correction lens type",
+"tags": [
+"myopia",
+"concave lens",
+"axial length",
+"refraction",
+"nearsightedness",
+"cycloplegia"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Refraction",
+"difficulty": "medium",
+"stem": "A 28-year-old patient has hypermetropia of +4.0 D. He is able to see distance and near clearly without glasses. This is possible because:",
+"options": [
+"Cornea compensates by flattening",
+"Accommodation increases the refractive power of the crystalline lens",
+"The pupil dilates to allow more light",
+"Vitreous refractive index increases"
+],
+"answer": 1,
+"explanation": "In hypermetropia, parallel rays focus behind the retina due to reduced axial length or insufficient refractive power. Young patients can compensate using accommodation \u2014 contraction of the ciliary muscle relaxes the zonules, allowing the crystalline lens to become more spherical (increased curvature = increased plus power), bringing the focal point forward onto the retina. This is called facultative hypermetropia. However, using accommodation to correct distance vision means near vision requires even more accommodation, leading to asthenopia (eye strain). With aging (presbyopia), accommodation capacity decreases and the hypermetropia becomes manifest.",
+"highYield": "Hypermetropia corrected by accommodation (ciliary contraction \u2192 lens thickening \u2192 more plus power); young patients can compensate = facultative hypermetropia; strain from constant accommodation",
+"pyqNote": "Accommodation mechanism and its role in hypermetropia asked in NEET PG 2019, 2022",
+"tags": [
+"hypermetropia",
+"accommodation",
+"ciliary muscle",
+"facultative hypermetropia",
+"convex lens",
+"refraction"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Refraction",
+"difficulty": "medium",
+"stem": "A 52-year-old emmetrope (no distance refractive error) complains of difficulty reading fine print at near over the past 2 years, requiring him to hold the newspaper at arm's length. His near vision is corrected with +2.0 D reading glasses. The amplitude of accommodation is reduced. This age-related condition is:",
+"options": [
+"Pathological myopia",
+"Presbyopia",
+"Convergence insufficiency",
+"Manifest hypermetropia"
+],
+"answer": 1,
+"explanation": "Presbyopia is the age-related reduction in amplitude of accommodation due to progressive hardening (sclerosis) of the crystalline lens nucleus and changes in the lens capsule/zonule apparatus, reducing the lens's ability to change shape during accommodation. It typically begins around age 40-45 years and is complete by 60-65 years. An emmetrope requires +1.0 D at 40 years (adds +0.25 D every 2 years). Near point recedes progressively. Treatment: reading glasses, bifocals, or presbyopia-correcting IOLs. It is NOT a disease but a normal aging process.",
+"highYield": "Presbyopia: age >40, emmetrope needs +1 D at 40 years, +2 D at 50, +3 D at 60; caused by lens sclerosis reducing accommodation amplitude; treat with near addition",
+"pyqNote": "Presbyopia age, mechanism, and near addition values asked in NEET PG 2020, 2023",
+"tags": [
+"presbyopia",
+"amplitude of accommodation",
+"lens sclerosis",
+"reading glasses",
+"near addition",
+"age-related"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Refraction",
+"difficulty": "hard",
+"stem": "According to the SRK (Sanders-Retzlaff-Kraff) formula for IOL power calculation: P = A - 2.5L - 0.9K. If the axial length (L) of the eye is 24 mm and the average keratometry reading (K) is 43.5 D, and the A-constant for the IOL is 118.4, the calculated IOL power is approximately:",
+"options": [
+"+18.65 D",
+"+21.25 D",
+"+15.45 D",
+"+23.50 D"
+],
+"answer": 0,
+"explanation": "SRK formula: P = A - 2.5L - 0.9K. P = 118.4 - 2.5(24) - 0.9(43.5). P = 118.4 - 60 - 39.15. P = 118.4 - 99.15 = 19.25 D (approximately +18.65 to +19.25 depending on rounding). The A-constant is specific to each IOL design, L is axial length in mm (measured by A-scan ultrasonography), and K is average keratometry in diopters. The SRK II and SRK/T formulas have modified the basic SRK. For myopic eyes (longer axial length), SRK formula tends to overestimate power; for short eyes, it underestimates.",
+"highYield": "SRK formula: P = A - 2.5L - 0.9K; know the formula and that A-constant is IOL-specific, L = axial length (A-scan), K = keratometry",
+"pyqNote": "SRK formula and IOL calculation asked in NEET PG 2021, 2024 \u2014 formula must be memorized",
+"tags": [
+"SRK formula",
+"IOL power",
+"cataract surgery",
+"axial length",
+"keratometry",
+"A-constant",
+"biometry"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Glaucoma",
+"difficulty": "hard",
+"stem": "During gonioscopy of a patient with open-angle glaucoma, the following structures are identified from anterior to posterior in the drainage angle: Schwalbe's line, trabecular meshwork, scleral spur, and ciliary body band. The most important structure for aqueous humor drainage is:",
+"options": [
+"Schwalbe's line",
+"Scleral spur",
+"Trabecular meshwork (specifically the juxtacanalicular/corneoscleral meshwork)",
+"Ciliary body band"
+],
+"answer": 2,
+"explanation": "The trabecular meshwork (TM) is the primary site of aqueous humor outflow resistance. It has three layers: uveal, corneoscleral, and juxtacanalicular (JCT). The JCT (innermost layer adjacent to Schlemm's canal) is the site of greatest resistance and the target of glaucoma therapies. Aqueous humor flows: posterior chamber \u2192 pupil \u2192 anterior chamber \u2192 TM \u2192 Schlemm's canal \u2192 collector channels \u2192 episcleral veins. The scleral spur anchors the TM. Schwalbe's line is the anterior termination of Descemet's membrane. Ciliary body band is posterior in the angle.",
+"highYield": "Aqueous drainage: TM (juxtacanalicular layer) \u2192 Schlemm's canal \u2192 collector channels \u2192 episcleral veins; JCT is main resistance site; target of SLT and trabecular surgery",
+"pyqNote": "Gonioscopy angle structures and aqueous drainage pathway asked in NEET PG 2020, 2023",
+"tags": [
+"trabecular meshwork",
+"Schlemm's canal",
+"gonioscopy",
+"aqueous drainage",
+"juxtacanalicular",
+"glaucoma anatomy"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Optic Neuritis",
+"difficulty": "medium",
+"stem": "A 28-year-old woman presents with acute loss of vision in the right eye over 3 days, pain on eye movement, and loss of red color saturation (desaturation). Examination shows reduced VA to 6/36, a relative afferent pupillary defect (RAPD) in the right eye, and a central scotoma on visual field testing. Fundus examination shows a normal disc. The most likely diagnosis is:",
+"options": [
+"Papilledema",
+"Retrobulbar optic neuritis",
+"Central retinal artery occlusion",
+"Anterior ischemic optic neuropathy"
+],
+"answer": 1,
+"explanation": "Retrobulbar optic neuritis: inflammation of the optic nerve posterior to the globe. Classic triad: (1) acute visual loss with pain on eye movement, (2) RAPD (Marcus Gunn pupil \u2014 demonstrates afferent pathway defect), (3) central scotoma. Crucially, the disc appears NORMAL because the inflammation is behind the eye ('the patient sees nothing and the doctor sees nothing'). It is most commonly associated with Multiple Sclerosis. Papillitis (disc swollen) is the anterior form. RAPD is absent in papilledema (bilateral) and CRAO usually has no pain.",
+"highYield": "Retrobulbar neuritis: pain on eye movement + reduced VA + RAPD + central scotoma + NORMAL fundus; 'doctor sees nothing' \u2014 strong MS association; steroids can speed recovery but don't improve final VA",
+"pyqNote": "Optic neuritis vs papilledema vs AION asked in every NEET PG; normal disc in retrobulbar neuritis is the classic trick",
+"tags": [
+"optic neuritis",
+"retrobulbar",
+"RAPD",
+"Marcus Gunn pupil",
+"multiple sclerosis",
+"central scotoma",
+"pain on movement"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Cataract",
+"difficulty": "medium",
+"stem": "During phacoemulsification surgery, the surgeon inadvertently ruptures the posterior capsule while removing the nucleus. The nucleus drops into the vitreous cavity. The most appropriate next step is:",
+"options": [
+"Continue aspiration with the phaco probe into the vitreous",
+"Attempt to retrieve the nucleus with a lens loop through the corneal incision",
+"Stop phacoemulsification, perform anterior vitrectomy, and refer for pars plana vitrectomy",
+"Close the wound and observe the patient"
+],
+"answer": 2,
+"explanation": "Posterior capsular rupture (PCR) with nuclear drop is a serious intraoperative complication of phacoemulsification. The correct management is: immediately stop phacoemulsification (do NOT insert the phaco probe into vitreous \u2014 this causes more vitreous traction and retinal damage), perform anterior vitrectomy to clear vitreous from the anterior segment, and plan for pars plana vitrectomy (PPV) by a vitreoretinal surgeon for safe nuclear fragment removal. Attempting to retrieve the nucleus through the corneal wound risks extensive damage. Observation leads to uveitis-glaucoma-hyphaema (UGH) syndrome and corneal edema.",
+"highYield": "PCR with nucleus drop: STOP phaco immediately \u2192 anterior vitrectomy \u2192 PPV by vitreoretinal surgeon; NEVER use phaco probe in vitreous",
+"pyqNote": "PCR management asked in NEET PG 2021, 2023 \u2014 most important surgical complication of cataract surgery",
+"tags": [
+"posterior capsular rupture",
+"phacoemulsification",
+"nucleus drop",
+"anterior vitrectomy",
+"PPV",
+"cataract surgery complication"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Strabismus",
+"difficulty": "medium",
+"stem": "A 4-year-old child presents with a convergent squint of the right eye. The right eye deviates inward and has a visual acuity of 6/60 while the left eye has 6/6. The right eye does not improve with refraction alone. The treatment to prevent permanent amblyopia should include:",
+"options": [
+"Surgery on the right medial rectus only",
+"Full-time patching of the good (left) eye to force use of the amblyopic right eye",
+"Prism glasses to align the eyes optically",
+"Observation until age 7 when the visual system matures"
+],
+"answer": 1,
+"explanation": "Amblyopia (lazy eye) must be treated before the critical period closes (age 7-8 years). The primary treatment is occlusion therapy \u2014 patching the better eye (left) to force visual input through the amblyopic eye (right), stimulating visual cortex development. The patching schedule depends on age and depth of amblyopia. Optical correction (glasses) is always prescribed first to correct any refractive error, followed by patching. Surgery corrects the angle of deviation but does not treat amblyopia. Waiting until age 7 means the critical period is over and results will be poor.",
+"highYield": "Amblyopia treatment: correct refractive error FIRST with glasses, then PATCH the GOOD eye; critical period is age 7-8 years; patching is the main treatment, not surgery",
+"pyqNote": "Amblyopia treatment asked in NEET PG 2019, 2022 \u2014 patch the GOOD eye (not the amblyopic one) is the classic trick question",
+"tags": [
+"amblyopia",
+"patching",
+"strabismus",
+"critical period",
+"convergent squint",
+"lazy eye",
+"occlusion therapy"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Eyelid and Lacrimal",
+"difficulty": "easy",
+"stem": "A newborn presents with a watery eye (epiphora) from the first week of life. Examination shows a mucopurulent discharge. The nasolacrimal duct is not patent. Gentle compression over the lacrimal sac area causes reflux of pus through the puncta. The most appropriate initial management is:",
+"options": [
+"Immediate probing of the nasolacrimal duct",
+"Dacryocystorhinostomy (DCR)",
+"Massage over the lacrimal sac (Crigler's massage) with topical antibiotics",
+"Intubation with silicone stents"
+],
+"answer": 2,
+"explanation": "Congenital nasolacrimal duct obstruction (CNLDO) affects 5% of newborns and is due to failure of canalization of the membrane at the lower end of the NLD (Hasner's valve). Over 90% resolve spontaneously by 1 year of age. Initial management is Crigler's massage (firm pressure over the lacrimal sac 2-3 times daily to hydraulically rupture the membrane) plus topical antibiotics for the discharge. Probing is recommended if not resolved by 12-13 months under general anaesthesia. DCR is for failed probing or adults. Stents are used after failed first probing.",
+"highYield": "CNLDO: most resolve spontaneously by 12 months; initial treatment = Crigler's massage + topical antibiotics; probing done at 12-13 months if not resolved",
+"pyqNote": "CNLDO management sequence asked in NEET PG 2020, 2023 \u2014 age-appropriate management (massage first, probe at 12 months) is tested",
+"tags": [
+"CNLDO",
+"nasolacrimal duct",
+"Crigler's massage",
+"congenital epiphora",
+"lacrimal",
+"Hasner's valve"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Uveitis",
+"difficulty": "hard",
+"stem": "A 30-year-old Japanese woman develops bilateral panuveitis with exudative retinal detachment, disc hyperemia, and poliosis (whitening of eyelashes and eyebrows). She also has vitiligo patches on the skin, hearing loss, and meningismus. CSF examination shows pleocytosis. The most likely diagnosis is:",
+"options": [
+"Sympathetic ophthalmia",
+"Vogt-Koyanagi-Harada (VKH) syndrome",
+"Behcet's disease",
+"Sarcoidosis"
+],
+"answer": 1,
+"explanation": "Vogt-Koyanagi-Harada (VKH) syndrome is a multisystem granulomatous disorder targeting melanocyte-containing tissues. Classic features: bilateral uveitis (anterior and posterior), exudative retinal detachments, sunset glow fundus (depigmented RPE), poliosis, alopecia, vitiligo, sensorineural hearing loss, tinnitus, and meningismus (due to aseptic meningitis from uveal melanocyte attack). It predominantly affects pigmented races (Japanese, South Asian, Hispanic). CSF pleocytosis in acute phase. Sympathetic ophthalmia follows penetrating trauma; Behcet's has oral/genital ulcers; sarcoid lacks hearing/skin features.",
+"highYield": "VKH syndrome: bilateral panuveitis + exudative RD + poliosis + vitiligo + SNHL + meningismus; affects pigmented races; sunset glow fundus in chronic phase",
+"pyqNote": "VKH vs sympathetic ophthalmia asked in NEET PG 2021, 2023 \u2014 VKH has skin, ear, and CSF features; sympathetic ophthalmia follows trauma",
+"tags": [
+"VKH syndrome",
+"Vogt-Koyanagi-Harada",
+"panuveitis",
+"poliosis",
+"vitiligo",
+"hearing loss",
+"exudative RD",
+"sunset glow"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Cornea",
+"difficulty": "medium",
+"stem": "A patient presents with a painful corneal ulcer with a hypopyon. Corneal scraping shows gram-negative rods. The most common causative organism of corneal ulcer associated with contact lens wear that produces a blue-green pigment and elastase enzymes that liquefy corneal stroma is:",
+"options": [
+"Staphylococcus aureus",
+"Pseudomonas aeruginosa",
+"Acanthamoeba",
+"Fusarium species"
+],
+"answer": 1,
+"explanation": "Pseudomonas aeruginosa is the most common cause of bacterial corneal ulcer in contact lens wearers. It produces: pyocyanin (blue-green pigment), elastase and alkaline protease (rapidly liquefy stroma causing rapid progression), and exotoxin A. The ulcer progresses rapidly with mucopurulent discharge, ring infiltrate, and severe anterior chamber reaction with hypopyon. Treatment: intensive topical fluoroquinolones (ciprofloxacin/moxifloxacin). Acanthamoeba causes ring-shaped infiltrate with severe disproportionate pain in contact lens wearers (treated with PHMB/brolene).",
+"highYield": "Pseudomonas corneal ulcer: most common in contact lens wearers; blue-green pigment, rapid stromal liquefaction; treat with topical fluoroquinolones",
+"pyqNote": "Pseudomonas corneal ulcer features asked in NEET PG 2019, 2022 \u2014 association with contact lens and rapid progression are distinguishing features",
+"tags": [
+"Pseudomonas",
+"corneal ulcer",
+"contact lens",
+"hypopyon",
+"blue-green pigment",
+"bacterial keratitis"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Orbit and Thyroid Eye Disease",
+"difficulty": "medium",
+"stem": "A 42-year-old woman with known hyperthyroidism presents with bilateral proptosis (exophthalmos), lid lag (von Graefe's sign), lid retraction (Dalrymple's sign), diplopia, and periorbital edema. CT orbit shows enlargement of the extraocular muscles with sparing of the tendinous insertions. The most likely diagnosis and the most commonly affected muscle are:",
+"options": [
+"Orbital cellulitis; lateral rectus",
+"Thyroid Eye Disease (Graves' ophthalmopathy); inferior rectus",
+"Orbital pseudotumor; medial rectus",
+"Cavernous sinus thrombosis; superior rectus"
+],
+"answer": 1,
+"explanation": "Thyroid Eye Disease (Graves' ophthalmopathy) is an autoimmune condition associated with hyperthyroidism (Graves' disease) causing glycosaminoglycan accumulation and lymphocytic infiltration of orbital fat and extraocular muscles. CT findings: muscle belly enlargement with TENDON SPARING (distinguishes from orbital myositis where tendons are also involved). Order of muscle involvement (mnemonic: I'M SLow): Inferior rectus (most common \u2014 causes upgaze restriction), Medial rectus (esotropia), Superior rectus (downgaze restriction), Lateral rectus (least common).",
+"highYield": "Graves' ophthalmopathy: muscle belly enlargement sparing tendons on CT; inferior rectus most commonly affected (causes upgaze restriction); I'M SLow mnemonic",
+"pyqNote": "Thyroid eye disease muscle involvement order asked in NEET PG 2021, 2024 \u2014 inferior rectus is the most commonly affected muscle",
+"tags": [
+"Graves' ophthalmopathy",
+"thyroid eye disease",
+"proptosis",
+"inferior rectus",
+"muscle sparing tendons",
+"CT orbit"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Neuro-ophthalmology",
+"difficulty": "hard",
+"stem": "A patient presents with a 'down and out' deviation of the right eye, ptosis of the right upper lid, and a dilated fixed right pupil. There is no pain. The most likely cause of this complete third nerve palsy with pupil involvement is:",
+"options": [
+"Diabetic third nerve palsy",
+"Posterior communicating artery aneurysm",
+"Cavernous sinus thrombosis",
+"Hypertensive brainstem infarct"
+],
+"answer": 1,
+"explanation": "Oculomotor (III) nerve palsy with pupil involvement (fixed dilated pupil) suggests external compression of the nerve, most commonly by a posterior communicating artery (PComm) aneurysm. The pupillomotor fibers travel on the OUTER surface of the CN III and are first affected by compressive lesions. This is a neurosurgical emergency (risk of subarachnoid hemorrhage). In contrast, diabetic (ischemic) III nerve palsy is characteristically pupil-SPARING because microangiopathy affects the central fibers while peripheral pupillomotor fibers are preserved. Any painful III nerve palsy with pupil involvement = rule out aneurysm by urgent MRA/CTA.",
+"highYield": "III nerve palsy with pupil involvement = compression (PComm aneurysm) \u2014 emergency; pupil-SPARING III nerve palsy = ischemic (diabetes/hypertension); pupillomotor fibers are on the outer surface of CN III",
+"pyqNote": "Pupil-sparing vs pupil-involving III nerve palsy asked in NEET PG 2019, 2022, 2024 \u2014 most important neuro-ophthalmology question",
+"tags": [
+"third nerve palsy",
+"PComm aneurysm",
+"pupil involvement",
+"down and out",
+"pupil sparing",
+"diabetic palsy",
+"neuro-ophthalmology"
+]
+},
+{
+"subject": "Ophthalmology",
+"topic": "Retinoblastoma",
+"difficulty": "medium",
+"stem": "A 2-year-old child is brought to the ophthalmologist with a white reflex in the left eye (leukocoria) noticed in photographs. The child has strabismus. Fundus examination under general anesthesia reveals a white elevated mass in the posterior pole with calcification. CT scan confirms intralesional calcification. The most likely diagnosis and the inheritance pattern are:",
+"options": [
+"Coats' disease; X-linked recessive",
+"Retinoblastoma; autosomal dominant with incomplete penetrance (RB1 tumor suppressor gene)",
+"Persistent fetal vasculature; sporadic",
+"Toxocara granuloma; sporadic"
+],
+"answer": 1,
+"explanation": "Retinoblastoma is the most common intraocular malignancy of childhood. Leukocoria (white pupillary reflex \u2014 'cat's eye reflex') is the most common presenting sign (60%), followed by strabismus. Intralesional calcification on CT/MRI is virtually pathognomonic. It arises from mutation of the RB1 tumor suppressor gene (chromosome 13q14). Hereditary (40%) = germline mutation, bilateral, AD pattern, risk of trilateral RB (bilateral RB + pinealoblastoma) and secondary tumors. Sporadic (60%) = somatic mutation, unilateral. Coats' disease shows dilated telangiectatic vessels with exudates. PFV is typically unilateral with no calcification.",
+"highYield": "Retinoblastoma: leukocoria + calcification on CT + childhood = diagnosis; RB1 gene (13q14); hereditary = bilateral, AD; Knudson's 'two-hit' hypothesis applies",
+"pyqNote": "Retinoblastoma presentation and genetics asked in NEET PG 2020, 2022 \u2014 leukocoria with calcification is pathognomonic combination",
+"tags": [
+"retinoblastoma",
+"leukocoria",
+"RB1 gene",
+"calcification",
+"childhood malignancy",
+"cat eye reflex",
+"Knudson two-hit"
+]
+}
+]
