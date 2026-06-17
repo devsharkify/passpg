@@ -1,4 +1,4 @@
-# PassPG — NEET PG Previous-Year Mastery
+# Dr. Saranya Prep — NEET PG Mastery
 
 A focused, exam-faithful study platform for **NEET PG** (the postgraduate medical entrance for MBBS graduates seeking MD / MS / Diploma / DNB seats). Built entirely around **previous-year question patterns** and the real NBEMS blueprint, with every answer explained the way a 30-year coaching head would.
 

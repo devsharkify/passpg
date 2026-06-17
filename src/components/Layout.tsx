@@ -17,7 +17,7 @@ function Brand() {
         <Icon name="pulse" className="w-5 h-5" />
       </span>
       <span className="leading-none">
-        <span className="block font-extrabold text-ink tracking-tight">PassPG</span>
+        <span className="block font-extrabold text-ink tracking-tight">Dr. Saranya Prep</span>
         <span className="block text-[10px] font-semibold uppercase tracking-wider text-brand-600">NEET PG Mastery</span>
       </span>
     </NavLink>
@@ -47,7 +47,7 @@ export default function Layout({ children }: { children: ReactNode }) {
       </header>
       <main className="flex-1 mx-auto max-w-6xl w-full px-4 py-8">{children}</main>
       <footer className="border-t border-slate-200/70 py-6 text-center text-xs text-slate-400">
-        PassPG - built from previous-year NEET PG patterns. Study material for exam preparation; verify clinical decisions against standard texts.
+        Dr. Saranya Prep - built from previous-year NEET PG patterns. Study material for exam preparation; verify clinical decisions against standard texts.
       </footer>
     </div>
   );

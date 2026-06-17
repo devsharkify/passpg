@@ -1,6 +1,6 @@
 import type { AnswerRecord, MockRecord } from './types';
 
-const P = 'passpg.v1.';
+const P = 'drsaranya.v1.';
 const K = {
   answers: P + 'answers',
   bookmarks: P + 'bookmarks',
