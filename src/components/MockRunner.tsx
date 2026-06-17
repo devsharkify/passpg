@@ -151,6 +151,11 @@ export default function MockRunner({
                 <Icon name="flag" className="w-4 h-4" /> {flagged.has(current) ? 'Flagged' : 'Flag'}
               </button>
             </div>
+            {q.imageUrl && (
+              <div className="my-3 rounded-xl overflow-hidden border border-slate-200 bg-slate-50">
+                <img src={q.imageUrl} alt="Question image" className="w-full object-contain max-h-72" loading="lazy" />
+              </div>
+            )}
             <p className="text-lg font-semibold text-ink leading-relaxed">{q.stem}</p>
             <div className="mt-4 space-y-2.5">
               {q.options.map((opt, i) => {

@@ -118,6 +118,11 @@ export default function PracticeRunner({
           {(q as any).is_repeat && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-amber-100 text-amber-700">Repeat ×{(q as any).repeat_count}</span>}
           {isImageStyle(q) && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-sky-100 text-sky-700">Image-Style</span>}
         </div>
+        {q.imageUrl && (
+          <div className="my-3 rounded-xl overflow-hidden border border-slate-200 bg-slate-50">
+            <img src={q.imageUrl} alt="Question image" className="w-full object-contain max-h-72" loading="lazy" />
+          </div>
+        )}
         <p className="text-lg font-semibold text-ink leading-relaxed">{q.stem}</p>
 
         <div className="mt-4 space-y-2.5">

@@ -201,6 +201,7 @@ for (const src of sources) {
       year_est: q.year_est || (srcSource !== 'prev-year' ? srcSource : 'evergreen'),
       is_repeat: q.is_repeat ?? false,
       repeat_count: q.repeat_count || 0,
+      ...(q.imageUrl ? { imageUrl: q.imageUrl } : {}),
     });
     kept++;
   }

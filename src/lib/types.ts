@@ -16,6 +16,7 @@ export interface Question {
   year_est?: string;
   is_repeat?: boolean;
   repeat_count?: number;
+  imageUrl?: string;
 }
 
 export interface Card {
