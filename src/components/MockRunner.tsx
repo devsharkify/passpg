@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import type { Question, MockRecord } from '../lib/types';
+import type { Question, MockRecord, QuestionTime } from '../lib/types';
 import { planSections, scoreTest, MARKS } from '../lib/examEngine';
 import { recordAnswer, saveMock } from '../lib/storage';
 import { Icon, SubjectChip, ProgressBar } from './ui';
@@ -33,11 +33,23 @@ export default function MockRunner({
   const [timeLeft, setTimeLeft] = useState(sectional ? plan!.sectionSeconds : durationSec);
   const [phase, setPhase] = useState<'running' | 'result'>('running');
   const [showWrongOnly, setShowWrongOnly] = useState(true);
+
+  // time tracking
   const startedAt = useRef(Date.now());
+  const qStartRef = useRef(Date.now());
+  const clickTsRef = useRef(0);
   const finalized = useRef(false);
+  const [questionTimes, setQuestionTimes] = useState<QuestionTime[]>([]);
+
+  // confidence modal
+  const [pendingChosen, setPendingChosen] = useState<number | null>(null);
+  const [showConf, setShowConf] = useState(false);
 
   const secStart = section * size;
   const secEnd = Math.min(secStart + size, questions.length);
+
+  // reset question timer on navigation
+  useEffect(() => { qStartRef.current = Date.now(); }, [current]);
 
   // countdown
   useEffect(() => {
@@ -82,6 +94,7 @@ export default function MockRunner({
       score: s.score, maxScore: s.maxScore,
       durationSec: Math.round((Date.now() - startedAt.current) / 1000),
       perSubject,
+      questionTimes,
     };
     saveMock(rec);
     setPhase('result');
@@ -99,8 +112,26 @@ export default function MockRunner({
   }
 
   function pick(opt: number) {
-    setResp((r) => ({ ...r, [current]: opt }));
+    // show confidence modal instead of committing immediately
+    clickTsRef.current = Date.now();
+    setPendingChosen(opt);
+    setShowConf(true);
   }
+
+  function pickConfidence(c: 'sure' | 'unsure' | 'guess') {
+    if (pendingChosen === null) return;
+    const q = questions[current];
+    const timeMs = clickTsRef.current - qStartRef.current;
+    const correct = pendingChosen === q.answer;
+    setQuestionTimes(prev => {
+      const without = prev.filter(t => t.qi !== current);
+      return [...without, { qi: current, subject: q.subject, timeMs, chosen: pendingChosen, correct, confidence: c }];
+    });
+    setResp(r => ({ ...r, [current]: pendingChosen }));
+    setPendingChosen(null);
+    setShowConf(false);
+  }
+
   function toggleFlag() {
     setFlagged((f) => { const n = new Set(f); n.has(current) ? n.delete(current) : n.add(current); return n; });
   }
@@ -108,7 +139,8 @@ export default function MockRunner({
   if (phase === 'result') {
     return <Result questions={questions} resp={resp} title={title} onExit={onExit}
       showWrongOnly={showWrongOnly} setShowWrongOnly={setShowWrongOnly}
-      durationSec={Math.round((Date.now() - startedAt.current) / 1000)} />;
+      durationSec={Math.round((Date.now() - startedAt.current) / 1000)}
+      questionTimes={questionTimes} />;
   }
 
   const q = questions[current];
@@ -159,11 +191,15 @@ export default function MockRunner({
             <p className="text-lg font-semibold text-ink leading-relaxed">{q.stem}</p>
             <div className="mt-4 space-y-2.5">
               {q.options.map((opt, i) => {
-                const sel = chosen === i;
+                const committed = chosen === i;
+                const isPending = showConf && pendingChosen === i;
+                const sel = committed || isPending;
                 return (
-                  <button key={i} onClick={() => pick(i)}
+                  <button key={i} onClick={() => !showConf && pick(i)}
+                    disabled={showConf && !isPending}
                     className={`w-full text-left flex items-start gap-3 rounded-xl border-2 px-4 py-3 transition ${
-                      sel ? 'border-brand-500 bg-brand-50' : 'border-slate-200 hover:border-brand-300 hover:bg-brand-50/40'}`}>
+                      sel ? 'border-brand-500 bg-brand-50' : 'border-slate-200 hover:border-brand-300 hover:bg-brand-50/40'} ${
+                      showConf && !isPending ? 'opacity-50 cursor-default' : ''}`}>
                     <span className={`shrink-0 grid place-items-center w-7 h-7 rounded-lg text-sm font-bold ${
                       sel ? 'bg-brand-600 text-white' : 'bg-slate-100 text-slate-600'}`}>{LETTERS[i]}</span>
                     <span className="pt-0.5 text-ink">{opt}</span>
@@ -171,7 +207,23 @@ export default function MockRunner({
                 );
               })}
             </div>
-            {chosen !== undefined && (
+
+            {/* confidence modal */}
+            {showConf && (
+              <div className="mt-4 p-4 rounded-xl bg-slate-50 border border-slate-200 animate-fadeUp">
+                <p className="text-sm font-semibold text-slate-600 mb-3 text-center">How confident were you?</p>
+                <div className="flex gap-2 justify-center">
+                  {(['sure', 'unsure', 'guess'] as const).map(c => (
+                    <button key={c} onClick={() => pickConfidence(c)}
+                      className="px-4 py-2 rounded-lg text-sm font-bold border-2 border-slate-200 hover:border-brand-400 hover:bg-brand-50 transition">
+                      {c === 'sure' ? '✓ Sure' : c === 'unsure' ? '~ Unsure' : '? Guess'}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {chosen !== undefined && !showConf && (
               <button className="text-xs text-slate-400 mt-3 hover:text-rose-500"
                 onClick={() => setResp((r) => { const n = { ...r }; delete n[current]; return n; })}>
                 Clear response
@@ -247,15 +299,17 @@ function Legend({ color, label }: { color: string; label: string }) {
 }
 
 function Result({
-  questions, resp, title, onExit, durationSec, showWrongOnly, setShowWrongOnly,
+  questions, resp, title, onExit, durationSec, showWrongOnly, setShowWrongOnly, questionTimes,
 }: {
   questions: Question[]; resp: Record<number, number>; title: string; onExit: () => void;
   durationSec: number; showWrongOnly: boolean; setShowWrongOnly: (b: boolean) => void;
+  questionTimes: QuestionTime[];
 }) {
   const responses: Record<number, number | null> = {};
   questions.forEach((_, i) => { responses[i] = resp[i] ?? null; });
   const s = scoreTest(questions, responses);
   const acc = s.attempted ? Math.round((s.correct / s.attempted) * 100) : 0;
+  const projectedPaper = Math.round((s.correct / questions.length) * 800);
 
   const perSubject: Record<string, { total: number; correct: number; attempted: number }> = {};
   questions.forEach((q, i) => {
@@ -263,6 +317,17 @@ function Result({
     ps.total++;
     if (resp[i] !== undefined) { ps.attempted++; if (resp[i] === q.answer) ps.correct++; }
   });
+
+  // time × outcome grouped by subject
+  const timeBySubj: Record<string, { times: number[]; correct: number; total: number; confident: number; sureWrong: number }> = {};
+  for (const t of questionTimes) {
+    const d = (timeBySubj[t.subject] ||= { times: [], correct: 0, total: 0, confident: 0, sureWrong: 0 });
+    d.times.push(t.timeMs);
+    d.total++;
+    if (t.correct) d.correct++;
+    if (t.confidence === 'sure') { d.confident++; if (!t.correct) d.sureWrong++; }
+  }
+  const totalSureWrong = questionTimes.filter(t => t.confidence === 'sure' && !t.correct).length;
 
   const reviewList = questions.map((q, i) => ({ q, i })).filter(({ q, i }) =>
     !showWrongOnly || resp[i] === undefined || resp[i] !== q.answer);
@@ -277,7 +342,7 @@ function Result({
             <span className="text-5xl font-extrabold text-brand-700">{s.score}</span>
             <span className="text-xl font-bold text-slate-400">/ {s.maxScore}</span>
           </div>
-          <p className="text-sm text-slate-500 mt-1">net score after negative marking</p>
+          <p className="text-sm text-slate-500 mt-1">net score (+4/−1) · projected <b>{projectedPaper}</b>/800 on full paper</p>
         </div>
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mt-6">
           <Mini label="Correct" value={s.correct} tone="good" />
@@ -304,6 +369,60 @@ function Result({
         </div>
       </div>
 
+      {/* Time × Outcome debrief */}
+      {questionTimes.length > 0 && (
+        <div className="card p-5 mt-5">
+          <h3 className="font-bold text-ink mb-3">Time × Outcome</h3>
+          {totalSureWrong > 0 && (
+            <div className="mb-3 p-3 rounded-lg bg-rose-50 border border-rose-200 text-sm text-rose-700">
+              ⚠ {totalSureWrong} question{totalSureWrong > 1 ? 's' : ''} marked <b>Sure</b> but answered wrong — review these first
+            </div>
+          )}
+          <div className="overflow-x-auto">
+            <table className="w-full text-sm">
+              <thead>
+                <tr className="text-left text-xs text-slate-400 border-b border-slate-100">
+                  <th className="pb-2">Subject</th>
+                  <th className="pb-2 text-right">Avg time</th>
+                  <th className="pb-2 text-right">Accuracy</th>
+                  <th className="pb-2 text-right">Verdict</th>
+                </tr>
+              </thead>
+              <tbody>
+                {Object.entries(timeBySubj)
+                  .sort((a, b) => {
+                    const avgA = a[1].times.reduce((s, t) => s + t, 0) / a[1].times.length;
+                    const avgB = b[1].times.reduce((s, t) => s + t, 0) / b[1].times.length;
+                    return avgB - avgA;
+                  })
+                  .map(([subj, d]) => {
+                    const avgS = d.times.reduce((s, t) => s + t, 0) / d.times.length / 1000;
+                    const acc = d.correct / d.total;
+                    const verdict = avgS < 45 && acc > 0.7
+                      ? { label: 'Efficient ✓', cls: 'text-emerald-600' }
+                      : avgS > 90 && acc < 0.6
+                      ? { label: 'Double Loss ✗', cls: 'text-rose-600' }
+                      : avgS > 90
+                      ? { label: 'Slow', cls: 'text-amber-600' }
+                      : { label: 'OK', cls: 'text-slate-400' };
+                    return (
+                      <tr key={subj} className="border-b border-slate-50">
+                        <td className="py-2 text-xs">{subj}</td>
+                        <td className="py-2 text-right text-xs tabular-nums">{avgS.toFixed(0)}s</td>
+                        <td className="py-2 text-right text-xs tabular-nums">{Math.round(acc * 100)}%</td>
+                        <td className={`py-2 text-right text-xs font-semibold ${verdict.cls}`}>{verdict.label}</td>
+                      </tr>
+                    );
+                  })}
+              </tbody>
+            </table>
+          </div>
+          <p className="text-[11px] text-slate-400 mt-2">
+            &lt;45s + &gt;70% = Efficient · &gt;90s + &lt;60% = Double Loss · Confidence logged for {questionTimes.filter(t => t.confidence).length}/{questionTimes.length} answered
+          </p>
+        </div>
+      )}
+
       <div className="flex items-center justify-between mt-6 mb-3">
         <h3 className="font-bold text-ink">Solutions</h3>
         <label className="flex items-center gap-2 text-sm text-slate-500">
@@ -316,14 +435,21 @@ function Result({
           const chosen = resp[i];
           const skipped = chosen === undefined;
           const correct = chosen === q.answer;
+          const qt = questionTimes.find(t => t.qi === i);
           return (
             <div key={q.id} className="card p-4">
-              <div className="flex items-center gap-2 mb-2">
+              <div className="flex items-center gap-2 mb-2 flex-wrap">
                 <span className="chip bg-slate-900 text-white">Q{i + 1}</span>
                 <SubjectChip subject={q.subject} />
                 <span className={`chip ${correct ? 'bg-emerald-100 text-emerald-700' : skipped ? 'bg-slate-100 text-slate-500' : 'bg-rose-100 text-rose-700'}`}>
                   {correct ? 'Correct' : skipped ? 'Skipped' : 'Wrong'}
                 </span>
+                {qt?.confidence && (
+                  <span className={`chip text-[10px] ${qt.confidence === 'sure' ? 'bg-brand-100 text-brand-700' : qt.confidence === 'guess' ? 'bg-slate-100 text-slate-500' : 'bg-amber-100 text-amber-700'}`}>
+                    {qt.confidence === 'sure' ? '✓ Sure' : qt.confidence === 'unsure' ? '~ Unsure' : '? Guess'}
+                  </span>
+                )}
+                {qt && <span className="text-[10px] text-slate-400 tabular-nums">{(qt.timeMs / 1000).toFixed(0)}s</span>}
               </div>
               <p className="font-medium text-ink">{q.stem}</p>
               <div className="mt-2 text-sm space-y-1">

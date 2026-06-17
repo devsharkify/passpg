@@ -1,9 +1,16 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { Question } from '../lib/types';
-import { recordAnswer, toggleBookmark, isBookmarked } from '../lib/storage';
+import { recordAnswer, toggleBookmark, isBookmarked, scheduleSRS, updateLastPractice } from '../lib/storage';
 import { Icon, SubjectChip, DifficultyBadge, ProgressBar } from './ui';
 
 const LETTERS = ['A', 'B', 'C', 'D'];
+
+const ROOT_CAUSE_OPTIONS = [
+  ['never-knew', 'Never knew this'],
+  ['forgot', 'Knew but forgot'],
+  ['confuser', 'Confuser trap'],
+  ['careless', 'Careless / misread'],
+] as const;
 
 function isImageStyle(q: Question): boolean {
   const stem = q.stem.toLowerCase();
@@ -16,12 +23,21 @@ export default function PracticeRunner({
 }: { questions: Question[]; title: string; onExit: () => void }) {
   const [idx, setIdx] = useState(0);
   const [resp, setResp] = useState<Record<number, number>>({});
+  const [confidence, setConfidence] = useState<Record<number, 'sure' | 'unsure' | 'guess'>>({});
+  const [rootCauses, setRootCauses] = useState<Record<number, string>>({});
   const [done, setDone] = useState(false);
   const [bm, setBm] = useState(false);
+
+  // confidence modal state
+  const [pendingChoice, setPendingChoice] = useState<number | null>(null);
+  const [showConf, setShowConf] = useState(false);
 
   const q = questions[idx];
   const chosen = resp[idx];
   const revealed = chosen !== undefined;
+  const conf = confidence[idx];
+  const rootCause = rootCauses[idx];
+  const isWrong = revealed && chosen !== q.answer;
 
   useEffect(() => { setBm(isBookmarked(q.id)); }, [q.id]);
 
@@ -33,17 +49,39 @@ export default function PracticeRunner({
 
   function pick(opt: number) {
     if (revealed) return;
-    const correct = opt === q.answer;
-    setResp((r) => ({ ...r, [idx]: opt }));
-    recordAnswer(q.id, opt, correct);
+    setPendingChoice(opt);
+    setShowConf(true);
+  }
+
+  function pickConfidence(c: 'sure' | 'unsure' | 'guess') {
+    if (pendingChoice === null) return;
+    const correct = pendingChoice === q.answer;
+    setResp(r => ({ ...r, [idx]: pendingChoice }));
+    setConfidence(cv => ({ ...cv, [idx]: c }));
+    setShowConf(false);
+    setPendingChoice(null);
+    recordAnswer(q.id, pendingChoice, correct, { confidence: c });
+    scheduleSRS(q.id, correct);
+    updateLastPractice(q.subject);
+  }
+
+  function pickRootCause(rc: string) {
+    setRootCauses(r => ({ ...r, [idx]: rc }));
+    recordAnswer(q.id, chosen, false, { confidence: conf, rootCause: rc as any });
+  }
+
+  function advance(dir: 1 | -1) {
+    setShowConf(false);
+    setPendingChoice(null);
+    setIdx(i => Math.max(0, Math.min(questions.length - 1, i + dir)));
   }
 
   useEffect(() => {
     function onKey(e: KeyboardEvent) {
       if (done) return;
-      if (['1', '2', '3', '4'].includes(e.key)) pick(+e.key - 1);
-      if (e.key === 'ArrowRight') setIdx((i) => Math.min(questions.length - 1, i + 1));
-      if (e.key === 'ArrowLeft') setIdx((i) => Math.max(0, i - 1));
+      if (['1', '2', '3', '4'].includes(e.key) && !showConf) pick(+e.key - 1);
+      if (e.key === 'ArrowRight') advance(1);
+      if (e.key === 'ArrowLeft') advance(-1);
     }
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
@@ -63,7 +101,7 @@ export default function PracticeRunner({
             <Stat label="Accuracy" value={`${acc}%`} tone={acc >= 60 ? 'good' : 'warn'} />
           </div>
           <div className="flex gap-3 justify-center mt-7">
-            <button className="btn-ghost" onClick={() => { setIdx(0); setResp({}); setDone(false); }}>
+            <button className="btn-ghost" onClick={() => { setIdx(0); setResp({}); setConfidence({}); setRootCauses({}); setDone(false); }}>
               <Icon name="reset" className="w-4 h-4" /> Restart
             </button>
             <button className="btn-primary" onClick={onExit}>Back</button>
@@ -129,18 +167,24 @@ export default function PracticeRunner({
           {q.options.map((opt, i) => {
             const isCorrect = i === q.answer;
             const isChosen = chosen === i;
+            const isPending = showConf && pendingChoice === i;
             let cls = 'border-slate-200 hover:border-brand-300 hover:bg-brand-50/40';
             if (revealed) {
               if (isCorrect) cls = 'border-emerald-400 bg-emerald-50';
               else if (isChosen) cls = 'border-rose-400 bg-rose-50';
               else cls = 'border-slate-200 opacity-70';
+            } else if (isPending) {
+              cls = 'border-brand-500 bg-brand-50';
+            } else if (showConf) {
+              cls = 'border-slate-200 opacity-50 cursor-default';
             }
             return (
-              <button key={i} disabled={revealed} onClick={() => pick(i)}
+              <button key={i} disabled={revealed || (showConf && !isPending)} onClick={() => pick(i)}
                 className={`w-full text-left flex items-start gap-3 rounded-xl border-2 px-4 py-3 transition ${cls}`}>
                 <span className={`shrink-0 grid place-items-center w-7 h-7 rounded-lg text-sm font-bold ${
                   revealed && isCorrect ? 'bg-emerald-500 text-white'
                   : revealed && isChosen ? 'bg-rose-500 text-white'
+                  : isPending ? 'bg-brand-600 text-white'
                   : 'bg-slate-100 text-slate-600'}`}>
                   {revealed && isCorrect ? <Icon name="check" className="w-4 h-4" />
                     : revealed && isChosen ? <Icon name="x" className="w-4 h-4" />
@@ -152,8 +196,35 @@ export default function PracticeRunner({
           })}
         </div>
 
+        {/* confidence modal */}
+        {showConf && (
+          <div className="mt-4 p-4 rounded-xl bg-slate-50 border border-slate-200 animate-fadeUp">
+            <p className="text-sm font-semibold text-slate-600 mb-3 text-center">How confident were you?</p>
+            <div className="flex gap-2 justify-center">
+              {(['sure', 'unsure', 'guess'] as const).map(c => (
+                <button key={c} onClick={() => pickConfidence(c)}
+                  className="px-4 py-2 rounded-lg text-sm font-bold border-2 border-slate-200 hover:border-brand-400 hover:bg-brand-50 transition">
+                  {c === 'sure' ? '✓ Sure' : c === 'unsure' ? '~ Unsure' : '? Guess'}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* explanation */}
         {revealed && (
           <div className="mt-4 rounded-xl bg-slate-50 border border-slate-200 p-4 animate-fadeUp">
+            {conf && (
+              <div className="flex items-center gap-2 mb-2">
+                <span className={`text-[10px] px-2 py-0.5 rounded font-bold uppercase tracking-wide ${
+                  conf === 'sure' && isWrong ? 'bg-rose-100 text-rose-700'
+                  : conf === 'sure' ? 'bg-emerald-100 text-emerald-700'
+                  : conf === 'unsure' ? 'bg-amber-100 text-amber-700'
+                  : 'bg-slate-100 text-slate-500'}`}>
+                  {conf === 'sure' && isWrong ? '⚠ Sure but Wrong' : conf === 'sure' ? '✓ Sure' : conf === 'unsure' ? '~ Unsure' : '? Guess'}
+                </span>
+              </div>
+            )}
             <div className="flex items-center gap-2 mb-1.5">
               <Icon name="spark" className="w-4 h-4 text-brand-600" />
               <span className="text-sm font-bold text-brand-700">High-yield</span>
@@ -163,11 +234,31 @@ export default function PracticeRunner({
             {q.pyqNote && <p className="text-xs text-slate-400 mt-2 italic">PYQ insight: {q.pyqNote}</p>}
           </div>
         )}
+
+        {/* root cause selector (wrong answers only) */}
+        {isWrong && !rootCause && (
+          <div className="mt-3 p-4 rounded-xl bg-rose-50 border border-rose-100 animate-fadeUp">
+            <p className="text-xs font-bold text-rose-600 uppercase mb-2">Why did you get this wrong?</p>
+            <div className="grid grid-cols-2 gap-2">
+              {ROOT_CAUSE_OPTIONS.map(([key, label]) => (
+                <button key={key} onClick={() => pickRootCause(key)}
+                  className="text-xs px-3 py-2 rounded-lg border border-rose-200 hover:bg-rose-100 text-rose-700 text-left transition">
+                  {label}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+        {isWrong && rootCause && (
+          <p className="mt-2 text-xs text-slate-400">
+            Logged: {ROOT_CAUSE_OPTIONS.find(([k]) => k === rootCause)?.[1] ?? rootCause}
+          </p>
+        )}
       </div>
 
       {/* bottom bar */}
       <div className="flex items-center justify-between gap-3 mt-4">
-        <button className="btn-ghost" disabled={idx === 0} onClick={() => setIdx((i) => i - 1)}>
+        <button className="btn-ghost" disabled={idx === 0} onClick={() => advance(-1)}>
           <Icon name="left" className="w-4 h-4" /> Prev
         </button>
         <span className="text-sm text-slate-500 tabular-nums">
@@ -176,7 +267,7 @@ export default function PracticeRunner({
         {idx === questions.length - 1 ? (
           <button className="btn-primary" onClick={() => setDone(true)}>Finish</button>
         ) : (
-          <button className="btn-primary" onClick={() => setIdx((i) => i + 1)}>
+          <button className="btn-primary" onClick={() => advance(1)}>
             Next <Icon name="right" className="w-4 h-4" />
           </button>
         )}

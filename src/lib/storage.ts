@@ -23,9 +23,12 @@ function write(key: string, value: unknown) {
 // ---- Answers (practice history) ----
 export type AnswerMap = Record<string, AnswerRecord>;
 export function getAnswers(): AnswerMap { return read<AnswerMap>(K.answers, {}); }
-export function recordAnswer(qid: string, chosen: number, correct: boolean) {
+export function recordAnswer(
+  qid: string, chosen: number, correct: boolean,
+  opts?: { confidence?: 'sure' | 'unsure' | 'guess'; rootCause?: 'never-knew' | 'forgot' | 'confuser' | 'careless' }
+) {
   const a = getAnswers();
-  a[qid] = { chosen, correct, ts: Date.now() };
+  a[qid] = { chosen, correct, ts: Date.now(), ...opts };
   write(K.answers, a);
 }
 export function getAnswer(qid: string): AnswerRecord | undefined { return getAnswers()[qid]; }
@@ -81,4 +84,71 @@ export function computeStats(questionSubject: Record<string, string>): Stats {
 
 export function resetAll() {
   [K.answers, K.bookmarks, K.mocks].forEach((k) => localStorage.removeItem(k));
+}
+
+// ── Repeat mastery ──────────────────────────────────────────────────────────
+export function getRepeatMastery(): Record<string, string[]> {
+  return read<Record<string, string[]>>(P + 'repeatMastery', {});
+}
+export function recordRepeatAttempt(qid: string, correct: boolean): void {
+  if (!correct) return;
+  const m = getRepeatMastery();
+  const today = new Date().toISOString().slice(0, 10);
+  if (!m[qid]) m[qid] = [];
+  if (!m[qid].includes(today)) { m[qid].push(today); write(P + 'repeatMastery', m); }
+}
+export function isRepeatMastered(qid: string): boolean {
+  return (getRepeatMastery()[qid] || []).length >= 3;
+}
+export function getRepeatMasteryStats(qids: string[]): { mastered: number; total: number } {
+  const m = getRepeatMastery();
+  return { mastered: qids.filter(id => (m[id] || []).length >= 3).length, total: qids.length };
+}
+
+// ── Last-practice tracking ───────────────────────────────────────────────────
+export function getLastPracticeBySubject(): Record<string, number> {
+  return read<Record<string, number>>(P + 'lastPractice', {});
+}
+export function updateLastPractice(subject: string): void {
+  const lp = getLastPracticeBySubject();
+  lp[subject] = Date.now();
+  write(P + 'lastPractice', lp);
+}
+
+// ── Spaced repetition (SM-2 simplified) ─────────────────────────────────────
+interface SRSEntry { nextReview: string; intervalDays: number; streak: number; }
+function getSRSSchedule(): Record<string, SRSEntry> {
+  return read<Record<string, SRSEntry>>(P + 'srs', {});
+}
+export function scheduleSRS(qid: string, correct: boolean): void {
+  const INTERVALS = [1, 3, 7, 14, 30, 60];
+  const sched = getSRSSchedule();
+  const e = sched[qid] || { intervalDays: 1, streak: 0, nextReview: '' };
+  const streak = correct ? Math.min(e.streak + 1, INTERVALS.length - 1) : 0;
+  const days = INTERVALS[streak];
+  const next = new Date();
+  next.setDate(next.getDate() + days);
+  sched[qid] = { nextReview: next.toISOString().slice(0, 10), intervalDays: days, streak };
+  write(P + 'srs', sched);
+}
+export function getSRSDueCount(): number {
+  const today = new Date().toISOString().slice(0, 10);
+  return Object.values(getSRSSchedule()).filter(e => e.nextReview <= today).length;
+}
+export function getSRSDueIds(): string[] {
+  const today = new Date().toISOString().slice(0, 10);
+  return Object.entries(getSRSSchedule()).filter(([, e]) => e.nextReview <= today).map(([id]) => id);
+}
+
+// ── False-confidence stats ───────────────────────────────────────────────────
+export function getFalseConfidenceBySubject(questionSubject: Record<string, string>): Record<string, number> {
+  const answers = getAnswers();
+  const out: Record<string, number> = {};
+  for (const [qid, rec] of Object.entries(answers)) {
+    if (rec.confidence === 'sure' && !rec.correct) {
+      const s = questionSubject[qid];
+      if (s) out[s] = (out[s] || 0) + 1;
+    }
+  }
+  return out;
 }

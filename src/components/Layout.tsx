@@ -7,6 +7,8 @@ const NAV = [
   { to: '/practice', label: 'Practice', icon: 'cards' as const },
   { to: '/mock', label: 'Mock Tests', icon: 'test' as const },
   { to: '/prediction', label: '2026 Predictions', icon: 'spark' as const },
+  { to: '/repeat-assault', label: 'Repeat Assault', icon: 'target' as const },
+  { to: '/blitz', label: 'PSM Blitz', icon: 'spark' as const },
   { to: '/revision', label: 'Rapid Revision', icon: 'book' as const },
   { to: '/pattern', label: 'Exam Pattern', icon: 'chart' as const },
 ];

@@ -1,24 +1,52 @@
 import { useMemo } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { QUESTIONS, SUBJECTS, TOTAL_QUESTIONS, META, CARDS } from '../lib/data';
-import { computeStats, getBookmarks, getMocks } from '../lib/storage';
+import { computeStats, getBookmarks, getMocks, getLastPracticeBySubject, getSRSDueCount } from '../lib/storage';
 import { Icon, Ring, ProgressBar, SubjectChip } from '../components/ui';
 
 const qSubject: Record<string, string> = Object.fromEntries(QUESTIONS.map((q) => [q.id, q.subject]));
+
+const SUBJECT_WEIGHTS: Record<string, number> = {
+  'Medicine': 23, 'Surgery': 19, 'Obstetrics & Gynaecology': 17, 'Pharmacology': 15,
+  'Pathology': 15, 'Social and Preventive Medicine': 13, 'Microbiology': 11, 'Pediatrics': 11,
+  'Anatomy': 9, 'Physiology': 9, 'Ophthalmology': 7, 'ENT': 7, 'Biochemistry': 7,
+  'Orthopedics': 7, 'Dermatology': 6, 'Psychiatry': 6, 'Forensic Medicine': 6,
+  'Anaesthesia': 5, 'Radiology': 5,
+};
 
 export default function Dashboard() {
   const nav = useNavigate();
   const stats = useMemo(() => computeStats(qSubject), []);
   const bookmarks = getBookmarks();
   const mocks = getMocks();
+  const srsDue = getSRSDueCount();
+  const lastPractice = getLastPracticeBySubject();
   const examDate = '2026-08-30';
   const daysLeft = Math.ceil((new Date(examDate).getTime() - Date.now()) / 86400000);
 
-  // weakest attempted subjects (need >=3 attempts to rank)
+  // exam proximity phase
+  const examPhase =
+    daysLeft > 45 ? { label: 'Learning Phase', msg: 'Practice broadly. Drill repeats daily.', color: 'emerald' }
+    : daysLeft > 21 ? { label: 'Consolidation Phase', msg: '3 mocks/week. Clear SRS queue daily.', color: 'amber' }
+    : daysLeft > 7 ? { label: 'Revision Phase', msg: 'No new topics. Revision + Repeat Assault only.', color: 'orange' }
+    : { label: 'Exam Eve', msg: 'Stop learning. Drill mastered content only.', color: 'rose' };
+
+  // neglected subjects (not practiced in threshold days)
+  const neglectMs = daysLeft > 30 ? 7 * 86400000 : 4 * 86400000;
+  const neglected = Object.entries(lastPractice)
+    .filter(([, ts]) => Date.now() - ts > neglectMs)
+    .map(([s]) => s);
+
+  // weighted danger score: (1 - accuracy) × subject_weight
   const weak = Object.entries(stats.bySubject)
     .filter(([, s]) => s.attempted >= 3)
-    .map(([subj, s]) => ({ subj, acc: s.correct / s.attempted, attempted: s.attempted }))
-    .sort((a, b) => a.acc - b.acc)
+    .map(([subj, s]) => ({
+      subj,
+      acc: s.correct / s.attempted,
+      attempted: s.attempted,
+      danger: (1 - s.correct / s.attempted) * (SUBJECT_WEIGHTS[subj] || 5),
+    }))
+    .sort((a, b) => b.danger - a.danger)
     .slice(0, 4);
 
   return (
@@ -62,6 +90,34 @@ export default function Dashboard() {
         <StatBox icon="test" value={mocks.length} label="Mocks taken" onClick={() => nav('/mock')} />
       </section>
 
+      {/* alerts row */}
+      <div className="space-y-2">
+        {/* exam phase banner */}
+        <div className={`card p-3 flex items-center gap-3 border-l-4 border-${examPhase.color}-500 bg-${examPhase.color}-50`}>
+          <span className={`text-xs font-bold uppercase text-${examPhase.color}-700`}>{examPhase.label}</span>
+          <span className="text-xs text-slate-500">{examPhase.msg}</span>
+        </div>
+
+        {/* SRS queue */}
+        {srsDue > 0 && (
+          <Link to="/practice" className="card p-3 flex items-center gap-3 bg-violet-50 border-violet-200 hover:border-violet-400 transition">
+            <Icon name="target" className="w-5 h-5 text-violet-600 shrink-0" />
+            <span className="font-semibold text-violet-700 text-sm">{srsDue} questions due for spaced review</span>
+            <span className="ml-auto text-xs text-violet-500 shrink-0">Practice →</span>
+          </Link>
+        )}
+
+        {/* neglect alert */}
+        {neglected.length > 0 && (
+          <div className="card p-3 bg-rose-50 border-rose-200">
+            <span className="text-xs font-bold text-rose-600">NOT PRACTICED: </span>
+            <span className="text-xs text-rose-700">
+              {neglected.slice(0, 4).join(', ')}{neglected.length > 4 ? ` +${neglected.length - 4} more` : ''} — over {daysLeft > 30 ? '7' : '4'} days ago
+            </span>
+          </div>
+        )}
+      </div>
+
       <div className="grid lg:grid-cols-3 gap-6">
         {/* left: countdown + weak areas */}
         <div className="lg:col-span-2 space-y-6">
@@ -79,10 +135,10 @@ export default function Dashboard() {
             </div>
           </section>
 
-          {/* weak areas */}
+          {/* danger-ranked weak areas */}
           <section className="card p-6">
             <h2 className="font-bold text-ink mb-1">Where you stand</h2>
-            <p className="text-sm text-slate-500 mb-4">Your lowest-accuracy subjects so far. Attack these first.</p>
+            <p className="text-sm text-slate-500 mb-4">Ranked by expected marks lost (accuracy × paper weight).</p>
             {weak.length === 0 ? (
               <div className="text-center py-8 text-slate-400">
                 <Icon name="chart" className="w-8 h-8 mx-auto mb-2 opacity-50" />
@@ -95,11 +151,39 @@ export default function Dashboard() {
                   <button key={w.subj} onClick={() => nav('/practice')} className="w-full flex items-center gap-3 group">
                     <div className="w-44 shrink-0 text-left"><SubjectChip subject={w.subj} /></div>
                     <ProgressBar pct={w.acc} className="flex-1" />
-                    <span className="w-12 text-right text-sm font-bold tabular-nums text-slate-600">{Math.round(w.acc * 100)}%</span>
+                    <div className="text-right shrink-0">
+                      <div className="text-sm font-bold tabular-nums text-slate-600">{Math.round(w.acc * 100)}%</div>
+                      <div className="text-[10px] text-rose-500">−{w.danger.toFixed(1)} marks</div>
+                    </div>
                   </button>
                 ))}
               </div>
             )}
+          </section>
+
+          {/* quick-access drills */}
+          <section>
+            <h2 className="font-bold text-ink mb-3">Quick drills</h2>
+            <div className="grid sm:grid-cols-2 gap-4">
+              <Link to="/repeat-assault" className="card p-5 hover:border-amber-300 transition flex items-center gap-4">
+                <span className="grid place-items-center w-12 h-12 rounded-xl bg-amber-400 text-white shrink-0">
+                  <Icon name="target" className="w-6 h-6" />
+                </span>
+                <div>
+                  <div className="font-bold text-ink">Repeat Assault</div>
+                  <div className="text-sm text-slate-500">Drill guaranteed marks</div>
+                </div>
+              </Link>
+              <Link to="/blitz" className="card p-5 hover:border-violet-300 transition flex items-center gap-4">
+                <span className="grid place-items-center w-12 h-12 rounded-xl bg-violet-500 text-white shrink-0">
+                  <Icon name="spark" className="w-6 h-6" />
+                </span>
+                <div>
+                  <div className="font-bold text-ink">PSM + Pharma Blitz</div>
+                  <div className="text-sm text-slate-500">20-second rapid-fire</div>
+                </div>
+              </Link>
+            </div>
           </section>
         </div>
 

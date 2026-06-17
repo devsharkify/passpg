@@ -7,6 +7,8 @@ import Mock from './pages/Mock';
 import Revision from './pages/Revision';
 import Pattern from './pages/Pattern';
 import Prediction from './pages/Prediction';
+import RepeatAssault from './pages/RepeatAssault';
+import Blitz from './pages/Blitz';
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -26,6 +28,8 @@ export default function App() {
           <Route path="/revision" element={<Revision />} />
           <Route path="/pattern" element={<Pattern />} />
           <Route path="/prediction" element={<Prediction />} />
+          <Route path="/repeat-assault" element={<RepeatAssault />} />
+          <Route path="/blitz" element={<Blitz />} />
           <Route path="*" element={<Dashboard />} />
         </Routes>
       </Layout>

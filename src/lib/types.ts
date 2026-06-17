@@ -35,6 +35,15 @@ export interface WeightRow {
   tier: string;
 }
 
+export interface QuestionTime {
+  qi: number;
+  subject: string;
+  timeMs: number;
+  chosen: number;
+  correct: boolean;
+  confidence?: 'sure' | 'unsure' | 'guess';
+}
+
 export interface MockRecord {
   id: string;
   title: string;
@@ -47,10 +56,13 @@ export interface MockRecord {
   maxScore: number;
   durationSec: number;
   perSubject: Record<string, { total: number; correct: number }>;
+  questionTimes?: QuestionTime[];
 }
 
 export interface AnswerRecord {
   chosen: number;
   correct: boolean;
   ts: number;
+  confidence?: 'sure' | 'unsure' | 'guess';
+  rootCause?: 'never-knew' | 'forgot' | 'confuser' | 'careless';
 }
