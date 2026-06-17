@@ -5,6 +5,12 @@ import { Icon, SubjectChip, DifficultyBadge, ProgressBar } from './ui';
 
 const LETTERS = ['A', 'B', 'C', 'D'];
 
+function isImageStyle(q: Question): boolean {
+  const stem = q.stem.toLowerCase();
+  return q.tags.some(t => ['image','image-based','radiology-image','ecg','histology','photograph'].includes(t))
+    || /\b(image|shown in|photograph|figure|x-ray|xray|ct scan|mri|ultrasound|ecg|eeg|histology)\b/.test(stem);
+}
+
 export default function PracticeRunner({
   questions, title, onExit,
 }: { questions: Question[]; title: string; onExit: () => void }) {
@@ -110,6 +116,7 @@ export default function PracticeRunner({
           {(q as any).source === 'pred-2026' && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-violet-100 text-violet-700">Predicted 2026</span>}
           {(q as any).source === 'gap-fill' && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-slate-100 text-slate-500">Gap Fill</span>}
           {(q as any).is_repeat && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-amber-100 text-amber-700">Repeat ×{(q as any).repeat_count}</span>}
+          {isImageStyle(q) && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-sky-100 text-sky-700">Image-Style</span>}
         </div>
         <p className="text-lg font-semibold text-ink leading-relaxed">{q.stem}</p>
 
