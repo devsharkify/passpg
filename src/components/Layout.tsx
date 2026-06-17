@@ -1,5 +1,6 @@
+import { useState } from 'react';
 import type { ReactNode } from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useLocation } from 'react-router-dom';
 import { Icon } from './ui';
 
 const NAV = [
@@ -28,12 +29,20 @@ function Brand() {
 }
 
 export default function Layout({ children }: { children: ReactNode }) {
+  const [open, setOpen] = useState(false);
+  const { pathname } = useLocation();
+
+  // close menu on route change
+  useState(() => { setOpen(false); });
+
   return (
     <div className="min-h-screen flex flex-col">
-      <header className="sticky top-0 z-30 border-b border-slate-200/70 bg-white/85 backdrop-blur">
+      <header className="sticky top-0 z-30 border-b border-slate-200/70 bg-white/95 backdrop-blur">
         <div className="mx-auto max-w-6xl px-4 h-16 flex items-center gap-4">
           <Brand />
-          <nav className="ml-auto flex items-center gap-1 overflow-x-auto scroll-thin">
+
+          {/* desktop nav */}
+          <nav className="ml-auto hidden lg:flex items-center gap-1">
             {NAV.map((n) => (
               <NavLink key={n.to} to={n.to} end={n.end}
                 className={({ isActive }) =>
@@ -46,8 +55,40 @@ export default function Layout({ children }: { children: ReactNode }) {
               </NavLink>
             ))}
           </nav>
+
+          {/* hamburger — mobile only */}
+          <button
+            onClick={() => setOpen(o => !o)}
+            className="lg:hidden ml-auto flex flex-col justify-center items-center w-10 h-10 gap-1.5 rounded-lg hover:bg-slate-100 transition"
+            aria-label="Menu"
+          >
+            <span className={`block w-5 h-0.5 bg-slate-700 transition-all duration-200 ${open ? 'rotate-45 translate-y-2' : ''}`} />
+            <span className={`block w-5 h-0.5 bg-slate-700 transition-all duration-200 ${open ? 'opacity-0' : ''}`} />
+            <span className={`block w-5 h-0.5 bg-slate-700 transition-all duration-200 ${open ? '-rotate-45 -translate-y-2' : ''}`} />
+          </button>
         </div>
+
+        {/* mobile dropdown */}
+        {open && (
+          <div className="lg:hidden border-t border-slate-100 bg-white shadow-lg">
+            <nav className="mx-auto max-w-6xl px-4 py-3 grid grid-cols-2 gap-1">
+              {NAV.map((n) => (
+                <NavLink key={n.to} to={n.to} end={n.end}
+                  onClick={() => setOpen(false)}
+                  className={({ isActive }) =>
+                    `flex items-center gap-2 px-3 py-2.5 rounded-xl text-sm font-semibold transition ${
+                      isActive ? 'bg-brand-50 text-brand-700' : 'text-slate-600 hover:bg-slate-100'
+                    }`
+                  }>
+                  <Icon name={n.icon} className="w-4 h-4 shrink-0" />
+                  <span>{n.label}</span>
+                </NavLink>
+              ))}
+            </nav>
+          </div>
+        )}
       </header>
+
       <main className="flex-1 mx-auto max-w-6xl w-full px-4 py-8">{children}</main>
       <footer className="border-t border-slate-200/70 py-6 text-center text-xs text-slate-400">
         Dr. Saranya Prep - built from previous-year NEET PG patterns. Study material for exam preparation; verify clinical decisions against standard texts.
