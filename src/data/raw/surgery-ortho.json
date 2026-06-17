@@ -17,7 +17,10 @@
 "tags": [
 "appendicitis",
 "alvarado"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Surgery",
@@ -37,7 +40,10 @@
 "tags": [
 "appendicitis",
 "clinical-signs"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Surgery",
@@ -58,7 +64,10 @@
 "trauma",
 "ATLS",
 "airway"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Surgery",
@@ -79,7 +88,10 @@
 "trauma",
 "GCS",
 "head-injury"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Surgery",
@@ -100,7 +112,10 @@
 "trauma",
 "FAST",
 "ultrasound"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Surgery",
@@ -121,7 +136,10 @@
 "trauma",
 "damage-control",
 "coagulopathy"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Surgery",
@@ -142,7 +160,10 @@
 "trauma",
 "shock",
 "hemorrhage"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Surgery",
@@ -163,7 +184,10 @@
 "bowel-obstruction",
 "volvulus",
 "radiology"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Surgery",
@@ -184,7 +208,10 @@
 "perforation",
 "peptic-ulcer",
 "radiology"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Surgery",
@@ -205,7 +232,10 @@
 "breast-cancer",
 "TNM",
 "staging"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Surgery",
@@ -226,7 +256,10 @@
 "breast-cancer",
 "sentinel-node",
 "axilla"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Surgery",
@@ -247,7 +280,10 @@
 "breast-cancer",
 "Paget-disease",
 "nipple"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Surgery",
@@ -268,7 +304,10 @@
 "thyroid",
 "FNAC",
 "nodule"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Surgery",
@@ -289,7 +328,10 @@
 "thyroid",
 "follicular-carcinoma",
 "histology"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Surgery",
@@ -310,7 +352,10 @@
 "hernia",
 "inguinal",
 "anatomy"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Surgery",
@@ -331,7 +376,10 @@
 "hernia",
 "anatomy",
 "Hesselbach"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Surgery",
@@ -352,7 +400,10 @@
 "burns",
 "Parkland",
 "fluid-resuscitation"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Surgery",
@@ -373,7 +424,10 @@
 "burns",
 "escharotomy",
 "ischemia"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 8
 },
 {
 "subject": "Surgery",
@@ -394,7 +448,10 @@
 "peptic-ulcer",
 "GI-bleed",
 "gastroduodenal-artery"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Surgery",
@@ -415,7 +472,10 @@
 "colorectal-cancer",
 "FAP",
 "APC"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Surgery",
@@ -436,7 +496,10 @@
 "colorectal-cancer",
 "CEA",
 "tumour-marker"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Surgery",
@@ -457,7 +520,10 @@
 "pancreatitis",
 "Ranson",
 "severity"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Surgery",
@@ -478,7 +544,10 @@
 "surgical-infection",
 "necrotizing-fasciitis",
 "debridement"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Surgery",
@@ -499,7 +568,10 @@
 "surgical-infection",
 "tetanus",
 "prophylaxis"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Surgery",
@@ -520,7 +592,10 @@
 "cholecystitis",
 "Murphy-sign",
 "gallbladder"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Surgery",
@@ -541,7 +616,10 @@
 "cholangitis",
 "Charcot-triad",
 "biliary"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Surgery",
@@ -562,7 +640,10 @@
 "acute-abdomen",
 "mesenteric-ischemia",
 "SMA"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Surgery",
@@ -583,7 +664,10 @@
 "intussusception",
 "pediatric-surgery",
 "reduction"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Surgery",
@@ -604,7 +688,10 @@
 "diverticulitis",
 "Hinchey",
 "peritonitis"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 8
 },
 {
 "subject": "Surgery",
@@ -625,7 +712,10 @@
 "trauma",
 "tension-pneumothorax",
 "decompression"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Surgery",
@@ -646,7 +736,10 @@
 "trauma",
 "cardiac-tamponade",
 "Beck-triad"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Surgery",
@@ -667,7 +760,10 @@
 "trauma",
 "urethral-injury",
 "urethrogram"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Surgery",
@@ -688,7 +784,10 @@
 "breast",
 "triple-assessment",
 "diagnosis"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Surgery",
@@ -709,7 +808,10 @@
 "acute-abdomen",
 "AAA",
 "vascular"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Surgery",
@@ -730,7 +832,10 @@
 "breast-cancer",
 "inflammatory",
 "peau-d-orange"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Orthopedics",
@@ -751,7 +856,10 @@
 "fracture",
 "radial-nerve",
 "humerus"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 14
 },
 {
 "subject": "Orthopedics",
@@ -772,7 +880,10 @@
 "fracture",
 "supracondylar",
 "anterior-interosseous-nerve"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Orthopedics",
@@ -793,7 +904,10 @@
 "fracture",
 "Salter-Harris",
 "pediatric"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Orthopedics",
@@ -814,7 +928,10 @@
 "bone-tumor",
 "osteosarcoma",
 "Codman-triangle"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Orthopedics",
@@ -835,7 +952,10 @@
 "bone-tumor",
 "giant-cell-tumor",
 "epiphysis"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Orthopedics",
@@ -856,7 +976,10 @@
 "bone-tumor",
 "osteoid-osteoma",
 "benign"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Orthopedics",
@@ -877,7 +1000,10 @@
 "osteomyelitis",
 "Staphylococcus",
 "infection"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Orthopedics",
@@ -898,7 +1024,10 @@
 "TB-spine",
 "Pott-disease",
 "osteomyelitis"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Orthopedics",
@@ -919,7 +1048,10 @@
 "compartment-syndrome",
 "fasciotomy",
 "trauma"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Orthopedics",
@@ -940,7 +1072,10 @@
 "DDH",
 "Ortolani",
 "Barlow"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Orthopedics",
@@ -961,7 +1096,10 @@
 "CTEV",
 "clubfoot",
 "Ponseti"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Orthopedics",
@@ -982,7 +1120,10 @@
 "implant",
 "DHS",
 "intertrochanteric"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Anaesthesia",
@@ -1003,7 +1144,10 @@
 "airway",
 "Mallampati",
 "intubation"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Anaesthesia",
@@ -1024,7 +1168,10 @@
 "LAST",
 "lipid-emulsion",
 "bupivacaine"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 8
 },
 {
 "subject": "Anaesthesia",
@@ -1045,7 +1192,10 @@
 "ASA",
 "grading",
 "preoperative"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Anaesthesia",
@@ -1066,7 +1216,10 @@
 "inhalational",
 "MAC",
 "potency"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Anaesthesia",
@@ -1087,7 +1240,10 @@
 "IV-induction",
 "etomidate",
 "hemodynamics"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Anaesthesia",
@@ -1108,7 +1264,10 @@
 "muscle-relaxant",
 "sugammadex",
 "reversal"
-]
+],
+"year_est": "2021",
+"is_repeat": true,
+"repeat_count": 5
 },
 {
 "subject": "Anaesthesia",
@@ -1129,7 +1288,10 @@
 "spinal-anaesthesia",
 "epidural",
 "lumbar-puncture"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Anaesthesia",
@@ -1150,7 +1312,10 @@
 "malignant-hyperthermia",
 "dantrolene",
 "succinylcholine"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Radiology",
@@ -1171,7 +1336,10 @@
 "ultrasound",
 "intussusception",
 "target-sign"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Radiology",
@@ -1192,7 +1360,10 @@
 "CT",
 "stroke",
 "modality-of-choice"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Radiology",
@@ -1213,7 +1384,10 @@
 "barium",
 "achalasia",
 "contrast"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Radiology",
@@ -1234,7 +1408,10 @@
 "CT",
 "volvulus",
 "whirl-sign"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Radiology",
@@ -1255,7 +1432,10 @@
 "radiation-safety",
 "ALARA",
 "protection"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Radiology",
@@ -1276,7 +1456,10 @@
 "MRI",
 "cord-compression",
 "modality-of-choice"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Radiology",
@@ -1297,7 +1480,10 @@
 "interventional",
 "Seldinger",
 "vascular-access"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Radiology",
@@ -1318,6 +1504,9 @@
 "chest-radiograph",
 "diaphragmatic-hernia",
 "neonatal"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 }
 ]

@@ -131,9 +131,13 @@ export default function MockRunner({
         <div>
           <div className="card p-5 sm:p-6 animate-fadeUp" key={q.id}>
             <div className="flex items-center justify-between mb-3">
-              <div className="flex items-center gap-2">
+              <div className="flex flex-wrap items-center gap-2">
                 <span className="chip bg-slate-900 text-white">Q{current + 1}</span>
                 <SubjectChip subject={q.subject} />
+                {(q as any).source === 'prev-year' && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-emerald-100 text-emerald-700">Real Paper</span>}
+                {(q as any).source === 'pred-2026' && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-violet-100 text-violet-700">Predicted 2026</span>}
+                {(q as any).source === 'gap-fill' && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-slate-100 text-slate-500">Gap Fill</span>}
+                {(q as any).is_repeat && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-amber-100 text-amber-700">Repeat ×{(q as any).repeat_count}</span>}
               </div>
               <button onClick={toggleFlag}
                 className={`btn-ghost !px-3 !py-2 ${flagged.has(current) ? '!text-amber-600 !border-amber-300 bg-amber-50' : ''}`}>

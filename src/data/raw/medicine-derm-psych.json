@@ -18,7 +18,10 @@
 "cardiology",
 "ECG",
 "MI"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Medicine",
@@ -39,7 +42,10 @@
 "cardiology",
 "ECG",
 "STEMI"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Medicine",
@@ -60,7 +66,10 @@
 "cardiology",
 "heart failure",
 "SGLT2"
-]
+],
+"year_est": "2023",
+"is_repeat": false,
+"repeat_count": 2
 },
 {
 "subject": "Medicine",
@@ -81,7 +90,10 @@
 "cardiology",
 "arrhythmia",
 "AF"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Medicine",
@@ -102,7 +114,10 @@
 "cardiology",
 "AF",
 "anticoagulation"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 8
 },
 {
 "subject": "Medicine",
@@ -123,7 +138,10 @@
 "cardiology",
 "endocarditis",
 "Duke"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Medicine",
@@ -144,7 +162,10 @@
 "rheumatology",
 "rheumatic fever",
 "Jones"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Medicine",
@@ -165,7 +186,10 @@
 "cardiology",
 "hypertension",
 "emergency"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Medicine",
@@ -186,7 +210,10 @@
 "endocrine",
 "DKA",
 "emergency"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Medicine",
@@ -207,7 +234,10 @@
 "endocrine",
 "thyroid",
 "Graves"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Medicine",
@@ -228,7 +258,10 @@
 "endocrine",
 "thyroid storm",
 "emergency"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Medicine",
@@ -249,7 +282,10 @@
 "infectious disease",
 "TB",
 "DOTS"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Medicine",
@@ -270,7 +306,10 @@
 "infectious disease",
 "TB",
 "ethambutol"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Medicine",
@@ -291,7 +330,10 @@
 "infectious disease",
 "HIV",
 "prophylaxis"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Medicine",
@@ -312,7 +354,10 @@
 "infectious disease",
 "malaria",
 "falciparum"
-]
+],
+"year_est": "multi",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Medicine",
@@ -333,7 +378,10 @@
 "infectious disease",
 "dengue",
 "shock"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Medicine",
@@ -354,7 +402,10 @@
 "infectious disease",
 "typhoid",
 "blood culture"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Medicine",
@@ -375,7 +426,10 @@
 "infectious disease",
 "leptospirosis",
 "Weil"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Medicine",
@@ -396,7 +450,10 @@
 "nephrology",
 "AKI",
 "KDIGO"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 8
 },
 {
 "subject": "Medicine",
@@ -417,7 +474,10 @@
 "nephrology",
 "CKD",
 "eGFR"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Medicine",
@@ -438,7 +498,10 @@
 "nephrology",
 "nephrotic",
 "MCD"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Medicine",
@@ -459,7 +522,10 @@
 "hepatology",
 "hepatitis B",
 "serology"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Medicine",
@@ -480,7 +546,10 @@
 "hepatology",
 "cirrhosis",
 "Child-Pugh"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Medicine",
@@ -501,7 +570,10 @@
 "rheumatology",
 "SLE",
 "autoantibody"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Medicine",
@@ -522,7 +594,10 @@
 "respiratory",
 "pneumonia",
 "CURB-65"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Medicine",
@@ -543,7 +618,10 @@
 "respiratory",
 "COPD",
 "GOLD"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Medicine",
@@ -564,7 +642,10 @@
 "respiratory",
 "asthma",
 "ABG"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Medicine",
@@ -585,7 +666,10 @@
 "hematology",
 "anemia",
 "iron"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Medicine",
@@ -606,7 +690,10 @@
 "hematology",
 "anemia",
 "B12"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Medicine",
@@ -627,7 +714,10 @@
 "hematology",
 "leukemia",
 "APML"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Medicine",
@@ -648,7 +738,10 @@
 "neurology",
 "stroke",
 "thrombolysis"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Medicine",
@@ -669,7 +762,10 @@
 "neurology",
 "seizure",
 "status epilepticus"
-]
+],
+"year_est": "multi",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Medicine",
@@ -690,7 +786,10 @@
 "neurology",
 "GBS",
 "IVIG"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Medicine",
@@ -711,7 +810,10 @@
 "neurology",
 "myasthenia",
 "antibody"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Medicine",
@@ -732,7 +834,10 @@
 "cardiology",
 "valve",
 "murmur"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Medicine",
@@ -753,7 +858,10 @@
 "cardiology",
 "hyperkalemia",
 "ECG"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Medicine",
@@ -774,7 +882,10 @@
 "infectious disease",
 "meningitis",
 "CSF"
-]
+],
+"year_est": "multi",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Medicine",
@@ -795,7 +906,10 @@
 "cardiology",
 "pericarditis",
 "ECG"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Medicine",
@@ -816,7 +930,10 @@
 "respiratory",
 "PE",
 "CTPA"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Medicine",
@@ -837,7 +954,10 @@
 "endocrine",
 "diabetes",
 "SGLT2"
-]
+],
+"year_est": "2022",
+"is_repeat": false,
+"repeat_count": 3
 },
 {
 "subject": "Medicine",
@@ -858,7 +978,10 @@
 "infectious disease",
 "tetanus",
 "immunoglobulin"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Medicine",
@@ -879,7 +1002,10 @@
 "neurology",
 "Parkinson",
 "levodopa"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Medicine",
@@ -900,7 +1026,10 @@
 "cardiology",
 "aortic dissection",
 "surgery"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Medicine",
@@ -921,7 +1050,10 @@
 "infectious disease",
 "scrub typhus",
 "doxycycline"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 9
 },
 {
 "subject": "Medicine",
@@ -942,7 +1074,10 @@
 "cardiology",
 "statin",
 "prevention"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Dermatology",
@@ -963,7 +1098,10 @@
 "dermatology",
 "pemphigus",
 "Nikolsky"
-]
+],
+"year_est": "multi",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Dermatology",
@@ -984,7 +1122,10 @@
 "dermatology",
 "pemphigoid",
 "immunofluorescence"
-]
+],
+"year_est": "multi",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Dermatology",
@@ -1005,7 +1146,10 @@
 "dermatology",
 "dermatitis herpetiformis",
 "dapsone"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Dermatology",
@@ -1026,7 +1170,10 @@
 "dermatology",
 "psoriasis",
 "Auspitz"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Dermatology",
@@ -1047,7 +1194,10 @@
 "dermatology",
 "leprosy",
 "Ridley-Jopling"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Dermatology",
@@ -1068,7 +1218,10 @@
 "dermatology",
 "leprosy",
 "ENL"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Dermatology",
@@ -1089,7 +1242,10 @@
 "dermatology",
 "STD",
 "syphilis"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Dermatology",
@@ -1110,7 +1266,10 @@
 "dermatology",
 "STD",
 "chancroid"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Dermatology",
@@ -1131,7 +1290,10 @@
 "dermatology",
 "pityriasis rosea",
 "herald patch"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Dermatology",
@@ -1152,7 +1314,10 @@
 "dermatology",
 "SJS",
 "drug reaction"
-]
+],
+"year_est": "multi",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Psychiatry",
@@ -1173,7 +1338,10 @@
 "psychiatry",
 "NMS",
 "antipsychotic"
-]
+],
+"year_est": "multi",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Psychiatry",
@@ -1194,7 +1362,10 @@
 "psychiatry",
 "dystonia",
 "EPS"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Psychiatry",
@@ -1215,7 +1386,10 @@
 "psychiatry",
 "serotonin syndrome",
 "cyproheptadine"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Psychiatry",
@@ -1236,7 +1410,10 @@
 "psychiatry",
 "depression",
 "SSRI"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Psychiatry",
@@ -1257,7 +1434,10 @@
 "psychiatry",
 "bipolar",
 "lithium"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 13
 },
 {
 "subject": "Psychiatry",
@@ -1278,7 +1458,10 @@
 "psychiatry",
 "OCD",
 "SSRI"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 11
 },
 {
 "subject": "Psychiatry",
@@ -1299,7 +1482,10 @@
 "psychiatry",
 "alcohol withdrawal",
 "benzodiazepine"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Psychiatry",
@@ -1320,7 +1506,10 @@
 "psychiatry",
 "opioid",
 "naloxone"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 12
 },
 {
 "subject": "Psychiatry",
@@ -1341,7 +1530,10 @@
 "psychiatry",
 "panic disorder",
 "SSRI"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 },
 {
 "subject": "Psychiatry",
@@ -1362,6 +1554,9 @@
 "psychiatry",
 "lithium toxicity",
 "hemodialysis"
-]
+],
+"year_est": "evergreen",
+"is_repeat": true,
+"repeat_count": 10
 }
 ]

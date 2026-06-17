@@ -151,6 +151,16 @@ const sources = [
   { name: '2026-specialty', load: () => loadJson('src/data/raw/2026-pred-specialty.json') },
 ];
 
+function deriveSource(name) {
+  if (name.startsWith('2026-')) return 'pred-2026';
+  if (name.startsWith('mock1-') || name.endsWith('-deep-fill') ||
+      name.includes('fringe') || name.includes('frontier') ||
+      name.includes('rare-tox') || name === 'bns-forensic-v2' ||
+      name === 'medicine-gaps' || name.endsWith('-image-style') ||
+      name === 'neet-2025-style-mimic') return 'gap-fill';
+  return 'prev-year';
+}
+
 const all = [];
 const report = [];
 let dropped = 0;
@@ -174,6 +184,7 @@ for (const src of sources) {
     const key = q.stem.trim().toLowerCase().slice(0, 80);
     if (seenStems.has(key)) { dropped++; continue; }
     seenStems.add(key);
+    const srcSource = deriveSource(src.name);
     all.push({
       id: 'q' + String(all.length + 1).padStart(4, '0'),
       subject,
@@ -186,6 +197,10 @@ for (const src of sources) {
       highYield: (q.highYield || '').trim(),
       pyqNote: (q.pyqNote || '').trim(),
       tags: Array.isArray(q.tags) ? q.tags : [],
+      source: q.source || srcSource,
+      year_est: q.year_est || (srcSource !== 'prev-year' ? srcSource : 'evergreen'),
+      is_repeat: q.is_repeat ?? false,
+      repeat_count: q.repeat_count || 0,
     });
     kept++;
   }

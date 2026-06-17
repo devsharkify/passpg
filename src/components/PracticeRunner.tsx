@@ -106,6 +106,10 @@ export default function PracticeRunner({
           <SubjectChip subject={q.subject} />
           <DifficultyBadge d={q.difficulty} />
           <span className="chip bg-slate-100 text-slate-500">{q.topic}</span>
+          {(q as any).source === 'prev-year' && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-emerald-100 text-emerald-700">Real Paper</span>}
+          {(q as any).source === 'pred-2026' && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-violet-100 text-violet-700">Predicted 2026</span>}
+          {(q as any).source === 'gap-fill' && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-slate-100 text-slate-500">Gap Fill</span>}
+          {(q as any).is_repeat && <span className="text-[10px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wide bg-amber-100 text-amber-700">Repeat ×{(q as any).repeat_count}</span>}
         </div>
         <p className="text-lg font-semibold text-ink leading-relaxed">{q.stem}</p>
 
