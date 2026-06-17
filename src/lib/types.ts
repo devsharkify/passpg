@@ -12,6 +12,10 @@ export interface Question {
   highYield: string;
   pyqNote: string;
   tags: string[];
+  source?: 'prev-year' | 'gap-fill' | 'pred-2026';
+  year_est?: string;
+  is_repeat?: boolean;
+  repeat_count?: number;
 }
 
 export interface Card {

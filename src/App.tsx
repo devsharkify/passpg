@@ -6,6 +6,7 @@ import Practice from './pages/Practice';
 import Mock from './pages/Mock';
 import Revision from './pages/Revision';
 import Pattern from './pages/Pattern';
+import Prediction from './pages/Prediction';
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -24,6 +25,7 @@ export default function App() {
           <Route path="/mock" element={<Mock />} />
           <Route path="/revision" element={<Revision />} />
           <Route path="/pattern" element={<Pattern />} />
+          <Route path="/prediction" element={<Prediction />} />
           <Route path="*" element={<Dashboard />} />
         </Routes>
       </Layout>
