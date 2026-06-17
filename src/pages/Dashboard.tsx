@@ -1,7 +1,7 @@
-import { useMemo, useState } from 'react';
+import { useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { QUESTIONS, SUBJECTS, TOTAL_QUESTIONS, META, CARDS } from '../lib/data';
-import { computeStats, getBookmarks, getMocks, getSettings, setSettings } from '../lib/storage';
+import { computeStats, getBookmarks, getMocks } from '../lib/storage';
 import { Icon, Ring, ProgressBar, SubjectChip } from '../components/ui';
 
 const qSubject: Record<string, string> = Object.fromEntries(QUESTIONS.map((q) => [q.id, q.subject]));
@@ -11,9 +11,8 @@ export default function Dashboard() {
   const stats = useMemo(() => computeStats(qSubject), []);
   const bookmarks = getBookmarks();
   const mocks = getMocks();
-  const [examDate, setExamDate] = useState(getSettings().examDate);
-
-  const daysLeft = examDate ? Math.ceil((new Date(examDate).getTime() - Date.now()) / 86400000) : null;
+  const examDate = '2026-08-30';
+  const daysLeft = Math.ceil((new Date(examDate).getTime() - Date.now()) / 86400000);
 
   // weakest attempted subjects (need >=3 attempts to rank)
   const weak = Object.entries(stats.bySubject)
@@ -71,21 +70,13 @@ export default function Dashboard() {
             <div className="flex items-center justify-between gap-4 flex-wrap">
               <div>
                 <h2 className="font-bold text-ink flex items-center gap-2"><Icon name="target" className="w-5 h-5 text-brand-600" /> Your exam countdown</h2>
-                <p className="text-sm text-slate-500 mt-1">Set your NEET PG date to pace your prep.</p>
+                <p className="text-sm text-slate-500 mt-1">NEET PG 2026 — August 30, 2026</p>
               </div>
               <div className="text-right">
-                {daysLeft !== null && daysLeft >= 0 ? (
-                  <><div className="text-4xl font-extrabold text-brand-700 tabular-nums">{daysLeft}</div><div className="label-faint">days to go</div></>
-                ) : daysLeft !== null ? (
-                  <div className="text-sm font-semibold text-rose-600">Date is in the past</div>
-                ) : (
-                  <div className="text-sm text-slate-400">Not set</div>
-                )}
+                <div className="text-4xl font-extrabold text-brand-700 tabular-nums">{daysLeft}</div>
+                <div className="label-faint">days to go</div>
               </div>
             </div>
-            <input type="date" value={examDate}
-              onChange={(e) => { setExamDate(e.target.value); setSettings({ examDate: e.target.value }); }}
-              className="mt-4 rounded-xl border border-slate-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-brand-400" />
           </section>
 
           {/* weak areas */}
