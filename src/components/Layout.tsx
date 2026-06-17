@@ -5,12 +5,12 @@ import { Icon } from './ui';
 const NAV = [
   { to: '/', label: 'Dashboard', icon: 'home' as const, end: true },
   { to: '/practice', label: 'Practice', icon: 'cards' as const },
-  { to: '/mock', label: 'Mock Tests', icon: 'test' as const },
-  { to: '/prediction', label: '2026 Predictions', icon: 'spark' as const },
-  { to: '/repeat-assault', label: 'Repeat Assault', icon: 'target' as const },
-  { to: '/blitz', label: 'PSM Blitz', icon: 'spark' as const },
-  { to: '/revision', label: 'Rapid Revision', icon: 'book' as const },
-  { to: '/pattern', label: 'Exam Pattern', icon: 'chart' as const },
+  { to: '/mock', label: 'Mocks', icon: 'test' as const },
+  { to: '/prediction', label: 'Predictions', icon: 'spark' as const },
+  { to: '/repeat-assault', label: 'Repeats', icon: 'target' as const },
+  { to: '/blitz', label: 'Blitz', icon: 'spark' as const },
+  { to: '/revision', label: 'Revision', icon: 'book' as const },
+  { to: '/pattern', label: 'Pattern', icon: 'chart' as const },
 ];
 
 function Brand() {
@@ -37,12 +37,12 @@ export default function Layout({ children }: { children: ReactNode }) {
             {NAV.map((n) => (
               <NavLink key={n.to} to={n.to} end={n.end}
                 className={({ isActive }) =>
-                  `flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-semibold whitespace-nowrap transition ${
+                  `flex items-center gap-1.5 px-2 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition ${
                     isActive ? 'bg-brand-50 text-brand-700' : 'text-slate-500 hover:text-ink hover:bg-slate-100'
                   }`
                 }>
-                <Icon name={n.icon} className="w-[18px] h-[18px]" />
-                <span className="hidden sm:inline">{n.label}</span>
+                <Icon name={n.icon} className="w-4 h-4 shrink-0" />
+                <span>{n.label}</span>
               </NavLink>
             ))}
           </nav>
